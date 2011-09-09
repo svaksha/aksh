@@ -16,3 +16,13 @@
 - Similarity matrix, https://secure.wikimedia.org/wikipedia/en/wiki/Similarity_matrix
 - Reactome, https://secure.wikimedia.org/wikipedia/en/wiki/Reactome
 
+
+# Genomics
+- https://en.wikipedia.org/wiki/Structural_biology
+- Genomics, http://en.wikipedia.org/wiki/Category:Genomics
+- Molecular medicine, http://en.wikipedia.org/wiki/Molecular_medicine
+- Computational biology, http://en.wikipedia.org/wiki/Computational_biology
+- Functional genomics, http://en.wikipedia.org/wiki/Functional_genomics
+- Structural Genomics, http://en.wikipedia.org/wiki/Structural_genomics
+- Public health genomics, http://en.wikipedia.org/wiki/Public_health_genomics
+
