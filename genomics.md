@@ -8,7 +8,6 @@
 - Significance analysis of microarrays: http://en.wikipedia.org/wiki/Significance_analysis_of_microarrays
 - Gene Ontology: http://en.wikipedia.org/wiki/Gene_Ontology
 - Gene expression profiling, http://en.wikipedia.org/wiki/Gene_expression_profiling
-- The [yeast "Saccharomyces cerevisiae"](https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_cerevisiae) was the first eukaryotic genome that was completely sequenced.
 - DNA=Deoxyribonucleic acid, http://en.wikipedia.org/wiki/DNA
 - DNA mutations and changes, http://www.genetichealth.com/g101_changes_in_dna.shtml
 - Variomes | http://en.wikipedia.org/wiki/Variome
@@ -25,4 +24,7 @@
 - Functional genomics, http://en.wikipedia.org/wiki/Functional_genomics
 - Structural Genomics, http://en.wikipedia.org/wiki/Structural_genomics
 - Public health genomics, http://en.wikipedia.org/wiki/Public_health_genomics
+- OSDD - open source drug discovery | http://www.osdd.org/
+- Saccharomyces Genome Database, https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database
+- The [yeast "Saccharomyces cerevisiae"](https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_cerevisiae) was the first eukaryotic genome that was completely sequenced.
 
