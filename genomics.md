@@ -24,7 +24,5 @@
 - Functional genomics, http://en.wikipedia.org/wiki/Functional_genomics
 - Structural Genomics, http://en.wikipedia.org/wiki/Structural_genomics
 - Public health genomics, http://en.wikipedia.org/wiki/Public_health_genomics
-- OSDD - open source drug discovery | http://www.osdd.org/
-- Saccharomyces Genome Database, https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database
 - The [yeast "Saccharomyces cerevisiae"](https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_cerevisiae) was the first eukaryotic genome that was completely sequenced.
 

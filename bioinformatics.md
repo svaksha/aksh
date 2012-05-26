@@ -17,6 +17,8 @@
 # BIOSTATISTICS
 * https://en.wikipedia.org/wiki/Biostatistics
 * https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology
+* https://en.wikipedia.org/wiki/BBGKY_hierarchy
+* [HN thread on Bayesian Statistics](https://news.ycombinator.com/item?id=4030061) and the article: [Understand the Math Behind it All: Bayesian Statistics](http://blogs.adobe.com/digitalmarketing/personalization/conversion-optimization/understand-the-math-behind-it-all-bayesian-statistics/)
 
 ----
 
