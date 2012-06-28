@@ -14,6 +14,7 @@
 - Signaling pathway, https://secure.wikimedia.org/wikipedia/en/wiki/Signaling_pathway
 - Similarity matrix, https://secure.wikimedia.org/wikipedia/en/wiki/Similarity_matrix
 - Reactome, https://secure.wikimedia.org/wikipedia/en/wiki/Reactome
+- https://en.wikipedia.org/wiki/Locus_%28genetics%29
 
 
 # Genomics
