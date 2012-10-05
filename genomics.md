@@ -23,7 +23,10 @@
 - Gene prediction, http://en.wikipedia.org/wiki/Gene_prediction
 - List of A1 genes, proteins or receptors: http://en.wikipedia.org/wiki/List_of_A1_genes,_proteins_or_receptors
 - List of human genes: http://en.wikipedia.org/wiki/List_of_human_genes
+
+### Genome projects
 * Genome project :: http://en.wikipedia.org/wiki/Genome_project
+* Chimpanzee Genome Project :: http://en.wikipedia.org/wiki/Chimpanzee_Genome_Project
 
 ## Phylogenomics
 * http://en.wikipedia.org/wiki/Chromosome
