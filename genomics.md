@@ -30,6 +30,7 @@
 * Human Genome Project :: http://en.wikipedia.org/wiki/Human_genome_project
 * Palaeo-Eskimo an ancient-human :: http://en.wikipedia.org/wiki/Palaeo-Eskimo
 * Neanderthal genome project :: http://en.wikipedia.org/wiki/Neanderthal_genome_project
+* Nuclear DNA :: http://en.wikipedia.org/wiki/Nuclear_DNA
 
 ## Phylogenomics
 * http://en.wikipedia.org/wiki/Chromosome
