@@ -28,15 +28,19 @@
 * Genome project :: http://en.wikipedia.org/wiki/Genome_project
 * Chimpanzee Genome Project :: http://en.wikipedia.org/wiki/Chimpanzee_Genome_Project
 * Human Genome Project :: http://en.wikipedia.org/wiki/Human_genome_project
-* Palaeo-Eskimo an ancient-human :: http://en.wikipedia.org/wiki/Palaeo-Eskimo
 * Neanderthal genome project :: http://en.wikipedia.org/wiki/Neanderthal_genome_project
-* Nuclear DNA :: http://en.wikipedia.org/wiki/Nuclear_DNA
 
-## Phylogenomics
+
+### Phylogenomics
 * http://en.wikipedia.org/wiki/Chromosome
 * Signaling pathway, https://secure.wikimedia.org/wikipedia/en/wiki/Signaling_pathway
 * Similarity matrix, https://secure.wikimedia.org/wikipedia/en/wiki/Similarity_matrix
 * https://en.wikipedia.org/wiki/Locus_%28genetics%29
+
+### DNA-RNA
+* Mitochondrial DNA :: http://en.wikipedia.org/wiki/Mitochondrial_DNA
+* Palaeo-Eskimo an ancient-human :: http://en.wikipedia.org/wiki/Palaeo-Eskimo
+* Nuclear DNA :: http://en.wikipedia.org/wiki/Nuclear_DNA
 
 
 
