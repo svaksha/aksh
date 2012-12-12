@@ -41,6 +41,6 @@
 * Mitochondrial DNA :: http://en.wikipedia.org/wiki/Mitochondrial_DNA
 * Palaeo-Eskimo an ancient-human :: http://en.wikipedia.org/wiki/Palaeo-Eskimo
 * Nuclear DNA :: http://en.wikipedia.org/wiki/Nuclear_DNA
-
+* Denisova hominin's mtDNA :: http://en.wikipedia.org/wiki/Denisova_hominin
 
 
