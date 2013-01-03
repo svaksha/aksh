@@ -36,11 +36,13 @@
 * Signaling pathway, https://secure.wikimedia.org/wikipedia/en/wiki/Signaling_pathway
 * Similarity matrix, https://secure.wikimedia.org/wikipedia/en/wiki/Similarity_matrix
 * https://en.wikipedia.org/wiki/Locus_%28genetics%29
+* http://en.wikipedia.org/wiki/Phylogenetic
 
-### DNA-RNA
+##### DNA-RNA
 * Mitochondrial DNA :: http://en.wikipedia.org/wiki/Mitochondrial_DNA
 * Palaeo-Eskimo an ancient-human :: http://en.wikipedia.org/wiki/Palaeo-Eskimo
 * Nuclear DNA :: http://en.wikipedia.org/wiki/Nuclear_DNA
 * Denisova hominin's mtDNA :: http://en.wikipedia.org/wiki/Denisova_hominin
+* http://en.wikipedia.org/wiki/MtDNA 
 
 
