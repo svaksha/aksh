@@ -8,9 +8,6 @@
 - DNA mutations and changes, http://www.genetichealth.com/g101_changes_in_dna.shtml
 - Variomes | http://en.wikipedia.org/wiki/Variome
 - Reactome, https://secure.wikimedia.org/wikipedia/en/wiki/Reactome
-
-
-# Genomics
 - https://en.wikipedia.org/wiki/Structural_biology
 - Genomics, http://en.wikipedia.org/wiki/Category:Genomics
 - Molecular medicine, http://en.wikipedia.org/wiki/Molecular_medicine
@@ -24,25 +21,25 @@
 - List of A1 genes, proteins or receptors: http://en.wikipedia.org/wiki/List_of_A1_genes,_proteins_or_receptors
 - List of human genes: http://en.wikipedia.org/wiki/List_of_human_genes
 
-### Genome projects
+# Genome projects
 * Genome project :: http://en.wikipedia.org/wiki/Genome_project
 * Chimpanzee Genome Project :: http://en.wikipedia.org/wiki/Chimpanzee_Genome_Project
 * Human Genome Project :: http://en.wikipedia.org/wiki/Human_genome_project
 * Neanderthal genome project :: http://en.wikipedia.org/wiki/Neanderthal_genome_project
 
 
-### Phylogenomics
+# Phylogenomics
 * http://en.wikipedia.org/wiki/Chromosome
 * Signaling pathway, https://secure.wikimedia.org/wikipedia/en/wiki/Signaling_pathway
 * Similarity matrix, https://secure.wikimedia.org/wikipedia/en/wiki/Similarity_matrix
 * https://en.wikipedia.org/wiki/Locus_%28genetics%29
 * http://en.wikipedia.org/wiki/Phylogenetic
 
-##### DNA-RNA
+### DNA-RNA
 * Mitochondrial DNA :: http://en.wikipedia.org/wiki/Mitochondrial_DNA
 * Palaeo-Eskimo an ancient-human :: http://en.wikipedia.org/wiki/Palaeo-Eskimo
 * Nuclear DNA :: http://en.wikipedia.org/wiki/Nuclear_DNA
 * Denisova hominin's mtDNA :: http://en.wikipedia.org/wiki/Denisova_hominin
 * http://en.wikipedia.org/wiki/MtDNA 
-
+* Ancient DNA :: http://en.wikipedia.org/wiki/Ancient_DNA
 
