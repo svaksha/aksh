@@ -1,6 +1,5 @@
 
 
-
 - Significance analysis of microarrays: http://en.wikipedia.org/wiki/Significance_analysis_of_microarrays
 - Gene Ontology: http://en.wikipedia.org/wiki/Gene_Ontology
 - Gene expression profiling, http://en.wikipedia.org/wiki/Gene_expression_profiling
@@ -21,12 +20,14 @@
 - List of A1 genes, proteins or receptors: http://en.wikipedia.org/wiki/List_of_A1_genes,_proteins_or_receptors
 - List of human genes: http://en.wikipedia.org/wiki/List_of_human_genes
 
+
 # Genome projects
 * Genome project :: http://en.wikipedia.org/wiki/Genome_project
 * Chimpanzee Genome Project :: http://en.wikipedia.org/wiki/Chimpanzee_Genome_Project
 * Human Genome Project :: http://en.wikipedia.org/wiki/Human_genome_project
 * Neanderthal genome project :: http://en.wikipedia.org/wiki/Neanderthal_genome_project
-
+   - http://en.wikipedia.org/wiki/Neanderthal_extinction_hypotheses
+   
 
 # Phylogenomics
 * http://en.wikipedia.org/wiki/Chromosome
