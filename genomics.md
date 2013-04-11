@@ -20,7 +20,7 @@
 * Gene flow, http://en.wikipedia.org/wiki/Gene_flow
 * List of A1 genes, proteins or receptors: http://en.wikipedia.org/wiki/List_of_A1_genes,_proteins_or_receptors
 * List of human genes: http://en.wikipedia.org/wiki/List_of_human_genes
-
+* Gene fusion :: http://en.wikipedia.org/wiki/Gene_fusion
 
 # Genome projects
 * Genome project :: http://en.wikipedia.org/wiki/Genome_project
