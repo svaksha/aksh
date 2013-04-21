@@ -38,7 +38,7 @@
 * http://en.wikipedia.org/wiki/Phylogenetic
 
 ### DNA-RNA
-* [RNA Sequencing](http://en.wikipedia.org/wiki/RNA-Seq) {"Whole Transcriptome Shotgun Sequencing"("WTSS")}
+**DNA**
 * Mitochondrial DNA :: http://en.wikipedia.org/wiki/Mitochondrial_DNA
 * Palaeo-Eskimo, an ancient-human :: http://en.wikipedia.org/wiki/Palaeo-Eskimo
 * Nuclear DNA :: http://en.wikipedia.org/wiki/Nuclear_DNA
@@ -46,4 +46,6 @@
 * http://en.wikipedia.org/wiki/MtDNA 
 * Ancient DNA :: http://en.wikipedia.org/wiki/Ancient_DNA
 * Alternative splicing :: http://en.wikipedia.org/wiki/Alternative_splicing
-
+**RNA**
+* [RNA Sequencing](http://en.wikipedia.org/wiki/RNA-Seq) {"Whole Transcriptome Shotgun Sequencing"("WTSS")}
+* De novo transcriptome assembly :: http://en.wikipedia.org/wiki/De_novo_transcriptome_assembly
