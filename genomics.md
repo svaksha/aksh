@@ -21,6 +21,8 @@
 * List of A1 genes, proteins or receptors: http://en.wikipedia.org/wiki/List_of_A1_genes,_proteins_or_receptors
 * List of human genes: http://en.wikipedia.org/wiki/List_of_human_genes
 * Gene fusion :: http://en.wikipedia.org/wiki/Gene_fusion
+* Contig :: http://en.wikipedia.org/wiki/Contig
+
 
 # Genome projects
 * Genome project :: http://en.wikipedia.org/wiki/Genome_project
@@ -49,3 +51,4 @@
 **RNA**
 * [RNA Sequencing](http://en.wikipedia.org/wiki/RNA-Seq) {"Whole Transcriptome Shotgun Sequencing"("WTSS")}
 * De novo transcriptome assembly :: http://en.wikipedia.org/wiki/De_novo_transcriptome_assembly
+
