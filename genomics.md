@@ -51,4 +51,5 @@
 **RNA**
 * [RNA Sequencing](http://en.wikipedia.org/wiki/RNA-Seq) {"Whole Transcriptome Shotgun Sequencing"("WTSS")}
 * De novo transcriptome assembly :: http://en.wikipedia.org/wiki/De_novo_transcriptome_assembly
-
+* Sanger sequencing :: http://en.wikipedia.org/wiki/Sequencing#Sanger_sequencing
+* K-mer :: http://en.wikipedia.org/wiki/K-mer
