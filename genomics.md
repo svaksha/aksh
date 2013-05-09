@@ -2,6 +2,8 @@
 
 - Significance analysis of microarrays: http://en.wikipedia.org/wiki/Significance_analysis_of_microarrays
 - Gene Ontology: http://en.wikipedia.org/wiki/Gene_Ontology
+* Contig :: http://en.wikipedia.org/wiki/Contig
+* ORF :: http://en.wikipedia.org/wiki/Open_reading_frames
 - Gene expression profiling, http://en.wikipedia.org/wiki/Gene_expression_profiling
 - DNA=Deoxyribonucleic acid, http://en.wikipedia.org/wiki/DNA
 - DNA mutations and changes, http://www.genetichealth.com/g101_changes_in_dna.shtml
@@ -21,7 +23,6 @@
 * List of A1 genes, proteins or receptors: http://en.wikipedia.org/wiki/List_of_A1_genes,_proteins_or_receptors
 * List of human genes: http://en.wikipedia.org/wiki/List_of_human_genes
 * Gene fusion :: http://en.wikipedia.org/wiki/Gene_fusion
-* Contig :: http://en.wikipedia.org/wiki/Contig
 
 
 # Genome projects
