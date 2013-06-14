@@ -55,3 +55,4 @@
 * Sanger sequencing :: http://en.wikipedia.org/wiki/Sequencing#Sanger_sequencing
 * K-mer :: http://en.wikipedia.org/wiki/K-mer
 * Human-transcriptome database for alternative splicing :: http://en.wikipedia.org/wiki/Human-transcriptome_database_for_alternative_splicing
+* Exome sequencing :: http://en.wikipedia.org/wiki/Exome_sequencing
