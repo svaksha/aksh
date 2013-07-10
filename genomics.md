@@ -32,6 +32,7 @@
 * Neanderthal genome project :: http://en.wikipedia.org/wiki/Neanderthal_genome_project
    - http://en.wikipedia.org/wiki/Neanderthal_extinction_hypotheses
    - http://en.wikipedia.org/wiki/Archaic_human_admixture_with_modern_humans   
+* Human microbiome project :: http://en.wikipedia.org/wiki/Human_microbiome_project
 
 # Phylogenomics
 * http://en.wikipedia.org/wiki/Chromosome
