@@ -60,4 +60,4 @@
 * Exome sequencing :: http://en.wikipedia.org/wiki/Exome_sequencing
 * Biomarker :: http://en.wikipedia.org/wiki/Biomarker
 * Proteome :: http://en.wikipedia.org/wiki/Proteome
-
+* Ribosome :: http://en.wikipedia.org/wiki/Ribosome
