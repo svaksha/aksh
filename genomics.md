@@ -1,5 +1,10 @@
 
 
+* http://en.wikipedia.org/wiki/List_of_omics_topics_in_biology
+* Cat-Genomics :: http://en.wikipedia.org/wiki/Category:Genomics
+
+----
+
 - Significance analysis of microarrays: http://en.wikipedia.org/wiki/Significance_analysis_of_microarrays
 - Gene Ontology: http://en.wikipedia.org/wiki/Gene_Ontology
 * Contig :: http://en.wikipedia.org/wiki/Contig
@@ -10,7 +15,6 @@
 - Variomes | http://en.wikipedia.org/wiki/Variome
 - Reactome, https://secure.wikimedia.org/wikipedia/en/wiki/Reactome
 - https://en.wikipedia.org/wiki/Structural_biology
-- Genomics, http://en.wikipedia.org/wiki/Category:Genomics
 - Molecular medicine, http://en.wikipedia.org/wiki/Molecular_medicine
 - Computational biology, http://en.wikipedia.org/wiki/Computational_biology
 - Functional genomics, http://en.wikipedia.org/wiki/Functional_genomics
