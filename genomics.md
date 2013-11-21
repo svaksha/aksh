@@ -1,7 +1,7 @@
 
 
 * http://en.wikipedia.org/wiki/List_of_omics_topics_in_biology
-* Cat-Genomics :: http://en.wikipedia.org/wiki/Category:Genomics
+* CAT:Genomics :: http://en.wikipedia.org/wiki/Category:Genomics
 
 ----
 
@@ -28,6 +28,7 @@
 * List of human genes: http://en.wikipedia.org/wiki/List_of_human_genes
 * Gene fusion :: http://en.wikipedia.org/wiki/Gene_fusion
 * Metabolomics :: http://en.wikipedia.org/wiki/Metabolomics
+* Gene expression profiling :: http://en.wikipedia.org/wiki/Gene_expression_profiling
 
 # Genome projects
 * Genome project :: http://en.wikipedia.org/wiki/Genome_project
