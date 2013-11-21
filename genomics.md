@@ -29,6 +29,7 @@
 * Gene fusion :: http://en.wikipedia.org/wiki/Gene_fusion
 * Metabolomics :: http://en.wikipedia.org/wiki/Metabolomics
 * Gene expression profiling :: http://en.wikipedia.org/wiki/Gene_expression_profiling
+* [Weighted correlation (gene co-expression) network analysis](http://en.wikipedia.org/wiki/Weighted_correlation_network_analysis).
 
 # Genome projects
 * Genome project :: http://en.wikipedia.org/wiki/Genome_project
