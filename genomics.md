@@ -59,11 +59,12 @@
 **RNA**
 * [RNA Sequencing](http://en.wikipedia.org/wiki/RNA-Seq) {"Whole Transcriptome Shotgun Sequencing"("WTSS")}
 * De novo transcriptome assembly :: http://en.wikipedia.org/wiki/De_novo_transcriptome_assembly
-   - PAPER: [De novo transcriptome assembly with ABySS](http://bioinformatics.oxfordjournals.org/content/25/21/2872.long)
+   * PAPER: [De novo transcriptome assembly with ABySS](http://bioinformatics.oxfordjournals.org/content/25/21/2872.long)
 * Sanger sequencing :: http://en.wikipedia.org/wiki/Sequencing#Sanger_sequencing
 * K-mer :: http://en.wikipedia.org/wiki/K-mer
 * Human-transcriptome database for alternative splicing :: http://en.wikipedia.org/wiki/Human-transcriptome_database_for_alternative_splicing
-* Exome sequencing :: http://en.wikipedia.org/wiki/Exome_sequencing
+* Exome :: http://en.wikipedia.org/wiki/Exome
+   * Exome sequencing :: http://en.wikipedia.org/wiki/Exome_sequencing
 * Biomarker :: http://en.wikipedia.org/wiki/Biomarker
 * Proteome :: http://en.wikipedia.org/wiki/Proteome
 * Ribosome :: http://en.wikipedia.org/wiki/Ribosome
