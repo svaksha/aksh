@@ -71,3 +71,4 @@
 * Ribosome :: http://en.wikipedia.org/wiki/Ribosome
 * Non-coding RNA :: http://en.wikipedia.org/wiki/Non-coding_RNA
 * Mutation :: http://en.wikipedia.org/wiki/Mutation
+* Single gene disorder :: http://en.wikipedia.org/wiki/Genetic_disorder#Single_gene_disorder
