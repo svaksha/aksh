@@ -34,11 +34,12 @@
 # Genome projects
 * Genome project :: http://en.wikipedia.org/wiki/Genome_project
 * Chimpanzee Genome Project :: http://en.wikipedia.org/wiki/Chimpanzee_Genome_Project
-* Human Genome Project :: http://en.wikipedia.org/wiki/Human_genome_project
 * Neanderthal genome project :: http://en.wikipedia.org/wiki/Neanderthal_genome_project
    - http://en.wikipedia.org/wiki/Neanderthal_extinction_hypotheses
    - http://en.wikipedia.org/wiki/Archaic_human_admixture_with_modern_humans   
+* Human Genome Project :: http://en.wikipedia.org/wiki/Human_genome_project
 * Human microbiome project :: http://en.wikipedia.org/wiki/Human_microbiome_project
+* Personal Genome Project :: http://en.wikipedia.org/wiki/Personal_Genome_Project
 
 # Phylogenomics
 * http://en.wikipedia.org/wiki/Chromosome
