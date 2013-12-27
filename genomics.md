@@ -31,7 +31,7 @@
 * Gene expression profiling :: http://en.wikipedia.org/wiki/Gene_expression_profiling
 * [Weighted correlation (gene co-expression) network analysis](http://en.wikipedia.org/wiki/Weighted_correlation_network_analysis).
 
-# Genome projects
+# Genome project resources
 * Genome project :: http://en.wikipedia.org/wiki/Genome_project
 * Chimpanzee Genome Project :: http://en.wikipedia.org/wiki/Chimpanzee_Genome_Project
 * Neanderthal genome project :: http://en.wikipedia.org/wiki/Neanderthal_genome_project
@@ -40,6 +40,7 @@
 * Human Genome Project :: http://en.wikipedia.org/wiki/Human_genome_project
 * Human microbiome project :: http://en.wikipedia.org/wiki/Human_microbiome_project
 * Personal Genome Project :: http://en.wikipedia.org/wiki/Personal_Genome_Project
+* Resources from [NHLBI (National Heart, Lung, and Blood Institute)](http://www.nhlbi.nih.gov/research/resources/index.htm) at the NIH (National Institutes of Health).
 
 # Phylogenomics
 * http://en.wikipedia.org/wiki/Chromosome
