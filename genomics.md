@@ -58,6 +58,8 @@
 * http://en.wikipedia.org/wiki/MtDNA 
 * Ancient DNA :: http://en.wikipedia.org/wiki/Ancient_DNA
 * Alternative splicing :: http://en.wikipedia.org/wiki/Alternative_splicing
+* Single gene disorder :: http://en.wikipedia.org/wiki/Genetic_disorder#Single_gene_disorder
+
 **RNA**
 * [RNA Sequencing](http://en.wikipedia.org/wiki/RNA-Seq) {"Whole Transcriptome Shotgun Sequencing"("WTSS")}
 * De novo transcriptome assembly :: http://en.wikipedia.org/wiki/De_novo_transcriptome_assembly
@@ -71,8 +73,7 @@
 * Biomarker :: http://en.wikipedia.org/wiki/Biomarker
 * Proteome :: http://en.wikipedia.org/wiki/Proteome
 * Ribosome :: http://en.wikipedia.org/wiki/Ribosome
+* Mutation :: http://en.wikipedia.org/wiki/Mutation
 * Non-coding RNA :: http://en.wikipedia.org/wiki/Non-coding_RNA
    - snoRNA :: http://en.wikipedia.org/wiki/Small_nucleolar_RNA
-* Mutation :: http://en.wikipedia.org/wiki/Mutation
-* Single gene disorder :: http://en.wikipedia.org/wiki/Genetic_disorder#Single_gene_disorder
-
+   - miRNA :: http://en.wikipedia.org/wiki/MicroRNA
