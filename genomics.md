@@ -59,6 +59,7 @@
 * Ancient DNA :: http://en.wikipedia.org/wiki/Ancient_DNA
 * Alternative splicing :: http://en.wikipedia.org/wiki/Alternative_splicing
 * Single gene disorder :: http://en.wikipedia.org/wiki/Genetic_disorder#Single_gene_disorder
+* DNA polymerase :: http://en.wikipedia.org/wiki/DNA_polymerase
 
 **RNA**
 * [RNA Sequencing](http://en.wikipedia.org/wiki/RNA-Seq) {"Whole Transcriptome Shotgun Sequencing"("WTSS")}
