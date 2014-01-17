@@ -76,6 +76,7 @@
 * Ribosome :: http://en.wikipedia.org/wiki/Ribosome
 * Mutation :: http://en.wikipedia.org/wiki/Mutation
 * Watson-Crick [base pair](http://en.wikipedia.org/wiki/Base_pair)s (guanine-cytosine and adenine-thymine).
+* Transfer RNA :: http://en.wikipedia.org/wiki/Transfer_RNA
 * Non-coding RNA :: http://en.wikipedia.org/wiki/Non-coding_RNA
    - snoRNA :: http://en.wikipedia.org/wiki/Small_nucleolar_RNA
    - miRNA :: http://en.wikipedia.org/wiki/MicroRNA
