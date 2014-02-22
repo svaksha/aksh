@@ -82,3 +82,4 @@
    - miRNA :: http://en.wikipedia.org/wiki/MicroRNA
    - siRNA :: http://en.wikipedia.org/wiki/Small_interfering_RNA
    - snRNA :: http://en.wikipedia.org/wiki/Small_nuclear_RNA
+   - exRNA :: http://en.wikipedia.org/wiki/Extracellular_RNA
