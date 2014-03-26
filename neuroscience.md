@@ -6,9 +6,11 @@
 
 # Brain
 * Medulla oblongata :: http://en.wikipedia.org/wiki/Medulla_oblongata
+   * Anterior median fissure of the medulla oblongata :: http://en.wikipedia.org/wiki/Anterior_median_fissure_of_the_medulla_oblongata
 * Pons :: http://en.wikipedia.org/wiki/Pons
 * Cerebellum :: http://en.wikipedia.org/wiki/Cerebellum
 * White matter :: http://en.wikipedia.org/wiki/White_matter
+
 
 # Projects
 * BrainMaps project :: http://en.wikipedia.org/wiki/BrainMaps
