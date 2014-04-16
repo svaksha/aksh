@@ -73,6 +73,7 @@
    * Exome sequencing :: http://en.wikipedia.org/wiki/Exome_sequencing
 * Biomarker :: http://en.wikipedia.org/wiki/Biomarker
 * Proteome :: http://en.wikipedia.org/wiki/Proteome
+* Prokaryote :: http://en.wikipedia.org/wiki/Prokaryote
 * Ribosome :: http://en.wikipedia.org/wiki/Ribosome
 * Mutation :: http://en.wikipedia.org/wiki/Mutation
 * Watson-Crick [base pair](http://en.wikipedia.org/wiki/Base_pair)s (guanine-cytosine and adenine-thymine).
@@ -85,3 +86,4 @@
    - exRNA :: http://en.wikipedia.org/wiki/Extracellular_RNA
    - piRNA :: http://en.wikipedia.org/wiki/Piwi-interacting_RNA
    - long ncRNAs :: http://en.wikipedia.org/wiki/Long_non-coding_RNA
+   
