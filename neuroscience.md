@@ -12,6 +12,7 @@
 * White matter :: http://en.wikipedia.org/wiki/White_matter
 * Gracile nucleus :: http://en.wikipedia.org/wiki/Gracile_nucleus
 * Cuneate nucleus :: http://en.wikipedia.org/wiki/Cuneate_nucleus
+* Medial lemniscus :: http://en.wikipedia.org/wiki/Medial_lemniscus 
 
 # Projects
 * BrainMaps project :: http://en.wikipedia.org/wiki/BrainMaps
