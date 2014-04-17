@@ -10,7 +10,7 @@
 * Pons :: http://en.wikipedia.org/wiki/Pons
 * Cerebellum :: http://en.wikipedia.org/wiki/Cerebellum
 * White matter :: http://en.wikipedia.org/wiki/White_matter
-
+* Gracile nucleus :: http://en.wikipedia.org/wiki/Gracile_nucleus
 
 # Projects
 * BrainMaps project :: http://en.wikipedia.org/wiki/BrainMaps
