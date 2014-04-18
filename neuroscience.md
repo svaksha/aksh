@@ -13,6 +13,7 @@
 * Gracile nucleus :: http://en.wikipedia.org/wiki/Gracile_nucleus
 * Cuneate nucleus :: http://en.wikipedia.org/wiki/Cuneate_nucleus
 * Medial lemniscus :: http://en.wikipedia.org/wiki/Medial_lemniscus 
+* Perikaryon :: http://en.wikipedia.org/wiki/Perikaryon
 * Internal arcuate fibers :: http://en.wikipedia.org/wiki/Internal_arcuate_fibers
 
 # Projects
