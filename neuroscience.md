@@ -15,6 +15,7 @@
 * Medial lemniscus :: http://en.wikipedia.org/wiki/Medial_lemniscus 
 * Perikaryon {Soma /somata /somas, perikarya, or cyton} :: http://en.wikipedia.org/wiki/Perikaryon
 * Internal arcuate fibers :: http://en.wikipedia.org/wiki/Internal_arcuate_fibers
+* Alar plate :: http://en.wikipedia.org/wiki/Alar_plate
 
 # Projects
 * BrainMaps project :: http://en.wikipedia.org/wiki/BrainMaps
