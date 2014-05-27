@@ -17,6 +17,7 @@
 * Internal arcuate fibers :: http://en.wikipedia.org/wiki/Internal_arcuate_fibers
 * Alar plate :: http://en.wikipedia.org/wiki/Alar_plate
 * Inferior cerebellar peduncle :: http://en.wikipedia.org/wiki/Inferior_cerebellar_peduncle
+* Glossopharyngeal nerve :: http://en.wikipedia.org/wiki/Glossopharyngeal_nerve
 
 # Projects
 * BrainMaps project :: http://en.wikipedia.org/wiki/BrainMaps
