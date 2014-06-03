@@ -87,4 +87,4 @@
    - exRNA :: http://en.wikipedia.org/wiki/Extracellular_RNA
    - piRNA :: http://en.wikipedia.org/wiki/Piwi-interacting_RNA
    - long ncRNAs :: http://en.wikipedia.org/wiki/Long_non-coding_RNA
-   
+* RNA (Ribonucleoprotein) :: http://en.wikipedia.org/wiki/Ribonucleoprotein   
