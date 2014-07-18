@@ -89,4 +89,5 @@
    - long ncRNAs :: http://en.wikipedia.org/wiki/Long_non-coding_RNA
 * RNA (Ribonucleoprotein) :: http://en.wikipedia.org/wiki/Ribonucleoprotein   
 * Post-transcriptional regulation :: http://en.wikipedia.org/wiki/Post-transcriptional_regulation
-* Three prime untranslated region (3'-UTR)  :: http://en.wikipedia.org/wiki/Three_prime_untranslated_region
+* Three prime untranslated region (3'-UTR) :: http://en.wikipedia.org/wiki/Three_prime_untranslated_region
+* [Polyadenylation](http://en.wikipedia.org/wiki/Polyadenylation) is the addition of a poly(A) tail to a primary transcript RNA. 
