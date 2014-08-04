@@ -90,6 +90,7 @@
 * Biomarker :: http://en.wikipedia.org/wiki/Biomarker
 * Proteome :: http://en.wikipedia.org/wiki/Proteome
 * Prokaryote :: http://en.wikipedia.org/wiki/Prokaryote
+* Eukaryote :: http://en.wikipedia.org/wiki/Eukaryote
 * Ribosome :: http://en.wikipedia.org/wiki/Ribosome
 * Mutation :: http://en.wikipedia.org/wiki/Mutation
 * Watson-Crick [base pair](http://en.wikipedia.org/wiki/Base_pair)s (guanine-cytosine and adenine-thymine).
