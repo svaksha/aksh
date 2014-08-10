@@ -13,7 +13,6 @@
 - DNA=Deoxyribonucleic acid, http://en.wikipedia.org/wiki/DNA
 - DNA mutations and changes, http://www.genetichealth.com/g101_changes_in_dna.shtml
 - Variomes | http://en.wikipedia.org/wiki/Variome
-- Reactome, https://secure.wikimedia.org/wikipedia/en/wiki/Reactome
 - https://en.wikipedia.org/wiki/Structural_biology
 - Molecular medicine, http://en.wikipedia.org/wiki/Molecular_medicine
 - Computational biology, http://en.wikipedia.org/wiki/Computational_biology
@@ -41,6 +40,8 @@
 * Human microbiome project :: http://en.wikipedia.org/wiki/Human_microbiome_project
 * Personal Genome Project :: http://en.wikipedia.org/wiki/Personal_Genome_Project
 * Resources from [NHLBI (National Heart, Lung, and Blood Institute)](http://www.nhlbi.nih.gov/research/resources/index.htm) at the NIH (National Institutes of Health).
+* Reactome, https://secure.wikimedia.org/wikipedia/en/wiki/Reactome
+
 
 # Phylogenomics
 * http://en.wikipedia.org/wiki/Chromosome
@@ -94,4 +95,4 @@
 * Ribosome :: http://en.wikipedia.org/wiki/Ribosome
 * Mutation :: http://en.wikipedia.org/wiki/Mutation
 * Watson-Crick [base pair](http://en.wikipedia.org/wiki/Base_pair)s (guanine-cytosine and adenine-thymine).
-
+* http://en.wikipedia.org/wiki/Promoter_%28genetics%29
