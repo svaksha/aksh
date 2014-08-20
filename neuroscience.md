@@ -19,6 +19,7 @@
 * Inferior cerebellar peduncle :: http://en.wikipedia.org/wiki/Inferior_cerebellar_peduncle
 * Glossopharyngeal nerve :: http://en.wikipedia.org/wiki/Glossopharyngeal_nerve
 * Cranial neural crest :: http://en.wikipedia.org/wiki/Cranial_neural_crest
+* Parafollicular cell :: http://en.wikipedia.org/wiki/Parafollicular_cell
 
 # Projects
 * BrainMaps project :: http://en.wikipedia.org/wiki/BrainMaps
