@@ -5,7 +5,6 @@
 * Neurology :: http://en.wikipedia.org/wiki/Neurology
 
 # Brain
-* Endocranium :: http://en.wikipedia.org/wiki/Endocranium
 * Medulla oblongata :: http://en.wikipedia.org/wiki/Medulla_oblongata
    * Anterior median fissure of the medulla oblongata :: http://en.wikipedia.org/wiki/Anterior_median_fissure_of_the_medulla_oblongata
 * Pons :: http://en.wikipedia.org/wiki/Pons
@@ -21,6 +20,8 @@
 * Glossopharyngeal nerve :: http://en.wikipedia.org/wiki/Glossopharyngeal_nerve
 * Cranial neural crest :: http://en.wikipedia.org/wiki/Cranial_neural_crest
 * Parafollicular cell :: http://en.wikipedia.org/wiki/Parafollicular_cell
+* Endocranium :: http://en.wikipedia.org/wiki/Endocranium
+* Foramen magnum :: http://en.wikipedia.org/wiki/Foramen_magnum
 
 # Projects
 * BrainMaps project :: http://en.wikipedia.org/wiki/BrainMaps
