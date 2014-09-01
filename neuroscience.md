@@ -22,6 +22,8 @@
 * Parafollicular cell :: http://en.wikipedia.org/wiki/Parafollicular_cell
 * Endocranium :: http://en.wikipedia.org/wiki/Endocranium
 * Foramen magnum :: http://en.wikipedia.org/wiki/Foramen_magnum
+* Spinal nerve :: http://en.wikipedia.org/wiki/Spinal_nerve  
+* Posterior spinal artery :: http://en.wikipedia.org/wiki/Posterior_spinal_artery
 
 # Projects
 * BrainMaps project :: http://en.wikipedia.org/wiki/BrainMaps
