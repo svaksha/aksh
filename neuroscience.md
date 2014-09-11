@@ -26,6 +26,9 @@
 * Posterior spinal artery :: http://en.wikipedia.org/wiki/Posterior_spinal_artery
 * Efferent nerve fiber :: http://en.wikipedia.org/wiki/Efferent_nerve_fiber
 * Sternohyoid muscle :: http://en.wikipedia.org/wiki/Sternohyoid_muscle
+* Sternothyroid muscle :: http://en.wikipedia.org/wiki/Sternothyroid_muscle
+* Omohyoid muscle :: http://en.wikipedia.org/wiki/Omohyoid_muscle
+
 
 # Projects
 * BrainMaps project :: http://en.wikipedia.org/wiki/BrainMaps
