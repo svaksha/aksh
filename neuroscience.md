@@ -24,6 +24,7 @@
 * Foramen magnum :: http://en.wikipedia.org/wiki/Foramen_magnum
 * Spinal nerve :: http://en.wikipedia.org/wiki/Spinal_nerve  
 * Posterior spinal artery :: http://en.wikipedia.org/wiki/Posterior_spinal_artery
+* Efferent nerve fiber :: http://en.wikipedia.org/wiki/Efferent_nerve_fiber
 
 # Projects
 * BrainMaps project :: http://en.wikipedia.org/wiki/BrainMaps
