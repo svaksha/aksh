@@ -95,4 +95,5 @@
 * Ribosome :: http://en.wikipedia.org/wiki/Ribosome
 * Mutation :: http://en.wikipedia.org/wiki/Mutation
 * Watson-Crick [base pair](http://en.wikipedia.org/wiki/Base_pair)s (guanine-cytosine and adenine-thymine).
-* http://en.wikipedia.org/wiki/Promoter_%28genetics%29
+* Promoter : http://en.wikipedia.org/wiki/Promoter_%28genetics%29
+* Sigma factor : http://en.wikipedia.org/wiki/Sigma_factor
