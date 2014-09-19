@@ -97,3 +97,9 @@
 * Watson-Crick [base pair](http://en.wikipedia.org/wiki/Base_pair)s (guanine-cytosine and adenine-thymine).
 * Promoter : http://en.wikipedia.org/wiki/Promoter_%28genetics%29
 * Sigma factor : http://en.wikipedia.org/wiki/Sigma_factor
+* RNA polymerase I :: http://en.wikipedia.org/wiki/RNA_polymerase_I
+* RNA polymerase II :: http://en.wikipedia.org/wiki/RNA_polymerase_II
+* RNA polymerase III :: http://en.wikipedia.org/wiki/RNA_polymerase_III
+* TATA box :: http://en.wikipedia.org/wiki/TATA_box
+
+
