@@ -101,5 +101,7 @@
 * RNA polymerase II :: http://en.wikipedia.org/wiki/RNA_polymerase_II
 * RNA polymerase III :: http://en.wikipedia.org/wiki/RNA_polymerase_III
 * TATA box :: http://en.wikipedia.org/wiki/TATA_box
+* [POLR2A](http://en.wikipedia.org/wiki/POLR2A) - In humans, the enzyme (DNA-directed RNA polymerase II subunit RPB1) is encoded by the POLR2A gene.
+
 
 
