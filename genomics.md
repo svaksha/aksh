@@ -103,5 +103,5 @@
 * [POLR2A](http://en.wikipedia.org/wiki/POLR2A) - In humans, the enzyme (DNA-directed RNA polymerase II subunit RPB1) is encoded by the POLR2A gene.
 * TATA box :: http://en.wikipedia.org/wiki/TATA_box
 * TATA-binding protein :: http://en.wikipedia.org/wiki/TATA-binding_protein
-
+* Nucleic acid thermodynamics :: http://en.wikipedia.org/wiki/Nucleic_acid_thermodynamics
 
