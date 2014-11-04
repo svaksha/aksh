@@ -1,3 +1,7 @@
+
+# PAPERS
+* [Genomic imprinting: recognition and marking of imprinted loci](http://www.ncbi.nlm.nih.gov/pubmed/22195775)
+
 # EpiGenie Guide
 * [Chromatin Shearing](http://epigenie.com/epigenie-guide-chromatin-shearing/) and the link to the [PDF](http://epigenie.com/wp-content/uploads/2013/05/Chromatin-Shearing_D4.pdf) file.
 * [EpiGenie 5hmC Technology](http://epigenie.com/epigenie-5hmc-technology-guide/) guide and the [PDF](http://media.epigenie.com/wp-content/uploads/2012/10/5hmC-Technology-Guide_D71.pdf) link.
