@@ -1,3 +1,11 @@
+# EpiGenie Guide
+* [Chromatin Shearing](http://epigenie.com/epigenie-guide-chromatin-shearing/) and the link to the [PDF](http://epigenie.com/wp-content/uploads/2013/05/Chromatin-Shearing_D4.pdf) file.
+* [EpiGenie 5hmC Technology](http://epigenie.com/epigenie-5hmc-technology-guide/) guide and the [PDF](http://media.epigenie.com/wp-content/uploads/2012/10/5hmC-Technology-Guide_D71.pdf) link.
+* [RNA Immunoprecipitation (RIP) and Beyond](http://epigenie.com/epigenie-guide-rna-immunoprecipitation-rip-and-beyond/) guide and the [PDF](http://epigenie.com/wp-content/uploads/2013/07/RIP-Guide_D3.pdf) file.
+* [Getting Started with Genome-Wide 5-mC and 5-hmC Sequencing](http://epigenie.com/guide-getting-started-with-genome-wide-5-mc-and-5-hmc-sequencing/) and the [PDF](http://epigenie.com/wp-content/uploads/2013/04/Zymo-DNAm-Sequencing-Guide_D4.pdf) file.
+
+# VIDEOS
+* VIDEO : [Imprinted Genes and Fetal Growth with Dr Gudrun Moore](http://epigenie.com/imprinted-genes-and-fetal-growth-with-dr-gudrun-moore/).
 
 
 * http://en.wikipedia.org/wiki/List_of_omics_topics_in_biology
@@ -104,4 +112,7 @@
 * TATA box :: http://en.wikipedia.org/wiki/TATA_box
 * TATA-binding protein :: http://en.wikipedia.org/wiki/TATA-binding_protein
 * Nucleic acid thermodynamics :: http://en.wikipedia.org/wiki/Nucleic_acid_thermodynamics
+* [Keep DNA Methylation Experiments in Check](http://epigenie.com/keeping-dna-methylation-experiments-in-check/)
+
+
 
