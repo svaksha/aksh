@@ -1,6 +1,7 @@
 
 # PAPERS
 * [Genomic imprinting: recognition and marking of imprinted loci](http://www.ncbi.nlm.nih.gov/pubmed/22195775)
+* [Transposable Elements: Targets for Early Nutritional Effects on Epigenetic Gene Regulation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC165709/)
 
 # EpiGenie Guide
 * [Chromatin Shearing](http://epigenie.com/epigenie-guide-chromatin-shearing/) and the link to the [PDF](http://epigenie.com/wp-content/uploads/2013/05/Chromatin-Shearing_D4.pdf) file.
