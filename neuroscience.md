@@ -29,6 +29,9 @@
 * Sternothyroid muscle :: http://en.wikipedia.org/wiki/Sternothyroid_muscle
 * Omohyoid muscle :: http://en.wikipedia.org/wiki/Omohyoid_muscle
 
+### Podcast
+* Podcast: [The Mind's Hidden Switches](http://www.scientificamerican.com/podcast/episode/the-minds-hidden-switches-11-11-22/) by E.Nestler, 22/Nov/2011.
+
 
 # Projects
 * BrainMaps project :: http://en.wikipedia.org/wiki/BrainMaps
