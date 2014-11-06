@@ -1,5 +1,7 @@
-# Episteme
-Episteme repo is my bibliography of useful resources for learning science.
+# EPISTEME
+The Episteme repo is my bibliography of useful resources for learning science.
+
+## Download
 
 
 # LICENSE 
