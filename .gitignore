@@ -16,6 +16,7 @@ syntax: glob
 *.elc
 pub/*
 svksh/*
+medical-neuroscience/*
 
 #====================================================
 # IPYTHON Notebooks
