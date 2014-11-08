@@ -1,5 +1,12 @@
+# PAPERS
+* [Use of Heterologous Complementary DNA Array Screening to Analyze BovineOocyte Transcriptome and Its Evolution During In Vitro Maturation](http://www.biolreprod.org/content/68/1/252.full.pdf+html), Rozenn Dalbie`s-Tran and Pascal Mermillod.
+* [Sequence complexity and DNA curvature](http://research.haifa.ac.il/~genom/Alex%27s_page/article.pdf) by Gabrielian, A.E. & Bolshoy, A. in Comput Chem. 23, 263-274 (1999).
 
 
+# DataSets 
+- https://www.ncbi.nlm.nih.gov/genbank/
+
+# DNA
 * Mitochondrial DNA :: http://en.wikipedia.org/wiki/Mitochondrial_DNA
 * Palaeo-Eskimo, an ancient-human :: http://en.wikipedia.org/wiki/Palaeo-Eskimo
 * Nuclear DNA :: http://en.wikipedia.org/wiki/Nuclear_DNA
@@ -17,4 +24,8 @@
 * DNA=Deoxyribonucleic acid, http://en.wikipedia.org/wiki/DNA
 * DNA mutations and changes, http://www.genetichealth.com/g101_changes_in_dna.shtml
 * Variomes | http://en.wikipedia.org/wiki/Variome
+
+
+
+
 
