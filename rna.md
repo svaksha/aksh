@@ -43,6 +43,8 @@
 * TATA-binding protein :: http://en.wikipedia.org/wiki/TATA-binding_protein
 * Nucleic acid thermodynamics :: http://en.wikipedia.org/wiki/Nucleic_acid_thermodynamics
 * [Keep DNA Methylation Experiments in Check](http://epigenie.com/keeping-dna-methylation-experiments-in-check/)
+* http://en.wikipedia.org/wiki/Nucleic_acid
+   - Protein sequencing was replaced by nucleic acid technology.
 
 
 
