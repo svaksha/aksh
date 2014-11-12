@@ -3,16 +3,17 @@
 * [Genomic imprinting: recognition and marking of imprinted loci](http://www.ncbi.nlm.nih.gov/pubmed/22195775)
 * [Transposable Elements: Targets for Early Nutritional Effects on Epigenetic Gene Regulation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC165709/)
 
-# EpiGenie Guide
+### EpiGenetics Papers and Guide
+* [Transposable Elements: Targets for Early Nutritional Effects on Epigenetic Gene Regulation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC165709/)
 * [Chromatin Shearing](http://epigenie.com/epigenie-guide-chromatin-shearing/) and the link to the [PDF](http://epigenie.com/wp-content/uploads/2013/05/Chromatin-Shearing_D4.pdf) file.
 * [EpiGenie 5hmC Technology](http://epigenie.com/epigenie-5hmc-technology-guide/) guide and the [PDF](http://media.epigenie.com/wp-content/uploads/2012/10/5hmC-Technology-Guide_D71.pdf) link.
 * [RNA Immunoprecipitation (RIP) and Beyond](http://epigenie.com/epigenie-guide-rna-immunoprecipitation-rip-and-beyond/) guide and the [PDF](http://epigenie.com/wp-content/uploads/2013/07/RIP-Guide_D3.pdf) file.
 * [Getting Started with Genome-Wide 5-mC and 5-hmC Sequencing](http://epigenie.com/guide-getting-started-with-genome-wide-5-mc-and-5-hmc-sequencing/) and the [PDF](http://epigenie.com/wp-content/uploads/2013/04/Zymo-DNAm-Sequencing-Guide_D4.pdf) file.
 
+----
+
 # VIDEOS
 * VIDEO : [Imprinted Genes and Fetal Growth with Dr Gudrun Moore](http://epigenie.com/imprinted-genes-and-fetal-growth-with-dr-gudrun-moore/).
-
-
 
 ----
 
@@ -36,6 +37,8 @@
 * Gene expression profiling :: http://en.wikipedia.org/wiki/Gene_expression_profiling
 * [Weighted correlation (gene co-expression) network analysis](http://en.wikipedia.org/wiki/Weighted_correlation_network_analysis).
 
+----
+
 # Genome project resources
 * Genome project :: http://en.wikipedia.org/wiki/Genome_project
 * Chimpanzee Genome Project :: http://en.wikipedia.org/wiki/Chimpanzee_Genome_Project
@@ -48,6 +51,7 @@
 * Resources from [NHLBI (National Heart, Lung, and Blood Institute)](http://www.nhlbi.nih.gov/research/resources/index.htm) at the NIH (National Institutes of Health).
 * Reactome, https://secure.wikimedia.org/wikipedia/en/wiki/Reactome
 
+----
 
 # Phylogenomics
 * http://en.wikipedia.org/wiki/Chromosome
