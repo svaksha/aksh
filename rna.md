@@ -1,10 +1,7 @@
-# PAPERS
-* [Mitochondrial cob and cox1 Genes and Editing of the Corresponding mRNAs in Dinophysis acuminata from Narragansett Bay, with Special Reference to the Phylogenetic Position of the Genus Dinophysis](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2258633/)
-* [Sequestration of multiple RNA recognition motif-containing proteins by C9orf72 repeat expansions](http://brain.oxfordjournals.org/content/137/7/2040)
-* [Mistimed sleep disrupts circadian regulation of the human transcriptome](http://europepmc.org/articles/PMC3926083).
+* [RNA](#rna)
+   - [Papers](#papers)
 
-# Atricles
-* [Measuring evolution's waistline](http://phys.org/news/2011-06-evolutions-waistline.html)
+----
 
 # RNA
 * http://en.wikipedia.org/wiki/Sequencing
@@ -29,14 +26,10 @@
 * Three prime untranslated region (3'-UTR) :: http://en.wikipedia.org/wiki/Three_prime_untranslated_region
 * [Polyadenylation](http://en.wikipedia.org/wiki/Polyadenylation) is the addition of a poly(A) tail to a primary transcript RNA. 
 * De novo transcriptome assembly :: http://en.wikipedia.org/wiki/De_novo_transcriptome_assembly
-   * PAPER: [De novo transcriptome assembly with ABySS](http://bioinformatics.oxfordjournals.org/content/25/21/2872.long)
 * Sanger sequencing :: http://en.wikipedia.org/wiki/Sequencing#Sanger_sequencing
 * K-mer :: http://en.wikipedia.org/wiki/K-mer
 * Human-transcriptome database for alternative splicing :: http://en.wikipedia.org/wiki/Human-transcriptome_database_for_alternative_splicing
 * Biomarker :: http://en.wikipedia.org/wiki/Biomarker
-* Proteome :: http://en.wikipedia.org/wiki/Proteome
-* Prokaryote :: http://en.wikipedia.org/wiki/Prokaryote
-* Eukaryote :: http://en.wikipedia.org/wiki/Eukaryote
 * Ribosome :: http://en.wikipedia.org/wiki/Ribosome
 * Mutation :: http://en.wikipedia.org/wiki/Mutation
 * Watson-Crick [base pair](http://en.wikipedia.org/wiki/Base_pair)s (guanine-cytosine and adenine-thymine).
@@ -53,5 +46,12 @@
 * http://en.wikipedia.org/wiki/Nucleic_acid
    - Protein sequencing was replaced by nucleic acid technology.
 
-
+### Papers
+* [Mitochondrial cob and cox1 Genes and Editing of the Corresponding mRNAs in Dinophysis acuminata from Narragansett Bay, with Special Reference to the Phylogenetic Position of the Genus Dinophysis](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2258633/)
+* [Sequestration of multiple RNA recognition motif-containing proteins by C9orf72 repeat expansions](http://brain.oxfordjournals.org/content/137/7/2040)
+* [Mistimed sleep disrupts circadian regulation of the human transcriptome](http://europepmc.org/articles/PMC3926083).
+* [Rsx is a metatherian RNA with Xist-like properties in X-chromosome inactivation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3484893/), Grant J et al. (2012). Nature 487(7406):254-8.
+* [De novo transcriptome assembly with ABySS](http://bioinformatics.oxfordjournals.org/content/25/21/2872.long)
+* [How microbes build a powerful antibiotic](http://www.healthcanal.com/infections/56697-team-discovers-how-microbes-build-a-powerful-antibiotic.html)
+   - [Structure and mechanism of the tRNA-dependent lantibiotic dehydratase NisB](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13888.html)
 

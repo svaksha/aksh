@@ -1,5 +1,6 @@
 * [Brain](#brain)
 * [General](#general)
+* [NEWS](#news)
 * [Papers](#papers)
    - [Podcast](#podcast)
 * [Projects](#projects)
@@ -37,6 +38,11 @@
 * Neurophysiology :: http://en.wikipedia.org/wiki/Neurophysiology
 * Neurology :: http://en.wikipedia.org/wiki/Neurology
 
+----
+
+# NEWS
+* [Activity in Dendrites is Critical in Memory Formation](http://neurosciencenews.com/neuroscience-dendrite-memory-formation-1477/). 
+
 ---- 
 
 # Papers
@@ -47,6 +53,7 @@
 * [Mathematical model shows how the brain remains stable during learning](http://www.riken.jp/en/pr/press/2014/20141023_1/)
 * [Human Intuition: Its Powers and Perils](http://www.dana.org/Cerebrum/2002/Human_Intuition__The_Brain_Behind_the_Scenes/) By: David G. Myers Ph.D. 
 * [The Creating Brain: The Neuroscience of Genius](http://www.dana.org/Cerebrum/2005/The_Creating_Brain__The_Neuroscience_of_Genius/) By: Nancy C. Andreasen M.D., Ph.D.
+* [Calcium transient prevalence across the dendritic arbour predicts place field properties](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13871.html)
 
 ### Podcast
 * Podcast: [The Mind's Hidden Switches](http://www.scientificamerican.com/podcast/episode/the-minds-hidden-switches-11-11-22/) by E.Nestler, 22/Nov/2011.
