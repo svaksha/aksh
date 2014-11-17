@@ -2,8 +2,8 @@
    - [Papers](#papers)
    - [Videos](#videos)
 * [Eukaryotics](#eukaryotics)
+* [Gene](#gene)
 * [Genome Project Resources](#genome-project-resources)
-* [Phylogenomics](#phylogenomics)
 * [Proteomics](#proteomics)
 
 ----
@@ -11,21 +11,16 @@
 * http://en.wikipedia.org/wiki/List_of_omics_topics_in_biology
 * CAT:Genomics :: http://en.wikipedia.org/wiki/Category:Genomics
 * http://en.wikipedia.org/wiki/Medical_genetics
-- https://en.wikipedia.org/wiki/Structural_biology
-- Molecular medicine, http://en.wikipedia.org/wiki/Molecular_medicine
-- Computational biology, http://en.wikipedia.org/wiki/Computational_biology
-- Functional genomics, http://en.wikipedia.org/wiki/Functional_genomics
-- Structural Genomics, http://en.wikipedia.org/wiki/Structural_genomics
-- Public health genomics, http://en.wikipedia.org/wiki/Public_health_genomics
-- Gene, http://en.wikipedia.org/wiki/Gene
-* Gene prediction, http://en.wikipedia.org/wiki/Gene_prediction
-* Gene flow, http://en.wikipedia.org/wiki/Gene_flow
-* List of A1 genes, proteins or receptors: http://en.wikipedia.org/wiki/List_of_A1_genes,_proteins_or_receptors
-* List of human genes: http://en.wikipedia.org/wiki/List_of_human_genes
-* Gene fusion :: http://en.wikipedia.org/wiki/Gene_fusion
+* https://en.wikipedia.org/wiki/Structural_biology
+* Molecular medicine, http://en.wikipedia.org/wiki/Molecular_medicine
+* Computational biology, http://en.wikipedia.org/wiki/Computational_biology
+* Functional genomics, http://en.wikipedia.org/wiki/Functional_genomics
+* Structural Genomics, http://en.wikipedia.org/wiki/Structural_genomics
+* Public health genomics, http://en.wikipedia.org/wiki/Public_health_genomics
 * Metabolomics :: http://en.wikipedia.org/wiki/Metabolomics
 * Gene expression profiling :: http://en.wikipedia.org/wiki/Gene_expression_profiling
 * [Weighted correlation (gene co-expression) network analysis](http://en.wikipedia.org/wiki/Weighted_correlation_network_analysis).
+* https://en.wikipedia.org/wiki/Comparative_genomics
 
 ----
 
@@ -46,7 +41,17 @@
 ----
 
 # Eukaryotics
-- The [yeast "Saccharomyces cerevisiae"](https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_cerevisiae) was the first eukaryotic genome that was completely sequenced.
+* The [yeast "Saccharomyces cerevisiae"](https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_cerevisiae) was the first eukaryotic genome that was completely sequenced.
+
+----
+
+# Gene
+* Gene, http://en.wikipedia.org/wiki/Gene
+* Gene prediction, http://en.wikipedia.org/wiki/Gene_prediction
+* Gene flow, http://en.wikipedia.org/wiki/Gene_flow
+* List of A1 genes, proteins or receptors: http://en.wikipedia.org/wiki/List_of_A1_genes,_proteins_or_receptors
+* List of human genes: http://en.wikipedia.org/wiki/List_of_human_genes
+* Gene fusion :: http://en.wikipedia.org/wiki/Gene_fusion
 
 ----
 
@@ -64,15 +69,8 @@
 
 ----
 
-# Phylogenomics
-* http://en.wikipedia.org/wiki/Chromosome
-* Signaling pathway, https://secure.wikimedia.org/wikipedia/en/wiki/Signaling_pathway
-* Similarity matrix, https://secure.wikimedia.org/wikipedia/en/wiki/Similarity_matrix
-* https://en.wikipedia.org/wiki/Locus_%28genetics%29
-* http://en.wikipedia.org/wiki/Phylogenetic
-* Cell nucleus :: http://en.wikipedia.org/wiki/Cell_nucleus
-
-----
-
 # Proteomics
-* 
+* [Proteomics](http://en.wikipedia.org/wiki/Proteomics) : the large-scale study of proteins, particularly their structures and functions.
+* http://en.wikipedia.org/wiki/Protein_sequencing (replaced by nucleic acid technology)
+* http://en.wikipedia.org/wiki/Edman_degradation
+

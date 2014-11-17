@@ -7,6 +7,8 @@
 * [Measuring evolution's waistline](http://phys.org/news/2011-06-evolutions-waistline.html)
 
 # RNA
+* http://en.wikipedia.org/wiki/Sequencing
+* http://en.wikipedia.org/wiki/Shotgun_sequencing
 * mRNA :: http://en.wikipedia.org/wiki/Messenger_RNA
    * [Precursor mRNA (pre-mRNA)](http://en.wikipedia.org/wiki/Precursor_mRNA) is an immature single strand of messenger ribonucleic acid (mRNA).
    * [RNA Sequencing](http://en.wikipedia.org/wiki/RNA-Seq) {"Whole Transcriptome Shotgun Sequencing"("WTSS")}
