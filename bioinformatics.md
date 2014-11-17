@@ -31,5 +31,4 @@
 * https://en.wikipedia.org/wiki/Organisms
 * https://en.wikipedia.org/wiki/Protein
 * https://en.wikipedia.org/wiki/Genomics 
-- Paleontology, http://en.wikipedia.org/wiki/Category:Paleontology
 

@@ -1,16 +1,10 @@
-# Projects
-* BrainMaps project :: http://en.wikipedia.org/wiki/BrainMaps
+* [Brain](#brain)
+* [General](#general)
+* [Papers](#papers)
+   - [Podcast](#podcast)
+* [Projects](#projects)
 
-
-# PAPERS
-* The Telltale Hand: [How Writing Reveals the Damaged Brain](http://www.dana.org/Cerebrum/Default.aspx?id=39304) By: Marc J. Seifer Ph.D.
-* [Human Intuition: Its Powers and Perils](http://www.dana.org/Cerebrum/2002/Human_Intuition__The_Brain_Behind_the_Scenes/) By: David G. Myers Ph.D. 
-* [The Creating Brain: The Neuroscience of Genius](http://www.dana.org/Cerebrum/2005/The_Creating_Brain__The_Neuroscience_of_Genius/) By: Nancy C. Andreasen M.D., Ph.D.
-* [Left Hand, Left Brain: The Plot Thickens](http://www.dana.org/Cerebrum/2005/Left_Hand,_Left_Brain__The_Plot_Thickens/) By: Carolyn Asbury Ph.D. 
-
-### Podcast
-* Podcast: [The Mind's Hidden Switches](http://www.scientificamerican.com/podcast/episode/the-minds-hidden-switches-11-11-22/) by E.Nestler, 22/Nov/2011.
-
+----
 
 # Brain
 * Medulla oblongata :: http://en.wikipedia.org/wiki/Medulla_oblongata
@@ -37,7 +31,28 @@
 * Sternothyroid muscle :: http://en.wikipedia.org/wiki/Sternothyroid_muscle
 * Omohyoid muscle :: http://en.wikipedia.org/wiki/Omohyoid_muscle
 
+----
+
 # General
 * Neurophysiology :: http://en.wikipedia.org/wiki/Neurophysiology
 * Neurology :: http://en.wikipedia.org/wiki/Neurology
+
+---- 
+
+# Papers
+* The Telltale Hand: [How Writing Reveals the Damaged Brain](http://www.dana.org/Cerebrum/Default.aspx?id=39304) By: Marc J. Seifer Ph.D.
+* [Left Hand, Left Brain: The Plot Thickens](http://www.dana.org/Cerebrum/2005/Left_Hand,_Left_Brain__The_Plot_Thickens/) By: Carolyn Asbury Ph.D. 
+* PAPER (pdf in the 'oa-papers' folder): [Zebra Finch Mates Use Their Forebrain Song System in Unlearned Call Communication](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0109334), Andries Ter Maat, et al, Published: October 14, 2014, DOI: 10.1371/journal.pone.0109334.
+* [Mental Leaps Cued by Memory’s Ripples](http://www.quantamagazine.org/20141022-mental-leaps-cued-by-memorys-ripples/)
+* [Mathematical model shows how the brain remains stable during learning](http://www.riken.jp/en/pr/press/2014/20141023_1/)
+* [Human Intuition: Its Powers and Perils](http://www.dana.org/Cerebrum/2002/Human_Intuition__The_Brain_Behind_the_Scenes/) By: David G. Myers Ph.D. 
+* [The Creating Brain: The Neuroscience of Genius](http://www.dana.org/Cerebrum/2005/The_Creating_Brain__The_Neuroscience_of_Genius/) By: Nancy C. Andreasen M.D., Ph.D.
+
+### Podcast
+* Podcast: [The Mind's Hidden Switches](http://www.scientificamerican.com/podcast/episode/the-minds-hidden-switches-11-11-22/) by E.Nestler, 22/Nov/2011.
+
+----
+
+# Projects
+* BrainMaps project :: http://en.wikipedia.org/wiki/BrainMaps
 
