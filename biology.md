@@ -1,9 +1,15 @@
 **Bioinformatics, biotechnology, biostatistics, ...**
 
+* [BOOKS](#books)
 * [BIOINFORMATICS](#bioinformatics)
 * [BIOSTATISTICS](#bioinformatics)
 * [BIOTECHNOLOGY](#biotechnology)
    
+----
+
+# BOOKS
+* Free [Biology textbook](http://openstaxcollege.org/textbooks/biology/resources).
+
 ----
 
 # BIOINFORMATICS
