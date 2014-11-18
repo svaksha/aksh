@@ -54,4 +54,5 @@
 * [De novo transcriptome assembly with ABySS](http://bioinformatics.oxfordjournals.org/content/25/21/2872.long)
 * [How microbes build a powerful antibiotic](http://www.healthcanal.com/infections/56697-team-discovers-how-microbes-build-a-powerful-antibiotic.html)
    - [Structure and mechanism of the tRNA-dependent lantibiotic dehydratase NisB](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13888.html)
+* [On emerging nuclear order](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3051810/), by I.Rajapakse and M.Groudine, 2011. J Cell Biol 192(5):711-21.
 
