@@ -55,4 +55,7 @@
 * [How microbes build a powerful antibiotic](http://www.healthcanal.com/infections/56697-team-discovers-how-microbes-build-a-powerful-antibiotic.html)
    - [Structure and mechanism of the tRNA-dependent lantibiotic dehydratase NisB](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13888.html)
 * [On emerging nuclear order](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3051810/), by I.Rajapakse and M.Groudine, 2011. J Cell Biol 192(5):711-21.
+* [New insights into nucleosome and chromatin structure: an ordered state or a disordered affair?](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3408961/), Karolin Luger, Mekonnen L. Dechassa, and David J. Tremethick, Nat Rev Mol Cell Biol 13(7):436-47, Published online Jun 22, 2012. doi: 10.1038/nrm3382.
+* [Combinatorial complexity in chromatin structure and function: revisiting the histone code](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3345062/) by Rando OJ. (2012). 
+
 

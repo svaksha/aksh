@@ -26,6 +26,7 @@
 
 # EpiGenetics 
 * http://en.wikipedia.org/wiki/Epigenetics
+* Game to learn Epigenetics: [Gene Control game to learn Genetics](http://learn.genetics.utah.edu/content/epigenetics/control/), Genetic Science Learning Center, University of Utah.
 
 ### Papers
 * [Genomic imprinting: recognition and marking of imprinted loci](http://www.ncbi.nlm.nih.gov/pubmed/22195775)
@@ -39,6 +40,7 @@
 ### Videos
 * [Imprinted Genes and Fetal Growth with Dr Gudrun Moore](http://epigenie.com/imprinted-genes-and-fetal-growth-with-dr-gudrun-moore/).
 * [X-Inactivation and Epigenetics](http://www.wehi.edu.au/x_inactivation_and_epigenetics/), Uno E and Berry D. (2012), Walter and Eliza Hall Institute.
+* [Epigenetics and the influence of our genes](http://www.youtube.com/watch?v=JTBg6hqeuTg) by Dr. Courtney Griffins, 23/Feb/2013.
 
 ----
 
