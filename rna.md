@@ -34,7 +34,7 @@
 * Mutation :: http://en.wikipedia.org/wiki/Mutation
 * Watson-Crick [base pair](http://en.wikipedia.org/wiki/Base_pair)s (guanine-cytosine and adenine-thymine).
 * Promoter : http://en.wikipedia.org/wiki/Promoter_%28genetics%29
-* Sigma factor : http://en.wikipedia.org/wiki/Sigma_factor
+* Sigma factor :: http://en.wikipedia.org/wiki/Sigma_factor
 * RNA polymerase I :: http://en.wikipedia.org/wiki/RNA_polymerase_I
 * RNA polymerase II :: http://en.wikipedia.org/wiki/RNA_polymerase_II
 * RNA polymerase III :: http://en.wikipedia.org/wiki/RNA_polymerase_III
@@ -48,7 +48,7 @@
 
 ### Papers
 * [Mitochondrial cob and cox1 Genes and Editing of the Corresponding mRNAs in Dinophysis acuminata from Narragansett Bay, with Special Reference to the Phylogenetic Position of the Genus Dinophysis](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2258633/)
-* [Sequestration of multiple RNA recognition motif-containing proteins by C9orf72 repeat expansions](http://brain.oxfordjournals.org/content/137/7/2040)
+* [Sequestration of multiple RNA recognition motif-containing proteins by C9orf72 repeat expansions](http://brain.oxfordjournals.org/content/137/7/2040). [Europemc.org link](http://europepmc.org/articles/PMC4065024).
 * [Mistimed sleep disrupts circadian regulation of the human transcriptome](http://europepmc.org/articles/PMC3926083).
 * [Rsx is a metatherian RNA with Xist-like properties in X-chromosome inactivation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3484893/), Grant J et al. (2012). Nature 487(7406):254-8.
 * [De novo transcriptome assembly with ABySS](http://bioinformatics.oxfordjournals.org/content/25/21/2872.long)
