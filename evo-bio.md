@@ -22,9 +22,10 @@
 
 # NEWS
 * [Measuring evolution's waistline](http://phys.org/news/2011-06-evolutions-waistline.html)
-* Indian Wild Pig [Mammal fossil may tie together mammals from Madagascar and India](http://www.washingtonpost.com/national/health-science/mammal-fossil-may-tie-together-mammals-from-madagascar-and-india/2014/11/24/9af9a7a0-718f-11e4-ad12-3734c461eab6_story.html)
-   * [Wild pig-sized ancestor of rhinos, horses roamed across India](http://www.delhidailynews.com/news/Wild-pig-sized-ancestor-of-rhinos--horses-roamed-across-India-1416846947/)
-   * [Wild Pig-sized Ancestor of Rhinos, Horses Wandered Across India](http://www.betawired.com/wild-pig-sized-ancestor-of-rhinos-horses-wandered-across-india/1417931/)
+* [Ancient relative of horses, rhinos originated in India more than 50 million years ago, fossils show](http://hub.jhu.edu/2014/11/20/india-fossils-perissodactyla)
+   * PAPER: [Early Eocene fossils suggest that the mammalian order Perissodactyla originated in India](http://www.nature.com/ncomms/2014/141120/ncomms6570/full/ncomms6570.html)
+   * Indian Wild Pig [Mammal fossil may tie together mammals from Madagascar and India](http://www.washingtonpost.com/national/health-science/mammal-fossil-may-tie-together-mammals-from-madagascar-and-india/2014/11/24/9af9a7a0-718f-11e4-ad12-3734c461eab6_story.html)
+   
 
 ----
 
