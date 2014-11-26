@@ -1,6 +1,7 @@
 * [BOOKS](#books)
 * [Evolutionary Biology](#evolutionary-biology)
-* [NEWS](#news)
+   - [Papers](#papers)
+   - [NEWS](#news)
 * [Phylogenomics](#phylogenomics)
    - [Papers](#papers)
    
@@ -18,14 +19,13 @@
 * https://en.wikipedia.org/wiki/Paleobiology#References
 * Paleontology, http://en.wikipedia.org/wiki/Category:Paleontology
 
-----
-
-# NEWS
-* [Measuring evolution's waistline](http://phys.org/news/2011-06-evolutions-waistline.html)
-* [Ancient relative of horses, rhinos originated in India more than 50 million years ago, fossils show](http://hub.jhu.edu/2014/11/20/india-fossils-perissodactyla)
-   * PAPER: [Early Eocene fossils suggest that the mammalian order Perissodactyla originated in India](http://www.nature.com/ncomms/2014/141120/ncomms6570/full/ncomms6570.html)
+### Papers
+* PAPER (non-OA) : [Early Eocene fossils suggest that the mammalian order Perissodactyla originated in India](http://www.nature.com/ncomms/2014/141120/ncomms6570/full/ncomms6570.html), with only the [supplementary figures are available as a pdf](http://www.nature.com/ncomms/2014/141120/ncomms6570/extref/ncomms6570-s1.pdf)
+   * [Ancient relative of horses, rhinos originated in India more than 50 million years ago, fossils show](http://hub.jhu.edu/2014/11/20/india-fossils-perissodactyla)
    * Indian Wild Pig [Mammal fossil may tie together mammals from Madagascar and India](http://www.washingtonpost.com/national/health-science/mammal-fossil-may-tie-together-mammals-from-madagascar-and-india/2014/11/24/9af9a7a0-718f-11e4-ad12-3734c461eab6_story.html)
-   
+
+### NEWS
+* [Measuring evolution's waistline](http://phys.org/news/2011-06-evolutions-waistline.html)
 
 ----
 
