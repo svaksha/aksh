@@ -28,3 +28,4 @@
 * [Sequence complexity and DNA curvature](http://research.haifa.ac.il/~genom/Alex%27s_page/article.pdf) by Gabrielian, A.E. & Bolshoy, A. in Comput Chem. 23, 263-274 (1999).
 * [The demoiselle of X-inactivation: 50 years old and as trendy and mesmerising as ever](http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002212), Morey C, Avner P. (2011). PLoS Genet 7(7):e1002212.
 * [A comparative encyclopedia of DNA elements in the mouse genome](http://www.nature.com/nature/journal/v515/n7527/full/nature13992.html)
+* [Principles of regulatory information conservation between mouse and human](http://www.nature.com/nature/journal/v515/n7527/full/nature13985.html)
