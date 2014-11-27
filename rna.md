@@ -59,5 +59,5 @@
 * [Combinatorial complexity in chromatin structure and function: revisiting the histone code](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3345062/) by Rando OJ. (2012). 
 * [Molecular mechanisms of long noncoding RNAs](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3199020/). Mol Cell 43(6):904-14, KC.Wang, HY.Chang ,2011.
 * [Use of Heterologous Complementary DNA Array Screening to Analyze BovineOocyte Transcriptome and Its Evolution During In Vitro Maturation](http://www.biolreprod.org/content/68/1/252.full.pdf+html), Rozenn Dalbie`s-Tran and Pascal Mermillod.
-
+* [From early lessons to new frontiers: the worm as a treasure trove of small RNA biology](http://journal.frontiersin.org/Journal/10.3389/fgene.2014.00416/abstract)
 
