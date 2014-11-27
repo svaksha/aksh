@@ -1,11 +1,5 @@
-* [DataSets](#datasets)
 * [DNA](#dna)
 * [PAPERS](#papers)
-
-----
-
-# DataSets 
-- https://www.ncbi.nlm.nih.gov/genbank/
 
 ----
 
@@ -31,10 +25,6 @@
 ----
 
 # PAPERS
-* [Use of Heterologous Complementary DNA Array Screening to Analyze BovineOocyte Transcriptome and Its Evolution During In Vitro Maturation](http://www.biolreprod.org/content/68/1/252.full.pdf+html), Rozenn Dalbie`s-Tran and Pascal Mermillod.
 * [Sequence complexity and DNA curvature](http://research.haifa.ac.il/~genom/Alex%27s_page/article.pdf) by Gabrielian, A.E. & Bolshoy, A. in Comput Chem. 23, 263-274 (1999).
 * [The demoiselle of X-inactivation: 50 years old and as trendy and mesmerising as ever](http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002212), Morey C, Avner P. (2011). PLoS Genet 7(7):e1002212.
-
-
-
-
+* [A comparative encyclopedia of DNA elements in the mouse genome](http://www.nature.com/nature/journal/v515/n7527/full/nature13992.html)

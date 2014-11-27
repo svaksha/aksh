@@ -58,5 +58,6 @@
 * [New insights into nucleosome and chromatin structure: an ordered state or a disordered affair?](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3408961/), Karolin Luger, Mekonnen L. Dechassa, and David J. Tremethick, Nat Rev Mol Cell Biol 13(7):436-47, Published online Jun 22, 2012. doi: 10.1038/nrm3382.
 * [Combinatorial complexity in chromatin structure and function: revisiting the histone code](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3345062/) by Rando OJ. (2012). 
 * [Molecular mechanisms of long noncoding RNAs](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3199020/). Mol Cell 43(6):904-14, KC.Wang, HY.Chang ,2011.
+* [Use of Heterologous Complementary DNA Array Screening to Analyze BovineOocyte Transcriptome and Its Evolution During In Vitro Maturation](http://www.biolreprod.org/content/68/1/252.full.pdf+html), Rozenn Dalbie`s-Tran and Pascal Mermillod.
 
 
