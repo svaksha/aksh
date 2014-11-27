@@ -20,6 +20,7 @@
 * Paleontology, http://en.wikipedia.org/wiki/Category:Paleontology
 
 ### Papers
+* Non-OA PAPER: [People ate mammoth, dogs got reindeer](https://www.sciencedirect.com/science/article/pii/S104061821400696X?np=y) and the press release for [Tübingen biogeologists show how Gravettian people shared their food 30,000 years ago](http://www.uni-tuebingen.de/en/news/press-releases/newsfullview-pressemitteilungen/article/mammut-fuer-die-menschen-rentier-fuer-die-hunde-wie-die-nahrungsmittel-vor-30000-jahren-verteilt.html)
 * PAPER (non-OA) : [Early Eocene fossils suggest that the mammalian order Perissodactyla originated in India](http://www.nature.com/ncomms/2014/141120/ncomms6570/full/ncomms6570.html), with only the [supplementary figures are available as a pdf](http://www.nature.com/ncomms/2014/141120/ncomms6570/extref/ncomms6570-s1.pdf)
    * [Ancient relative of horses, rhinos originated in India more than 50 million years ago, fossils show](http://hub.jhu.edu/2014/11/20/india-fossils-perissodactyla)
    * Indian Wild Pig [Mammal fossil may tie together mammals from Madagascar and India](http://www.washingtonpost.com/national/health-science/mammal-fossil-may-tie-together-mammals-from-madagascar-and-india/2014/11/24/9af9a7a0-718f-11e4-ad12-3734c461eab6_story.html)
