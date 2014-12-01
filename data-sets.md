@@ -1,3 +1,5 @@
+**NOTE:: Not all the DB's are freely available.**
+
 * [Crystallography](#crystallography)
 * [Genome](#genome)
 * [General Datasets](#general-datasets)
@@ -5,6 +7,7 @@
 * [Neuroscience](#neuroscience)
 * [Pharma](#Pharma)
 * [Research Data](#research-data)
+* [Scientific Databases](#scientific-databases)
 
 ----
 
@@ -54,7 +57,6 @@
 
 ----
 
-
-----
-
-http://en.wikipedia.org/wiki/Protein_Data_Bank
+# Scientific Databases
+* [Scientific Databases](http://en.wikipedia.org/wiki/Category:Scientific_databases) list on WP.
+* [Chemical DB](http://en.wikipedia.org/wiki/Category:Chemical_databases) list on WP.
