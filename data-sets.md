@@ -19,13 +19,15 @@
 ----
 
 # Genome
-* [Saccharomyces Genome Database](https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database)
+* [DataLad](http://datalad.org) :: aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github.
+* [Ensembl](http://en.wikipedia.org/wiki/Ensembl) DB.  
+* [Ensembl Genomes](http://en.wikipedia.org/wiki/Ensembl_Genomes) DB.
+* [Entrez](http://en.wikipedia.org/wiki/Entrez) DB.
 * [Genome Project Database](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?DB=genomeprj)
 * [RefSeqGene](https://www.ncbi.nlm.nih.gov/refseq/rsg/) defines genomic sequences to be used as reference standards for well-characterized genes and is part of the Locus Reference Genomic (LRG) Project.
-* The [3000 Rice Genomes Project Data](http://dx.doi.org/10.5524/200001), GigaScience Database and [Journal](http://www.gigasciencejournal.com/content/3/1/8) and [blog article in BMC](See also: http://blogs.biomedcentral.com/gigablog/2014/05/29/publish-data-fight-world-hunger/).
-* NCBI's [Sequence Read Archive (SRA)](http://www.ncbi.nlm.nih.gov/sra)
-   - [NCBI Genebank](https://www.ncbi.nlm.nih.gov/genbank/)
-* [DataLad](http://datalad.org) :: aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github.
+* The 3000 [Rice Genomes Project Data](http://dx.doi.org/10.5524/200001), GigaScience Database and [Journal](http://www.gigasciencejournal.com/content/3/1/8) and [blog article in BMC](See also: http://blogs.biomedcentral.com/gigablog/2014/05/29/publish-data-fight-world-hunger/).
+* [Saccharomyces Genome Database](https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database)
+* [Sequence Read Archive](http://www.ncbi.nlm.nih.gov/sra) (SRA) from NCBI and the [NCBI Genebank](https://www.ncbi.nlm.nih.gov/genbank/).
 
 ----
 
