@@ -1,4 +1,5 @@
 * [DNA](#dna)
+   * [Chromosomes](#chromosomes)
 * [PAPERS](#papers)
 
 ----
@@ -21,6 +22,9 @@
 * DNA=Deoxyribonucleic acid, http://en.wikipedia.org/wiki/DNA
 * DNA mutations and changes, http://www.genetichealth.com/g101_changes_in_dna.shtml
 * Variomes | http://en.wikipedia.org/wiki/Variome
+
+## Chromosomes
+* The U.S. National Library of Medicine's Genetics Home Reference on [Chromosomes](http://ghr.nlm.nih.gov/chromosomes) 
 
 ----
 
