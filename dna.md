@@ -1,5 +1,6 @@
 * [DNA](#dna)
    * [Chromosomes](#chromosomes)
+   * [Sequence Analysis](#sequence-analysis)
 * [PAPERS](#papers)
 
 ----
@@ -19,12 +20,15 @@
 * Contig :: http://en.wikipedia.org/wiki/Contig
 * ORF :: http://en.wikipedia.org/wiki/Open_reading_frames
 * Gene expression profiling, http://en.wikipedia.org/wiki/Gene_expression_profiling
-* DNA=Deoxyribonucleic acid, http://en.wikipedia.org/wiki/DNA
+* [DNA (Deoxyribonucleic acid)](http://en.wikipedia.org/wiki/DNA)
 * DNA mutations and changes, http://www.genetichealth.com/g101_changes_in_dna.shtml
 * Variomes | http://en.wikipedia.org/wiki/Variome
 
 ## Chromosomes
 * The U.S. National Library of Medicine's Genetics Home Reference on [Chromosomes](http://ghr.nlm.nih.gov/chromosomes) 
+
+## Sequence Analysis
+* [Guide to SEQ analysis](https://www.ncbi.nlm.nih.gov/guide/sequence-analysis/)
 
 ----
 
@@ -33,3 +37,5 @@
 * [The demoiselle of X-inactivation: 50 years old and as trendy and mesmerising as ever](http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002212), Morey C, Avner P. (2011). PLoS Genet 7(7):e1002212.
 * [A comparative encyclopedia of DNA elements in the mouse genome](http://www.nature.com/nature/journal/v515/n7527/full/nature13992.html)
 * [Principles of regulatory information conservation between mouse and human](http://www.nature.com/nature/journal/v515/n7527/full/nature13985.html)
+
+
