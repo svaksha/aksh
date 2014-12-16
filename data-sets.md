@@ -23,6 +23,7 @@
 * [Ensembl](http://en.wikipedia.org/wiki/Ensembl) DB.  
 * [Ensembl Genomes](http://en.wikipedia.org/wiki/Ensembl_Genomes) DB.
 * [Entrez](http://en.wikipedia.org/wiki/Entrez) DB.
+   * [Entrez Programming Utilities](https://www.ncbi.nlm.nih.gov/books/NBK25500/) Help.
 * [Genome Project Database](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?DB=genomeprj)
 * [RefSeqGene](https://www.ncbi.nlm.nih.gov/refseq/rsg/) defines genomic sequences to be used as reference standards for well-characterized genes and is part of the Locus Reference Genomic (LRG) Project.
 * The 3000 [Rice Genomes Project Data](http://dx.doi.org/10.5524/200001), GigaScience Database and [Journal](http://www.gigasciencejournal.com/content/3/1/8) and [blog article in BMC](See also: http://blogs.biomedcentral.com/gigablog/2014/05/29/publish-data-fight-world-hunger/).
