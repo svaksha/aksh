@@ -19,12 +19,22 @@
 ----
 
 # Genome
+* [Chimpanzee Genome Project](http://en.wikipedia.org/wiki/Chimpanzee_Genome_Project)
 * [DataLad](http://datalad.org) :: aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github.
 * [Ensembl](http://en.wikipedia.org/wiki/Ensembl) DB.  
 * [Ensembl Genomes](http://en.wikipedia.org/wiki/Ensembl_Genomes) DB.
 * [Entrez](http://en.wikipedia.org/wiki/Entrez) DB.
-   * [Entrez Programming Utilities](https://www.ncbi.nlm.nih.gov/books/NBK25500/) Help.
+   * [Entrez Programming Utilities](https://www.ncbi.nlm.nih.gov/books/NBK25500/) Help. 
+* Genome project :: http://en.wikipedia.org/wiki/Genome_project
 * [Genome Project Database](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?DB=genomeprj)
+* [Human Genome Project](http://en.wikipedia.org/wiki/Human_genome_project)
+* [Human microbiome project](http://en.wikipedia.org/wiki/Human_microbiome_project)
+* [Neanderthal genome project](http://en.wikipedia.org/wiki/Neanderthal_genome_project)
+   - http://en.wikipedia.org/wiki/Neanderthal_extinction_hypotheses
+   - http://en.wikipedia.org/wiki/Archaic_human_admixture_with_modern_humans   
+* [NHLBI (National Heart, Lung, and Blood Institute)](http://www.nhlbi.nih.gov/research/resources/index.htm) resources, NIH (National Institutes of Health).
+* [Personal Genome Project](http://en.wikipedia.org/wiki/Personal_Genome_Project)
+* [Reactome](https://secure.wikimedia.org/wikipedia/en/wiki/Reactome) DB.
 * [RefSeqGene](https://www.ncbi.nlm.nih.gov/refseq/rsg/) defines genomic sequences to be used as reference standards for well-characterized genes and is part of the Locus Reference Genomic (LRG) Project.
 * The 3000 [Rice Genomes Project Data](http://dx.doi.org/10.5524/200001), GigaScience Database and [Journal](http://www.gigasciencejournal.com/content/3/1/8) and [blog article in BMC](See also: http://blogs.biomedcentral.com/gigablog/2014/05/29/publish-data-fight-world-hunger/).
 * [Saccharomyces Genome Database](https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database)

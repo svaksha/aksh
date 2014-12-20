@@ -3,7 +3,7 @@
    - [Videos](#videos)
 * [Eukaryotics](#eukaryotics)
 * [Gene](#gene)
-* [Genome Project Resources](#genome-project-resources)
+* [Genome](#genome)
 * [Proteomics](#proteomics)
 
 ----
@@ -25,7 +25,7 @@
 ----
 
 # EpiGenetics 
-* http://en.wikipedia.org/wiki/Epigenetics
+* [Epigenetics](http://en.wikipedia.org/wiki/Epigenetics)
 * Game to learn Epigenetics: [Gene Control game to learn Genetics](http://learn.genetics.utah.edu/content/epigenetics/control/), Genetic Science Learning Center, University of Utah.
 
 ### Papers
@@ -65,17 +65,8 @@
 
 ----
 
-# Genome Project Resources
-* Genome project :: http://en.wikipedia.org/wiki/Genome_project
-* Chimpanzee Genome Project :: http://en.wikipedia.org/wiki/Chimpanzee_Genome_Project
-* Neanderthal genome project :: http://en.wikipedia.org/wiki/Neanderthal_genome_project
-   - http://en.wikipedia.org/wiki/Neanderthal_extinction_hypotheses
-   - http://en.wikipedia.org/wiki/Archaic_human_admixture_with_modern_humans   
-* Human Genome Project :: http://en.wikipedia.org/wiki/Human_genome_project
-* Human microbiome project :: http://en.wikipedia.org/wiki/Human_microbiome_project
-* Personal Genome Project :: http://en.wikipedia.org/wiki/Personal_Genome_Project
-* Resources from [NHLBI (National Heart, Lung, and Blood Institute)](http://www.nhlbi.nih.gov/research/resources/index.htm) at the NIH (National Institutes of Health).
-* Reactome, https://secure.wikimedia.org/wikipedia/en/wiki/Reactome
+# Genome 
+* [NCBI Genome Assembly Model](https://www.ncbi.nlm.nih.gov/assembly/model/)
 
 ----
 
