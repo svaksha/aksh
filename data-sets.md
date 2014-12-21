@@ -6,6 +6,7 @@
 * [Machine Learning](#machine-learning)
 * [Neuroscience](#neuroscience)
 * [Pharma](#Pharma)
+* [Proteins](#proteins)
 * [Research Data](#research-data)
 * [Scientific Databases](#scientific-databases)
 
@@ -63,6 +64,11 @@
 
 # Pharma
 * [OSDD - open source drug discovery](http://www.osdd.org/).
+
+----
+
+# Proteins
+* [HIV-1, Human Protein Interaction Database](http://www.ncbi.nlm.nih.gov/genome/viruses/retroviruses/hiv-1/interactions/) :: A database of known interactions of HIV-1 proteins with proteins from human hosts. It provides annotated bibliographies of published reports of protein interactions, with links to the corresponding PubMed records and sequence data.
 
 ----
 
