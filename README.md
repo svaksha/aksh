@@ -1,7 +1,5 @@
-# EPISTEME
-The Episteme repo is my bibliography of useful resources for learning science.
-
-## Download
+# BIOLOGY 
+My bibliography of useful resources (books, papers, online resources, and other links) for learning natural science - Biology.
 
 
 # LICENSE 

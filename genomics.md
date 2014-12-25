@@ -68,6 +68,13 @@
 # Genome 
 * [NCBI Genome Assembly Model](https://www.ncbi.nlm.nih.gov/assembly/model/)
 
+### Genetic Analysis
+- [Central dogma, gene to protein](http://www.ncbi.nlm.nih.gov/books/NBK21811/)
+- [Inheritance (basic, x-linked)](http://www.ncbi.nlm.nih.gov/books/NBK21977/)
+- [Mendel’s experiments, crosses, independent assortment](http://www.ncbi.nlm.nih.gov/books/NBK22098/)
+- [Inheritance of organelle genes](http://www.ncbi.nlm.nih.gov/books/NBK22059/)
+- [Mitosis/meiosis](http://www.ncbi.nlm.nih.gov/books/NBK21836/)
+
 ----
 
 # Proteomics
