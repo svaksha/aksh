@@ -74,6 +74,8 @@
 - [Mendel’s experiments, crosses, independent assortment](http://www.ncbi.nlm.nih.gov/books/NBK22098/)
 - [Inheritance of organelle genes](http://www.ncbi.nlm.nih.gov/books/NBK22059/)
 - [Mitosis/meiosis](http://www.ncbi.nlm.nih.gov/books/NBK21836/)
+- [Genetic markers](http://www.ncbi.nlm.nih.gov/books/NBK21962/)
+- [SNPs, gene mapping](http://www.ncbi.nlm.nih.gov/books/NBK21841/)
 
 ----
 
