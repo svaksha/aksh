@@ -76,6 +76,14 @@
 - [Mitosis/meiosis](http://www.ncbi.nlm.nih.gov/books/NBK21836/)
 - [Genetic markers](http://www.ncbi.nlm.nih.gov/books/NBK21962/)
 - [SNPs, gene mapping](http://www.ncbi.nlm.nih.gov/books/NBK21841/)
+- [Mutations as sources of variation](http://www.ncbi.nlm.nih.gov/books/NBK22012/)
+- [Mutations types](http://www.ncbi.nlm.nih.gov/books/NBK22011/)
+- [Occurrence of mutations](http://www.ncbi.nlm.nih.gov/books/NBK21833/)
+- [Variable penetrance](http://www.ncbi.nlm.nih.gov/books/NBK22090/)
+- [Epistasis](http://www.ncbi.nlm.nih.gov/books/NBK21850/)
+- [Mapping complex traits, QTL](http://www.ncbi.nlm.nih.gov/books/NBK22110/)
+- [Continuous genetic variation](http://www.ncbi.nlm.nih.gov/books/NBK22007/) 
+- [Genotypes and phenotypic distribution](http://www.ncbi.nlm.nih.gov/books/NBK21994/)
 
 ----
 
