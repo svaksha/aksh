@@ -5,6 +5,16 @@
 - 9493 : https://github.com/JuliaLang/julia/issues/9493
 - 5840 : https://github.com/JuliaLang/julia/issues/5840
 
+### Linear Algebra 
+- https://github.com/JuliaLang/julia/issues?q=is%3Aopen+label%3A%22up+for+grabs%22+is%3Aissue+label%3A%22linear+algebra%22
+- [Proposal: Better linear algebra benchmarks #4668](https://github.com/JuliaLang/julia/issues/4668)
+
+### Tests - core JULIA
+* https://github.com/JuliaLang/julia/blob/master/test/unicode.jl
+* https://github.com/JuliaLang/julia/blob/e0176ec9c44530f4474f2f347613de121f9ed1fc/test/pkg.jl
+
+
+
 
 # Documentation
 * https://github.com/JuliaLang/julia/blob/ff9cebe45e6c39933ab26ca134b59b3ef47ec821/doc/helpdb.jl
@@ -14,4 +24,6 @@
 
 ## Unit and Functional Testing
 * http://julia.readthedocs.org/en/latest/stdlib/test/
+    
+    
     
