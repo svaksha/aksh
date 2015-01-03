@@ -84,6 +84,9 @@
 - [Mapping complex traits, QTL](http://www.ncbi.nlm.nih.gov/books/NBK22110/)
 - [Continuous genetic variation](http://www.ncbi.nlm.nih.gov/books/NBK22007/) 
 - [Genotypes and phenotypic distribution](http://www.ncbi.nlm.nih.gov/books/NBK21994/)
+- [Heritability](http://www.ncbi.nlm.nih.gov/books/NBK22001/)
+- [Quantifying heritability](http://www.ncbi.nlm.nih.gov/books/NBK21866/)
+- [Mean/variance/ correlation](http://www.ncbi.nlm.nih.gov/books/NBK21772/)
 
 ----
 
