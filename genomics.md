@@ -87,6 +87,8 @@
 - [Heritability](http://www.ncbi.nlm.nih.gov/books/NBK22001/)
 - [Quantifying heritability](http://www.ncbi.nlm.nih.gov/books/NBK21866/)
 - [Mean/variance/ correlation](http://www.ncbi.nlm.nih.gov/books/NBK21772/)
+- [Heritability/Breeder’s Equation](http://www.ncbi.nlm.nih.gov/books/NBK21832/)
+-
 
 ----
 
