@@ -1,5 +1,3 @@
-**NOTE:: Not all the DB's are freely available.**
-
 * [Crystallography](#crystallography)
 * [Genome](#genome)
 * [General Datasets](#general-datasets)
@@ -9,6 +7,8 @@
 * [Pharma](#Pharma)
 * [Research Data](#research-data)
 * [Scientific Databases](#scientific-databases)
+
+**NB :: Not all the DB's are freely available.**
 
 ----
 

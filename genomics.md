@@ -93,6 +93,9 @@
 - [Variation and divergence of populations](http://www.ncbi.nlm.nih.gov/books/NBK21757/)
 - [Inbreeding](http://www.ncbi.nlm.nih.gov/books/NBK22049/)
 
+### Papers
+- [Adaptation and Phenotypic Variance](http://www.nature.com/scitable/topicpage/adaptation-and-phenotypic-variance-1132) By: Diane L. Byers, Ph.D. (Department of Biology, Illinois State University.) © 2008 Nature Education.
+
 ----
 
 # Proteomics
