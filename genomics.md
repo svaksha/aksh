@@ -88,7 +88,10 @@
 - [Quantifying heritability](http://www.ncbi.nlm.nih.gov/books/NBK21866/)
 - [Mean/variance/ correlation](http://www.ncbi.nlm.nih.gov/books/NBK21772/)
 - [Heritability/Breeder’s Equation](http://www.ncbi.nlm.nih.gov/books/NBK21832/)
--
+- [Allele frequencies](http://www.ncbi.nlm.nih.gov/books/NBK22048/)
+- [Hardy-Weinberg equilibrium](http://www.ncbi.nlm.nih.gov/books/NBK22048/box/A3848/)
+- [Variation and divergence of populations](http://www.ncbi.nlm.nih.gov/books/NBK21757/)
+- [Inbreeding](http://www.ncbi.nlm.nih.gov/books/NBK22049/)
 
 ----
 
