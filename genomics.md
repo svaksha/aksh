@@ -5,7 +5,6 @@
 * [Gene](#gene)
 * [Genome](#genome)
 * [Proteomics](#proteomics)
-* [Open Access](#open-access)
 
 ----
 
@@ -76,14 +75,4 @@
 * [Proteomics](http://en.wikipedia.org/wiki/Proteomics) : the large-scale study of proteins, particularly their structures and functions.
 * http://en.wikipedia.org/wiki/Protein_sequencing (replaced by nucleic acid technology)
 * http://en.wikipedia.org/wiki/Edman_degradation
-
----- 
-
-# Open Access
-
-### Books
-
-### Papers
-- [Adaptation and Phenotypic Variance](http://www.nature.com/scitable/topicpage/adaptation-and-phenotypic-variance-1132) By: Diane L. Byers, Ph.D. (Department of Biology, Illinois State University.) © 2008 Nature Education.
-
 
