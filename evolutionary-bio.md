@@ -37,6 +37,7 @@
 ### Papers
 * [Data access for the 1,000 Plants (1KP) project](http://www.gigasciencejournal.com/content/3/1/17) and the [full PDF paper](http://www.gigasciencejournal.com/content/pdf/2047-217X-3-17.pdf)
 * [Designer proteins shed light on evolution](http://www.riken.jp/en/pr/topics/2014/20141020_1/)
+* [Reading a Phylogenetic Tree: The Meaning of Monophyletic Groups](http://www.nature.com/scitable/topicpage/reading-a-phylogenetic-tree-the-meaning-of-41956)
 
 ----
 
@@ -78,3 +79,5 @@
 ##### Papers
 - [Adaptation and Phenotypic Variance](http://www.nature.com/scitable/topicpage/adaptation-and-phenotypic-variance-1132) By: Diane L. Byers, Ph.D. (Department of Biology, Illinois State University.) © 2008 Nature Education.
 - [Speciation: The Origin of New Species](http://www.nature.com/scitable/knowledge/library/speciation-the-origin-of-new-species-26230527) By: Rebecca J. Safran (Department of Ecology and Evolutionary Biology University of Colorado, Boulder) & Patrik Nosil (Department of Ecology and Evolutionary Biology University of Colorado, Boulder) © 2012 Nature Education 
+
+
