@@ -5,6 +5,7 @@
 * [Gene](#gene)
 * [Genome](#genome)
 * [Proteomics](#proteomics)
+* [Open Access](#open-access)
 
 ----
 
@@ -68,7 +69,19 @@
 # Genome 
 * [NCBI Genome Assembly Model](https://www.ncbi.nlm.nih.gov/assembly/model/)
 
-### Genetic Analysis
+----
+
+# Proteomics
+* Proteome :: http://en.wikipedia.org/wiki/Proteome
+* [Proteomics](http://en.wikipedia.org/wiki/Proteomics) : the large-scale study of proteins, particularly their structures and functions.
+* http://en.wikipedia.org/wiki/Protein_sequencing (replaced by nucleic acid technology)
+* http://en.wikipedia.org/wiki/Edman_degradation
+
+---- 
+
+# Open Access
+
+### Book: An Introduction to Genetic Analysis. (7th edition) - Griffiths AJF, Miller JH, Suzuki DT, et al. New York: W. H. Freeman; 2000.
 - [Central dogma, gene to protein](http://www.ncbi.nlm.nih.gov/books/NBK21811/)
 - [Inheritance (basic, x-linked)](http://www.ncbi.nlm.nih.gov/books/NBK21977/)
 - [Mendel’s experiments, crosses, independent assortment](http://www.ncbi.nlm.nih.gov/books/NBK22098/)
@@ -92,15 +105,14 @@
 - [Hardy-Weinberg equilibrium](http://www.ncbi.nlm.nih.gov/books/NBK22048/box/A3848/)
 - [Variation and divergence of populations](http://www.ncbi.nlm.nih.gov/books/NBK21757/)
 - [Inbreeding](http://www.ncbi.nlm.nih.gov/books/NBK22049/)
+- [Natural selection](http://www.ncbi.nlm.nih.gov/books/NBK22009/)
+- [Genetic drift](http://www.ncbi.nlm.nih.gov/books/NBK21757/)
+- [Rate of molecular evolution](http://www.ncbi.nlm.nih.gov/books/NBK21946/)
+- [Neutral theory](http://www.ncbi.nlm.nih.gov/books/NBK22046/)
+- [Random events](http://www.ncbi.nlm.nih.gov/books/NBK21995/)
+- [Nonsynonymous / synonymous ratio](http://www.ncbi.nlm.nih.gov/books/NBK21946/)
 
 ### Papers
 - [Adaptation and Phenotypic Variance](http://www.nature.com/scitable/topicpage/adaptation-and-phenotypic-variance-1132) By: Diane L. Byers, Ph.D. (Department of Biology, Illinois State University.) © 2008 Nature Education.
 
-----
-
-# Proteomics
-* Proteome :: http://en.wikipedia.org/wiki/Proteome
-* [Proteomics](http://en.wikipedia.org/wiki/Proteomics) : the large-scale study of proteins, particularly their structures and functions.
-* http://en.wikipedia.org/wiki/Protein_sequencing (replaced by nucleic acid technology)
-* http://en.wikipedia.org/wiki/Edman_degradation
 
