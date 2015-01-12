@@ -33,7 +33,10 @@
 * https://en.wikipedia.org/wiki/Locus_%28genetics%29
 * http://en.wikipedia.org/wiki/Phylogenetic
 * Cell nucleus :: http://en.wikipedia.org/wiki/Cell_nucleus
-* https://en.wikipedia.org/wiki/Phylogenetics
++ https://en.wikipedia.org/wiki/Phylogenetics
++ [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy_%28biology%29)
++ [Cladistics](https://en.wikipedia.org/wiki/Cladistics)
+
 
 ### Papers
 * [Data access for the 1,000 Plants (1KP) project](http://www.gigasciencejournal.com/content/3/1/17) and the [full PDF paper](http://www.gigasciencejournal.com/content/pdf/2047-217X-3-17.pdf)
