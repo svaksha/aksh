@@ -35,7 +35,10 @@
 * Cell nucleus :: http://en.wikipedia.org/wiki/Cell_nucleus
 + https://en.wikipedia.org/wiki/Phylogenetics
 + [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy_%28biology%29)
-+ [Cladistics](https://en.wikipedia.org/wiki/Cladistics) and [Cladogram](https://en.wikipedia.org/wiki/Cladogram)s.
++ [Clade](https://en.wikipedia.org/wiki/Clade), [Cladistics](https://en.wikipedia.org/wiki/Cladistics) and [Cladogram](https://en.wikipedia.org/wiki/Cladogram)s.
++ https://en.wikipedia.org/wiki/Monophyly
++ https://en.wikipedia.org/wiki/Synapomorphy
++ https://en.wikipedia.org/wiki/Symplesiomorphy
 
 
 ### Papers
