@@ -27,10 +27,12 @@ This is my bibliography of useful resources (books, papers, online resources, an
 ----
 
 # LICENSE 
-* This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - (CC BY-NC-SA 4.0) as detailed in the [LICENSE.md](https://github.com/svaksha/biology/blob/master/LICENSE.md) file.
++ COPYRIGHT © 2010-Now [SVAKSHA](http://svaksha.com/pages/Bio), All Rights Reserved. 
++ This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - (CC BY-NC-SA 4.0) as detailed in the [LICENSE.md](https://github.com/svaksha/biology/blob/master/LICENSE.md) file.
+
 
 ### Mirrors
-- [GitLab](https://gitlab.com/svaksha/biology) :: git clone git@gitlab.com:svaksha/biology.git 
-- [Devlabs](https://gitlab.devlabs.linuxassist.net/svaksha/biology) :: git clone ssh://git@gitlab.devlabs.linuxassist.net:608/svaksha/biology.git
++ [GitLab](https://gitlab.com/svaksha/biology) :: git clone git@gitlab.com:svaksha/biology.git 
++ [Devlabs](https://gitlab.devlabs.linuxassist.net/svaksha/biology) :: git clone ssh://git@gitlab.devlabs.linuxassist.net:608/svaksha/biology.git
 
 
