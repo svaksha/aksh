@@ -14,7 +14,6 @@
 * Ancient DNA :: http://en.wikipedia.org/wiki/Ancient_DNA
 * Alternative splicing :: http://en.wikipedia.org/wiki/Alternative_splicing
 * Single gene disorder :: http://en.wikipedia.org/wiki/Genetic_disorder#Single_gene_disorder
-* DNA polymerase :: http://en.wikipedia.org/wiki/DNA_polymerase
 * Significance analysis of microarrays: http://en.wikipedia.org/wiki/Significance_analysis_of_microarrays
 * Gene Ontology: http://en.wikipedia.org/wiki/Gene_Ontology
 * Contig :: http://en.wikipedia.org/wiki/Contig
@@ -23,9 +22,14 @@
 * [DNA (Deoxyribonucleic acid)](http://en.wikipedia.org/wiki/DNA)
 * DNA mutations and changes, http://www.genetichealth.com/g101_changes_in_dna.shtml
 * Variomes | http://en.wikipedia.org/wiki/Variome
++ http://en.wikipedia.org/wiki/Deoxyribonucleotide
+
+## DNA replication
 + http://en.wikipedia.org/wiki/Prokaryotic_DNA_replication
 + http://en.wikipedia.org/wiki/Origin_of_replication
-
+* DNA polymerase :: http://en.wikipedia.org/wiki/DNA_polymerase
++ http://en.wikipedia.org/wiki/DNA_polymerase_III_holoenzyme
++ http://en.wikipedia.org/wiki/Divalent
 
 ## Chromosomes
 * The U.S. National Library of Medicine's Genetics Home Reference on [Chromosomes](http://ghr.nlm.nih.gov/chromosomes) 
