@@ -11,6 +11,13 @@
 + http://en.wikipedia.org/wiki/Purine
 + http://en.wikipedia.org/wiki/Uracil
 + http://en.wikipedia.org/wiki/Nucleobase
++ http://en.wikipedia.org/wiki/Base_pair
++ http://en.wikipedia.org/wiki/Base_%28chemistry%29
++ http://en.wikipedia.org/wiki/Glycosidic_bond
++ http://en.wikipedia.org/wiki/Hemiacetal 
++ [Saccharide or Carbohydrate](http://en.wikipedia.org/wiki/Carbohydrate)
++ http://en.wikipedia.org/wiki/Glycosylamine
+
 
 ----
 
