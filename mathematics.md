@@ -5,8 +5,6 @@
 
 ---- 
 
-- https://en.wikipedia.org/wiki/Outline_of_science
-
 # Arithmetic
 + [A "two-product" style algorithm paper](http://www.ti3.tu-harburg.de/paper/rump/OgRuOi05.pdf)
 
