@@ -11,7 +11,7 @@
 + http://en.wikipedia.org/wiki/Nucleophile
 + http://en.wikipedia.org/wiki/Pyrimidine
 + http://en.wikipedia.org/wiki/Purine
-+ http://en.wikipedia.org/wiki/Uracil
++ http://en.wikipedia.org/wiki/Uracil  {{ [Dihydrouracil](http://en.wikipedia.org/wiki/Dihydrouracil) is an intermediate in the catabolism of uracil.}}
 + http://en.wikipedia.org/wiki/Nucleobase
 + http://en.wikipedia.org/wiki/Base_pair
 + http://en.wikipedia.org/wiki/Base_%28chemistry%29
