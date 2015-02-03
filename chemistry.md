@@ -27,6 +27,7 @@
 + http://en.wikipedia.org/wiki/5-Methylcytosine
 + http://en.wikipedia.org/wiki/Pseudouridine
 + http://en.wikipedia.org/wiki/Dihydrouridine
++ http://en.wikipedia.org/wiki/Inosine
 
 ----
 
