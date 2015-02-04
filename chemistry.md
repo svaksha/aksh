@@ -28,6 +28,7 @@
 + http://en.wikipedia.org/wiki/Pseudouridine
 + http://en.wikipedia.org/wiki/Dihydrouridine
 + http://en.wikipedia.org/wiki/Inosine
++ http://en.wikipedia.org/wiki/Hypoxanthine
 
 ----
 
