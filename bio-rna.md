@@ -9,10 +9,9 @@
 * mRNA :: http://en.wikipedia.org/wiki/Messenger_RNA
    * [Precursor mRNA (pre-mRNA)](http://en.wikipedia.org/wiki/Precursor_mRNA) is an immature single strand of messenger ribonucleic acid (mRNA).
    * [RNA Sequencing](http://en.wikipedia.org/wiki/RNA-Seq) {"Whole Transcriptome Shotgun Sequencing"("WTSS")}
-* Transfer RNA :: http://en.wikipedia.org/wiki/Transfer_RNA
-* Introns :: http://en.wikipedia.org/wiki/Introns
-* Exome :: http://en.wikipedia.org/wiki/Exome
-   * Exome sequencing :: http://en.wikipedia.org/wiki/Exome_sequencing
+* [Transfer RNA](http://en.wikipedia.org/wiki/Transfer_RNA) and [Anticodons](http://en.wikipedia.org/wiki/Transfer_RNA#Anticodon)
+* [Introns](http://en.wikipedia.org/wiki/Introns)
+* [Exomes](http://en.wikipedia.org/wiki/Exome) and [Exome sequencing](http://en.wikipedia.org/wiki/Exome_sequencing)
 * Non-coding RNA :: http://en.wikipedia.org/wiki/Non-coding_RNA
    - snoRNA :: http://en.wikipedia.org/wiki/Small_nucleolar_RNA
    - miRNA :: http://en.wikipedia.org/wiki/MicroRNA

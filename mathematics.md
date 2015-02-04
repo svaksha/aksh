@@ -11,7 +11,7 @@
 ---- 
 
 # Geometry
-+ http://en.wikipedia.org/wiki/Chirality_%28mathematics%29   {{REF: Chirality in Organic Chemistry}}
++ [Chirality in MATH](http://en.wikipedia.org/wiki/Chirality_%28mathematics%29) and [Chirality in Organic Chemistry](http://en.wikipedia.org/wiki/Chirality_%28chemistry%29).
 
 ---- 
 
