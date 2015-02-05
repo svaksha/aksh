@@ -21,13 +21,14 @@
 * Gene expression profiling, http://en.wikipedia.org/wiki/Gene_expression_profiling
 * [DNA (Deoxyribonucleic acid)](http://en.wikipedia.org/wiki/DNA)
 * DNA mutations and changes, http://www.genetichealth.com/g101_changes_in_dna.shtml
-* Variomes | http://en.wikipedia.org/wiki/Variome
++ [Variomes](http://en.wikipedia.org/wiki/Variome)
 + http://en.wikipedia.org/wiki/Deoxyribonucleotide
 
 ## DNA replication
++ [Genetic code](http://en.wikipedia.org/wiki/Genetic_code)
 + http://en.wikipedia.org/wiki/Prokaryotic_DNA_replication
 + http://en.wikipedia.org/wiki/Origin_of_replication
-* DNA polymerase :: http://en.wikipedia.org/wiki/DNA_polymerase
++ [DNA polymerase](http://en.wikipedia.org/wiki/DNA_polymerase)
 + http://en.wikipedia.org/wiki/DNA_polymerase_III_holoenzyme
 + http://en.wikipedia.org/wiki/Divalent
 
