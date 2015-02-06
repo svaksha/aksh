@@ -9,7 +9,7 @@
 ----
 
 * http://en.wikipedia.org/wiki/List_of_omics_topics_in_biology
-* CAT:Genomics :: http://en.wikipedia.org/wiki/Category:Genomics
+* CAT : [Genomics](http://en.wikipedia.org/wiki/Category:Genomics)
 * http://en.wikipedia.org/wiki/Medical_genetics
 * https://en.wikipedia.org/wiki/Structural_biology
 * Molecular medicine, http://en.wikipedia.org/wiki/Molecular_medicine
@@ -21,6 +21,7 @@
 * Gene expression profiling :: http://en.wikipedia.org/wiki/Gene_expression_profiling
 * [Weighted correlation (gene co-expression) network analysis](http://en.wikipedia.org/wiki/Weighted_correlation_network_analysis).
 * https://en.wikipedia.org/wiki/Comparative_genomics
++ [Translation biology](http://en.wikipedia.org/wiki/Translation_%28biology%29)
 
 ----
 
