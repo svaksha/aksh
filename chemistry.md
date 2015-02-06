@@ -10,6 +10,8 @@
 # [BioChemistry](http://en.wikipedia.org/wiki/Biochemistry)
 + [Amino acids](http://en.wikipedia.org/wiki/Amino_acid)
 + [Proteinogenic amino acid](http://en.wikipedia.org/wiki/Proteinogenic_amino_acid)
++ http://en.wikipedia.org/wiki/Selenocysteine
++ http://en.wikipedia.org/wiki/Pyrrolysine
 
 ----
 
