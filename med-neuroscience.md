@@ -38,6 +38,9 @@
 # [Congenital Disorders](http://en.wikipedia.org/wiki/Category:Congenital_disorders)
 **REF : Developmental Biology**
 + [Heterotopia](http://en.wikipedia.org/wiki/Heterotopia_%28medicine%29)
++ [Gray matter heterotopia](http://en.wikipedia.org/wiki/Gray_matter_heterotopia)
+
+----
 
 # General
 * Neurophysiology :: http://en.wikipedia.org/wiki/Neurophysiology
@@ -71,5 +74,5 @@
 ----
 
 # Projects
-* BrainMaps project :: http://en.wikipedia.org/wiki/BrainMaps
+* [BrainMaps](http://en.wikipedia.org/wiki/BrainMaps) project.
 
