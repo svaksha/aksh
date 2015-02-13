@@ -19,5 +19,6 @@
 # OtherLinks
 + [App SW](http://nci.org.au/services-support/getting-help/application-software/)
 + [Compile and test](http://physical-chemistry.scb.uwa.edu.au/tonto/wiki/index.php/Compiling_and_testing_Tonto)
++ Setup [jobs](http://physical-chemistry.scb.uwa.edu.au/tonto/wiki/index.php/Setting_up_typical_Tonto_jobs)
 + [Platform](http://physical-chemistry.scb.uwa.edu.au/tonto/wiki/index.php/The_platform-specific_directory)
 + [About](http://dylan-jayatilaka.net/tonto/about/)
