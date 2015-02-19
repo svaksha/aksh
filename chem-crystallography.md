@@ -21,5 +21,5 @@
 + [MoPro](http://www.iucr.org/resources/other-directories/software/mopro) software (in Fortran and Java) and [slides](http://www.cdifx.univ-rennes1.fr/RECIPROCS/sept2011/pdf/RECIPROCS_ANGD2011_MoPro_Jelsch.pdf) by the core-devs.
 
 #### Workshop
-+ http://www.chem.gla.ac.uk/~louis/asia_workshop/
-
++ [workshop](http://www.chem.gla.ac.uk/~louis/asia_workshop/) and a [PDF](http://www.chem.gla.ac.uk/~louis/asia_workshop/Program_ACDM.pdf)
++ [Crystallographic software list](http://www.iucr.org/resources/other-directories/software) 
