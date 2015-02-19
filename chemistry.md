@@ -1,5 +1,4 @@
 + [BioChemistry](#biochemistry)
-* [Crystallography](#crystallography)
 + [Organic Chemistry](#organic-chemistry)
    * [Carbohydrate Chemistry](#carbohydrate-chemistry)
 + [Quantum Chemistry](#quantum-chemistry)
@@ -13,13 +12,6 @@
 + [Proteinogenic amino acid](http://en.wikipedia.org/wiki/Proteinogenic_amino_acid)
 + http://en.wikipedia.org/wiki/Selenocysteine
 + http://en.wikipedia.org/wiki/Pyrrolysine
-
-----
-
-# Crystallography
-+ https://en.wikipedia.org/wiki/X-ray_crystallography
-+ https://en.wikipedia.org/wiki/Huygens%E2%80%93Fresnel_principle
-+ https://en.wikipedia.org/wiki/Kirchhoff%27s_diffraction_formula
 
 ----
 
