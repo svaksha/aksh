@@ -8,6 +8,10 @@
 + https://en.wikipedia.org/wiki/Kirchhoff%27s_diffraction_formula
 * https://en.wikipedia.org/wiki/Green%27s_theorem
 
+## Refinement-H-bond
+* [Instructions for using the protein hydrogen-bonding database potential (HBDB) in structure refinement](http://spin.niddk.nih.gov/bax/software/HBDB/index.htm)
+
+
 ----
 
 # ORG
