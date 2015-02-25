@@ -1,5 +1,5 @@
-# Software Packages
 
+# Software Packages
 + http://www.chem.gla.ac.uk/~louis/asia_workshop/
 
 ### MoleCoolQT
@@ -26,6 +26,5 @@
 ### VMD
 + http://blog.thismagpie.com/2012/11/how-to-install-vmd-on-linux-ubuntu-64.html 
 + http://www.ks.uiuc.edu/Research/vmd/
-
 
 
