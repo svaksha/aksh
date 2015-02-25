@@ -31,9 +31,13 @@
 
 ### Software
 + http://www.iucr.org/resources/other-directories/software?result_42405_result_page=M
-+ [MoleCoolQt](http://www.molecoolqt.de/index.htm)l
++ http://www.crystal.chem.ed.ac.uk/links/software.php
++ [MoleCoolQt](http://www.molecoolqt.de/index.html) is the viewer for WinXD.
 + [MoPro](http://www.iucr.org/resources/other-directories/software/mopro) software (in Fortran and Java) and [slides](http://www.cdifx.univ-rennes1.fr/RECIPROCS/sept2011/pdf/RECIPROCS_ANGD2011_MoPro_Jelsch.pdf) by the core-devs.
-
++ [Crystal Explorer](http://hirshfeldsurface.net/) and the [wiki](http://130.95.176.70/wiki/index.php/)
++ http://www.cryst.chem.uu.nl/platon/pl000000.html
+ 
+ 
 ###### Resources
 + [Crystallographic software list](http://www.iucr.org/resources/other-directories/software) 
 * https://en.wikipedia.org/wiki/Advanced_Photon_Source
