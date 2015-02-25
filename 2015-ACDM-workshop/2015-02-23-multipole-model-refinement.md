@@ -5,7 +5,7 @@
 
 ----
 
-# Philip Coppens (Title: “A Birds Eye Introduction to X-ray Charge Density Analysis and Some Recent Developments”)
+# [Philip Coppens](Title: “A Birds Eye Introduction to X-ray Charge Density Analysis and Some Recent Developments”)
 
 ### Basic principals of X-Ray charge dnsities analysis and an intro to excitation densities
 
@@ -62,8 +62,7 @@ CONCEPTS:
 
 ----
 
-# Piero Macchi
-## Piero Macchi “General Aspects of Multipole Modelling”
+# [Piero Macchi](Title : “General Aspects of Multipole Modelling”)
 
 ### Multipolar Expansion 
 * ED is expanded in multi polar centered atomic functions 
@@ -128,7 +127,7 @@ the xpansion goes maximum for product of two L + L' (l prime) = that mean an app
 
 ----
 
-# Jacob Overgaard (Title : “Importance of Modelling H-Atoms”)
+# [Jacob Overgaard](Title : “Importance of Modelling H-Atoms”)
 
 ### H-atoms
 

@@ -2,10 +2,11 @@
 + [TNGuru Row](#tnguru-row)
 + [Gautam Desiraju](#gautam-desiraju)
 + [Pierre Becker](#pierre-becker)
+* [Christian Jelsch](#christian-jelsch)
 
 ----
 
-# Dietmar Stalke (Title : “Only good data can challenge chemical concepts")
+# [Dietmar Stalke](Title : “Only good data can challenge chemical concepts")
 
 ### what is good data
 * challeng data and the hypothesis.
@@ -18,13 +19,13 @@ __Refer to the talk slides for details__
 
 ---- 
 
-# T.N. Guru Row (Title: “σ- and π-holes from Charge Densities: Relevance to Chemistry”)
+# [TNGuru Row](Title: “σ- and π-holes from Charge Densities: Relevance to Chemistry”)
 
 __Refer to the talk slides for details__
 
 ----
 
-# Gautam Desiraju (Title : “Charge Densities in Crystal Engineering”)
+# [Gautam Desiraju](Title : “Charge Densities in Crystal Engineering”)
 
 * keywords : covalent bonds, molecule interactions, molecular structure, 
 * inter-molecule interactions and structure prediction is a vast subject.
@@ -33,13 +34,13 @@ __Refer to the talk slides for details__
 
 ----
 
-# Pierre Becker (Title : “Important aspects concerning joint refinement of charge/spin electron densities or charge/momentum densities)
+# [Pierre Becker](Title : “Important aspects concerning joint refinement of charge/spin electron densities or charge/momentum densities)
 
 __Refer to the talk slides for details__
 
 ----
  
-# Christian Jelsch  (MoPro workshop)
+# [Christian Jelsch](MoPro workshop)
 
 
 
