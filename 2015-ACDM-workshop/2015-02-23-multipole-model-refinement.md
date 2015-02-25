@@ -164,7 +164,7 @@ the xpansion goes maximum for product of two L + L' (l prime) = that mean an app
 
 ----
  
-# Christian Jelsch  (MoPro)
+# [Christian Jelsch](MoPro workshop)
 
 ATOMS      30
 
