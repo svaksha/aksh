@@ -16,7 +16,7 @@
 
 ----
 
-# .foo
+# CE and Tonto 
 + [App SW](http://nci.org.au/services-support/getting-help/application-software/)
 + [Compile and test](http://physical-chemistry.scb.uwa.edu.au/tonto/wiki/index.php/Compiling_and_testing_Tonto)
 + Setup [jobs](http://physical-chemistry.scb.uwa.edu.au/tonto/wiki/index.php/Setting_up_typical_Tonto_jobs)
@@ -24,7 +24,21 @@
 + [About](http://dylan-jayatilaka.net/tonto/about/)
 + [Metal hydrate CIFs](http://physical-chemistry.scb.uwa.edu.au/tonto/wiki/index.php/Metal_hydrate_CIFs)
 
-+ http://www.crystal.chem.ed.ac.uk/links/software.php
+### CE
 + [Crystal Explorer](http://hirshfeldsurface.net/) and the [wiki](http://130.95.176.70/wiki/index.php/)
 + http://130.95.176.70/wiki/index.php/Quick_Start_Guide_for_CrystalExplorer_3.0
+
 + http://www.xrayforum.co.uk/viewtopic.php?f=155&t=2299
+
+----
+
+# Olex 
++ [Olex2](http://www.olexsys.org/) and Tonto.
++ http://www.crystal.chem.ed.ac.uk/links/software.php
+
+----
+
+# MoPro
+* http://crm2.univ-lorraine.fr/lab/en/software/mopro/
+
+
