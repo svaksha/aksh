@@ -24,4 +24,7 @@
 + [About](http://dylan-jayatilaka.net/tonto/about/)
 + [Metal hydrate CIFs](http://physical-chemistry.scb.uwa.edu.au/tonto/wiki/index.php/Metal_hydrate_CIFs)
 
-
++ http://www.crystal.chem.ed.ac.uk/links/software.php
++ [Crystal Explorer](http://hirshfeldsurface.net/) and the [wiki](http://130.95.176.70/wiki/index.php/)
++ http://130.95.176.70/wiki/index.php/Quick_Start_Guide_for_CrystalExplorer_3.0
++ http://www.xrayforum.co.uk/viewtopic.php?f=155&t=2299
