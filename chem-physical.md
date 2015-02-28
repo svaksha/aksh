@@ -8,6 +8,7 @@
 + [Solid State Chemistry](#solid-state-chemistry)
    + [Crystallography](#crystallography)
 + [Spectroscopy](#spectroscopy)
++ [Stereochemistry](#stereochemistry)
 + Surface Science
 + Thermochemistry
 
@@ -44,3 +45,6 @@
 
 ---- 
 
+# [Stereochemistry](https://en.wikipedia.org/wiki/Category:Stereochemistry)
++ https://en.wikipedia.org/wiki/Category:Molecular_geometry
++ https://en.wikipedia.org/wiki/Molecular_geometry
