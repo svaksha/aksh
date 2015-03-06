@@ -15,3 +15,5 @@
 + [corner indices](https://books.google.co.in/books?id=q4PBBAAAQBAJ&pg=PA52&lpg=PA52&dq=corner+indices&source=bl&ots=T25_s3t1H0&sig=BkmpxbXwjoNeiX1Mm-qD1eARhNw&hl=en&sa=X&ei=f0vcVIj1K4OcuQTxqYC4Bg&ved=0CBwQ6AEwADgK#v=onepage&q=corner%20indices&f=false) from Traces and Emergence of Nonlinear Programming.
 
 
+
+

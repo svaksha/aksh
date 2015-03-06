@@ -48,4 +48,5 @@
 + http://blog.thismagpie.com/2012/11/how-to-install-vmd-on-linux-ubuntu-64.html 
 + http://www.ks.uiuc.edu/Research/vmd/
 
-
+# File Formats
++ CIF : http://www.iucr.org/resources/cif/software

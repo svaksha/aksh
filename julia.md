@@ -23,18 +23,34 @@
 + https://github.com/JuliaLang/julia/issues?q=is%3Aopen+label%3A%22up+for+grabs%22+is%3Aissue+label%3A%22linear+algebra%22
 + [Proposal: Better linear algebra benchmarks #4668](https://github.com/JuliaLang/julia/issues/4668)
 
-### Tests - core JULIA
+----
+
+# Tests - core JULIA
 * https://github.com/JuliaLang/julia/blob/master/test/unicode.jl
 * https://github.com/JuliaLang/julia/blob/e0176ec9c44530f4474f2f347613de121f9ed1fc/test/pkg.jl
+## Unit and Functional Testing
+* http://julia.readthedocs.org/en/latest/stdlib/test/
 
 ----
 
 # Documentation
 * https://github.com/JuliaLang/julia/blob/ff9cebe45e6c39933ab26ca134b59b3ef47ec821/doc/helpdb.jl
+julia> foo = "abc"; bar = "bac"; zoo = "234";
 
-## Packaging
+julia> if foo == "abc" && bar == "bac" && zoo != "123"
+           println("Please see http://docs.julialang.org/en/latest/manual/control-flow/")
+       end
+See http://docs.julialang.org/en/latest/manual/control-flow/
+Check out http://julia.readthedocs.org/en/release-0.3/manual/control-flow/#short-circuit-evaluation
+
+----
+
+# Packaging
 + http://docs.julialang.org/en/latest/manual/packages/#package-development
 
-## Unit and Functional Testing
-* http://julia.readthedocs.org/en/latest/stdlib/test/
-    
+### build.jl
++ https://github.com/JuliaOpt/Ipopt.jl/blob/99b85463ca408aefb4931d2ebaaa97cf5f821acc/deps/build.jl#L42-L45
+
+
+
+
