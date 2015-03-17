@@ -31,6 +31,7 @@
 + [DNA polymerase](http://en.wikipedia.org/wiki/DNA_polymerase)
 + http://en.wikipedia.org/wiki/DNA_polymerase_III_holoenzyme
 + http://en.wikipedia.org/wiki/Divalent
++ https://en.wikipedia.org/wiki/DNA_codon_table
 
 ## Chromosomes
 * The U.S. National Library of Medicine's Genetics Home Reference on [Chromosomes](http://ghr.nlm.nih.gov/chromosomes) 

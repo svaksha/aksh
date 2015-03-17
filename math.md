@@ -8,6 +8,11 @@
 # Arithmetic
 + [A "two-product" style algorithm paper](http://www.ti3.tu-harburg.de/paper/rump/OgRuOi05.pdf)
 
+----
+
+# CS theory
++ https://en.wikipedia.org/wiki/Lambda_calculus
+
 ---- 
 
 # Geometry
