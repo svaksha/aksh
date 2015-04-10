@@ -2,9 +2,10 @@
 
 ----
 
-# DotclearWiki
+# Dotclear-DocuWiki
 + Dotclear wiki syntax : http://dotclear.org/documentation/2.0/usage/syntaxes
 + Formatting syntax : http://fr.dotclear.org/documentation/wiki/syntax
++ http://fr.dotclear.org/documentation/wiki/dokuwiki
 
 ----
 
