@@ -88,16 +88,18 @@ https://www.google.com/search?q=mkdocs.yml+jl+site:github.com&ie=utf-8&oe=utf-8
 
 # Arrays
 + http://julia.readthedocs.org/en/latest/manual/arrays/
-
-+ https://en.wikipedia.org/wiki/Regular_expression#Syntax 
-+ http://julia.readthedocs.org/en/latest/manual/strings/ 
-+ https://stackoverflow.com/questions/20478823/joining-regular-expressions-in-julia
++ Read .csv, http://randyzwitch.com/julia-import-data/
++ DF, https://github.com/JuliaStats/DataFrames.jl/blob/cac96119c9f5e24c5f2976ff119703a6ec52476c/src/abstractdataframe/abstractdataframe.jl#L67
 
 ----
 
 # RE Strings
 + https://en.wikipedia.org/wiki/Regular_expression
 + http://julia.readthedocs.org/en/latest/stdlib/strings/
+
++ https://en.wikipedia.org/wiki/Regular_expression#Syntax 
++ http://julia.readthedocs.org/en/latest/manual/strings/ 
++ https://stackoverflow.com/questions/20478823/joining-regular-expressions-in-julia
 
 ----
 
@@ -125,4 +127,6 @@ https://www.google.com/search?q=mkdocs.yml+jl+site:github.com&ie=utf-8&oe=utf-8
 
 ##### Books
 + [Toward a Global Science: Mining Civilizational Knowledge By Susantha Goonatilake](http://books.google.co.in/books?id=SI5ip95BbgEC&pg=PA126&dq=Virahanka+Fibonacci&hl=en#v=onepage&q&f=false
+
+
 
