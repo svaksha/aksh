@@ -14,10 +14,13 @@
 # Cloud—Infrastructure
 
 + [Aerohive Networks](http://www.aerohive.com), Santa Clara, CA
++ [Atlantis Computing](http://www.atlantiscomputing.com), Mountain View, CA
 + [BlueLock](http://www.bluelock.com), Indianapolis, IN
 + [Box.net](http://www.box.net), Palo Alto, CA
++ [Cloudera](http://www.cloudera.com), Burlingame, CA
 + [CloudShare](http://www.cloudshare.com), Menlo Park, CA
 + [Coraid](http://www.coraid.com), Redwood City, CA
++ [Dell Cloud](http://dell.com/Cloud)
 + [Delphix](http://www.delphix.com), Menlo Park, CA
 + [Dropbox](http://www.dropbox.com), San Francisco, CA
 + [Elastra](http://www.elastra.com), San Francisco, CA
@@ -27,52 +30,17 @@
 + [LiveOps](http://www.liveops.com), Santa Clara, CA
 + [Mu Dynamics](http://www.mudynamics.com), Sunnyvale, CA
 + [Palantir Technologies](http://www.palantirtech.com), Palo Alto, CA
-
-ParaScale
-http://www.parascale.com
-Cupertino, CA
-
-Puppet Labs
-http://www.puppetlabs.com
-Portland, OR
-
-RainStor
-http://www.rainstor.com
-San Francisco, CA
-
-RingCentral
-http://www.ringcentral.com
-San Mateo, CA
-
-Skytap
-http://www.skytap.com
-Seattle, WA
-
-Sonian
-http://www.sonian.com
-Needham, MA
-
-Spiceworks
-http://www.spiceworks.com
-Austin, TX
-
-Veracode
-http://www.veracode.com
-Burlington, MA
-
-Atlantis Computing
-http://www.atlantiscomputing.com
-Mountain View, CA
++ [ParaScale](http://www.parascale.com), Cupertino, CA
++ [RainStor](http://www.rainstor.com), San Francisco, CA
++ [RingCentral](http://www.ringcentral.com), San Mateo, CA
++ [Skytap](http://www.skytap.com), Seattle, WA
++ [Sonian](http://www.sonian.com), Needham, MA
++ [Spiceworks](http://www.spiceworks.com), Austin, TX
++ [Veracode](http://www.veracode.com), Burlington, MA
 
 # Cloud—Management and Tools
 
-abiquo
-http://www.abiquo.com
-Barcelona, Spain
-
-Cloudera
-http://www.cloudera.com
-Burlingame, CA
++ [abiquo](http://www.abiquo.com), Barcelona, Spain
 
 CloudSwitch
 http://www.cloudswitch.com
@@ -89,6 +57,10 @@ San Francisco, CA
 Pano Logic
 http://www.panologic.com
 Menlo Park, CA
+
+Puppet Labs
+http://www.puppetlabs.com
+Portland, OR
 
 rPath
 http://www.rpath.com
@@ -409,7 +381,5 @@ Yerbabuena Software
 http://www.yerbabuenasoftware.com
 Malaga, Spain
 
-Zendesk
-http://www.zendesk.com
-San Francisco, CA
++ [Zendesk](http://www.zendesk.com), San Francisco, CA
 

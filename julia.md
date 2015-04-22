@@ -94,10 +94,7 @@ https://www.google.com/search?q=mkdocs.yml+jl+site:github.com&ie=utf-8&oe=utf-8
 ----
 
 # RE Strings
-+ https://en.wikipedia.org/wiki/Regular_expression
 + http://julia.readthedocs.org/en/latest/stdlib/strings/
-
-+ https://en.wikipedia.org/wiki/Regular_expression#Syntax 
 + http://julia.readthedocs.org/en/latest/manual/strings/ 
 + https://stackoverflow.com/questions/20478823/joining-regular-expressions-in-julia
 

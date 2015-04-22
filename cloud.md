@@ -1,23 +1,59 @@
 
 + http://en.wikipedia.org/wiki/Category:Cloud_infrastructure
 + http://en.wikipedia.org/wiki/Category:Cloud_computing_providers
++ http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software
+----
+
++ http://docs.python-guide.org/en/latest/scenarios/admin/
+
+
+# Monitoring tools
++ https://pypi.python.org/pypi/psutil
++ https://github.com/nicolargo/glances
++ https://github.com/google/grr
++ https://github.com/Jahaja/psdash
+
 
 ----
 
-# Chef
+# Chef (.rb)
 + https://github.com/chef/chef
++ http://stackful-dev.com/cuisine-the-lightweight-chefpuppet-alternative
 
 ----
 
-# [Openstack](http://openstack.org)
+# Puppet (.rb)
++ http://en.wikipedia.org/wiki/Puppet_%28software%29
+
+----
+
+# Vagrant (.rb)
++ https://en.wikipedia.org/wiki/Vagrant_%28software%29
+
+# Cobbler (.py)
++ https://en.wikipedia.org/wiki/Cobbler_%28software%29
++ https://github.com/cobbler/cobbler
+
+----
+
+# [OpenStack](http://openstack.org)
 + Nova, https://github.com/openstack/nova
++ http://www.openstack.org/software/
++ [OpenStack drivers](http://www.openstack.org/marketplace/drivers/)
 
 ----
 
 # AWS
++ http://aws.amazon.com 
++ http://en.wikipedia.org/wiki/Amazon_Web_Services
++ http://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud
+
+## HELP
 + REF : http://docs.aws.amazon.com/general/latest/gr/Welcome.html
 + http://docs.aws.amazon.com/general/latest/gr/rande.html
++ https://aws.amazon.com/documentation/
 + CLI tools : http://docs.aws.amazon.com/general/latest/gr/GetTheTools.html
+
 ### SO
 + http://stackoverflow.com/questions/10526345/ec2-command-line-tools   
 
@@ -47,3 +83,17 @@
 
 ----
 
+# HEROKU
++ https://addons.heroku.com/
++ https://devcenter.heroku.com/articles/getting-started-with-python
++ https://devcenter.heroku.com/articles/procfile
++ https://devcenter.heroku.com/categories/heroku-architecture
++ https://id.heroku.com/login
+
+----
+
+##### NEWS
++ http://www.networkworld.com/article/2160016/cloud-computing/who-makes-up-openstack-.html
++ https://training.linuxfoundation.org/sysadmin-evolution
++ http://www.networkworld.com/article/2160163/cloud-computing/12-free-cloud-storage-options.html
++ http://probably.co.uk/puppet-vs-chef-vs-ansible.html
