@@ -2,6 +2,7 @@
 + http://en.wikipedia.org/wiki/Category:Cloud_infrastructure
 + http://en.wikipedia.org/wiki/Category:Cloud_computing_providers
 + http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software
+
 ----
 
 + http://docs.python-guide.org/en/latest/scenarios/admin/
@@ -12,6 +13,9 @@
 + https://github.com/nicolargo/glances
 + https://github.com/google/grr
 + https://github.com/Jahaja/psdash
++ https://github.com/prometheus
+
++ http://www.zenoss.com
 
 
 ----
@@ -40,6 +44,7 @@
 + Nova, https://github.com/openstack/nova
 + http://www.openstack.org/software/
 + [OpenStack drivers](http://www.openstack.org/marketplace/drivers/)
++ http://www.ibm.com/developerworks/cloud/library/cl-openstack-pythonapis/
 
 ----
 
@@ -97,3 +102,4 @@
 + https://training.linuxfoundation.org/sysadmin-evolution
 + http://www.networkworld.com/article/2160163/cloud-computing/12-free-cloud-storage-options.html
 + http://probably.co.uk/puppet-vs-chef-vs-ansible.html
+

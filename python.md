@@ -13,3 +13,9 @@
 + https://groups.google.com/forum/#!topic/julia-dev/-B90BrkzM6E
 + https://github.com/JuliaLang/IJulia
 
+# Exceptions
++ http://stackoverflow.com/questions/21211006/how-to-catch-all-old-style-class-exceptions-in-python
+
+# BAD
++ http://stackoverflow.com/questions/21553327/why-is-except-pass-a-bad-programming-practice
+
