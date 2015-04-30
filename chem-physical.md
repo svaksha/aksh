@@ -27,6 +27,9 @@
 + https://en.wikipedia.org/wiki/Electron
 + https://en.wikipedia.org/wiki/Neutron
 
+### Publications
++ [An Algorithm Set To Revolutionize 3-D Protein Structure Discovery](http://www.technologyreview.com/view/536976/an-algorithm-set-to-revolutionize-3-d-protein-structure-discovery/).
+
 ### Events
 + [ACDM workshop](http://www.chem.gla.ac.uk/~louis/asia_workshop/) and a [PDF](http://www.chem.gla.ac.uk/~louis/asia_workshop/Program_ACDM.pdf)
 
