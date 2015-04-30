@@ -2,20 +2,31 @@
 + http://en.wikipedia.org/wiki/Category:Cloud_infrastructure
 + http://en.wikipedia.org/wiki/Category:Cloud_computing_providers
 + http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software
++ http://docs.python-guide.org/en/latest/scenarios/admin/
 
 ----
 
-+ http://docs.python-guide.org/en/latest/scenarios/admin/
+# AMQP
++ http://www.amqp.org/
++ https://github.com/antirez/disque
++ https://github.com/celery/celery
++ https://www.rabbitmq.com           # Erlang AMQP lib
++ https://github.com/pika/pika       # a Pure Python RabbitMQ/AMQP 0-9-1 client library.
 
+----
 
-# Monitoring tools
+# System Disk Monitoring tools
++ https://en.wikipedia.org/wiki/Comparison_of_network_monitoring_systems
+
 + https://pypi.python.org/pypi/psutil
 + https://github.com/nicolargo/glances
 + https://github.com/google/grr
 + https://github.com/Jahaja/psdash
 + https://github.com/prometheus
-
 + http://www.zenoss.com
++ https://en.wikipedia.org/wiki/Ganglia_%28software%29
++ https://en.wikipedia.org/wiki/Icinga
++ https://en.wikipedia.org/wiki/Nagios
 
 
 ----
