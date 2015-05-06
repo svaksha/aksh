@@ -8,10 +8,30 @@
 
 # AMQP
 + http://www.amqp.org/
-+ https://github.com/antirez/disque
-+ https://github.com/celery/celery
-+ https://www.rabbitmq.com           # Erlang AMQP lib
-+ https://github.com/pika/pika       # a Pure Python RabbitMQ/AMQP 0-9-1 client library.
++ Disque, https://github.com/antirez/disque
+
+## Celery
++ Celery, https://github.com/celery/celery
++ http://docs.celeryproject.org/en/latest/getting-started/first-steps-with-celery.html#rabbitmq
+
+
+## ZeroMQ
++ ZeroMQ, https://github.com/zeromq/pyzmq
++ http://zeromq.org/intro:get-the-software
++ guide, http://zguide.zeromq.org/py:all
+   + Julia, https://github.com/imatix/zguide/tree/master/examples/Julia
+   + Python, https://github.com/imatix/zguide/tree/master/examples/Python
+   
+   
+## RabbitMQ
++ RabbitMQ, https://www.rabbitmq.com           # Erlang AMQP lib
++ Pika, https://github.com/pika/pika       # a Pure Python RabbitMQ/AMQP 0-9-1 client library.
+
+https://www.rabbitmq.com/tutorials/tutorial-two-python.html
+http://www.rabbitmq.com/configure.html#config-items
+http://www.rabbitmq.com/memory.html#diskfreesup
+http://pika.readthedocs.org/en/0.9.14/intro.html
+
 
 ----
 
@@ -21,6 +41,7 @@
 + https://pypi.python.org/pypi/psutil
 + https://github.com/nicolargo/glances
 + https://github.com/google/grr
++ https://github.com/python-diamond/Diamond
 + https://github.com/Jahaja/psdash
 + https://github.com/prometheus
 + http://www.zenoss.com
@@ -72,6 +93,11 @@
 
 ### SO
 + http://stackoverflow.com/questions/10526345/ec2-command-line-tools   
+
+----
+
+# Rackspace
++ https://github.com/rackerlabs
 
 ----
 
