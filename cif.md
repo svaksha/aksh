@@ -26,6 +26,12 @@
 + https://subversion.xor.aps.anl.gov/trac/pyGSAS/wiki/UnitTests
 + https://mailman.aps.anl.gov/mailman/listinfo/GSAS-II
 
++ SasView is a Small Angle Scattering (SAS) analysis package for the analysis of 1D and 2D scattering data directly in inverse space, https://github.com/SasView/sasview
++ https://github.com/AntonGagin/GSAS_Bayes
++ Python macros for (A)SAXS evaluation, https://github.com/awacha/B1python
++ Guinier's equation, https://github.com/awacha/py_scidatatools
+
 ### Rietveld Analysis
 + https://www.youtube.com/watch?v=7QD9oQQxrfI
+
 
