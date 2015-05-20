@@ -48,7 +48,7 @@
 ### Bravais Lattice
 + https://en.wikipedia.org/wiki/Lattice_QCD
 + https://en.wikipedia.org/wiki/Bravais_lattice
-+ http://ecee.colorado.edu/~bart/book/bravais.htm
++ http://ecee.colorado.edu/~bart/book/bravais.htm, [full book TOC](http://ecee.colorado.edu/~bart/book/book/contents.htm).
 + https://subversion.xor.aps.anl.gov/trac/pyGSAS/wiki/LatticeComputations
 
 + https://en.wikipedia.org/wiki/Lattice_QCD
