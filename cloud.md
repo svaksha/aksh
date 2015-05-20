@@ -18,6 +18,7 @@
 ## ZeroMQ
 + ZeroMQ, https://github.com/zeromq/pyzmq
 + http://zeromq.org/intro:get-the-software
++ zguide, http://zguide.zeromq.org/page:all
 + guide, http://zguide.zeromq.org/py:all
    + Julia, https://github.com/imatix/zguide/tree/master/examples/Julia
    + Python, https://github.com/imatix/zguide/tree/master/examples/Python
