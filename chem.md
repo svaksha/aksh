@@ -45,7 +45,7 @@
 + [Python macros for (A)SAXS evaluation](https://github.com/awacha/B1python)
 + [Guinier's equation](https://github.com/awacha/py_scidatatools)
 
-### Bravais Lattice
+### Lattices
 + https://en.wikipedia.org/wiki/Lattice_QCD
 + https://en.wikipedia.org/wiki/Bravais_lattice
 + http://ecee.colorado.edu/~bart/book/bravais.htm, [full book TOC](http://ecee.colorado.edu/~bart/book/book/contents.htm).
@@ -53,6 +53,7 @@
 
 + https://en.wikipedia.org/wiki/Lattice_QCD
 + https://en.wikipedia.org/wiki/Category:Lattice_models
++ https://en.wikipedia.org/wiki/Category:Lattice_points
 
 ### Rietveld Analysis
 + https://www.youtube.com/watch?v=7QD9oQQxrfI
