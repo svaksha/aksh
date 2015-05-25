@@ -14,15 +14,12 @@
 + https://en.wikipedia.org/wiki/Lattice_QCD
 + [Point group](http://en.wikipedia.org/wiki/Point_group)
 + http://en.wikipedia.org/wiki/Crystal_system
-
 + https://en.wikipedia.org/wiki/Bravais_lattice
 + http://ecee.colorado.edu/~bart/book/bravais.htm, and the [full book TOC](http://ecee.colorado.edu/~bart/book/book/contents.htm).
 + Slides on [Bravais lattice and basis](http://navrotsky.engr.ucdavis.edu/pages/classes/2006ClassArchive/EMS289C/class_docs/materials_chemsitry_class_notes-2.pdf)
-
 + https://en.wikipedia.org/wiki/Miller_index
 + https://subversion.xor.aps.anl.gov/trac/pyGSAS/wiki/LatticeComputations
 + Videos - [Introduction to Crystallography](http://www.aps.anl.gov/Xray_Science_Division/Powder_Diffraction_Crystallography/Introduction_to_Crystallography/) :: 15 lectures and handout notes given by Dr. Cora Lind for her Chem 4980/6850/8850: X-ray Crystallography course at the University of Toledo (Ohio).
-
 + https://en.wikipedia.org/wiki/Lattice_QCD
 + https://en.wikipedia.org/wiki/Category:Lattice_models
 + https://en.wikipedia.org/wiki/Category:Lattice_points
@@ -49,17 +46,14 @@
 ----
 
 # GSASII
++ Old GSAS (General Structure Analysis System) - http://www.ncnr.nist.gov/xtal/software/gsas.html
 + http://journals.cambridge.org/download.php?file=%2FPDJ%2FPDJ29_S2%2FS0885715614000736a.pdf&code=1061d0ddee1557b61339879b90c07d0c
 + http://www.iucr.org/__data/iucr/powder/Erice2011/day2/d2/gsas.pdf
-
 + https://subversion.xor.aps.anl.gov/trac/pyGSAS
 + https://subversion.xor.aps.anl.gov/trac/pyGSAS/wiki/MiscNotes
 + https://subversion.xor.aps.anl.gov/trac/pyGSAS/wiki/UnitTests
 + https://mailman.aps.anl.gov/mailman/listinfo/GSAS-II
-
-+ [SasView](https://github.com/SasView/sasview) is a Small Angle Scattering (SAS) analysis package for the analysis of 1D and 2D scattering data directly in inverse space.
-+ [Python macros for (A)SAXS evaluation](https://github.com/awacha/B1python)
-+ [Guinier's equation](https://github.com/awacha/py_scidatatools)
++ [Space Group Interpreter](https://subversion.xor.aps.anl.gov/trac/pyGSAS/wiki/SpaceGroupInterpreter)
 
 ### Rietveld Analysis
 + https://www.youtube.com/watch?v=7QD9oQQxrfI
@@ -81,4 +75,9 @@
 
 ----
 
+# Software 
+
++ [SasView](https://github.com/SasView/sasview) is a Small Angle Scattering (SAS) analysis package for the analysis of 1D and 2D scattering data directly in inverse space.
++ [Python macros for (A)SAXS evaluation](https://github.com/awacha/B1python)
++ [Guinier's equation](https://github.com/awacha/py_scidatatools)
 
