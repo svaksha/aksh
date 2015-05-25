@@ -1,17 +1,31 @@
-+ [CAT](#cat)
++ [Crystals](#crystals)
 + [CIF](#cif)
 + [GSASII](#gsasii)
 + [PAPERS](#papers)
 
 ----
 
-# CAT
-__X-rayCT__
+# Crystals
++ http://en.wikipedia.org/wiki/Category:Crystallography
++ [Mineralogy with Crystal Structure Databases](http://serc.carleton.edu/research_education/crystallography/xldatabases.html)
++ [Crystallographic database](http://en.wikipedia.org/wiki/Crystallographic_database)
 
-### Tomography
-+ https://en.wikipedia.org/wiki/X-ray_computed_tomography
-+ https://en.wikipedia.org/wiki/Tomography
-+ https://github.com/tomopy/tomopy, [Docs](https://tomopy.readthedocs.org/)
+### Lattices
++ https://en.wikipedia.org/wiki/Lattice_QCD
++ [Point group](http://en.wikipedia.org/wiki/Point_group)
++ http://en.wikipedia.org/wiki/Crystal_system
+
++ https://en.wikipedia.org/wiki/Bravais_lattice
++ http://ecee.colorado.edu/~bart/book/bravais.htm, and the [full book TOC](http://ecee.colorado.edu/~bart/book/book/contents.htm).
++ Slides on [Bravais lattice and basis](http://navrotsky.engr.ucdavis.edu/pages/classes/2006ClassArchive/EMS289C/class_docs/materials_chemsitry_class_notes-2.pdf)
+
++ https://en.wikipedia.org/wiki/Miller_index
++ https://subversion.xor.aps.anl.gov/trac/pyGSAS/wiki/LatticeComputations
++ Videos - [Introduction to Crystallography](http://www.aps.anl.gov/Xray_Science_Division/Powder_Diffraction_Crystallography/Introduction_to_Crystallography/) :: 15 lectures and handout notes given by Dr. Cora Lind for her Chem 4980/6850/8850: X-ray Crystallography course at the University of Toledo (Ohio).
+
++ https://en.wikipedia.org/wiki/Lattice_QCD
++ https://en.wikipedia.org/wiki/Category:Lattice_models
++ https://en.wikipedia.org/wiki/Category:Lattice_points
 
 ----
 
@@ -47,26 +61,24 @@ __X-rayCT__
 + [Python macros for (A)SAXS evaluation](https://github.com/awacha/B1python)
 + [Guinier's equation](https://github.com/awacha/py_scidatatools)
 
-### Lattices
-+ Videos - [Introduction to Crystallography](http://www.aps.anl.gov/Xray_Science_Division/Powder_Diffraction_Crystallography/Introduction_to_Crystallography/) :: 15 lectures and handout notes given by Dr. Cora Lind for her Chem 4980/6850/8850: X-ray Crystallography course at the University of Toledo (Ohio).
-+ https://en.wikipedia.org/wiki/Lattice_QCD
-+ https://en.wikipedia.org/wiki/Bravais_lattice
-+ http://ecee.colorado.edu/~bart/book/bravais.htm, and the [full book TOC](http://ecee.colorado.edu/~bart/book/book/contents.htm).
-+ https://en.wikipedia.org/wiki/Miller_index
-+ https://subversion.xor.aps.anl.gov/trac/pyGSAS/wiki/LatticeComputations
-
-+ https://en.wikipedia.org/wiki/Lattice_QCD
-+ https://en.wikipedia.org/wiki/Category:Lattice_models
-+ https://en.wikipedia.org/wiki/Category:Lattice_points
-
 ### Rietveld Analysis
 + https://www.youtube.com/watch?v=7QD9oQQxrfI
-+ An extension to the Rietveld package GSAS-II : https://github.com/AntonGagin/GSAS_Bayes
-
++ [GSAS_Bayes](https://github.com/AntonGagin/GSAS_Bayes) :: An extension to the Rietveld package GSAS-II.
+ 
 ----
 
 # PAPERS
 + http://www.researchgate.net/profile/Brian_Toby/publication/245022847_GSAS-II_The_Genesis_of_a_Modern_Open-Source_All-Purpose_Crystallography_Software_Package/links/00b7d5326ef2d330ac000000.pdf
 + https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4181643/
 + How to read (and understand) Volume A of [International Tables for Crystallography : an introduction for nonspecialists](http://mcl1.ncifcrf.gov/dauter_pubs/284.pdf), Zbigniew Dauter and Mariusz Jaskolski, 2011.
+
+----
+
+### Tomography
++ https://en.wikipedia.org/wiki/X-ray_computed_tomography
++ https://en.wikipedia.org/wiki/Tomography
++ https://github.com/tomopy/tomopy, [Docs](https://tomopy.readthedocs.org/)
+
+----
+
 
