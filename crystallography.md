@@ -68,15 +68,7 @@
 
 ----
 
-### Tomography
-+ https://en.wikipedia.org/wiki/X-ray_computed_tomography
-+ https://en.wikipedia.org/wiki/Tomography
-+ https://github.com/tomopy/tomopy, [Docs](https://tomopy.readthedocs.org/)
-
-----
-
 # Software 
-
 + [SasView](https://github.com/SasView/sasview) is a Small Angle Scattering (SAS) analysis package for the analysis of 1D and 2D scattering data directly in inverse space.
 + [Python macros for (A)SAXS evaluation](https://github.com/awacha/B1python)
 + [Guinier's equation](https://github.com/awacha/py_scidatatools)
