@@ -41,12 +41,15 @@ The Julia Base code library will not be modified, rather, this project involves 
 ### UseCase
 + __Goal__: Implement the filtered back projection (FBP), aka, dual Radon transform algorithm in Julia for the TomoPy<sup>{0}</sup> library toolbox to perform tomographic data processing and image reconstruction tasks at the APS, ANL.
 
-+ __Primary Actor__:
++ __Primary Actor__: 
 + __Scope__:
 + __Level__:
-+ __Story__: the body of the use case is simply a paragraph or two of text, informally describing what happens.
++ __Story__:  The Radon transform in two dimensions (2D) is a tomography method with applications in medical CT/CAT imaging systems, radiology, and other sciences for imaging by cross-sectional scans sections from the projection data through sine waves enabling  . The  associated with 
+
+the actual data detected by a medical imaging system does not correspond exactly to the Radon transform of the ``true'' image. In any imaging system, projection data will be corrupted by noise, and the projections are measured with only limited resolution. The geometry of the imaging system may differ from the ideal, particularly in transmission tom
 
 ----
+
 
 # 2. PROJECT SCHEDULE
 
@@ -131,7 +134,6 @@ Python was the language of choice for all my projects thusfar, but there have be
 + 5.1. Currently Julia has breaking changes planned for arrays<sup>{6}{7}{8}</sup> in version-0.5 and the last suggestion in the thread seemed to suggest that they may make backporting changes to array behavior via Compat feasible<sup>{9}</sup> but another dev thinks backporting features is a terrible idea as it can break packages between two versions released for the Julia language. Array/Matrix computation forms the bedrock of scientific computing so this is a big change and the main goal behind listing these challenges in the proposal is to get feedback from the Mentors on how these issues will affect the project proposal and how we can find a solution to work around it. 
 
 + 5.2. 
-
 
 ----
  
