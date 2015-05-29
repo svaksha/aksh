@@ -45,3 +45,5 @@ __desktop timetracker__
 
 ----
 
+# Linux : List Open Files for Process
++ http://www.cyberciti.biz/faq/howto-linux-get-list-of-open-files/
