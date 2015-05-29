@@ -115,9 +115,9 @@ I am in touch with the core developers of the Tomography library who will mentor
 
 # 4. AboutMe
 
-I am Vidya.A, a computing technologist and FOSS contributor from India. My [bio page](http://svaksha.com/pages/Bio) describes my Foss journey so I'll try to avoid repetition and keep it short: My interests lie in scientific programming and I have worked on a bioinformatics project and a financial project that used python scientific libraries which kindled a deeper interest in scientific programming. I am not a student but the idea of introducing Julia into a scientific research codebase motivated me to apply for JSoC. 
+I am Vidya.A, a computing technologist and FOSS contributor from India. While I am interested in pursuing the research path, presently, I am not a student; rather, the idea of introducing Julia into a scientific research codebase motivated me to apply for JSoC. My [bio page](http://svaksha.com/pages/Bio) describes my Foss journey so I'll try to avoid repetition and keep it short: My interests lie in scientific programming and I have worked on a bioinformatics project and a financial project that used python scientific libraries which kindled a deeper interest in scientific programming. 
 
-Thusfar, Python was the language of choice for all my projects, but there have been some moments when I have looked for a better alternative, specifically in terms of the chaotic linux packaging ecosystem, speed, syntax (read, whitespace), etc.. areas in which Julia scored higher. Hence, I'm hoping to contribute to some amazing libraries that can improve the adoption of Julia within the scientific community. Most importantly, I like the helpful community around Julia, and the language itself has amazing potential as is evident in the exponential growth-rate of packages registered on Metadata, with almost triple of those listed on Julia.jl (which started life on a private wiki that I was using to track Julia packages on github - around 350-400 when I started in 2013). 
+Thusfar, Python was the language of choice for all my projects, but there have been some moments when I have looked for a better alternative, specifically in terms of the chaotic linux packaging ecosystem, speed, syntax (read, whitespace), etc.. where Julia scored highly. Hence, I'm hoping to contribute to some amazing libraries that can improve the adoption of Julia within the scientific community. Most importantly, I like the helpful community around Julia, and the language itself has amazing potential as is evident in the exponential growth-rate of packages registered on Metadata, with almost triple of those listed on Julia.jl (which started life on a private wiki that I was using to track Julia packages on github - around 350-400 when I started in 2013). 
 
 + Contact details: http://svaksha.com/pages/Contact
 + Your online persona: http://svaksha.com/ (blog)
@@ -157,4 +157,8 @@ This section of the proposal is for internal discussion and not all of it will m
 + {13} http://docs.julialang.org/en/latest/manual/modules/?highlight=__init__#module-initialization-and-precompilation
 + {14} https://github.com/JuliaLang/julia/blob/master/base/abstractarray.jl
 + {15} https://github.com/JuliaLang/julia/issues/10338
+
+
+# ToAsk
+The 2014 GSoC produced 2D/3D rendering for graphics and support for GUI/Visualization libraries also exists which will help increase the adoption of Julia for these tasks thanks to the speed boost from LLVM.
 
