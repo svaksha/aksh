@@ -1,10 +1,13 @@
 
+
+
 # Tomography
 + https://en.wikipedia.org/wiki/X-ray_computed_tomography
 + https://en.wikipedia.org/wiki/Tomography
 + The [tomographic reconstruction](http://en.wikipedia.org/wiki/Tomographic_reconstruction)
 + [Radon transform](http://en.wikipedia.org/wiki/Radon_transform) 
 + http://mathworld.wolfram.com/RadonTransform.html
++ Filtered back projection: http://www.owlnet.rice.edu/~elec539/Projects97/cult/node2.html
 + [FFT](http://en.wikipedia.org/wiki/Fast_Fourier_transform)
 + Matlab’s image registration toolbox: http://www.mathworks.com/discovery/image-registration.html 
 __CT Data__
