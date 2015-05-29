@@ -43,7 +43,6 @@ Synchrotron X-ray tomographic<sup>{4}</sup> microscopy (SRXTM) allows for detail
 
 ----
 
-
 # 2. PROJECT SCHEDULE
 
 This section contains the proposed strategy for completing this project with deliverables sliced into a weekly milestone timeline for the period between 2015Jun15 to 2015Sep15.
