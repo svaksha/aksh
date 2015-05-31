@@ -73,12 +73,11 @@ These scheduled milestones are organised to be flexible, which means that some f
 + Holiday: a 5 day trip that was planned before JSoC/JuliaCon was announced. To compensate for these 5 days, I plan to work over 2 or 3 weekends inorder to catchup.
 
 ### week03-2015jun29 
-+ Continue with the `iterative reconstruction` algorithms to reconstruct 2D and 3D images for tomography computations. 
-+ They are computationally more expensive than FBP.
++ Continue with the `iterative reconstruction` algorithms to reconstruct 2D and 3D images for tomography computations which are computationally more expensive than FBP.
 
 ### week04-2015jul06 
 + Implement the Radon transform (sine waves or sinogram) of a crystallography image.
-   
+
 ### week05-2015jul13 
 + Implement the inversion method using iterative algorithms.
 + The Algebraic Reconstruction Technique (ART) iteratively computes the inverse of the Radon transform in two dimensions.
@@ -94,14 +93,13 @@ These scheduled milestones are organised to be flexible, which means that some f
 
 ### week08-2015aug03 
 + Evaluate algorithms with small test data. 
-+ 
++ Contingency for tasks expected to arise from work reviews.
 
 ### week09-2015aug10 
 + Metadata package - creation of a meta package which can be called via PyCall or an API.
 + More tests and documentation.
 
 ### week10-2015aug17
-+ DICOM.jl
 + Check the radon tomography package with the DICOM<sup>{6}</sup> interface library format for reading .dcm files.
 
 ### week11-2015aug24
@@ -119,20 +117,20 @@ These scheduled milestones are organised to be flexible, which means that some f
 1. Doga Gürsoy<sup>{1}</sup>, PhD, Assistant Computational Scientist, APS, Argonne National Laboratory; @dgursoy on Github.
 2. Francesco De Carlo<sup>{1}</sup>, PhD, Scientific leader, APS, Argonne National Laboratory; @decarlof on Github.
 
-I am in touch with the core developers of the Tomography library who will mentor me with respect to tomography scientific programming. As yet, I have not sought out any Julia core-developers but it would be nice if a Julia developer were interested in helping out with code reviews, especially with guidance regarding speed and code optimization.
+I am in touch with the core developers of the TomoPy library who will mentor me with respect to tomography scientific programming. A Julia core-developer will be sought for helping with code reviews.
 
 ### Logistics
-+ Communicate via emails and github issues
++ Communicate via emails and github issues.
 + Track progress via regular git commits, blog posts and weekly meetings, if required. 
 
 ----
 
 # 5. AboutMe
-I am Vidya.A, a computing technologist and FOSS contributor from India. My [bio page](http://svaksha.com/pages/Bio) describes my Foss journey so I'll try to avoid repetition and keep it short: My interests lie in scientific programming and I have worked on a bioinformatics project and a financial project that used python scientific libraries which kindled a deeper interest in scientific programming. While I am interested in pursuing the research path, presently, I am not a student; rather, the idea of introducing Julia into a scientific research codebase motivated me to apply for JSoC.
+I am Vidya.A, a computing technologist and FOSS contributor from India. My [bio page](http://svaksha.com/pages/Bio) describes my Foss journey so I'll try to avoid repetition and keep it short: My interests lie in scientific programming and I have worked on a bioinformatics project and a financial project that used python scientific libraries which kindled a deeper interest in scientific programming. At present I am not a student but in future, I plan to pursue the graduate school option and work within a research team. The idea of introducing Julia into a scientific research codebase motivated me to apply for JSoC.
 
-By creating an algebraic tool for Julia users this project will go a long way in demonstrating the importance of Julia to the scientific research community. I've been reading various research papers, the `tomopy` codebase and scientific material in preparation for this project inorder to understand the best implementation methods and have been having discussions with my mentors regarding the challenges involved -given the recent mailing list discussions involving breaking changes planned for arrays<sup>{7}{8}{9}</sup> in version-0.5 and abstract array<sup>{15}</sup> and array concatenation<sup>{16}</sup>, package precompilation<sup>{13}</sup>, lib support for linear solvers and sparse matrices, data storage and processing.
+By creating an algebraic tool for Julia users, this project will go a long way in demonstrating the importance of Julia to the scientific research community, namely medical imaging, crystallography and radiology. I've been reading various research papers, the `tomopy` codebase and scientific material in preparation for this project inorder to understand the best implementation methods and have been having discussions with my mentors regarding the challenges involved - given the recent mailing list discussions involving breaking changes planned for arrays<sup>{7}{8}{9}</sup> in version-0.5 and abstract array<sup>{15}</sup> and array concatenation<sup>{16}</sup>, package precompilation<sup>{13}</sup>, lib support for linear solvers and sparse matrices, data storage and processing.
 
-Thusfar, Python was the language of choice for all my projects, but there have been some moments when I have looked for a better alternative, specifically in terms of the chaotic linux packaging ecosystem, speed, syntax (read, whitespace), etc.. where Julia scored highly. Hence, I'm hoping to contribute to some amazing libraries that can improve the adoption of Julia within the scientific community. Most importantly, I like the helpful community around Julia, and the language itself has amazing potential as is evident in the exponential growth-rate of packages registered on Metadata, with almost triple of those listed on Julia.jl (which started life on a private wiki that I was using to track Julia packages on github - around 350-400 when I started in 2013). I believe an algebraic package will be of great value to the scientific research community and help in bringing more scientists to the Julia userbase. 
+Thusfar, Python has been the language of choice for all my projects, but there have been moments when I have looked for a better alternative, specifically in terms of the chaotic linux packaging ecosystem, speed, syntax (read, whitespace), etc.. where Julia scored highly. Hence, I'm hoping to contribute to some amazing libraries that can improve the adoption of Julia within the scientific community. Most importantly, I like the helpful community around Julia, and the language itself has amazing potential as is evident in the exponential growth-rate of packages registered on Metadata, with almost triple of those listed on Julia.jl (which I created in 2012 as a private wiki to track Julia packages on github - then around 350-400). I believe a Crystallography package will be of great value to the scientific research community and help in bringing more scientists to the Julia userbase. 
 
 + Contact details: http://svaksha.com/pages/Contact
 + Your online persona: http://svaksha.com/ (blog)
