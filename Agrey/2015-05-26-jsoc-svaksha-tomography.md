@@ -38,7 +38,7 @@ Synchrotron X-ray tomographic<sup>{1}</sup> microscopy (SRXTM) offers detailed t
 # 2. USECASE
 
 ### Goal
-+ Implement the filtered back projection (FBP), aka, dual Radon transform algorithm in Julia for the TomoPy<sup>{1}</sup> library toolbox to perform tomographic data processing and image reconstruction tasks at the APS, ANL.
++ Implement the filtered back projection (FBP), aka, dual Radon transform algorithm in Julia as a library that can be incorporated into the TomoPy<sup>{1}{2}</sup> toolbox to perform tomographic data processing and image reconstruction tasks at the Argonne Advanced Light Source (APS).
 
 ### Actors
 + TomoPy developers, 
@@ -50,6 +50,7 @@ Synchrotron X-ray tomographic<sup>{1}</sup> microscopy (SRXTM) offers detailed t
 + The Julia Base code library will not be modified, rather, this project involves creating a new package. 
 
 ### Level
++ TomoPy will stay as a glue interface layer, but the plan is to replace the C engine underneath with the Julia library for Radon transforms. 
 
 ### Story
 + The Radon transform in two dimensions (2D) is a tomography method with applications in medical CT/CAT imaging systems, radiology, and other sciences for imaging by cross-sectional scans sections from the projection data through sine waves. Correcting the noise corruption in projection data by using mathematical /geometry techniques will aid in image reconstruction.
@@ -61,12 +62,12 @@ Synchrotron X-ray tomographic<sup>{1}</sup> microscopy (SRXTM) offers detailed t
 This section contains the proposed strategy for completing this project with deliverables sliced into a weekly milestone timeline for the period between 2015Jun15 to 2015Sep15.
 
 ## Milestones
-These scheduled milestones are organised to be flexible, which means that some features will likely be done early. Also, the weeks include documentation and unit testing efforts for the features, with extended periods for reviewing these efforts at the two points during the project (halfway, final week), as detailed below:
+These scheduled milestones are organised to be flexible, which means that some features will likely be completed early. Noted in the milestones are tasks including documentation and unit testing efforts for the features, with extended periods for reviewing these efforts at the two points during the project (halfway, final week). The milestones are:
 
 ### week01-2015jun15 
-+ Implement Radon transform algorithm.
++ Implement the Radon transform algorithm.
 + Start implementing the inverse Radon transform and linear system of equations for the back-projection algorithm.
-+ To implement a new Radon transform<sup>{3}</sup> package library describing the forward projection process.
++ To implement a new Radon transform<sup>{3}</sup> package library describing the forward projection process (FBP).
 
 ### week02-2015jun22 
 + Holiday: a 5 day trip that was planned before JSoC/JuliaCon was announced. To compensate for these 5 days, I plan to work over 2 or 3 weekends inorder to catchup.
@@ -92,7 +93,8 @@ These scheduled milestones are organised to be flexible, which means that some f
 + Write tests and docs.
 
 ### week08-2015aug03 
-+ Left this section blank as I expect some tasks to arise from the discussion mentioned in section 5 below.
++ Evaluate algorithms with small test data. 
++ 
 
 ### week09-2015aug10 
 + Metadata package - creation of a meta package which can be called via PyCall or an API.
@@ -174,3 +176,7 @@ This section of the proposal is for internal discussion and not all of it will m
  
 ----
  
+# QUESTIONS 
+     
+
+As a side note the current impementation uses Conda for packaging and distributions, and Travis for CI. What is the progress on CI and deployment from Julia side (or I should say from Tra 
