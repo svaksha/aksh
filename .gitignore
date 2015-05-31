@@ -7,11 +7,8 @@
 # GENERAL
 #====================================================
 IGNORE/
-LaTeX/
-papers/*
-pub/*
-svksh/*
-med-neuroscience/*
+ignore-LaTeX/
+ignore-papers/*
 10.md
 
 #====================================================
