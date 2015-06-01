@@ -34,7 +34,7 @@
 
 ### Abstract
 
-Tomographic reconstruction creates three-dimensional (3D) views of an object by combining two-dimensional (2D) images taken from multiple directions, for example in how a computer-aided tomography (CAT) scanner allows 3D views of the heart or brain. The mathematical basis of tomography dates back to early nineties, when Johann Radon, an Austrian mathematician, developed a solution for the recovery of a 3D function from its line integrals [Radon, 1917]<sup>{0}</sup>. However, the engineering applications remain limited until the first CAT system became commercially available in early seventies. Since then its applications expand tremendously, leading to landmark discoveries and breakthroughs in the fields of diagnostic medicine, as well as materials, earth and life sciences.
+Tomographic reconstruction creates three-dimensional (3D) views of an object by combining two-dimensional (2D) images taken from multiple directions, for example in how a computer-aided tomography (CAT) scanner allows 3D views of the heart or brain. The mathematical basis of tomography dates back to early nineties, when Johann Radon, an Austrian mathematician, developed a solution for the recovery of a 3D function from its line integrals [Radon, 1917]<sup>{0}</sup>. However, the engineering applications remain limited until the first CAT system became commercially available in early seventies. Since then its applications expanded tremendously, leading to landmark discoveries and breakthroughs in the fields of diagnostic medicine, as well as materials, earth and life sciences.
 
 Synchrotron X-ray tomographic<sup>{1}</sup> microscopy (SRXTM) offers detailed three-dimensional scanning of an object, where numerous two-dimensional views of an object from multiple directioms are reconstructed computationally. Analysis of tomography synchrotron light source datasets requires efficient tools that can handle large datasets without compromising on speed, that integrate well with the existing codebase and are easy to maintain and add features. 
 
@@ -63,7 +63,9 @@ Tomography.jl
 + The Radon transform in two dimensions (2D) is a tomography method with applications in medical CT/CAT imaging systems, radiology, and other sciences for imaging by cross-sectional scans sections from the projection data through sine waves. Correcting the noise corruption in projection data by using mathematical /geometry techniques will aid in image reconstruction.
 
 ## Hypothesis of Application
-Currently there is no library routine for this algorithm. Consequently, the system should provide the following capabilities, so lets consider a hypothetical application:
+
+Currently there is no library routine for this algorithm in Julia. Consequently, the system should provide the following capabilities, so lets consider a hypothetical application:
+
 + A scientist has a digital x-ray image of an object (either a chemical element, or a brain scan) that they store, organize and retrieve via their system.
 + They apply the Radon transform filter on the selected image to improve the signal-to-noise ratio.
 + TomoPy will be the glue interface layer, and the plan is to replace the C engine underneath with the Julia library for Radon transforms. 
@@ -115,6 +117,7 @@ The scheduled milestones are organised to be flexible so that some features are 
 
 ### week10-2015aug17
 + Check the radon tomography package with the DICOM<sup>{6}</sup> interface library format for reading .dcm files.
++ The parallel matrix-vector products and linear algebra operations for sparse distributed matrices will be handled via TomoPy, which is the glue interface layer that will be tested with the implementation of Radon Transform lib support in Julia. 
 
 ### week11-2015aug24
 + Code is refactored where necessary.
