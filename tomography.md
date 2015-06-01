@@ -14,6 +14,8 @@ __CT Data__
 + CT Images, https://www.nlm.nih.gov/research/visible/fresh_ct.html
    + https://mri.radiology.uiowa.edu/visible_human_datasets.html
 
++ Doppler effect Redshift: http://en.wikipedia.org/wiki/Redshift
+
 ### TomoPy
 + https://github.com/tomopy/tomopy, [Docs](https://tomopy.readthedocs.org/)
 + Homepage: https://www1.aps.anl.gov/Science/Scientific-Software/TomoPy
