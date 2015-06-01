@@ -36,3 +36,4 @@
 + Algo usecase, http://www.w3.org/2005/Incubator/mmsem/wiki/Algorithm_representation_Use_case.html
 + http://en.wikipedia.org/wiki/Taxonomy
 + Info Sc. ontology, http://en.wikipedia.org/wiki/Ontology_%28information_science%29
++ Formal concept analysis: http://en.wikipedia.org/wiki/Formal_concept_analysis
