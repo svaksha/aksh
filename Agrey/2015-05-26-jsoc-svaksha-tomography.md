@@ -64,12 +64,11 @@ Tomography.jl
 
 ## Hypothesis of Application
 Currently there is no library routine for this algorithm. Consequently, the system should provide the following capabilities, so lets consider a hypothetical application:
-+ A scientist has a digital x-ray image of an object (either a chemical element, or a brain scan).
-+ Apply the Radon transform filter on the image to improve the signal-to-noise ratio.
++ A scientist has a digital x-ray image of an object (either a chemical element, or a brain scan) that they store, organize and retrieve via their system.
++ They apply the Radon transform filter on the selected image to improve the signal-to-noise ratio.
 + TomoPy will be the glue interface layer, and the plan is to replace the C engine underneath with the Julia library for Radon transforms. 
-+ Apply the algorithm on the image region detection to segment the image according to a partition of homogeneous regions. 
++ They apply the algorithm on the image region detection to segment the image according to a partition of homogeneous regions. 
 + The algorithm will sort the image according to the given criterion each image region by their geometrical and densitometric properties (from largest to smallest, from darkest to clearest, etc.).
-  
 
 ----
 
@@ -78,7 +77,7 @@ Currently there is no library routine for this algorithm. Consequently, the syst
 This section contains the proposed strategy for completing this project with deliverables sliced into a weekly milestone timeline for the period between 2015Jun15 to 2015Sep15.
 
 ## Milestones
-These scheduled milestones are organised to be flexible, which means that some features will likely be completed early. Noted in the milestones are tasks including documentation and unit testing efforts for the features, with extended periods for reviewing these efforts at the two points during the project (halfway, final week). The milestones are:
+The scheduled milestones are organised to be flexible so that some features are likely be completed early. Noted in the milestones are tasks including documentation and unit testing efforts for the features, with extended periods for reviewing these efforts at the two points during the project (halfway, final week). The milestones are:
 
 ### week01-2015jun15 
 + Implement the Radon transform algorithm - Start implementing the inverse Radon transform and linear system of equations for the back-projection algorithm.
