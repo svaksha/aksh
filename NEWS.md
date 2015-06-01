@@ -3,7 +3,7 @@
 + [Organizations](#organizations)
 + [LINKS](#links)
    + [How2HireDataScientists](#how2hiredatascientists)
-+ [Software Design](#software-design)
++ [Software Management](#software-management)
 
 ----
 
@@ -31,6 +31,7 @@
 
 ----
 
-# Software Design
-+ Use Case: http://www.w3.org/2005/Incubator/mmsem/wiki/Algorithm_representation_Use_case.html
+# [Software Management](http://en.wikipedia.org/wiki/Category:Software_project_management)
++ Use Case: http://en.wikipedia.org/wiki/Use_case
++ Algo usecase, http://www.w3.org/2005/Incubator/mmsem/wiki/Algorithm_representation_Use_case.html
 
