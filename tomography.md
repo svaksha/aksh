@@ -14,6 +14,10 @@ __CT Data__
 + CT Images, https://www.nlm.nih.gov/research/visible/fresh_ct.html
    + https://mri.radiology.uiowa.edu/visible_human_datasets.html
 
+## Fourier slice theorem
++ http://en.wikipedia.org/wiki/Projection-slice_theorem
++ http://oftankonyv.reak.bme.hu/tiki-index.php?page=The+Central+Slice+Theorem
+
 + Doppler effect Redshift: http://en.wikipedia.org/wiki/Redshift
 
 ### TomoPy
