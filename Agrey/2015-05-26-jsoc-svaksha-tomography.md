@@ -7,6 +7,7 @@
    + [Informal Description](#informal-description)
    + [Formal Description](#formal-description)
    + [Hypothesis of Application](#hypothesis-of-application)
+        + [Example-1](#example-1)
 + [3. PROJECT SCHEDULE](#2-project-schedule)
    + [Milestones](#milestones)
         + [week01-2015jun15](#week01-2015jun15)
@@ -72,6 +73,50 @@ Currently there is no library routine for this algorithm in Julia. Consequently,
 + They apply the algorithm on the image region detection to segment the image according to a partition of homogeneous regions. 
 + The algorithm will sort the image according to the given criterion each image region by their geometrical and densitometric properties (from largest to smallest, from darkest to clearest, etc.).
 
+#### Example-1
+
+```
+using Base
+#using function fourier_slice
+num = 5
+Y = 7
+Z = [linspace(-num/2, num/2, num)]
+println("Z= ",Z)
+projection = exp(-num).^2
+  println("projection= ", projection)
+  @time projection
+sinogram = fill(projection,Y,num)
+  println("sinogram= ", sinogram)
+  @time sinogram
+resh = reshape ([sinogram], Y, num)
+  println("resh =", resh)
+angles = [linspace(0, pi, Y)]
+  println("angles= ", angles)
+```
+__Output__
+
+```
+Z= [-2.5,-1.25,0.0,1.25,2.5]
+projection= 4.539992976248485e-5
+   4.129 microseconds (155 allocations: 10845 bytes)
+sinogram= [4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5
+ 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5
+ 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5
+ 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5
+ 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5
+ 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5
+ 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5]
+   1.111 microseconds (4 allocations: 144 bytes)
+resh =[4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5
+ 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5
+ 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5
+ 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5
+ 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5
+ 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5
+ 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5]
+angles= [0.0,0.5235987755982988,1.0471975511965976,1.5707963267948966,2.0943951023931953,2.6179938779914944,3.141592653589793]
+```
+
 ----
 
 # 3. PROJECT SCHEDULE
@@ -97,7 +142,7 @@ The scheduled milestones are organised to be flexible so that some features are 
 ### week05-2015jul13 
 + Implement the inversion method using iterative algorithms.
 + The Algebraic Reconstruction Technique (ART) iteratively computes the inverse of the Radon transform in two dimensions.
-+ Test it with the standard `Shepp–Logan phantom`<sup>{12}</sup> test image.
++ Test it with the standard `Shepp–Logan phantom`<sup>{13}</sup> test image.
 
 ### week06-2015jul20 
 + Compute the slice-wise 3D inverse of the radon transform using multiprocessing.
@@ -146,9 +191,9 @@ I am in touch with the core developers of the TomoPy library who will mentor me 
 # 5. AboutMe
 I am Vidya.A, a computing technologist and FOSS contributor from India. My [bio page](http://svaksha.com/pages/Bio) describes my Foss journey so I'll try to avoid repetition and keep it short :- My interests lie in scientific programming and I have worked on a bioinformatics project and a financial project that used python scientific libraries which kindled a deeper interest in scientific programming. At present I am not a student but in future, I plan to pursue the graduate school option and work within a research team. The idea of introducing Julia into a scientific research codebase motivated me to apply for JSoC.
 
-By creating an algebraic tool for Julia users, this project will go a long way in demonstrating the importance of Julia to the scientific research community, namely medical imaging, crystallography and radiology. I've been reading various research papers, the `tomopy` codebase and scientific material in preparation for this project inorder to understand the best implementation methods and have been having discussions with my mentors regarding the challenges involved - given the recent mailing list discussions involving breaking changes planned for arrays<sup>{7}{8}{9}</sup> in version-0.5 and abstract array<sup>{15}</sup> and array concatenation<sup>{16}</sup>, package precompilation<sup>{13}</sup>, lib support for linear solvers and sparse matrices, data storage and processing.
+By creating an algebraic tool for Julia users, this project will go a long way in demonstrating the importance of Julia to the scientific research community, namely medical imaging, crystallography and radiology. I've been reading various research papers, the `tomopy` codebase and scientific material in preparation for this project inorder to understand the best implementation methods and have been having discussions with my mentors regarding the challenges involved - given the recent mailing list discussions involving breaking changes planned for arrays<sup>{7}{8}{9}{10}</sup> in version-0.5 and abstract array<sup>{16}</sup> and array concatenation<sup>{17}</sup>, package precompilation<sup>{14}</sup>, lib support for linear solvers and sparse matrices, data storage and processing.
 
-Thusfar, Python has been the language of choice for all my projects, but there have been moments when I have looked for a better alternative, specifically in terms of the chaotic linux packaging ecosystem, speed, syntax (read, whitespace), etc.. where Julia scored highly. It is a new language in the scientific programming world, with a focus on numerical computing<sup>{17}</sup>, hence it has a huge amount of potential to replace established languages like Python in the scientific programming world. Hence, I'm hoping to contribute to some amazing libraries that can improve the adoption of Julia within the scientific community. Most importantly, I like the helpful community around Julia, that the language itself has amazing potential is evident in the exponential growth-rate of packages registered on Metadata, with almost triple of those listed on Julia.jl<sup>{18}</sup> (which I created in 2012 as a private wiki to track Julia packages on github - then around 350-400). I believe a package used in the Crystallography field will be of great value to the scientific research community and help in bringing more scientists to the Julia userbase. 
+Thusfar, Python has been the language of choice for all my projects, but there have been moments when I have looked for a better alternative, specifically in terms of the chaotic linux packaging ecosystem, speed, syntax (read, whitespace), etc.. where Julia scored highly. It is a new language in the scientific programming world, with a focus on numerical computing<sup>{18}</sup>, hence it has a huge amount of potential to replace established languages like Python in the scientific programming world. Hence, I'm hoping to contribute to some amazing libraries that can improve the adoption of Julia within the scientific community. Most importantly, I like the helpful community around Julia, that the language itself has amazing potential is evident in the exponential growth-rate of packages registered on Metadata, with almost triple of those listed on Julia.jl<sup>{19}</sup> (which I created in 2012 as a private wiki to track Julia code repos on github - then around 350-400). I believe a package used in the Crystallography field will be of great value to the scientific research community and help in bringing more scientists to the Julia userbase. 
 
 + Contact details: http://svaksha.com/pages/Contact
 + Your online persona: http://svaksha.com/ (blog)
@@ -159,11 +204,11 @@ Thusfar, Python has been the language of choice for all my projects, but there h
 
 This section is meant for internal discussion and tracking as I need to be aware of proposed (possibly breaking) changes to the Julia language Base/core that _may_ affect the codebase in future and keep my mentors informed of the same.
 
-+ 5.1. Currently Julia has breaking changes planned for arrays<sup>{7}{8}{9}</sup> in version-0.5 and the last suggestion in the thread seemed to suggest that they may make backporting changes to array behavior via Compat feasible<sup>{10}</sup> but another dev thinks backporting features is a terrible idea as it can break packages between two versions released for the Julia language. Array/Matrix computation forms the bedrock of scientific computing so this is a big change and the main goal behind listing these challenges in my proposal is to get feedback from the Mentors on how these issues will affect the project proposal and how we can find a solution to work around it. 
++ 5.1. Currently Julia has breaking changes planned for arrays<sup>{7}{8}{9}{10}</sup> in version-0.5 and the last suggestion in the thread seemed to suggest that they may make backporting changes to array behavior via Compat feasible<sup>{11}</sup> but another dev thinks backporting features is a terrible idea as it can break packages between two versions released for the Julia language. Array/Matrix computation forms the bedrock of scientific computing so this is a big change and the main goal behind listing these challenges in my proposal is to get feedback from the Mentors on how these issues will affect the project proposal and how we can find a solution to work around it. 
 
-+ 5.2. Package precompilation<sup>{13}</sup> will probably make it into version-0.4 before the freeze, which should be a helpful feature for those users who for security reasons may not have access to an internet connection. Like python, it is proposed to use __init__<sup>{14}</sup> for the syntax so that the package searches for the compiled (.jlc) file during installation but the long discussion for keeping it as an opt-in (to avoid breakage on old versions) is ongoing. Another change this will bring about in the packaging system will be with respect to _precompiled libs_ inside the julia packaging system, including the _module dependencies_ within a package. How these will be stored and handled is something to watch out for.
++ 5.2. Package precompilation<sup>{14}</sup> will probably make it into version-0.4 before the freeze, which should be a helpful feature for those users who for security reasons may not have access to an internet connection. Like python, it is proposed to use __init__<sup>{15}</sup> for the syntax so that the package searches for the compiled (.jlc) file during installation but the long discussion for keeping it as an opt-in (to avoid breakage on old versions) is ongoing. Another change this will bring about in the packaging system will be with respect to _precompiled libs_ inside the julia packaging system, including the _module dependencies_ within a package. How these will be stored and handled is something to watch out for.
 
-+ 5.3. Continuing the abstract array<sup>{15}</sup> discussion, there is another bug tracker discussion over array concatenation<sup>{16}</sup> and I am wondering if (and how) this will affect the code written for Radon?
++ 5.3. Continuing the abstract array<sup>{16}</sup> discussion, there is another bug tracker discussion over array concatenation<sup>{17}</sup> and I am wondering if (and how) this will affect the code written for Radon?
 
 + 5.4. To check if TomoPy requires or uses any graphics and rendering libs? The 2014 GSoC produced 2D/3D rendering for graphics, and support for GUI/Visualization libraries also exists which will help increase the adoption of Julia for these tasks thanks to the speed boost from LLVM. 
 
@@ -180,14 +225,15 @@ This section is meant for internal discussion and tracking as I need to be aware
 + {7} https://github.com/JuliaLang/julia/issues/3701
 + {8} https://github.com/JuliaLang/julia/issues/4774
 + {9} https://github.com/JuliaLang/julia/pull/7568
-+ {10} https://groups.google.com/forum/#!topic/julia-dev/sM0VyVbFewQ
-+ {11} http://en.wikipedia.org/wiki/Iterative_reconstruction
-+ {12} http://en.wikipedia.org/wiki/Shepp%E2%80%93Logan_phantom
-+ {13} https://github.com/JuliaLang/julia/pull/8745
-+ {14} http://docs.julialang.org/en/latest/manual/modules/?highlight=__init__#module-initialization-and-precompilation
-+ {15} https://github.com/JuliaLang/julia/blob/master/base/abstractarray.jl
-+ {16} https://github.com/JuliaLang/julia/issues/10338
-+ {17} Paper: [Julia: A Fresh Approach to Numerical Computing](http://arxiv.org/abs/1411.1607) by Jeff Bezanson, Alan Edelman, Stefan Karpinski, Viral B. Shah.
-+ {18} http://svaksha.github.io/Julia.jl
++ {10} https://github.com/JuliaLang/julia/pull/10525
++ {11} https://groups.google.com/forum/#!topic/julia-dev/sM0VyVbFewQ
++ {12} http://en.wikipedia.org/wiki/Iterative_reconstruction
++ {13} http://en.wikipedia.org/wiki/Shepp%E2%80%93Logan_phantom
++ {14} https://github.com/JuliaLang/julia/pull/8745
++ {15} http://docs.julialang.org/en/latest/manual/modules/?highlight=__init__#module-initialization-and-precompilation
++ {16} https://github.com/JuliaLang/julia/blob/master/base/abstractarray.jl
++ {17} https://github.com/JuliaLang/julia/issues/10338
++ {18} Paper: [Julia: A Fresh Approach to Numerical Computing](http://arxiv.org/abs/1411.1607) by Jeff Bezanson, Alan Edelman, Stefan Karpinski, Viral B. Shah.
++ {19} http://svaksha.github.io/Julia.jl
 
 

@@ -75,6 +75,9 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 
 # Arrays
 + http://julia.readthedocs.org/en/latest/manual/arrays/
++ https://julia.readthedocs.org/en/latest/stdlib/arrays
++ http://quant-econ.net/jl/julia_arrays.html
++ http://en.wikibooks.org/wiki/Introducing_Julia/Arrays_and_tuples
 + Read .csv, http://randyzwitch.com/julia-import-data/
 + DF, https://github.com/JuliaStats/DataFrames.jl/blob/cac96119c9f5e24c5f2976ff119703a6ec52476c/src/abstractdataframe/abstractdataframe.jl#L67
 
