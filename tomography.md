@@ -20,6 +20,7 @@
 + http://oftankonyv.reak.bme.hu/tiki-index.php?page=The+Central+Slice+Theorem
 + Back Projection, http://www.snaggledworks.com/em_for_dummies/back_projection.html
 + Image reconstruction, http://depts.washington.edu/nucmed/IRL/pet_intro/intro_src/section4.html
++ Back projection – 2D points to 3D : http://chenlab.ece.cornell.edu/people/adarsh/publications/BackProjection.pdf
 
 
 ### TomoPy
