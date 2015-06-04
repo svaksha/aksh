@@ -1,5 +1,5 @@
 # ahskavs
-My personal bibliography of useful resources, viz. books, research papers and [grey literature](https://en.wikipedia.org/wiki/Grey_literature) on [science](https://en.wikipedia.org/wiki/Outline_of_science), et al, with some interesting advice on [how to read a research paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html).
+My personal bibliography of useful resources, books, research papers and [grey literature](https://en.wikipedia.org/wiki/Grey_literature) on [science](https://en.wikipedia.org/wiki/Outline_of_science).
 
 ----
 
