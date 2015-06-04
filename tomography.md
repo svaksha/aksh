@@ -29,6 +29,10 @@
 + Image reconstruction, http://depts.washington.edu/nucmed/IRL/pet_intro/intro_src/section4.html
 + Back projection – 2D points to 3D : http://chenlab.ece.cornell.edu/people/adarsh/publications/BackProjection.pdf
 
+### Error correction
++ http://en.wikipedia.org/wiki/Hamming_code
++ http://en.wikipedia.org/wiki/Hann_function
+
 ### CT Data
 + CT Images, https://www.nlm.nih.gov/research/visible/fresh_ct.html
    + https://mri.radiology.uiowa.edu/visible_human_datasets.html
