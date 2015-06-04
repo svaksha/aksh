@@ -62,16 +62,16 @@ Tomography.jl
 
 ## Formal Description
 + The Radon transform in two dimensions (2D) is a tomography method with applications in medical CT/CAT imaging systems, radiology, and other sciences for imaging by cross-sectional scans sections from the projection data through sine waves. Correcting the noise corruption in projection data by using mathematical /geometry techniques will aid in image reconstruction.
++ TomoPy will be the glue interface layer, and the plan is to replace the C engine underneath with the Julia library for Radon transforms. 
 
 ## Hypothesis of Application
 
 Currently there is no library routine for this algorithm in Julia. Consequently, the system should provide the following capabilities, so lets consider a hypothetical application:
 
-+ A scientist has a digital x-ray image of an object (either a chemical element, or a brain scan) that they store, organize and retrieve via their system.
-+ They apply the Radon transform filter on the selected image to improve the signal-to-noise ratio.
-+ TomoPy will be the glue interface layer, and the plan is to replace the C engine underneath with the Julia library for Radon transforms. 
-+ They apply the algorithm on the image region detection to segment the image according to a partition of homogeneous regions. 
-+ The algorithm will sort the image according to the given criterion each image region by their geometrical and densitometric properties (from largest to smallest, from darkest to clearest, etc.).
++ A user retrieves tomography data (from a patient, from a sample, etc.).
++ S/he applies several pre-processing routines (available in the TomoPy package) to clean the measurement data.
++ Then s/he apply the inverse Radon transform (i.e. image reconstruction algorithm) to recover volume images from data.
++ The output is stored in a file.
 
 #### Example-1
 

@@ -3,7 +3,7 @@
 + [General](#general)
 + [NEWS](#news)
 + [Papers](#papers)
-   - [Podcast](#podcast)
+   + [Podcast](#podcast)
 + [Projects](#projects)
 
 ----
@@ -55,7 +55,8 @@
 ----
 
 # Neuroethics
-* [How do we make moral judgements? IRCM ethics experts open the black box of moral intuitions](http://www.rc-rc.ca/blog/how-do-we-make-moral-judgements-ircm-ethics-experts-open-the-black-box-of-moral-intuitions)
++ [How do we make moral judgements? IRCM ethics experts open the black box of moral intuitions](http://www.rc-rc.ca/blog/how-do-we-make-moral-judgements-ircm-ethics-experts-open-the-black-box-of-moral-intuitions)
++ https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
 ---- 
 
