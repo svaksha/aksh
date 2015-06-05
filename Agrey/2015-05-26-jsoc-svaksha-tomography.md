@@ -58,11 +58,11 @@ Tomography.jl
 
 ## Informal Description
 + A new package that implements the dual Radon transform algorithm in Julia.
-+ The Julia Base code library will not be modified.
 
 ## Formal Description
 + The Radon transform in two dimensions (2D) is a tomography method with applications in medical CT/CAT imaging systems, radiology, and other sciences for imaging by cross-sectional scans sections from the projection data through sine waves. Correcting the noise corruption in projection data by using mathematical /geometry techniques will aid in image reconstruction.
 + TomoPy will be the glue interface layer, and the plan is to replace the C engine underneath with the Julia library for Radon transforms. 
++ The Julia Base code library will not be modified.
 
 ## Hypothesis of Application
 
@@ -128,6 +128,7 @@ The scheduled milestones are organised to be flexible so that some features are 
 
 ### week01-2015jun15 
 + Implement the Radon transform algorithm - Start implementing the inverse Radon transform and linear system of equations for the back-projection algorithm.
++ Use the Julia ODE packages, [listed here](https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md#ordinary-differential-equation), to implement the differential equations.
 
 ### week02-2015jun22 
 + Holiday: a 5 day trip that was planned before JSoC/JuliaCon was announced. To compensate for these 5 days, I plan to work over 2 or 3 weekends inorder to catchup.
