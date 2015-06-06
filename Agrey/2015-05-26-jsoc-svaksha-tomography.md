@@ -48,7 +48,7 @@ Synchrotron X-ray tomographic<sup>{1}</sup> microscopy (SRXTM) offers detailed t
 Tomography.jl
 
 ## Goal
-+ Implement the filtered back projection (FBP), aka, dual Radon transform algorithm in Julia as a library that can be incorporated into the TomoPy<sup>{1}{2}</sup> toolbox to perform tomographic data processing and image reconstruction tasks at the Argonne Advanced Light Source (APS).
++ Implement the Radon transform algorithm, aka, filtered back projection (FBP), in Julia as a library that can be incorporated into the TomoPy<sup>{1}{2}</sup> toolbox to perform tomographic data processing and image reconstruction tasks at the Argonne Advanced Light Source (APS).
 
 ## Actors
 + TomoPy developers, 
@@ -57,10 +57,10 @@ Tomography.jl
 + Other algebraic computing users.
 
 ## Informal Description
-+ A new package that implements the dual Radon transform algorithm in Julia.
++ A new package that implements the Radon transform algorithm in Julia.
 
 ## Formal Description
-+ The Radon transform in two dimensions (2D) is a tomography method with applications in medical CT/CAT imaging systems, radiology, and other sciences for imaging by cross-sectional scans sections from the projection data through sine waves. Correcting the noise corruption in projection data by using mathematical /geometry techniques will aid in image reconstruction.
++ The Radon transform in two dimensions (2D) is a tomography method with applications in medical CT/CAT imaging systems, radiology, and other sciences for imaging by cross-sectional scans sections from the projection data through sine waves (sinograms). Correcting the noise corruption in projection data by using mathematical /geometry techniques will aid in image reconstruction.
 + TomoPy will be the glue interface layer, and the plan is to replace the C engine underneath with the Julia library for Radon transforms. 
 + The Julia Base code library will not be modified.
 
@@ -70,7 +70,7 @@ Currently there is no library routine for this algorithm in Julia. Consequently,
 
 + A user retrieves tomography data (from a patient, from a sample, etc.).
 + S/he applies several pre-processing routines (available in the TomoPy package) to clean the measurement data.
-+ Then s/he apply the inverse Radon transform (i.e. image reconstruction algorithm) to recover volume images from data.
++ Then s/he applies the inverse Radon transform (i.e. image reconstruction algorithm) to recover volume images from data.
 + The output is stored in a file.
 
 #### Example-1
@@ -116,7 +116,6 @@ resh =[4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.53999297
  4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5 4.539992976248485e-5]
 angles= [0.0,0.5235987755982988,1.0471975511965976,1.5707963267948966,2.0943951023931953,2.6179938779914944,3.141592653589793]
 ```
-
 ----
 
 # 3. PROJECT SCHEDULE
@@ -127,7 +126,7 @@ This section contains the proposed strategy for completing this project with del
 The scheduled milestones are organised to be flexible so that some features are likely be completed early. Noted in the milestones are tasks including documentation and unit testing efforts for the features, with extended periods for reviewing these efforts at the two points during the project (halfway, final week). The milestones are:
 
 ### week01-2015jun15 
-+ Implement the Radon transform algorithm - Start implementing the inverse Radon transform and linear system of equations for the back-projection algorithm.
++ Implement the Radon transform algorithm - Start implementing the inverse Radon transform and linear system of equations for the back-projection algorithm using the NFFT.jl package.
 + Use the Julia ODE packages, [listed here](https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md#ordinary-differential-equation), to implement the differential equations.
 
 ### week02-2015jun22 
@@ -181,7 +180,7 @@ The scheduled milestones are organised to be flexible so that some features are 
 1. Doga Gürsoy<sup>{1}</sup>, PhD, Assistant Computational Scientist, APS, Argonne National Laboratory; @dgursoy on Github.
 2. Francesco De Carlo<sup>{1}</sup>, PhD, Scientific leader, APS, Argonne National Laboratory; @decarlof on Github.
 
-I am in touch with the core developers of the TomoPy library who will mentor me with respect to tomography scientific programming. A Julia core-developer will be sought for helping with code reviews.
+I am in touch with the core developers of the TomoPy library who will mentor me with respect to the Tomography scientific programming. A Julia core-developer will be sought for helping with code reviews.
 
 ### Logistics
 + Communicate via emails and github issues.
@@ -194,7 +193,7 @@ I am Vidya.A, a computing technologist and FOSS contributor from India. My [bio 
 
 By creating an algebraic tool for Julia users, this project will go a long way in demonstrating the importance of Julia to the scientific research community, namely medical imaging, crystallography and radiology. I've been reading various research papers, the `tomopy` codebase and scientific material in preparation for this project inorder to understand the best implementation methods and have been having discussions with my mentors regarding the challenges involved - given the recent mailing list discussions involving breaking changes planned for arrays<sup>{7}{8}{9}{10}</sup> in version-0.5 and abstract array<sup>{16}</sup> and array concatenation<sup>{17}</sup>, package precompilation<sup>{14}</sup>, lib support for linear solvers and sparse matrices, data storage and processing.
 
-Thusfar, Python has been the language of choice for all my projects, but there have been moments when I have looked for a better alternative, specifically in terms of the chaotic linux packaging ecosystem, speed, syntax (read, whitespace), etc.. where Julia scored highly. It is a new language in the scientific programming world, with a focus on numerical computing<sup>{18}</sup>, hence it has a huge amount of potential to replace established languages like Python in the scientific programming world. Hence, I'm hoping to contribute to some amazing libraries that can improve the adoption of Julia within the scientific community. Most importantly, I like the helpful community around Julia, that the language itself has amazing potential is evident in the exponential growth-rate of packages registered on Metadata, with almost triple of those listed on Julia.jl<sup>{19}</sup> (which I created in 2012 as a private wiki to track Julia code repos on github - then around 350-400). I believe a package used in the Crystallography field will be of great value to the scientific research community and help in bringing more scientists to the Julia userbase. 
+Thusfar, Python has been the language of choice for all my projects, but there have been moments when I have looked for a better alternative, specifically in terms of the chaotic linux packaging ecosystem, speed, syntax (read, whitespace), etc.. where Julia scored highly. It is a new language in the scientific programming world, with a focus on numerical computing<sup>{18}</sup>, hence it has a huge amount of potential to replace established languages like Python in the scientific programming world. Hence, I'm hoping to contribute to some amazing libraries that can improve the adoption of Julia within the scientific community. That the language itself has amazing potential is evident in the exponential growth-rate of packages registered on Metadata, with almost triple of those listed on Julia.jl<sup>{19}</sup> (which I created in 2012 as a private wiki to track Julia code repos on github - then around 350-400). Most importantly, I like the helpful community around Julia and believe that a package used in the Tomography imaging field will be of great value to the scientific research community and help rope in more scientists to the Julia userbase. 
 
 + Contact details: http://svaksha.com/pages/Contact
 + Your online persona: http://svaksha.com/ (blog)
@@ -207,7 +206,7 @@ This section is meant for internal discussion and tracking as I need to be aware
 
 + 5.1. Currently Julia has breaking changes planned for arrays<sup>{7}{8}{9}{10}</sup> in version-0.5 and the last suggestion in the thread seemed to suggest that they may make backporting changes to array behavior via Compat feasible<sup>{11}</sup> but another dev thinks backporting features is a terrible idea as it can break packages between two versions released for the Julia language. Array/Matrix computation forms the bedrock of scientific computing so this is a big change and the main goal behind listing these challenges in my proposal is to get feedback from the Mentors on how these issues will affect the project proposal and how we can find a solution to work around it. 
 
-+ 5.2. Package precompilation<sup>{14}</sup> will probably make it into version-0.4 before the freeze, which should be a helpful feature for those users who for security reasons may not have access to an internet connection. Like python, it is proposed to use __init__<sup>{15}</sup> for the syntax so that the package searches for the compiled (.jlc) file during installation but the long discussion for keeping it as an opt-in (to avoid breakage on old versions) is ongoing. Another change this will bring about in the packaging system will be with respect to _precompiled libs_ inside the julia packaging system, including the _module dependencies_ within a package. How these will be stored and handled is something to watch out for.
++ 5.2. Package precompilation<sup>{14}</sup> will probably make it into version-0.4 before the freeze, which should be a helpful feature for those users who, for security reasons, may not have access to an internet connection. Like Python, it is proposed to use __init__<sup>{15}</sup> for the syntax so that the package searches for the compiled (.jlc) file during installation but the long discussion for keeping it as an opt-in (to avoid breakage on old versions) is ongoing. Another change this will bring about in the packaging system will be with respect to _precompiled libs_ inside the julia packaging system, including the _module dependencies_ within a package. How these will be stored and handled is something to watch out for.
 
 + 5.3. Continuing the abstract array<sup>{16}</sup> discussion, there is another bug tracker discussion over array concatenation<sup>{17}</sup> and I am wondering if (and how) this will affect the code written for Radon?
 
