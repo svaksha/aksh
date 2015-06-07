@@ -8,11 +8,11 @@
    + [Formal Description](#formal-description)
    + [Hypothesis of Application](#hypothesis-of-application)
         + [Example-1](#example-1)
-+ [3. PROJECT SCOPE](#2-project-scope)
-   + [Implementation](#implementation)
++ [3. PROJECT SCOPE](#3-project-scope)
+   + [3a. Implementation](#3a-implementation)
         + [Fourier Transform](#fourier-transform)
         + [Julia-FFTW](#julia-fftw)
-   + [Milestones](#milestones)
+   + [3b. Milestones](#3b-milestones)
         + [week01-2015jun15](#week01-2015jun15)
         + [week02-2015jun22](#week02-2015jun22)
         + [week03-2015jun29](#week03-2015jun29)
@@ -26,11 +26,11 @@
         + [week11-2015aug24](#week11-2015aug24)
         + [week12-2015aug31](#week12-2015aug31) 
         + [week13-2015sep07](#week13-2015sep07)
-+ [4. MENTORS](#3-mentors)
+   + [3c. Challenges]((#3c-challenges)
++ [4. MENTORS](#4-mentors)
    + [Logistics](#logistics)
-+ [5. AboutMe](#4-aboutme)
-+ [6. CHALLENGES](#5-challenges)
-+ [7. REFERENCES](#6-references)
++ [5. AboutMe](#5-aboutme)
++ [6. REFERENCES](#6-references)
 
 ----
 
@@ -122,9 +122,9 @@ angles= [0.0,0.5235987755982988,1.0471975511965976,1.5707963267948966,2.09439510
 ----
 
 # 3. PROJECT SCOPE
-This section contains the proposed scope and strategy vis-a-vis available Julia libraries for completing the goals of this project with deliverables sliced into a weekly milestone timeline for the period between 2015Jun15 to 2015Sep15.
+This section contains the proposed scope, strategy vis-a-vis available Julia libraries, and challenges for completing the goals of this project with deliverables sliced into a weekly milestone timeline for the period between 2015Jun15 to 2015Sep15.
 
-## Implementation
+## 3a. Implementation
 
 ### Fourier Transform
 The Radon transform is inversely related to the 2D Fourier transform<sup>{20}</sup> of the initial function, which is the one variable Fourier transform of the Radon transform<sup>{3}</sup> of that initial function. The Fourier transform is invertible on certain intervals of time resulting in an explicit inversion formula for the Radon transform.
@@ -133,7 +133,7 @@ The Radon transform is inversely related to the 2D Fourier transform<sup>{20}</s
 Julia uses the FFTW<sup>{21}{22}</sup> library, the fastest free software implementation of the Fast Fourier transform (FFT) algorithm with support for multiple algorithms for smaller transforms, shared-memory parallelism, distributed-memory and multi-core support. However, while Julia supports shared-memory parallelism, it does not have support for all the features of FFTW so this will have to be considered during the implementation process.
 
 
-## Milestones
+## 3b. Milestones
 
 The scheduled milestones are organised to be flexible so that some features are likely be completed early. Noted in the milestones are tasks including documentation and unit testing efforts for the features, with extended periods for reviewing these efforts at the two points during the project (halfway, final week). The milestones are:
 
@@ -186,6 +186,19 @@ The scheduled milestones are organised to be flexible so that some features are 
 ### week13-2015sep07 
 + The final week until 2015Sep15 is for more testing and finishing up with documentation writing.
 
+
+## 3c. Challenges
+
+This section is meant for internal discussion and tracking as I need to be aware of proposed (possibly breaking) changes to the Julia language Base/core that _may_ affect the codebase in future and keep my mentors informed of the same.
+
++ 3c-1. Currently Julia has breaking changes planned for arrays<sup>{7}{8}{9}{10}</sup> in version-0.5 and the last suggestion in the thread seemed to suggest that they may make backporting changes to array behavior via Compat feasible<sup>{11}</sup> but another dev thinks backporting features is a terrible idea as it can break packages between two versions released for the Julia language. Array/Matrix computation forms the bedrock of scientific computing so this is a big change and the main goal behind listing these challenges in my proposal is to get feedback from the Mentors on how these issues will affect the project proposal and how we can find a solution to work around it. 
+
++ 3c-2. Package precompilation<sup>{14}</sup> will probably make it into version-0.4 before the freeze, which should be a helpful feature for those users who, for security reasons, may not have access to an internet connection. Like Python, it is proposed to use __init__<sup>{15}</sup> for the syntax so that the package searches for the compiled (.jlc) file during installation but the long discussion for keeping it as an opt-in (to avoid breakage on old versions) is ongoing. Another change this will bring about in the packaging system will be with respect to _precompiled libs_ inside the julia packaging system, including the _module dependencies_ within a package. How these will be stored and handled is something to watch out for.
+
++ 3c-3. Continuing the abstract array<sup>{16}</sup> discussion, there is another bug tracker discussion over array concatenation<sup>{17}</sup> and I am wondering if (and how) this will affect the code written for Radon?
+
++ 3c-4. To check if TomoPy requires or uses any graphics and rendering libs? The 2014 GSoC produced 2D/3D rendering for graphics, and support for GUI/Visualization libraries also exists which will help increase the adoption of Julia for these tasks thanks to the speed boost from LLVM. 
+
 ----
 
 # 4. MENTORS
@@ -212,21 +225,7 @@ Thusfar, Python has been the language of choice for all my projects, but there h
 
 ----
 
-# 6. CHALLENGES
-
-This section is meant for internal discussion and tracking as I need to be aware of proposed (possibly breaking) changes to the Julia language Base/core that _may_ affect the codebase in future and keep my mentors informed of the same.
-
-+ 5.1. Currently Julia has breaking changes planned for arrays<sup>{7}{8}{9}{10}</sup> in version-0.5 and the last suggestion in the thread seemed to suggest that they may make backporting changes to array behavior via Compat feasible<sup>{11}</sup> but another dev thinks backporting features is a terrible idea as it can break packages between two versions released for the Julia language. Array/Matrix computation forms the bedrock of scientific computing so this is a big change and the main goal behind listing these challenges in my proposal is to get feedback from the Mentors on how these issues will affect the project proposal and how we can find a solution to work around it. 
-
-+ 5.2. Package precompilation<sup>{14}</sup> will probably make it into version-0.4 before the freeze, which should be a helpful feature for those users who, for security reasons, may not have access to an internet connection. Like Python, it is proposed to use __init__<sup>{15}</sup> for the syntax so that the package searches for the compiled (.jlc) file during installation but the long discussion for keeping it as an opt-in (to avoid breakage on old versions) is ongoing. Another change this will bring about in the packaging system will be with respect to _precompiled libs_ inside the julia packaging system, including the _module dependencies_ within a package. How these will be stored and handled is something to watch out for.
-
-+ 5.3. Continuing the abstract array<sup>{16}</sup> discussion, there is another bug tracker discussion over array concatenation<sup>{17}</sup> and I am wondering if (and how) this will affect the code written for Radon?
-
-+ 5.4. To check if TomoPy requires or uses any graphics and rendering libs? The 2014 GSoC produced 2D/3D rendering for graphics, and support for GUI/Visualization libraries also exists which will help increase the adoption of Julia for these tasks thanks to the speed boost from LLVM. 
-
-----
-
-# 7. REFERENCES
+# 6. REFERENCES
 + {0} https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4307775
 + {1} https://www1.aps.anl.gov/Science/Scientific-Software/TomoPy
 + {2} https://github.com/tomopy/tomopy
