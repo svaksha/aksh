@@ -24,6 +24,7 @@
 
 ## FFT 
 + [FFT](http://en.wikipedia.org/wiki/Fast_Fourier_transform) and [Discrete Fourier Transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform).
++ FIT, https://en.wikipedia.org/wiki/Fourier_inversion_theorem
 + Jake's FFT [Notebook](http://nbviewer.ipython.org/url/jakevdp.github.io/downloads/notebooks/UnderstandingTheFFT.ipynb) and the [blog entry](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
 + Time domain & Frequency domain, http://multimechatronics.com/images/uploads/freshman%20tuts/Time%20Domain%20&%20Frequency%20Domain.pdf
 + What is the difference between Time domain and frequency domain?, http://www.researchgate.net/post/What_is_the_difference_between_Time_domain_and_frequency_domain10

@@ -8,7 +8,10 @@
    + [Formal Description](#formal-description)
    + [Hypothesis of Application](#hypothesis-of-application)
         + [Example-1](#example-1)
-+ [3. PROJECT SCHEDULE](#2-project-schedule)
++ [3. PROJECT SCOPE](#2-project-scope)
+   + [Implementation](#implementation)
+        + [Fourier Transform](#fourier-transform)
+        + [Julia-FFTW](#julia-fftw)
    + [Milestones](#milestones)
         + [week01-2015jun15](#week01-2015jun15)
         + [week02-2015jun22](#week02-2015jun22)
@@ -118,11 +121,20 @@ angles= [0.0,0.5235987755982988,1.0471975511965976,1.5707963267948966,2.09439510
 ```
 ----
 
-# 3. PROJECT SCHEDULE
+# 3. PROJECT SCOPE
+This section contains the proposed scope and strategy vis-a-vis available Julia libraries for completing the goals of this project with deliverables sliced into a weekly milestone timeline for the period between 2015Jun15 to 2015Sep15.
 
-This section contains the proposed strategy for completing this project with deliverables sliced into a weekly milestone timeline for the period between 2015Jun15 to 2015Sep15.
+## Implementation
+
+### Fourier Transform
+The Radon transform is inversely related to the 2D Fourier transform<sup>{20}</sup> of the initial function, which is the one variable Fourier transform of the Radon transform<sup>{3}</sup> of that initial function. The Fourier transform is invertible on certain intervals of time resulting in an explicit inversion formula for the Radon transform.
+
+### Julia-FFTW
+Julia uses the FFTW<sup>{21}{22}</sup> library, the fastest free software implementation of the Fast Fourier transform (FFT) algorithm with support for multiple algorithms for smaller transforms, shared-memory parallelism, distributed-memory and multi-core support. However, while Julia supports shared-memory parallelism, it does not have support for all the features of FFTW so this will have to be considered during the implementation process.
+
 
 ## Milestones
+
 The scheduled milestones are organised to be flexible so that some features are likely be completed early. Noted in the milestones are tasks including documentation and unit testing efforts for the features, with extended periods for reviewing these efforts at the two points during the project (halfway, final week). The milestones are:
 
 ### week01-2015jun15 
@@ -235,5 +247,7 @@ This section is meant for internal discussion and tracking as I need to be aware
 + {17} https://github.com/JuliaLang/julia/issues/10338
 + {18} Paper: [Julia: A Fresh Approach to Numerical Computing](http://arxiv.org/abs/1411.1607) by Jeff Bezanson, Alan Edelman, Stefan Karpinski, Viral B. Shah.
 + {19} http://svaksha.github.io/Julia.jl
-
++ {20} https://en.wikipedia.org/wiki/Fourier_transform
++ {21} https://en.wikipedia.org/wiki/FFTW
++ {22} https://github.com/FFTW/fftw3
 
