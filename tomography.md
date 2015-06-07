@@ -17,10 +17,11 @@
 
 ## Radon Transform
 + [Radon transform](http://en.wikipedia.org/wiki/Radon_transform) and its complex analog is the [Penrose transform](http://en.wikipedia.org/wiki/Penrose_transform).
-+ Slides on Radon transform, https://graphics.ethz.ch/teaching/viscomp11/downloads/VisComp07a_Radon_v02.pdf
 + http://mathworld.wolfram.com/RadonTransform.html
 + MATHWORKS Radon transform, http://www.mathworks.com/help/images/ref/radon.html
 + Matlab’s image registration toolbox: http://www.mathworks.com/discovery/image-registration.html 
++ Slides on Radon transform, https://graphics.ethz.ch/teaching/viscomp11/downloads/VisComp07a_Radon_v02.pdf
++ [The Radon and Fourier Transforms: The mathematics of X-Rays and CT scans](http://www.math.ucla.edu/~heilman/papers/04172010Radon.pdf).
 
 ## FFT 
 + [FFT](http://en.wikipedia.org/wiki/Fast_Fourier_transform) and [Discrete Fourier Transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform).
@@ -28,10 +29,6 @@
 + Jake's FFT [Notebook](http://nbviewer.ipython.org/url/jakevdp.github.io/downloads/notebooks/UnderstandingTheFFT.ipynb) and the [blog entry](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
 + Time domain & Frequency domain, http://multimechatronics.com/images/uploads/freshman%20tuts/Time%20Domain%20&%20Frequency%20Domain.pdf
 + What is the difference between Time domain and frequency domain?, http://www.researchgate.net/post/What_is_the_difference_between_Time_domain_and_frequency_domain10
-
-##### Papers
-+ [COMPARISON BETWEEN FREQUENCY DOMAIN AND TIME DOMAIN METHODS FOR PARAMETER RECONSTRUCTION ON NONUNIFORM DISPERSIVE TRANSMISSION LINES](http://www.jpier.org/PIER/pier43/01.0302031.L.Norgren.pdf), J. Lundstedt, M. Norgren
-
 
 ### Fourier slice theorem
 + Filtered back projection: http://www.owlnet.rice.edu/~elec539/Projects97/cult/node2.html
@@ -58,7 +55,9 @@
 ----
 
 # PUBLICATIONS
+
 ## Papers
++ [COMPARISON BETWEEN FREQUENCY DOMAIN AND TIME DOMAIN METHODS FOR PARAMETER RECONSTRUCTION ON NONUNIFORM DISPERSIVE TRANSMISSION LINES](http://www.jpier.org/PIER/pier43/01.0302031.L.Norgren.pdf), J. Lundstedt, M. Norgren.
 + The [tomographic reconstruction](http://en.wikipedia.org/wiki/Tomographic_reconstruction)
    + Paper: [Analytic and Iterative Reconstruction Algorithms in SPECT](Paper: jnm.snmjournals.org/content/43/10/1343.long) by Philippe P. Bruyant, PhD, 2002.
 + [2D and 3D ISAR image reconstruction through filtered back projection](http://www.researchgate.net/profile/Zhijun_Qiao/publication/258715731_2D_and_3D_ISAR_image_reconstruction_through_filtered_back_projection/links/00463537a7004e805c000000.pdf)
