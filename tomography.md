@@ -17,7 +17,7 @@
 
 ## Radon Transform
 + [Radon transform](http://en.wikipedia.org/wiki/Radon_transform) and its complex analog is the [Penrose transform](http://en.wikipedia.org/wiki/Penrose_transform).
-+ https://graphics.ethz.ch/teaching/viscomp11/downloads/VisComp07a_Radon_v02.pdf
++ Slides on Radon transform, https://graphics.ethz.ch/teaching/viscomp11/downloads/VisComp07a_Radon_v02.pdf
 + http://mathworld.wolfram.com/RadonTransform.html
 + MATHWORKS Radon transform, http://www.mathworks.com/help/images/ref/radon.html
 + Matlab’s image registration toolbox: http://www.mathworks.com/discovery/image-registration.html 
