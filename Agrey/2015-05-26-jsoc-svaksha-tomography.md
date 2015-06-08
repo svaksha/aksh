@@ -26,7 +26,7 @@
         + [week11-2015aug24](#week11-2015aug24)
         + [week12-2015aug31](#week12-2015aug31) 
         + [week13-2015sep07](#week13-2015sep07)
-   + [3c. Challenges]((#3c-challenges)
+   + [3c. Challenges](#3c-challenges)
 + [4. MENTORS](#4-mentors)
    + [Logistics](#logistics)
 + [5. AboutMe](#5-aboutme)
