@@ -53,7 +53,9 @@
 
 ### FFTW
 + https://github.com/FFTW/fftw3
++ http://www.fftw.org/
 + https://en.wikipedia.org/wiki/FFTW
++ http://ab-initio.mit.edu/~stevenj/thesis-ch1.pdf
 
 ### TomoPy
 + https://github.com/tomopy/tomopy, [Docs](https://tomopy.readthedocs.org/)
