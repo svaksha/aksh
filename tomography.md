@@ -1,6 +1,7 @@
 + [Tomography](#tomography)
    + [Radon Transform](#radon-transform)
    + [FFT](#fft)
++ [FOSS](#foss)
 + [PUBLICATIONS](#publications)
    + [Papers](#papers)
    + [Books](#books)
@@ -45,6 +46,14 @@
 ### CT Data
 + CT Images, https://www.nlm.nih.gov/research/visible/fresh_ct.html
    + https://mri.radiology.uiowa.edu/visible_human_datasets.html
+
+----
+
+# FOSS
+
+### FFTW
++ https://github.com/FFTW/fftw3
++ https://en.wikipedia.org/wiki/FFTW
 
 ### TomoPy
 + https://github.com/tomopy/tomopy, [Docs](https://tomopy.readthedocs.org/)
