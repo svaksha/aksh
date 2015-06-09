@@ -1,6 +1,7 @@
 + [Tomography](#tomography)
    + [Radon Transform](#radon-transform)
    + [FFT](#fft)
++ [FreeImageData](#freeimagedata)
 + [FOSS](#foss)
 + [PUBLICATIONS](#publications)
    + [Papers](#papers)
@@ -23,6 +24,8 @@
 + Matlab’s image registration toolbox: http://www.mathworks.com/discovery/image-registration.html 
 + Slides on Radon transform, https://graphics.ethz.ch/teaching/viscomp11/downloads/VisComp07a_Radon_v02.pdf
 + [The Radon and Fourier Transforms: The mathematics of X-Rays and CT scans](http://www.math.ucla.edu/~heilman/papers/04172010Radon.pdf).
++ http://matlab.izmiran.ru/help/toolbox/images/transf12.html
++ http://matlab.izmiran.ru/help/toolbox/images/transfo8.html and http://matlab.izmiran.ru/help/toolbox/images/transfo9.html
 
 ## FFT 
 + [FFT](http://en.wikipedia.org/wiki/Fast_Fourier_transform) and [Discrete Fourier Transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform).
@@ -43,9 +46,18 @@
 + http://en.wikipedia.org/wiki/Hamming_code
 + http://en.wikipedia.org/wiki/Hann_function
 
-### CT Data
+### DCT
++ http://en.wikipedia.org/wiki/Discrete_cosine_transform
+
+
+----
+
+# FreeImageData
 + CT Images, https://www.nlm.nih.gov/research/visible/fresh_ct.html
    + https://mri.radiology.uiowa.edu/visible_human_datasets.html
++ https://sites.google.com/site/hispeedpackets/Home/shepplogan
++ [Reconstructing an Image from Parallel Projection Data](http://matlab.izmiran.ru/help/toolbox/images/transf13.html).
++ [Viewing the Radon Transform as an Image](http://matlab.izmiran.ru/help/toolbox/images/transf10.html).
 
 ----
 
@@ -82,3 +94,11 @@
 
 # Otsu Thresholding
 + http://www.labbookpages.co.uk/software/imgProc/otsuThreshold.html
+
+----
+
+# Julia Lib
++ Index : http://julia.readthedocs.org/en/latest/genindex/
++ http://julia.readthedocs.org/en/latest/stdlib/base/
++ http://stackoverflow.com/questions/25716547/type-i-discrete-cosine-transform-not-defined-found-in-julia-0-3-0
+
