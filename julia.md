@@ -119,5 +119,7 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 ##### Books
 + [Toward a Global Science: Mining Civilizational Knowledge By Susantha Goonatilake](http://books.google.co.in/books?id=SI5ip95BbgEC&pg=PA126&dq=Virahanka+Fibonacci&hl=en#v=onepage&q&f=false
 
+----
 
-
+# Images
++ [Installing Image Magick on Ubuntu 14.04](https://gist.github.com/rodleviton/74e22e952bd6e7e5bee1)

@@ -78,3 +78,7 @@
 ## Books
 + http://www.slaney.org/pct/pct-toc.html
 
+----
+
+# Otsu Thresholding
++ http://www.labbookpages.co.uk/software/imgProc/otsuThreshold.html
