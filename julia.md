@@ -1,4 +1,3 @@
-# JULIA.md
 
 + Julia instance, https://tmpnb.org/user-tMmHkibTA4kf/tree
 + https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md
@@ -87,12 +86,12 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 
 ----
 
-# Types
+# LIB 
 + Abstract types: http://julia.readthedocs.org/en/latest/manual/types/#abstract-types
++ Punctuation, http://julia.readthedocs.org/en/latest/stdlib/punctuation/
++ Metaprogramming, http://julia.readthedocs.org/en/latest/manual/metaprogramming/
 
-----
-
-# RE Strings
+### RE Strings
 + http://julia.readthedocs.org/en/latest/stdlib/strings/
 + http://julia.readthedocs.org/en/latest/manual/strings/ 
 + https://stackoverflow.com/questions/20478823/joining-regular-expressions-in-julia
@@ -132,7 +131,3 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 
 ----
 
-# DEPS
-+ debugger, https://github.com/toivoh/Debug.jl
-+ discrete cosine transforms, MDCT.jl
-+ 

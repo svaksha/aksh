@@ -105,3 +105,10 @@
 + http://julia.readthedocs.org/en/latest/stdlib/base/
 + http://stackoverflow.com/questions/25716547/type-i-discrete-cosine-transform-not-defined-found-in-julia-0-3-0
 
+----
+
+# DEPS
++ debugger, https://github.com/toivoh/Debug.jl
++ discrete cosine transforms, MDCT.jl
+
+

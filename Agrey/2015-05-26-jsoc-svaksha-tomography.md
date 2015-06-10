@@ -145,11 +145,12 @@ The scheduled milestones are organised to be flexible so that some features are 
 + Holiday: a 5 day trip that was planned before JSoC/JuliaCon was announced. To compensate for these 5 days, I plan to work over 2 or 3 weekends inorder to catchup.
 
 ### week03-2015jun29 
-+ To implement a new Radon transform<sup>{3}</sup> package library describing the forward projection process (FBP).
-+ Continue with the `iterative reconstruction` algorithms to reconstruct 2D and 3D images for tomography computations which are computationally more expensive than FBP.
++ Implement a new Radon transform<sup>{3}</sup> package library describing the forward projection process (FBP).
++ Code the `Shepp–Logan phantom`<sup>{13}</sup> brain image.
 
 ### week04-2015jul06 
 + Run tests on the ongoing Radon transform (sine waves or sinogram) implementation for a crystallography image.
++ Continue with the `iterative reconstruction` algorithms to reconstruct 2D and 3D images for tomography computations which are computationally more expensive than FBP.
 
 ### week05-2015jul13 
 + Implement the inversion method using iterative algorithms.
@@ -214,11 +215,11 @@ I am in touch with the core developers of the TomoPy library who will mentor me 
 ----
 
 # 5. AboutMe
-I am Vidya.A, a computing technologist and FOSS contributor from India. My [bio page](http://svaksha.com/pages/Bio) describes my Foss journey so I'll try to avoid repetition and keep it short :- My interests lie in scientific programming and I have worked on a bioinformatics project and a financial project that used python scientific libraries which kindled a deeper interest in scientific programming. At present I am not a student but in future, I plan to pursue the graduate school option and work within a research team. The idea of introducing Julia into a scientific research codebase motivated me to apply for JSoC.
+I am Vidya.A, a computing technologist and FOSS contributor from India. My [bio page](http://svaksha.com/pages/Bio) describes my Foss journey so I'll avoid repeating that and keep it short : My interests lie in scientific programming and working on a bioinformatics project and a financial project that used python scientific libraries kindled a deeper interest in scientific programming. At present I am not a student but in future, I plan to pursue the graduate school option and work within a research team. The opportunity to introduce Julia into a scientific research codebase motivated me to apply for the JSoC.
 
 By creating an algebraic tool for Julia users, this project will go a long way in demonstrating the importance of Julia to the scientific research community, namely medical imaging, crystallography and radiology. I've been reading various research papers, the `tomopy` codebase and scientific material in preparation for this project inorder to understand the best implementation methods and have been having discussions with my mentors regarding the challenges involved - given the recent mailing list discussions involving breaking changes planned for arrays<sup>{7}{8}{9}{10}</sup> in version-0.5 and abstract array<sup>{16}</sup> and array concatenation<sup>{17}</sup>, package precompilation<sup>{14}</sup>, lib support for linear solvers and sparse matrices, data storage and processing.
 
-Thusfar, Python has been the language of choice for all my projects, but there have been moments when I have looked for a better alternative, specifically in terms of the chaotic linux packaging ecosystem, speed, syntax (read, whitespace), etc.. where Julia scored highly. It is a new language in the scientific programming world, with a focus on numerical computing<sup>{18}</sup>, hence it has a huge amount of potential to replace established languages like Python in the scientific programming world. Hence, I'm hoping to contribute to some amazing libraries that can improve the adoption of Julia within the scientific community. That the language itself has amazing potential is evident in the exponential growth-rate of packages registered on Metadata, with almost triple of those listed on Julia.jl<sup>{19}</sup> (which I created in 2012 as a private wiki to track Julia code repos on github - then around 350-400). Most importantly, I like the helpful community around Julia and believe that a package used in the Tomography imaging field will be of great value to the scientific research community and help rope in more scientists to the Julia userbase. 
+Thusfar, Python has been the language of choice for all my projects, but there have been moments when I have looked for a better alternative, specifically in terms of the chaotic linux packaging ecosystem, speed, syntax (read, whitespace), etc.. where Julia scored highly. It is a new language in the scientific programming world, with a focus on numerical computing<sup>{18}</sup>, hence it has a huge amount of potential to replace established languages like Python in the scientific programming world. I'm hoping to contribute to some amazing libraries that can improve the adoption of Julia within the scientific community. That the language itself has amazing potential is evident in the exponential growth-rate of packages registered on Metadata, with almost triple of those listed on Julia.jl<sup>{19}</sup> (which I created in 2012 as a private wiki to track Julia code repos on github, around 350-400 repos back then). Most importantly, I like the helpful community around Julia and believe that a package used in the Tomography imaging field will be of great value to the scientific research community and help rope in more scientists to the Julia userbase. 
 
 + Contact details: http://svaksha.com/pages/Contact
 + Your online persona: http://svaksha.com/ (blog)
