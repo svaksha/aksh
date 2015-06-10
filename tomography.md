@@ -1,7 +1,7 @@
 + [Tomography](#tomography)
    + [Radon Transform](#radon-transform)
    + [FFT](#fft)
-+ [FreeImageData](#freeimagedata)
++ [PHANTOM](#phantom)
 + [FOSS](#foss)
 + [PUBLICATIONS](#publications)
    + [Papers](#papers)
@@ -49,15 +49,18 @@
 ### DCT
 + http://en.wikipedia.org/wiki/Discrete_cosine_transform
 
-
 ----
 
-# FreeImageData
+# PHANTOM
++ http://en.wikipedia.org/wiki/Imaging_phantom
 + CT Images, https://www.nlm.nih.gov/research/visible/fresh_ct.html
    + https://mri.radiology.uiowa.edu/visible_human_datasets.html
 + https://sites.google.com/site/hispeedpackets/Home/shepplogan
 + [Reconstructing an Image from Parallel Projection Data](http://matlab.izmiran.ru/help/toolbox/images/transf13.html).
 + [Viewing the Radon Transform as an Image](http://matlab.izmiran.ru/help/toolbox/images/transf10.html).
++ http://bigwww.epfl.ch/thevenaz/shepplogan/
++ http://en.wikipedia.org/wiki/Computational_human_phantom
++ http://www.virtualphantoms.org/phantoms.htm
 
 ----
 
@@ -88,7 +91,7 @@
 + [EIT Reconstruction Algorithms:  Pitfalls, Challenges and Recent Developments](http://arxiv.org/pdf/physics/0310151.pdf) by William R.B. Lionheart, 2004.
 
 ## Books
-+ http://www.slaney.org/pct/pct-toc.html
++ Kak A., http://www.slaney.org/pct/pct-toc.html
 
 ----
 

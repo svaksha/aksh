@@ -25,9 +25,10 @@
 
 ----
 
-# Tests - core JULIA
+# QA - core JULIA
 + https://github.com/JuliaLang/julia/blob/master/test/unicode.jl
 + https://github.com/JuliaLang/julia/blob/e0176ec9c44530f4474f2f347613de121f9ed1fc/test/pkg.jl
+
 ## Unit and Functional Testing
 + http://julia.readthedocs.org/en/latest/stdlib/test/
 
@@ -73,6 +74,8 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 # JuliaStats-Roadmap.jl
 + https://github.com/JuliaStats/Roadmap.jl/issues/11
 
+----
+
 # Arrays
 + http://julia.readthedocs.org/en/latest/manual/arrays/
 + https://julia.readthedocs.org/en/latest/stdlib/arrays
@@ -80,6 +83,9 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 + http://en.wikibooks.org/wiki/Introducing_Julia/Arrays_and_tuples
 + Read .csv, http://randyzwitch.com/julia-import-data/
 + DF, https://github.com/JuliaStats/DataFrames.jl/blob/cac96119c9f5e24c5f2976ff119703a6ec52476c/src/abstractdataframe/abstractdataframe.jl#L67
++ https://stackoverflow.com/questions/24275980/slice-array-of-arrays-in-julia
+
+----
 
 # Types
 + Abstract types: http://julia.readthedocs.org/en/latest/manual/types/#abstract-types
@@ -123,3 +129,10 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 
 # Images
 + [Installing Image Magick on Ubuntu 14.04](https://gist.github.com/rodleviton/74e22e952bd6e7e5bee1)
+
+----
+
+# DEPS
++ debugger, https://github.com/toivoh/Debug.jl
++ discrete cosine transforms, MDCT.jl
++ 
