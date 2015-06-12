@@ -86,10 +86,11 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 
 ----
 
-# LIB 
+# Julia Documentation
 + Abstract types: http://julia.readthedocs.org/en/latest/manual/types/#abstract-types
 + Punctuation, http://julia.readthedocs.org/en/latest/stdlib/punctuation/
 + Metaprogramming, http://julia.readthedocs.org/en/latest/manual/metaprogramming/
++ http://slendermeans.org/julia-iterators.html
 
 ### RE Strings
 + http://julia.readthedocs.org/en/latest/stdlib/strings/
@@ -130,4 +131,5 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 + [Installing Image Magick on Ubuntu 14.04](https://gist.github.com/rodleviton/74e22e952bd6e7e5bee1)
 
 ----
+
 
