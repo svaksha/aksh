@@ -108,7 +108,11 @@
 ----
 
 # DEPS
-+ debugger, https://github.com/toivoh/Debug.jl
-+ discrete cosine transforms, MDCT.jl
-
++ Debug                     # debugger, https://github.com/toivoh/Debug.jl
++ MDCT                      # discrete cosine transforms
++ DistributedArrays
++ ForwardDiff               # Math calculus differentiation
++ Docile                    # Documentation
++ Compat                    # https://github.com/JuliaLang/Compat.jl
++ JuMP                      # https://github.com/JuliaOpt/JuMP.jl
 

@@ -1,5 +1,11 @@
 
 
+# Kernel/ HDD
++ http://www.brendangregg.com/perf.html
+
+# Images
++ [Installing Image Magick on Ubuntu 14.04](https://gist.github.com/rodleviton/74e22e952bd6e7e5bee1)
+
 # config
 + http://en.wikipedia.org/wiki/Category:Configuration_files
 + http://en.wikipedia.org/wiki/INI_file

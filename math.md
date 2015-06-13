@@ -15,6 +15,7 @@
 + https://en.wikipedia.org/wiki/Lambda_calculus
 
 ### Integral Transforms
++ https://en.wikipedia.org/wiki/Exponential_integral
 + https://en.wikipedia.org/wiki/Integral_geometry
 + http://mathworld.wolfram.com/IntegralTransform.html
 
