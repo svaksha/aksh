@@ -4,12 +4,6 @@
 
 ----
 
-# Algorithms
-+ Strassen algorithm for matrix multiplication in julia: https://gist.github.com/GaZ3ll3/87df748f76b119199fed
-   + Jupyter NB: http://nbviewer.ipython.org/github/GaZ3ll3/Step_In_Julia/blob/master/notebook/Linear%20Algebra.ipynb
-
-----
-
 # Bugs
 + https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3A%22up+for+grabs%22
 + 9493 : https://github.com/JuliaLang/julia/issues/9493
@@ -88,7 +82,12 @@ To move a large number of packages installed on the old system to a new one, do 
 
 ----
 
-# Julia Syntax
+# Lib INDEX
++ Index : http://julia.readthedocs.org/en/latest/genindex/
++ http://julia.readthedocs.org/en/latest/stdlib/base/
++ http://stackoverflow.com/questions/25716547/type-i-discrete-cosine-transform-not-defined-found-in-julia-0-3-0
+
+# Syntax
 
 + http://julia.readthedocs.org/en/latest/manual/noteworthy-differences/
 + http://docs.julialang.org/en/latest/manual/integers-and-floating-point-numbers/
@@ -108,4 +107,9 @@ To move a large number of packages installed on the old system to a new one, do 
 
 ----
 
+# GIST
++ cprintf.jl, https://gist.github.com/dpo/11000433
+#### Algorithms
++ Strassen algorithm for matrix multiplication in julia: https://gist.github.com/GaZ3ll3/87df748f76b119199fed
+   + Jupyter NB: http://nbviewer.ipython.org/github/GaZ3ll3/Step_In_Julia/blob/master/notebook/Linear%20Algebra.ipynb
 

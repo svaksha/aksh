@@ -92,18 +92,12 @@
 
 ## Books
 + Kak A., http://www.slaney.org/pct/pct-toc.html
++ The Radon transform, Toft Peter, http://orbit.dtu.dk/fedora/objects/orbit:85899/datastreams/file_5529668/content
 
 ----
 
 # Otsu Thresholding
 + http://www.labbookpages.co.uk/software/imgProc/otsuThreshold.html
-
-----
-
-# Julia Lib
-+ Index : http://julia.readthedocs.org/en/latest/genindex/
-+ http://julia.readthedocs.org/en/latest/stdlib/base/
-+ http://stackoverflow.com/questions/25716547/type-i-discrete-cosine-transform-not-defined-found-in-julia-0-3-0
 
 ----
 
