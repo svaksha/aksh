@@ -26,6 +26,7 @@
 
 # LINKS
 
++ http://thenextweb.com/dd/2015/06/11/8-barriers-to-overcome-when-learning-to-code/
 + How 2 Hire Data Scientists, http://firstround.com/review/how-to-consistently-hire-remarkable-data-scientists/
 + http://yourstory.com/2015/04/doormint/
 

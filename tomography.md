@@ -109,4 +109,5 @@
 + Docile                    # Documentation
 + Compat                    # https://github.com/JuliaLang/Compat.jl
 + JuMP                      # https://github.com/JuliaOpt/JuMP.jl
-
+    + http://jump.readthedocs.org/en/latest/
++ https://github.com/mbauman/AxisArrays.jl    

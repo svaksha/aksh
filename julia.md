@@ -71,7 +71,7 @@ To move a large number of packages installed on the old system to a new one, do 
 
 ----
 
-# Arrays
+# Array
 + http://julia.readthedocs.org/en/latest/manual/arrays/
 + https://julia.readthedocs.org/en/latest/stdlib/arrays
 + http://quant-econ.net/jl/julia_arrays.html
@@ -79,6 +79,15 @@ To move a large number of packages installed on the old system to a new one, do 
 + Read .csv, http://randyzwitch.com/julia-import-data/
 + DF, https://github.com/JuliaStats/DataFrames.jl/blob/cac96119c9f5e24c5f2976ff119703a6ec52476c/src/abstractdataframe/abstractdataframe.jl#L67
 + https://stackoverflow.com/questions/24275980/slice-array-of-arrays-in-julia
+
+## Bugs
++ #7941:Towards array nirvana, https://github.com/JuliaLang/julia/issues/7941
++ https://github.com/JuliaLang/julia/issues/9874#issuecomment-75979041
++ {7} https://github.com/JuliaLang/julia/issues/3701
++ {8} https://github.com/JuliaLang/julia/issues/4774
++ {9} https://github.com/JuliaLang/julia/pull/7568
++ {10} https://github.com/JuliaLang/julia/pull/10525
++ {11} https://groups.google.com/forum/#!topic/julia-dev/sM0VyVbFewQ
 
 ----
 
@@ -112,4 +121,6 @@ To move a large number of packages installed on the old system to a new one, do 
 #### Algorithms
 + Strassen algorithm for matrix multiplication in julia: https://gist.github.com/GaZ3ll3/87df748f76b119199fed
    + Jupyter NB: http://nbviewer.ipython.org/github/GaZ3ll3/Step_In_Julia/blob/master/notebook/Linear%20Algebra.ipynb
+
+----
 
