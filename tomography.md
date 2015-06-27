@@ -93,6 +93,7 @@
 ## Books
 + Kak A., http://www.slaney.org/pct/pct-toc.html
 + The Radon transform, Toft Peter, http://orbit.dtu.dk/fedora/objects/orbit:85899/datastreams/file_5529668/content
++ https://books.google.co.in/books?id=H5r1YwWODpUC&pg=PA47&lpg=PA47&dq=fortran+radon+transform&source=bl&ots=4dWSHS0BdQ&sig=b0Jukoj89Zso-vSck0rnIr1tBNg&hl=en&sa=X&ei=us2HVevpIoSiugTBoYKQCQ&ved=0CCMQ6AEwAA#v=onepage&q=fortran%20radon%20transform&f=false
 
 ----
 
@@ -102,12 +103,16 @@
 ----
 
 # DEPS
-+ Debug                     # debugger, https://github.com/toivoh/Debug.jl
-+ MDCT                      # discrete cosine transforms
-+ DistributedArrays
-+ ForwardDiff               # Math calculus differentiation
++ Debug                     # https://github.com/toivoh/Debug.jl
 + Docile                    # Documentation
 + Compat                    # https://github.com/JuliaLang/Compat.jl
-+ JuMP                      # https://github.com/JuliaOpt/JuMP.jl
-    + http://jump.readthedocs.org/en/latest/
-+ https://github.com/mbauman/AxisArrays.jl    
++ AxisArrays                # https://github.com/mbauman/AxisArrays.jl   
++ DistributedArrays
++ DASSL                     # https://github.com/pwl/DASSL.jl
++ ForwardDiff               # Math calculus differentiation
++ JuMP                      # https://github.com/JuliaOpt/JuMP.jl, http://jump.readthedocs.org/en/latest/
++ MDCT                      # discrete cosine transforms
++ NFFT                      # https://github.com/tknopp/NFFT.jl
+
+
+

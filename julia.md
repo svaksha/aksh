@@ -118,9 +118,14 @@ To move a large number of packages installed on the old system to a new one, do 
 
 # GIST
 + cprintf.jl, https://gist.github.com/dpo/11000433
+
 #### Algorithms
 + Strassen algorithm for matrix multiplication in julia: https://gist.github.com/GaZ3ll3/87df748f76b119199fed
    + Jupyter NB: http://nbviewer.ipython.org/github/GaZ3ll3/Step_In_Julia/blob/master/notebook/Linear%20Algebra.ipynb
 
 ----
 
+# Math
+
+## Integral
++ http://docs.julialang.org/en/latest/stdlib/math/#numerical-integration
