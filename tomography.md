@@ -4,6 +4,7 @@
 + [PHANTOM](#phantom)
 + [FOSS](#foss)
 + [PUBLICATIONS](#publications)
+   + [Articles](#articles)
    + [Papers](#papers)
    + [Books](#books)
    + [Slides](#slides)
@@ -83,6 +84,9 @@
 ----
 
 # PUBLICATIONS
+
+## Articles
++ [The mathematics of tomography](https://plus.maths.org/content/saving-lives-mathematics-tomography) by Chris Budd and Cathryn Mitchell.
 
 ## Papers
 + [COMPARISON BETWEEN FREQUENCY DOMAIN AND TIME DOMAIN METHODS FOR PARAMETER RECONSTRUCTION ON NONUNIFORM DISPERSIVE TRANSMISSION LINES](http://www.jpier.org/PIER/pier43/01.0302031.L.Norgren.pdf), J. Lundstedt, M. Norgren.
