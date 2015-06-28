@@ -28,7 +28,9 @@
 ----
 
 # Writing Documentation
++ https://github.com/JuliaLang/julia/pull/11906
 + https://github.com/JuliaLang/julia/blob/ff9cebe45e6c39933ab26ca134b59b3ef47ec821/doc/helpdb.jl
+
 ```
 julia> foo = "abc"; bar = "bac"; zoo = "234";
 
@@ -36,6 +38,7 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
            println("Please see http://docs.julialang.org/en/latest/manual/control-flow/")
        end
 ```
+
 + See http://docs.julialang.org/en/latest/manual/control-flow/
 + Check out http://julia.readthedocs.org/en/release-0.3/manual/control-flow/#short-circuit-evaluation
 

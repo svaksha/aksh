@@ -6,7 +6,8 @@
 + [PUBLICATIONS](#publications)
    + [Papers](#papers)
    + [Books](#books)
-
+   + [Slides](#slides)
+   
 ----
 
 + [CV](http://en.wikipedia.org/wiki/Computer_vision) and [Medical Imaging](http://en.wikipedia.org/wiki/Category:Medical_imaging)
@@ -26,6 +27,7 @@
 + [The Radon and Fourier Transforms: The mathematics of X-Rays and CT scans](http://www.math.ucla.edu/~heilman/papers/04172010Radon.pdf).
 + http://matlab.izmiran.ru/help/toolbox/images/transf12.html
 + http://matlab.izmiran.ru/help/toolbox/images/transfo8.html and http://matlab.izmiran.ru/help/toolbox/images/transfo9.html
++ http://www.whydomath.org/node/tomography/radon.html
 
 ## FFT 
 + [FFT](http://en.wikipedia.org/wiki/Fast_Fourier_transform) and [Discrete Fourier Transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform).
@@ -91,9 +93,18 @@
 + [EIT Reconstruction Algorithms:  Pitfalls, Challenges and Recent Developments](http://arxiv.org/pdf/physics/0310151.pdf) by William R.B. Lionheart, 2004.
 
 ## Books
-+ Kak A., http://www.slaney.org/pct/pct-toc.html
-+ The Radon transform, Toft Peter, http://orbit.dtu.dk/fedora/objects/orbit:85899/datastreams/file_5529668/content
++ [Principles of computerized tomographic imaging](http://www.slaney.org/pct/pct-toc.html), Prof. Kak A. C. Kak and M. Slaney, IEEE Press, New York, 1988.
++ [The Radon transform](http://orbit.dtu.dk/fedora/objects/orbit:85899/datastreams/file_5529668/content), Toft Peter.
 + https://books.google.co.in/books?id=H5r1YwWODpUC&pg=PA47&lpg=PA47&dq=fortran+radon+transform&source=bl&ots=4dWSHS0BdQ&sig=b0Jukoj89Zso-vSck0rnIr1tBNg&hl=en&sa=X&ei=us2HVevpIoSiugTBoYKQCQ&ved=0CCMQ6AEwAA#v=onepage&q=fortran%20radon%20transform&f=false
++ [Introduction to the Mathematics of Medical Imaging](https://www.siam.org/books/ot102/), Second Edition, Charles L. Epstein.
+   + [Chapter-1: Measurements and Modeling](https://www.siam.org/books/ot102/OT102Chpt1.pdf)
+   + [Chapter-3: A Basic Model for Tomography](https://www.siam.org/books/ot102/OT102SampleChapter.pdf).
++ [EECS 516 Lecture Notes](http://web.eecs.umich.edu/~fessler/course/516/l/)
+   + Chapter-3:[Analytical Tomographic Image Reconstruction Methods](http://web.eecs.umich.edu/~fessler/course/516/l/c-tomo.pdf).
+
+## Slides
++ [Tomographic Image Reconstruction](https://www.aapm.org/meetings/99AM/pdf/2806-57576.pdf).
++ [X-Ray computed tomography](http://www.lx.it.pt/~bioucas/IP/files/Radon.pdf), IPIM, IST, José Bioucas, 2007.
 
 ----
 
