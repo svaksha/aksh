@@ -3,16 +3,20 @@
    + [FFT](#fft)
 + [PHANTOM](#phantom)
 + [FOSS](#foss)
+   + [FFTW](#fftw)
+   + [Radon Transform](#radon-transform)
+   + [TomoPy](#tomopy)
 + [PUBLICATIONS](#publications)
    + [Articles](#articles)
-   + [Papers](#papers)
    + [Books](#books)
+   + [Papers](#papers)
    + [Slides](#slides)
    
 ----
 
 + [CV](http://en.wikipedia.org/wiki/Computer_vision) and [Medical Imaging](http://en.wikipedia.org/wiki/Category:Medical_imaging)
-+ Doppler effect Redshift: http://en.wikipedia.org/wiki/Redshift
++ Doppler effect Redshift, http://en.wikipedia.org/wiki/Redshift
++ Otsu Thresholding, http://www.labbookpages.co.uk/software/imgProc/otsuThreshold.html
 
 # Tomography
 + https://en.wikipedia.org/wiki/X-ray_computed_tomography
@@ -68,33 +72,27 @@
 ----
 
 # FOSS
-
 ### FFTW
 + https://github.com/FFTW/fftw3
 + http://www.fftw.org/
 + https://en.wikipedia.org/wiki/FFTW
 + http://ab-initio.mit.edu/~stevenj/thesis-ch1.pdf
 
+### Radon Transform
++ http://scikit-image.org/docs/dev/auto_examples/plot_radon_transform.html
+      
 ### TomoPy
 + https://github.com/tomopy/tomopy, [Docs](https://tomopy.readthedocs.org/)
 + Homepage: https://www1.aps.anl.gov/Science/Scientific-Software/TomoPy
 + Paper: http://scripts.iucr.org/cgi-bin/paper?S1600577514013939
    + PDF copy of [TomoPy: a framework for the analysis of synchrotron tomographic data](http://journals.iucr.org/s/issues/2014/05/00/pp5049/pp5049.pdf) Doga Gursoy, Francesco De Carlo, Xianghui Xiao and Chris Jacobsen.
-      
+
 ----
 
 # PUBLICATIONS
 
 ## Articles
 + [The mathematics of tomography](https://plus.maths.org/content/saving-lives-mathematics-tomography) by Chris Budd and Cathryn Mitchell.
-
-## Papers
-+ [COMPARISON BETWEEN FREQUENCY DOMAIN AND TIME DOMAIN METHODS FOR PARAMETER RECONSTRUCTION ON NONUNIFORM DISPERSIVE TRANSMISSION LINES](http://www.jpier.org/PIER/pier43/01.0302031.L.Norgren.pdf), J. Lundstedt, M. Norgren.
-+ The [tomographic reconstruction](http://en.wikipedia.org/wiki/Tomographic_reconstruction)
-   + Paper: [Analytic and Iterative Reconstruction Algorithms in SPECT](Paper: jnm.snmjournals.org/content/43/10/1343.long) by Philippe P. Bruyant, PhD, 2002.
-+ [2D and 3D ISAR image reconstruction through filtered back projection](http://www.researchgate.net/profile/Zhijun_Qiao/publication/258715731_2D_and_3D_ISAR_image_reconstruction_through_filtered_back_projection/links/00463537a7004e805c000000.pdf)
-+ [Tomographic reconstruction of stress from photoelastic measurements using elastic regularization](http://www.researchgate.net/publication/30045506_Tomographic_reconstruction_of_stress_from_photoelastic_measurements_using_elastic_regularization).
-+ [EIT Reconstruction Algorithms:  Pitfalls, Challenges and Recent Developments](http://arxiv.org/pdf/physics/0310151.pdf) by William R.B. Lionheart, 2004.
 
 ## Books
 + [Principles of computerized tomographic imaging](http://www.slaney.org/pct/pct-toc.html), Prof. Kak A. C. Kak and M. Slaney, IEEE Press, New York, 1988.
@@ -106,15 +104,18 @@
 + [EECS 516 Lecture Notes](http://web.eecs.umich.edu/~fessler/course/516/l/)
    + Chapter-3:[Analytical Tomographic Image Reconstruction Methods](http://web.eecs.umich.edu/~fessler/course/516/l/c-tomo.pdf).
 
+## Papers
++ [COMPARISON BETWEEN FREQUENCY DOMAIN AND TIME DOMAIN METHODS FOR PARAMETER RECONSTRUCTION ON NONUNIFORM DISPERSIVE TRANSMISSION LINES](http://www.jpier.org/PIER/pier43/01.0302031.L.Norgren.pdf), J. Lundstedt, M. Norgren.
++ The [tomographic reconstruction](http://en.wikipedia.org/wiki/Tomographic_reconstruction)
+   + Paper: [Analytic and Iterative Reconstruction Algorithms in SPECT](Paper: jnm.snmjournals.org/content/43/10/1343.long) by Philippe P. Bruyant, PhD, 2002.
++ [2D and 3D ISAR image reconstruction through filtered back projection](http://www.researchgate.net/profile/Zhijun_Qiao/publication/258715731_2D_and_3D_ISAR_image_reconstruction_through_filtered_back_projection/links/00463537a7004e805c000000.pdf)
++ [Tomographic reconstruction of stress from photoelastic measurements using elastic regularization](http://www.researchgate.net/publication/30045506_Tomographic_reconstruction_of_stress_from_photoelastic_measurements_using_elastic_regularization).
++ [EIT Reconstruction Algorithms:  Pitfalls, Challenges and Recent Developments](http://arxiv.org/pdf/physics/0310151.pdf) by William R.B. Lionheart, 2004.
+
 ## Slides
 + [Tomographic Image Reconstruction](https://www.aapm.org/meetings/99AM/pdf/2806-57576.pdf).
 + [X-Ray computed tomography](http://www.lx.it.pt/~bioucas/IP/files/Radon.pdf), IPIM, IST, José Bioucas, 2007.
 + [Radon Inversion in the Computed Tomography Problem](http://www.ms.uky.edu/~rwalker/research/radon_inversion_web.pdf), Ryan Walker, 2010-Nov-17.
-
-----
-
-# Otsu Thresholding
-+ http://www.labbookpages.co.uk/software/imgProc/otsuThreshold.html
 
 ----
 
