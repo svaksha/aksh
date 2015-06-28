@@ -105,6 +105,7 @@
 ## Slides
 + [Tomographic Image Reconstruction](https://www.aapm.org/meetings/99AM/pdf/2806-57576.pdf).
 + [X-Ray computed tomography](http://www.lx.it.pt/~bioucas/IP/files/Radon.pdf), IPIM, IST, José Bioucas, 2007.
++ [Radon Inversion in the Computed Tomography Problem](http://www.ms.uky.edu/~rwalker/research/radon_inversion_web.pdf), Ryan Walker, 2010-Nov-17.
 
 ----
 
