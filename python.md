@@ -23,3 +23,9 @@
 # BAD programming habits
 + http://stackoverflow.com/questions/21553327/why-is-except-pass-a-bad-programming-practice
 
+# MATH
++ http://stackoverflow.com/questions/7160926/how-to-solve-an-integral-equation-in-python
++ http://stackoverflow.com/questions/16275352/how-to-solve-integration-using-simpsons-rule-in-python
+
+
+
