@@ -1,4 +1,6 @@
 
+# schedule tasks
++ http://www.fbeedle.com/python/99-6ch02.pdf
 
 # setup.py
 + https://github.com/cobbler/cobbler/blob/master/setup.py
