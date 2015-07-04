@@ -4,7 +4,7 @@
 
 ----
 
-# Bugs
+# BUGS
 + https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3A%22up+for+grabs%22
 + 9493 : https://github.com/JuliaLang/julia/issues/9493
 + 5840 : https://github.com/JuliaLang/julia/issues/5840
@@ -43,11 +43,15 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 + Check out http://julia.readthedocs.org/en/release-0.3/manual/control-flow/#short-circuit-evaluation
 
 ### Good Example to start writing documentation
-+ Example of documentation for a package: https://tshort.github.io/Sims.jl/
-+ Here are examples of docstrings: https://github.com/tshort/Sims.jl/blob/master/src/sim.jl#L1-L96
-+ Here is the config file for Mkdocs: https://github.com/tshort/Sims.jl/blob/master/mkdocs.yml
-+ Here is a Julia script that uses the Lexicon package to build the API documentation from the docstrings: https://github.com/tshort/Sims.jl/blob/master/docs/build.jl
-+ Here are other packages that use Mkdocs: https://www.google.com/search?q=mkdocs.yml+jl+site:github.com&ie=utf-8&oe=utf-8
++ HowTo document a package: https://tshort.github.io/Sims.jl/
++ Examples of docstrings: https://github.com/tshort/Sims.jl/blob/master/src/sim.jl#L1-L96
++ A Julia script that uses the Lexicon package to build the API documentation from the docstrings: https://github.com/tshort/Sims.jl/blob/master/docs/build.jl
++ Packages that use Mkdocs: https://www.google.com/search?q=mkdocs.yml+jl+site:github.com&ie=utf-8&oe=utf-8
++ A config file for Mkdocs: https://github.com/tshort/Sims.jl/blob/master/mkdocs.yml
+
+### BR
++ http://doodlingindata.com/2014/12/29/documenting-julia-code/
++ https://github.com/JuliaLang/julia/issues/8965#issuecomment-67745941
 
 ----
 
@@ -58,6 +62,9 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 + Old SO thread: http://stackoverflow.com/questions/14092316/simplest-ways-to-make-a-julia-package-available-to-others
 
 To move a large number of packages installed on the old system to a new one, do `Pkg.init()`, then copy only the `REQUIRE` file from `~/.julia/v0.x/` folder, then do a `Pkg.update()` on the cli.
+
+## REQUIRE
++ https://github.com/JuliaLang/julia/issues/7737
 
 ### build.jl
 + https://github.com/JuliaOpt/Ipopt.jl/blob/99b85463ca408aefb4931d2ebaaa97cf5f821acc/deps/build.jl#L42-L45
