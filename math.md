@@ -1,6 +1,7 @@
 
 + [Arithmetic](#Arithmetic)
 + [Calculus and Analysis](#calculus-and-analysis)
++ [Geometry](#geometry)
 + [Linear Algebra](#linear-algebra)
 + [PAPERS](#papers)
 
@@ -13,6 +14,7 @@
 
 # Calculus and Analysis
 + https://en.wikipedia.org/wiki/Lambda_calculus
++ http://tutorial.math.lamar.edu/Classes/Calci/RateOfChange.aspx
 
 ### Integral Transforms
 + https://en.wikipedia.org/wiki/Exponential_integral
@@ -32,6 +34,17 @@
 
 ----
 
+# Linear Algebra
++ https://www.khanacademy.org/math/linear-algebra
+   + Video : https://www.khanacademy.org/math/linear-algebra/matrix_transformations/linear_transformations/v/vector-transformations
++ https://en.wikipedia.org/wiki/Linear_algebra
++ https://en.wikipedia.org/wiki/Cholesky_decomposition
++ https://en.wikipedia.org/wiki/LU_decomposition
++ https://en.wikipedia.org/wiki/Matrix_%28mathematics%29
++ [Matrix and Linear Algebra](http://www.economics.soton.ac.uk/staff/aldrich/matrices.htm)
+
+----
+
 ### sparse distributed matrix
 + https://en.wikipedia.org/wiki/Array_data_type
 + https://ch.mathworks.com/help/distcomp/sparse.html
@@ -42,6 +55,5 @@
 # PAPERS
 + [Associative-Commutative Discrimination Nets](http://www.cs.tufts.edu/~nr/cs257/archive/leo-bachmair/ac-discrimination-nets.pdf)
 + Richard Jenk's paper ["A Pattern Compiler"](https://dl.acm.org/citation.cfm?id=806324&dl=ACM&coll=DL&CFID=621425526&CFTOKEN=54560421)
-
 
 

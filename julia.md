@@ -64,7 +64,8 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 To move a large number of packages installed on the old system to a new one, do `Pkg.init()`, then copy only the `REQUIRE` file from `~/.julia/v0.x/` folder, then do a `Pkg.update()` on the cli.
 
 ## REQUIRE
-+ https://github.com/JuliaLang/julia/issues/7737
++ https://github.com/JuliaLang/METADATA.jl/issues/2777
++ add to REQUIRE a package which isn't in METADATA, https://github.com/JuliaLang/julia/issues/7737
 
 ### build.jl
 + https://github.com/JuliaOpt/Ipopt.jl/blob/99b85463ca408aefb4931d2ebaaa97cf5f821acc/deps/build.jl#L42-L45
