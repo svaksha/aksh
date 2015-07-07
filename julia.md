@@ -70,6 +70,19 @@ To move a large number of packages installed on the old system to a new one, do 
 ### build.jl
 + https://github.com/JuliaOpt/Ipopt.jl/blob/99b85463ca408aefb4931d2ebaaa97cf5f821acc/deps/build.jl#L42-L45
 
+### Using VS. import VS. importall
++ https://github.com/JuliaLang/julia/issues/11031 
++ https://github.com/JuliaLang/julia/issues/8000
+
+From Leah:
+I think his summary in #11031 is accurate, and the reason given directly in the reply is the reason for using/importall to be different. Issue #8000 is a discussion of ways to change/simplify the syntax.
+
+I'll take a stab at rephrasing the different in case that helps. There is only one difference, and on the surface (syntax-wise) it may seem very minor. The difference between "using" and "importall" is that with "using" you need to say "function Foo.bar(.." to extend module Foo's function bar with a new method, but with "importall" or "import Foo.bar", you only need to say "function bar(..." and it automatically extends module Foo's function bar.
+
+If you use "importall", then "function Foo.bar(..." and "function bar(..." become equivalent. If you use "using", then they are different.
+
+The reason this is important enough to have been given separate syntax is that you don't want to accidentally extend a function that you didn't know existed, because that could easily cause a bug. This is most likely to happen with a method that takes a common type like string or int, because both you and the other module could define a method to handle such a common type. If you use importall, then you'll replace the other module's implementation of "bar(s::String)" with your new implementation, which could easily do something complete different (and break all/many future usages of the other functions in module Foo that depend on calling bar).
+
 ----
 
 # API wrappers
@@ -140,3 +153,7 @@ To move a large number of packages installed on the old system to a new one, do 
 
 ## Integral
 + http://docs.julialang.org/en/latest/stdlib/math/#numerical-integration
+
+----
+
+
