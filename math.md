@@ -20,6 +20,7 @@
 + https://en.wikipedia.org/wiki/Exponential_integral
 + https://en.wikipedia.org/wiki/Integral_geometry
 + http://mathworld.wolfram.com/IntegralTransform.html
++ http://www.encyclopediaofmath.org/index.php/Singular_integral_equation
 
 ---- 
 

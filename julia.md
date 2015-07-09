@@ -127,6 +127,7 @@ The reason this is important enough to have been given separate syntax is that y
 + Abstract types: http://julia.readthedocs.org/en/latest/manual/types/#abstract-types
 + Punctuation, http://julia.readthedocs.org/en/latest/stdlib/punctuation/
 + Metaprogramming, http://julia.readthedocs.org/en/latest/manual/metaprogramming/
++ Arguments of mathematical operators to a common type, https://julia.readthedocs.org/en/latest/manual/conversion-and-promotion/
 
 ### Conditionals
 + http://slendermeans.org/julia-iterators.html
