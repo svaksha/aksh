@@ -15,6 +15,7 @@
 # Calculus and Analysis
 + https://en.wikipedia.org/wiki/Lambda_calculus
 + http://tutorial.math.lamar.edu/Classes/Calci/RateOfChange.aspx
++ https://en.wikipedia.org/wiki/Antiderivative
 
 ### Integral Transforms
 + https://en.wikipedia.org/wiki/Exponential_integral
