@@ -21,8 +21,8 @@
 ----
 
 # Genome
-* [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) :: BLAST Assembled Genomes.
-* [Chimpanzee Genome Project](http://en.wikipedia.org/wiki/Chimpanzee_Genome_Project)
++ [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) :: BLAST Assembled Genomes.
++ [Chimpanzee Genome Project](http://en.wikipedia.org/wiki/Chimpanzee_Genome_Project)
 * [DataLad](http://datalad.org) :: aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github.
 * [dbGaP](https://www.ncbi.nlm.nih.gov/gap/) :: The database of Genotypes and Phenotypes (dbGaP) was developed to archive and distribute the results of studies that have investigated the interaction of genotype and phenotype.
 * [Ensembl](http://en.wikipedia.org/wiki/Ensembl) DB.  
