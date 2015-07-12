@@ -44,6 +44,7 @@
 
 ### Fourier slice theorem
 + Filtered back projection: http://www.owlnet.rice.edu/~elec539/Projects97/cult/node2.html
+   + Reconstruction As a Set of Linear Equations, http://www.owlnet.rice.edu/~elec539/Projects97/cult/node7.html#SECTION00031000000000000000
 + http://en.wikipedia.org/wiki/Projection-slice_theorem
 + http://oftankonyv.reak.bme.hu/tiki-index.php?page=The+Central+Slice+Theorem
 + Back Projection, http://www.snaggledworks.com/em_for_dummies/back_projection.html
