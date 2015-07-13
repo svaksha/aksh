@@ -16,7 +16,7 @@
 + https://en.wikipedia.org/wiki/Lambda_calculus
 + http://tutorial.math.lamar.edu/Classes/Calci/RateOfChange.aspx
 + https://en.wikipedia.org/wiki/Antiderivative
-+ https://en.wikipedia.org/wiki/Floor_and_ceiling_functions
++ [ceil](https://en.wikipedia.org/wiki/Floor_and_ceiling_functions) and the [matlab definition](https://www.mathworks.com/help/matlab/ref/ceil.html)
 
 ### Integral Transforms
 + https://en.wikipedia.org/wiki/Exponential_integral
