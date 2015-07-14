@@ -1,6 +1,7 @@
 
 + [Arithmetic](#Arithmetic)
 + [Calculus and Analysis](#calculus-and-analysis)
++ [Calculus-II](#calculus-ii)
 + [Geometry](#geometry)
 + [Linear Algebra](#linear-algebra)
 + [PAPERS](#papers)
@@ -17,6 +18,9 @@
 + http://tutorial.math.lamar.edu/Classes/Calci/RateOfChange.aspx
 + https://en.wikipedia.org/wiki/Antiderivative
 + [ceil](https://en.wikipedia.org/wiki/Floor_and_ceiling_functions) and the [matlab definition](https://www.mathworks.com/help/matlab/ref/ceil.html)
+
+# Calculus-II
++ Calculus-II course at Lamar University: http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx
 
 ### Integral Transforms
 + https://en.wikipedia.org/wiki/Exponential_integral
