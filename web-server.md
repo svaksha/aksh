@@ -1,4 +1,10 @@
-A collection of tips and tricks.
+
+
+# SECURITY
++ XSS = Cross-site scripting, https://en.wikipedia.org/wiki/Cross-site_scripting
++ https://en.wikipedia.org/wiki/Category:Injection_exploits
+
+----
 
 # Migrating from Windows to LAMP stack
 
