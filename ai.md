@@ -5,7 +5,9 @@
 
 ----
 
-# [Graphs](https://en.wikipedia.org/wiki/Category:Graph_theory)
+# [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics)
+
+## [Graphs](https://en.wikipedia.org/wiki/Category:Graph_theory)
 + https://en.wikipedia.org/wiki/Bipartite_graph
 
 ----
