@@ -1,10 +1,18 @@
++ [BCI](#bci)
 + [Brain](#brain)
 + [Congenital Disorders](#congenital-disorders)
 + [General](#general)
++ [Neuroethics](#neuroethics)
 + [NEWS](#news)
 + [Papers](#papers)
    + [Podcast](#podcast)
 + [Projects](#projects)
+
+----
+
+# [BCI](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface)
++ [Incorporating Feedback from Multiple Sensory Modalities Enhances Brain–Machine Interface Control](http://www.cs.ou.edu/~fagg/papers/2010/suminski-etal-2010.pdf), Aaron J. Suminski, Dennis C. Tkach, Andrew H. Fagg, and Nicholas G. Hatsopoulos, 2010.
++ 
 
 ----
 

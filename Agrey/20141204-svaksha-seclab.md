@@ -71,7 +71,8 @@ You can call Java, meaning the JVM. Would it be impossible reuse Java code witho
 ---- 
 
 # TWO (Integer Overflow Checking)
-* http://danluu.com/integer-overflow/ : The Performance Cost of Integer Overflow Checking
+* [The Performance Cost of Integer Overflow Checking](http://danluu.com/integer-overflow/)
+
 
 # CONSTRAINTS
 
