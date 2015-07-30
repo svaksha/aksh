@@ -18,15 +18,6 @@
 
 ----
 
-# QA - core JULIA
-+ https://github.com/JuliaLang/julia/blob/master/test/unicode.jl
-+ https://github.com/JuliaLang/julia/blob/e0176ec9c44530f4474f2f347613de121f9ed1fc/test/pkg.jl
-
-## Unit and Functional Testing
-+ http://julia.readthedocs.org/en/latest/stdlib/test/
-
-----
-
 # Writing Documentation
 + https://github.com/JuliaLang/julia/pull/11906
 + https://github.com/JuliaLang/julia/blob/ff9cebe45e6c39933ab26ca134b59b3ef47ec821/doc/helpdb.jl
@@ -52,39 +43,6 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 ### BR
 + http://doodlingindata.com/2014/12/29/documenting-julia-code/
 + https://github.com/JuliaLang/julia/issues/8965#issuecomment-67745941
-
-----
-
-# Packaging
-+ http://docs.julialang.org/en/latest/manual/packages/#package-development
-+ http://julia.readthedocs.org/en/latest/stdlib/pkg/
-+ http://docs.julialang.org/en/latest/manual/packages/
-+ Old SO thread: http://stackoverflow.com/questions/14092316/simplest-ways-to-make-a-julia-package-available-to-others
-
-To move a large number of packages installed on the old system to a new one, do `Pkg.init()`, then copy only the `REQUIRE` file from `~/.julia/v0.x/` folder, then do a `Pkg.update()` on the cli.
-
-## REQUIRE
-+ https://github.com/JuliaLang/METADATA.jl/issues/2777
-+ add to REQUIRE a package which isn't in METADATA, https://github.com/JuliaLang/julia/issues/7737
-
-### Bugs
-+ Rewrite Pkg.add to include repo argument [BUG # 11914](https://github.com/JuliaLang/julia/issues/11914).
-
-### build.jl
-+ https://github.com/JuliaOpt/Ipopt.jl/blob/99b85463ca408aefb4931d2ebaaa97cf5f821acc/deps/build.jl#L42-L45
-
-### Using VS. import VS. importall
-+ https://github.com/JuliaLang/julia/issues/11031 
-+ https://github.com/JuliaLang/julia/issues/8000
-
-From Leah:
-I think his summary in #11031 is accurate, and the reason given directly in the reply is the reason for using/importall to be different. Issue #8000 is a discussion of ways to change/simplify the syntax.
-
-I'll take a stab at rephrasing the different in case that helps. There is only one difference, and on the surface (syntax-wise) it may seem very minor. The difference between "using" and "importall" is that with "using" you need to say "function Foo.bar(.." to extend module Foo's function bar with a new method, but with "importall" or "import Foo.bar", you only need to say "function bar(..." and it automatically extends module Foo's function bar.
-
-If you use "importall", then "function Foo.bar(..." and "function bar(..." become equivalent. If you use "using", then they are different.
-
-The reason this is important enough to have been given separate syntax is that you don't want to accidentally extend a function that you didn't know existed, because that could easily cause a bug. This is most likely to happen with a method that takes a common type like string or int, because both you and the other module could define a method to handle such a common type. If you use importall, then you'll replace the other module's implementation of "bar(s::String)" with your new implementation, which could easily do something complete different (and break all/many future usages of the other functions in module Foo that depend on calling bar).
 
 ----
 

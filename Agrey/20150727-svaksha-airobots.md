@@ -11,7 +11,7 @@
 
 ### Abstract
 
-The algorithms<sup>{1}</sup> that control artificially intelligent robots rely on critical assumptions, viz. the availability of a complete geometric model, either two-dimensional or three-dimensional, of the object to be manipulated. The algorithm input is a polygonal/polyhedral-model for selecting optimal force-closure contact locations, which is the starting point for grasp analysis and dexterous manipulation methods that are then optimized for the desired properties in terms of dexterity, equilibrium, stability, dynamic behavior.
+The algorithms<sup>{01}</sup> that control artificially intelligent robots rely on critical assumptions, viz. the availability of a complete geometric model, either two-dimensional or three-dimensional, of the object to be manipulated. The algorithm input is a polygonal/polyhedral-model for selecting optimal force-closure contact locations, which is the starting point for grasp analysis and dexterous manipulation methods that are then optimized for the desired properties in terms of dexterity, equilibrium, stability, dynamic behavior.
 
 
 ----
@@ -26,15 +26,20 @@ The algorithms<sup>{1}</sup> that control artificially intelligent robots rely o
 
 + Is any data from the CP patient being collected? If yes, what kind of data - brain imaging data, robot/motor movements data, something else..?
    + When the child moves what part of the brain activity data is collected? 
-   + Is this collated with the arm/leg/body movements? 
-
+   + Is this collated with the arm/leg/body movements? How? 
+   + 
+   
 ----
 
 # 4. REFERENCES
-+ {1} [Vision-based three-finger grasp synthesis constrained by hand geometry](http://www.cs.ou.edu/~fagg/papers/2004/morales_grasp_synthesis_ver_1.pdf), Antonio Morales, Pedro J. Sanz, Angel P. del Pobil, and Andrew H. Fagg, 2004.
-+ {2} [A Dual Process Account of Coarticulation in Motor Skill Acquisition](http://www.cs.ou.edu/~fagg/papers/2013/ShahBartoFagg-JMotBehav-2013.pdf), Ashvin Shah, Andrew G.Barto, Andrew H.Fagg.
-+ {3} [Incorporating Feedback from Multiple Sensory Modalities Enhances Brain–Machine Interface Control](http://www.cs.ou.edu/~fagg/papers/2010/suminski-etal-2010.pdf), Aaron J. Suminski, Dennis C. Tkach, Andrew H. Fagg, and Nicholas G. Hatsopoulos.
-+ {4} [Matlab](http://www.cs.ou.edu/~fagg/summerschool/doc/)
++ {01} [Vision-based three-finger grasp synthesis constrained by hand geometry](http://www.cs.ou.edu/~fagg/papers/2004/morales_grasp_synthesis_ver_1.pdf), Antonio Morales, Pedro J. Sanz, Angel P. del Pobil, and Andrew H. Fagg ; 2004.
++ {02} [A Dual Process Account of Coarticulation in Motor Skill Acquisition](http://www.cs.ou.edu/~fagg/papers/2013/ShahBartoFagg-JMotBehav-2013.pdf), Ashvin Shah, Andrew G.Barto, Andrew H.Fagg ; 2013.
++ {03} [Incorporating Feedback from Multiple Sensory Modalities Enhances Brain–Machine Interface Control](http://www.cs.ou.edu/~fagg/papers/2010/suminski-etal-2010.pdf), Aaron J. Suminski, Dennis C. Tkach, Andrew H. Fagg, and Nicholas G. Hatsopoulos ; 2010.
++ {04} [Gaussian-process factor analysis for low-dimensional single-trial analysis of neural population activity](http://stat.columbia.edu/~cunningham/pdf/YuNIPS2009.pdf) ; Byron M. Yu, John P. Cunningham, Gopal Santhanam, Stephen I. Ryu, Krishna V. Shenoy ; 2009.
+
+
+
++ {14} [Matlab](http://www.cs.ou.edu/~fagg/summerschool/doc/)
 
 
 

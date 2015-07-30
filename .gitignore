@@ -7,8 +7,8 @@
 # GENERAL
 #====================================================
 PRIVATE/
-pvt-LaTeX/
-pvt-papers/*
+private-*/
+pvt-*/*
 Agrey/DRAFT.md
 Agrey/Tomography-BToby.md
 10.md

@@ -1,7 +1,17 @@
+
 # IRC User Commands
 + register nick         :: /msg NickServ REGISTER password email
 + ID myself             :: /msg NickServ IDENTIFY password
                         :: /msg nickserv set accountname NICK 
+
+### [GHOST](https://toxin.jottit.com/freenode_nickserv_commands#ns09)
+GHOST Reclaims use of a nickname.
++ GHOST                 :: /msg NickServ GHOST NICK password
++ RELEASE (freenode, cl):: /msg NickServ RELEASE NICK password
+  REGAIN (moznet)       :: /msg NickServ REGAIN NICK password
+  RECLAIM (OFTC)        :: /msg NickServ RECLAIM NICK password
+
+### 
 + ID others             :: /msg NickServ IDENTIFY NICK password
 + NO PM's               :: /umode +g (`/accept nick` whitelists individual nicks)
 + List members in chan  :: /quote names #channel or `/names #channel`
@@ -14,7 +24,14 @@
 
 # OP commands
 + register IRC channel  :: /cs REGISTER #Channel
+
+### [Access](https://toxin.jottit.com/freenode_nickserv_commands#ns18)
 + access chanop list    :: /msg chanserv access #ubuntu-women list {/msg ChanServ ACCESS LIST #CHANNEL}
+                        :: /msg NickServ ACCESS LIST
+                           /msg NickServ ACCESS ADD jack@host.example.com
+                           /msg NickServ ACCESS ADD user@10.0.0.8
+                           /msg NickServ ACCESS ADD jilles@192.168.1.0/24
+                           /msg NickServ ACCESS DEL *someone@*.area.old.example.net 
 + all flags             :: +AFORfiorstv
 + temporary Op          :: /op NICK
 + perm Op               :: /cs FLAGS #Channel NICK AOP
@@ -22,7 +39,7 @@
 + Op                    :: /msg chanserv op #ubuntu-women svaksha
 + temp Voice            :: /mode #Channel +v NICK
 + auto Voice            :: /cs FLAGS #Channel NICK +VA
-+ remove trolls (temp)  :: /remove ##channel nick :reason      
++ remove trolls (temp)  :: /remove #channel nick :reason      
 + ban                   :: /mode #Channel +b [nick!user@host]
 + unban                 :: /mode #Channel -b [nick!user@host]
 + ban immunity          :: /mode #Channel +e [nick!user@host]
@@ -44,7 +61,7 @@
 ---- 
 
 # IRSSI
-+ Jump windows in irssi) :: /ws NUMBER
++ Jump windows (in irssi) :: /ws NUMBER
 
 ----
 
