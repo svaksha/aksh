@@ -7,3 +7,5 @@
 + https://en.wikipedia.org/wiki/Integral_imaging
 + https://en.wikipedia.org/wiki/Category:3D_imaging
 
+# 3D Libs
++ https://en.wikipedia.org/wiki/Gallium3D

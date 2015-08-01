@@ -1,8 +1,10 @@
 + [BCI](#bci)
 + [Brain](#brain)
++ [Cerebral Palsy](#cerebral-palsy)
 + [Congenital Disorders](#congenital-disorders)
 + [General](#general)
-+ [Neuroethics](#neuroethics)
++ [NeuroEthics](#neuroethics)
++ [NeuroSurgery](#neurosurgery)
 + [NEWS](#news)
 + [Papers](#papers)
    + [Podcast](#podcast)
@@ -12,7 +14,6 @@
 
 # [BCI](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface)
 + [Incorporating Feedback from Multiple Sensory Modalities Enhances Brain–Machine Interface Control](http://www.cs.ou.edu/~fagg/papers/2010/suminski-etal-2010.pdf), Aaron J. Suminski, Dennis C. Tkach, Andrew H. Fagg, and Nicholas G. Hatsopoulos, 2010.
-+ 
 
 ----
 
@@ -51,9 +52,17 @@
 
 ----
 
+# Cerebral Palsy
++ https://en.wikipedia.org/wiki/Cerebral_palsy
++ http://www.livestrong.com/article/234614-common-parts-of-the-brain-affected-by-cerebral-palsy/
++ http://cpfamilynetwork.org/ataxic-cerebral-palsy/
+
+----
+
 # General
 * Neurophysiology :: http://en.wikipedia.org/wiki/Neurophysiology
 * Neurology :: http://en.wikipedia.org/wiki/Neurology
+
 
 ----
 
@@ -62,9 +71,15 @@
 
 ----
 
-# Neuroethics
+# NeuroEthics
 + [How do we make moral judgements? IRCM ethics experts open the black box of moral intuitions](http://www.rc-rc.ca/blog/how-do-we-make-moral-judgements-ircm-ethics-experts-open-the-black-box-of-moral-intuitions)
 + https://en.wikipedia.org/wiki/List_of_cognitive_biases
+
+----
+
+# NeuroSurgery
++ http://www.medicaldaily.com/battle-waterloo-might-not-have-happened-if-it-wasnt-neurosurgeon-jean-massot-how-345600
++ [Two bullets to the head and an early winter: fate permits Kutuzov to defeat Napoleon at Moscow], Kushchayev SV, Belykh E, Fishchenko Y, et al., Journal of Neurosurgery ; 2015.
 
 ---- 
 
