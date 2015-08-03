@@ -23,6 +23,10 @@ BinDeps.debug("PkgName")
 
 To move a large number of packages installed on the old system to a new one, do `Pkg.init()`, then copy only the `REQUIRE` file from `~/.julia/v0.x/` folder, then do a `Pkg.update()` on the cli.
 
+### Naming and Coding Rules
++ Package naming rules, https://github.com/JuliaStats/Distributions.jl/issues/395
++ Coding rules, https://github.com/JuliaStats/Distributions.jl/issues/396
+
 ## REQUIRE
 + https://github.com/JuliaLang/METADATA.jl/issues/2777
 + add to REQUIRE a package which isn't in METADATA, https://github.com/JuliaLang/julia/issues/7737

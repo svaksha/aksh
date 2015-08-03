@@ -19,30 +19,9 @@
 ----
 
 # Writing Documentation
++ https://github.com/JuliaLang/julia/pull/11943
 + https://github.com/JuliaLang/julia/pull/11906
 + https://github.com/JuliaLang/julia/blob/ff9cebe45e6c39933ab26ca134b59b3ef47ec821/doc/helpdb.jl
-
-```
-julia> foo = "abc"; bar = "bac"; zoo = "234";
-
-julia> if foo == "abc" && bar == "bac" && zoo != "123"
-           println("Please see http://docs.julialang.org/en/latest/manual/control-flow/")
-       end
-```
-
-+ See http://docs.julialang.org/en/latest/manual/control-flow/
-+ Check out http://julia.readthedocs.org/en/release-0.3/manual/control-flow/#short-circuit-evaluation
-
-### Good Example to start writing documentation
-+ HowTo document a package: https://tshort.github.io/Sims.jl/
-+ Examples of docstrings: https://github.com/tshort/Sims.jl/blob/master/src/sim.jl#L1-L96
-+ A Julia script that uses the Lexicon package to build the API documentation from the docstrings: https://github.com/tshort/Sims.jl/blob/master/docs/build.jl
-+ Packages that use Mkdocs: https://www.google.com/search?q=mkdocs.yml+jl+site:github.com&ie=utf-8&oe=utf-8
-+ A config file for Mkdocs: https://github.com/tshort/Sims.jl/blob/master/mkdocs.yml
-
-### BR
-+ http://doodlingindata.com/2014/12/29/documenting-julia-code/
-+ https://github.com/JuliaLang/julia/issues/8965#issuecomment-67745941
 
 ### @TeroFrondelius: When you want to contribute an example(s) to Julia's documentation, the process is following:
 + https://github.com/JuliaLang/julia/pull/12279#issuecomment-126058754
@@ -68,6 +47,29 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
       git commit -m "new doctest for round()"
 10) git push git@github.com:TeroFrondelius/julia.git
 11) At your repository (https://github.com/TeroFrondelius/julia), create a pull request
+
+
+```
+julia> foo = "abc"; bar = "bac"; zoo = "234";
+
+julia> if foo == "abc" && bar == "bac" && zoo != "123"
+           println("Please see http://docs.julialang.org/en/latest/manual/control-flow/")
+       end
+```
+
++ See http://docs.julialang.org/en/latest/manual/control-flow/
++ Check out http://julia.readthedocs.org/en/release-0.3/manual/control-flow/#short-circuit-evaluation
+
+### Good Example to start writing documentation
++ HowTo document a package: https://tshort.github.io/Sims.jl/
++ Examples of docstrings: https://github.com/tshort/Sims.jl/blob/master/src/sim.jl#L1-L96
++ A Julia script that uses the Lexicon package to build the API documentation from the docstrings: https://github.com/tshort/Sims.jl/blob/master/docs/build.jl
++ Packages that use Mkdocs: https://www.google.com/search?q=mkdocs.yml+jl+site:github.com&ie=utf-8&oe=utf-8
++ A config file for Mkdocs: https://github.com/tshort/Sims.jl/blob/master/mkdocs.yml
+
+### BR
++ http://doodlingindata.com/2014/12/29/documenting-julia-code/
++ https://github.com/JuliaLang/julia/issues/8965#issuecomment-67745941
 
 ----
 
