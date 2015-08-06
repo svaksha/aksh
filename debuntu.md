@@ -1,5 +1,4 @@
 
-
 # SHELL
 + https://stribika.github.io/2015/01/04/secure-secure-shell.html
 
@@ -15,14 +14,18 @@
 
 ----
 
-# CONFIG
+# CONFIG(URATION) FILES
 + http://en.wikipedia.org/wiki/Category:Configuration_files
 + http://en.wikipedia.org/wiki/INI_file
 
-## RC files
+## INI-RC-YAML
++ https://stackoverflow.com/questions/5014632/how-can-i-parse-a-yaml-file-from-a-linux-shell-script
+   - https://gist.github.com/pkuczynski/8665367
 + screenrc, http://www.softpanorama.org/Utilities/Screen/screenrc_examples.shtml
 
-## RE
+----
+
+# REGEX
 + http://en.wikipedia.org/wiki/List_of_Unix_commands
 + http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux?rq=1
 + https://en.wikipedia.org/wiki/Regular_expression#Syntax 
