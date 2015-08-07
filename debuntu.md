@@ -1,19 +1,4 @@
 
-# SHELL
-+ https://stribika.github.io/2015/01/04/secure-secure-shell.html
-
-----
-
-# Kernel/ HDD
-+ http://www.brendangregg.com/perf.html
-
-----
-
-# Images
-+ [Installing Image Magick on Ubuntu 14.04](https://gist.github.com/rodleviton/74e22e952bd6e7e5bee1)
-
-----
-
 # CONFIG(URATION) FILES
 + http://en.wikipedia.org/wiki/Category:Configuration_files
 + http://en.wikipedia.org/wiki/INI_file
@@ -25,6 +10,16 @@
 
 ----
 
+# SHELL
++ https://stribika.github.io/2015/01/04/secure-secure-shell.html
+
+----
+
+# Kernel/ HDD
++ http://www.brendangregg.com/perf.html
+
+----
+
 # REGEX
 + http://en.wikipedia.org/wiki/List_of_Unix_commands
 + http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux?rq=1
@@ -33,6 +28,10 @@
 
 ----
 
+# Images
++ [Installing Image Magick on Ubuntu 14.04](https://gist.github.com/rodleviton/74e22e952bd6e7e5bee1)
+
+----
 # Dotclear-DocuWiki
 + Dotclear wiki syntax : http://dotclear.org/documentation/2.0/usage/syntaxes
 + Formatting syntax : http://fr.dotclear.org/documentation/wiki/syntax
