@@ -150,4 +150,8 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 
 ----
 
+# NEWS
++ http://www.r-bloggers.com/an-r-programmer-looks-at-julia/
++ http://www.project1.com/expertise/data-science-analytics/data-science-report/item/2526-http-strataoreillycom-2012-10-matlab-r-julia-languages-for-data-analysishtml#.VcdFGaPLdOo
++ http://julialang.org/images/nyhackr.pdf
 
