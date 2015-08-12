@@ -10,7 +10,8 @@
 
 ----
 
-# SHELL
+# BASH SHELL
++ [ctypes.sh](https://github.com/taviso/ctypes.sh) :: A BASH plugin that provides a foreign function interface directly in your shell. In other words, it allows you to call routines in shared libraries from within bash.
 + https://stribika.github.io/2015/01/04/secure-secure-shell.html
 
 ----
