@@ -3,7 +3,7 @@
    + [Papers](#papers)
    + [NEWS](#news)
 + [Phylogenomics](#phylogenomics)
-   - [Papers](#papers)
+   + [Papers](#papers)
 + [OpenAccess](#openaccess)
 + [Species](#species)
    

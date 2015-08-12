@@ -9,6 +9,7 @@
 + [Papers](#papers)
    + [Podcast](#podcast)
 + [Projects](#projects)
++ [Psychology](#psychology)
 
 ----
 
@@ -60,14 +61,14 @@
 ----
 
 # General
-* Neurophysiology :: http://en.wikipedia.org/wiki/Neurophysiology
-* Neurology :: http://en.wikipedia.org/wiki/Neurology
++ Neurophysiology :: http://en.wikipedia.org/wiki/Neurophysiology
++ Neurology :: http://en.wikipedia.org/wiki/Neurology
 
 
 ----
 
 # NEWS
-* [Activity in Dendrites is Critical in Memory Formation](http://neurosciencenews.com/neuroscience-dendrite-memory-formation-1477/). 
++ [Activity in Dendrites is Critical in Memory Formation](http://neurosciencenews.com/neuroscience-dendrite-memory-formation-1477/). 
 
 ----
 
@@ -81,7 +82,8 @@
 + http://www.medicaldaily.com/battle-waterloo-might-not-have-happened-if-it-wasnt-neurosurgeon-jean-massot-how-345600
 + [Two bullets to the head and an early winter: fate permits Kutuzov to defeat Napoleon at Moscow], Kushchayev SV, Belykh E, Fishchenko Y, et al., Journal of Neurosurgery ; 2015.
 
----- 
+
+----
 
 # Papers
 + [Imaging Study Shows the Spinal Cord Learns On Its Own](http://www.itnonline.com/article/imaging-study-shows-spinal-cord-learns-its-own)
@@ -102,4 +104,10 @@
 
 # Projects
 + [BrainMaps](http://en.wikipedia.org/wiki/BrainMaps) project.
+
+---- 
+
+# Psychology
++ [How to say NO](http://jamesclear.com/how-to-say-no)!
+
 
