@@ -140,9 +140,12 @@ http://pika.readthedocs.org/en/0.9.14/intro.html
 
 ----
 
-##### NEWS
+# NEWS
 + http://www.networkworld.com/article/2160016/cloud-computing/who-makes-up-openstack-.html
 + https://training.linuxfoundation.org/sysadmin-evolution
 + http://www.networkworld.com/article/2160163/cloud-computing/12-free-cloud-storage-options.html
 + http://probably.co.uk/puppet-vs-chef-vs-ansible.html
+
+## Random Papers
++ [Large-scale cluster management at Google with Borg](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf).
 

@@ -107,6 +107,7 @@
    + Chapter-3:[Analytical Tomographic Image Reconstruction Methods](http://web.eecs.umich.edu/~fessler/course/516/l/c-tomo.pdf).
 
 ## Papers
++ [Focusing Computed Tomography](http://www.ndt.net/article/wcndt00/papers/idn143/idn143.htm)
 + [COMPARISON BETWEEN FREQUENCY DOMAIN AND TIME DOMAIN METHODS FOR PARAMETER RECONSTRUCTION ON NONUNIFORM DISPERSIVE TRANSMISSION LINES](http://www.jpier.org/PIER/pier43/01.0302031.L.Norgren.pdf), J. Lundstedt, M. Norgren.
 + The [tomographic reconstruction](http://en.wikipedia.org/wiki/Tomographic_reconstruction)
    + Paper: [Analytic and Iterative Reconstruction Algorithms in SPECT](Paper: jnm.snmjournals.org/content/43/10/1343.long) by Philippe P. Bruyant, PhD, 2002.
