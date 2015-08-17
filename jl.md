@@ -1,4 +1,13 @@
 
+# Unstable DEV branch
+
+Troubleshoot errors when running the unstable DEV branch
+
+* https://github.com/QuantEcon/QuantEcon.jl/issues/64#issuecomment-130149602
+* https://github.com/JuliaLang/julia/issues/12586
+
+----
+
 + Julia instance, https://tmpnb.org/user-tMmHkibTA4kf/tree
 + https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md
 
