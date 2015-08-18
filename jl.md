@@ -1,10 +1,86 @@
 
-# Unstable DEV branch
+
+# 0.4-dev
 
 Troubleshoot errors when running the unstable DEV branch
 
 * https://github.com/QuantEcon/QuantEcon.jl/issues/64#issuecomment-130149602
 * https://github.com/JuliaLang/julia/issues/12586
+
+### ToDo Status
+
+1. Closures : Functions with data inside (captured variables)
+ex. adder(x) = y -> y+x
+A function that returns an adding function. If you give x and it returns x after adding some data to it as the data is wrapped in it. Not sure how they relate to generic functions and methods
+
+### Current changes in 0.4
+
+Your "subtype declaration" section is wrong: the abstract type does not define a block (you should just have "abstract Foo", not "abstract Foo ... end")
+
+The "String" type is deprecated in favor of AbstractString in 0.4
+
+[1:10] is deprecated in 0.4, in favor of [1:10;] to explicitly vcat.
+
+You can just use +, not .+, for element-wise addition.  (It doesn't hurt to do .+, but it is unnecessary.)
+
+help("func") is gone in 0.4
+
+Pkg.build("Package") is useful to rebuild a package if the package build failed or your system configuration changed.
+
+char(n) is deprecated in favor of Char(n) in 0.4
+
+"Beware of multi-byte Unicode characters" is a bit misleading; it is not the Unicode "character" (technically you are referring to "codepoints") that is multi-byte, but rather the codepoint's encoding in UTF-8 (the default in Julia).  Maybe "Beware of multi-byte Unicode encodings in UTF-8"
+
+(Of course, there are many other subtleties with Unicode: e.g. your example string "Ångström" can also be written "Ångström", which looks identical but actually uses a different set of codepoints via "combining characters".)
+
+UintN in Julia 0.4 is deprecated in favor of UIntN (note caps).
+
+Note there is also Complex{T}; Complex128 is just a shorthand for Complex{Float64}.
+
+im is the "imaginary unit", not the "imaginary number".
+
+eps() is an abbreviation for eps(Float64).  eps(T) is also defined for other types.
+
++ In 0.4, TypeName(val) automatically calls convert(TypeName, val) if no other constructor is available.   This also means that, when you are defining your own type, you should extend Base.convert if you have new conversions, rather than adding constructors.
+
++ eye(N) is an NxN identity; calling it "N-dimensional" may confuse people into thinking it returns an N-dimensional array.
+
++ M' is a synonym for ctranspose(M) (conjugate transpose).  M.' is transpose(M) without conjugation.  Of course, for real matrices they are equivalent.
+
++ Note that we can also do "for i in 1:10" ... this syntax is perhaps a bit clearer in that it generalizes to iterating over other kinds of containers.
+
++ To exit a loop you do "break", not "exit" (which is a function).
+
++ Functions with ! appended mutate at least one of their arguments.   Not necessarily the first one (e.g. see A_ldiv_B!), although this is the most common.
+
++ If you need tail-call optimization, it is more idiomatic to simply write a loop.
+
++ Instead of in(val,arr), you can simply do "val in arr"
+
++ The dictionary syntax has changed in 0.4: use Dict(a=>b, ...)
+
+{...} is deprecated in 0.4.  Use Any[...].
+
+it is more idiomatic to put "do" on the same line:
+
+    map(collection) do elem
+       ...
+    end
+
+You can override Base.show(io, ex) rather than Base.showerror.
+
++ "import ModuleName" does *not* import "all names".  It imports the module, but the only symbol imported is ModuleName itself; everything else must be accessed via ModuleName.something.
+
++ You should think of macros as being evaluated at parse-time, not run-time.  Basically:
+    * a macro is a function evaluated at parse-time that takes an expression in and returns an expression out, and the latter is inserted into the parsed code.
+    * a generated function is a function evaluated at compile-time which takes types in and returns an expression out, which is inserted into the code and compiled
+    * an ordinary function is a function evaluated at run-time which takes values in and returns values out.
+
++ @test_approx_eq does not check equality to machine precision.  It checks equality at much lower precision.  In 0.4, you can also just use @test x ≈ y, where ≈ is \approx<tab> and is a synonym for the isapprox function.
+
++ The typical convention in Julia is to avoid underscores unless they are needed for readability.  i.e. we have iseven, not is_even.  This does not differ for variables vs. functions.
+
++ For performance, you should avoid abstract types in collections, but also as fields of types.
 
 ----
 
