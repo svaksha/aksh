@@ -1,7 +1,8 @@
 
 + Julia instance, https://tmpnb.org/user-tMmHkibTA4kf/tree
 + https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md
-
+   + https://github.com/IainNZ/ContributeToJulia
+   
 ----
 
 # 0.4-dev
