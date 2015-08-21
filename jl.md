@@ -1,4 +1,8 @@
 
++ Julia instance, https://tmpnb.org/user-tMmHkibTA4kf/tree
++ https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md
+
+----
 
 # 0.4-dev
 
@@ -12,6 +16,10 @@ Troubleshoot errors when running the unstable DEV branch
 1. Closures : Functions with data inside (captured variables)
 ex. adder(x) = y -> y+x
 A function that returns an adding function. If you give x and it returns x after adding some data to it as the data is wrapped in it. Not sure how they relate to generic functions and methods
+
+### HDF5
++ Array based storage using HDF5 and JLD
+   * To use HDF5 (with JLD, which has been split recently), use Pkg.add("JLD") and in future, to use it say "using JLD" rather than "using HDF5, JLD."
 
 ### Current changes in 0.4
 
@@ -84,11 +92,6 @@ You can override Base.show(io, ex) rather than Base.showerror.
 
 ----
 
-+ Julia instance, https://tmpnb.org/user-tMmHkibTA4kf/tree
-+ https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md
-
-----
-
 # BUGS
 + https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3A%22up+for+grabs%22
 + 9493 : https://github.com/JuliaLang/julia/issues/9493
@@ -99,7 +102,7 @@ You can override Base.show(io, ex) rather than Base.showerror.
 
 ### Linear Algebra 
 + https://github.com/JuliaLang/julia/issues?q=is%3Aopen+label%3A%22up+for+grabs%22+is%3Aissue+label%3A%22linear+algebra%22
-+ [Proposal: Better linear algebra benchmarks #4668](https://github.com/JuliaLang/julia/issues/4668)
++ #4668 [Proposal: Better linear algebra benchmarks](https://github.com/JuliaLang/julia/issues/4668)
 
 ----
 
@@ -153,7 +156,7 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 + Packages that use Mkdocs: https://www.google.com/search?q=mkdocs.yml+jl+site:github.com&ie=utf-8&oe=utf-8
 + A config file for Mkdocs: https://github.com/tshort/Sims.jl/blob/master/mkdocs.yml
 
-### BR
+### Bugs
 + http://doodlingindata.com/2014/12/29/documenting-julia-code/
 + https://github.com/JuliaLang/julia/issues/8965#issuecomment-67745941
 
@@ -181,11 +184,11 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 ## Bugs
 + #7941:Towards array nirvana, https://github.com/JuliaLang/julia/issues/7941
 + https://github.com/JuliaLang/julia/issues/9874#issuecomment-75979041
-+ {7} https://github.com/JuliaLang/julia/issues/3701
-+ {8} https://github.com/JuliaLang/julia/issues/4774
-+ {9} https://github.com/JuliaLang/julia/pull/7568
-+ {10} https://github.com/JuliaLang/julia/pull/10525
-+ {11} https://groups.google.com/forum/#!topic/julia-dev/sM0VyVbFewQ
++ https://github.com/JuliaLang/julia/issues/3701
++ https://github.com/JuliaLang/julia/issues/4774
++ https://github.com/JuliaLang/julia/pull/7568
++ https://github.com/JuliaLang/julia/pull/10525
++ https://groups.google.com/forum/#!topic/julia-dev/sM0VyVbFewQ
 
 ----
 
@@ -194,14 +197,19 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 + http://julia.readthedocs.org/en/latest/stdlib/base/
 + http://stackoverflow.com/questions/25716547/type-i-discrete-cosine-transform-not-defined-found-in-julia-0-3-0
 
-# Syntax
+----
 
+# Syntax
 + http://julia.readthedocs.org/en/latest/manual/noteworthy-differences/
 + http://docs.julialang.org/en/latest/manual/integers-and-floating-point-numbers/
 + Abstract types: http://julia.readthedocs.org/en/latest/manual/types/#abstract-types
 + Punctuation, http://julia.readthedocs.org/en/latest/stdlib/punctuation/
 + Metaprogramming, http://julia.readthedocs.org/en/latest/manual/metaprogramming/
 + Arguments of mathematical operators to a common type, https://julia.readthedocs.org/en/latest/manual/conversion-and-promotion/
+
+### Bugs
++ Make `any` and `all` short-circuit, https://github.com/JuliaLang/julia/pull/11774
+
 
 ### Conditionals
 + http://slendermeans.org/julia-iterators.html
