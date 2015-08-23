@@ -57,13 +57,16 @@ It is proposed to use Python for programming the initial aspect of gathering dat
    + HDF5
    + https://github.com/h5io/h5io
 + NLP
+   + http://NLTK.org
 + Github 
 + Twitter API
    + Credentials for Twitter API - create a new application at: https://dev.twitter.com/apps
    + https://dev.twitter.com/overview/documentation
    + https://dev.twitter.com/rest/reference/get/search/tweets
    + CLI integration : https://github.com/sixohsix/twitter
+        + https://github.com/sferik/t
    + App by Meg Ford {{ReadOnly}} : https://github.com/MegFord/twitter_app/
+   + https://julia67.github.io/tinkering-with-twitters-api/
 + Django / Flask / JS - {{ToDecide}}
    + https://github.com/ashleygwilliams/ashleygwilliams.github.io
 + Heroku

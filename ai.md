@@ -21,3 +21,11 @@
 # Books
 + The book "biological sequence analysis" by Durbin and Eddy.
 
+----
+
+# NLP
++ https://github.com/ftzeng/broca
+
+### Resources
++ http://spaceandtim.es/opennews/broca
+
