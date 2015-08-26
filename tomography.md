@@ -136,3 +136,36 @@
 
 ----
 
+# Greek Alphabets
++ https://en.wikipedia.org/wiki/Greek_alphabet#Letters
+
+Letter 	Name 	Sound Ancient[5] 	Modern[6]
+Α α 	alpha, άλφα 	[a] [aː] 	[a]
+Β β 	beta, βήτα 	[b] 	[v]
+Γ γ 	gamma, γάμμα 	[ɡ] 	[ɣ] ~ [ʝ]
+Δ δ 	delta, δέλτα 	[d] 	[ð]
+Ε ε 	epsilon, έψιλον 	[e] 	[e]
+Ζ ζ 	zeta, ζήτα 	[zd]A 	[z]
+Η η 	eta, ήτα 	[ɛː] 	[i]
+Θ θ 	theta, θήτα 	[tʰ] 	[θ]
+Ι ι 	iota, ιώτα 	[i] [iː] 	[i]
+Κ κ 	kappa, κάππα 	[k] 	[k] ~ [c]
+Λ λ 	lambda, λάμδα 	[l] 	[l]
+Μ μ 	mu, μυ 	[m] 	[m]
+	
+Letter 	Name 	Sound Ancient[5] 	Modern[6]
+Ν ν 	nu, νυ 	[n] 	[n]
+Ξ ξ 	xi, ξι 	[ks] 	[ks]
+Ο ο 	omicron, όμικρον 	[o] 	[o]
+Π π 	pi, πι 	[p] 	[p]
+Ρ ρ 	rho, ρώ 	[r] 	[r]
+Σ σ/ς[8] 	sigma, σίγμα 	[s] 	[s]
+Τ τ 	tau, ταυ 	[t] 	[t]
+Υ υ 	upsilon, ύψιλον 	[y] [yː] 	[i]
+Φ φ 	phi, φι 	[pʰ] 	[f]
+Χ χ 	chi, χι 	[kʰ] 	[x] ~ [ç]
+Ψ ψ 	psi, ψι 	[ps] 	[ps]
+Ω ω 	omega, ωμέγα 	[ɔː] 	[o]
+
+----
+
