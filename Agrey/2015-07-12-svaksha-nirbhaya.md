@@ -1,16 +1,17 @@
-# Nirbhaya
+# NIRBHAYA ACT
 
-+ [1. NIRBHAYA PROPOSAL](#1-nirbhaya-proposal)
++ [1. PROPOSAL](#1-proposal)
    + [Abstract](#abstract)
 + [2. USECASE](#2-usecase)
    + [Description](#description)
    + [Implementation](#implementation)
         + [Storage](#storage)
    + [Challenges](#challenges)
++ [3. NOTES](#3-notes)
 
 ----
 
-# 1. NIRBHAYA PROPOSAL
+# 1. PROPOSAL
 
 Some years ago I had written a blog post about a [HotKey button](http://svaksha.com/post/2009/Cell-help) application that would ping your designated contact list when you are in danger of being assaulted and help track down your location via your cell-phone. However, I soon realised that this idea was ahead of its time because without the support infrastructure - prompt police response and co-operation, lack of social awareness, sensitivity and gender awareness to crime among Indians, lack of prompt medical aid, etc.. this would not work. The lack of ground level support that provides women backing when she needs help was crucial, else the HotKey application would only result in false alarms that caused the woman's family and friends more cause for worry about her safety, which can also have the negative effect of putting restrictions on her movement. Besides, smartphones were not a popular trend as they are today (in 2015) thanks to cheaper cellphones by different manufacturers. 
 
@@ -53,6 +54,9 @@ It is proposed to use Python for programming the initial aspect of gathering dat
 
 + Python-3.x
 + Julia (git master)
++ JS
+   + https://github.com/yyx990803/vue
+   + https://github.com/ashleygwilliams/ashleygwilliams.github.io
 + DB (array based storage)
    + HDF5
    + https://github.com/h5io/h5io
@@ -67,8 +71,6 @@ It is proposed to use Python for programming the initial aspect of gathering dat
         + https://github.com/sferik/t
    + App by Meg Ford {{ReadOnly}} : https://github.com/MegFord/twitter_app/
    + https://julia67.github.io/tinkering-with-twitters-api/
-+ Django / Flask / JS - {{ToDecide}}
-   + https://github.com/ashleygwilliams/ashleygwilliams.github.io
 + Heroku
 
 #### DB Storage
@@ -81,4 +83,26 @@ How to ...
 + Ensure a tweeters privacy and the victims privacy? 
 + Get police support and buy-in for the above?
 + Ensure there are no repercursions (doxxing, stalking) for speaking up?
+
+----
+
+# 3. NOTES
+
+## Frontend
+### Node.js
+#### Index page
++ Frontend page outlining the goal 
+    - collect tweet data of those unable to register an FIR
+    - collect tweet data of time taken by police to respond to a 100 call 
+    - provide visualization data.
++ Address Privacy concerns
++ What we will do after they tweet
++ Provide info about what we do with the information
++ What we wont do 
+   - make false promises of ensuring justice.
+   - Wont register an FIR. 
+
+## Backend
+#### Stats
++ NLP for analysing data.
 
