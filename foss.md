@@ -1,7 +1,4 @@
 
-
-----
-
 # MOZILLA
 ## SWC-MSF
 + https://swcarpentry.etherpad.mozilla.org/instructors-Europe?
@@ -30,8 +27,16 @@
 + https://github.com/sils1297/configurations/blob/master/scripts/git/collect_authors_patches.sh
 + https://wiki.documentfoundation.org/Development/GSoC#Student_Tips
 
-#### ON
+#### OpenNews
 + https://github.com/OpenNewsLabs
 
 ----
+
+# Science Orgs
++ https://openhatch.org/wiki/Open_Science_Projects_and_Organizations
+
+----
+
+# ENGG Tutorials
++ Engg Tut, https://engineering.purdue.edu/kak/Tutorials/Tutorials.html (via, https://engineering.purdue.edu/kak/)
 
