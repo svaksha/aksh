@@ -19,6 +19,8 @@
 
 # 0.4-dev
 
++ Freeze : https://github.com/JuliaLang/julia/blob/master/NEWS.md#julia-v040-release-notes
+
 Troubleshoot errors when running the unstable DEV branch
 
 * https://github.com/QuantEcon/QuantEcon.jl/issues/64#issuecomment-130149602
