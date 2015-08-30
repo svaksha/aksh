@@ -1,11 +1,10 @@
-
 + [Arithmetic](#Arithmetic)
 + [Calculus and Analysis](#calculus-and-analysis)
 + [Calculus-II](#calculus-ii)
-+ [Geometry](#geometry)
-+ [Graph Theory](#graph-theory)
++ [Combinatorics and Graph Theory](#combinatorics-and-graph-theory)
    + [NP-complete](#np-complete)
    + [NP-hard](#np-hard)
++ [Geometry](#geometry)
 + [Linear Algebra](#linear-algebra)
 + [PAPERS](#papers)
 
@@ -33,24 +32,16 @@
 
 ---- 
 
-# Geometry
-+ [Chirality in MATH](http://en.wikipedia.org/wiki/Chirality_%28mathematics%29) and [Chirality in Organic Chemistry](http://en.wikipedia.org/wiki/Chirality_%28chemistry%29).
-+ http://mathworld.wolfram.com/Slope.html
-+ https://en.wikipedia.org/wiki/Integral_geometry
-+ https://en.wikipedia.org/wiki/Geometric_Shapes
+# [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics) and [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
++ https://en.wikipedia.org/wiki/Bipartite_graph
 
-#### Papers
-+ http://arxiv.org/pdf/1404.1499v2.pdf
-
-----
-
-# [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 ## NP-complete
 + Karp's 21 NP-complete problems : https://en.wikipedia.org/wiki/Karp's_21_NP-complete_problems
 + In the mathematical discipline of graph theory, a [vertex cover](https://en.wikipedia.org/wiki/Vertex_cover) (sometimes node cover) of a graph is a set of vertices such that each edge of the graph is incident to at least one vertex of the set. The problem of finding a minimum vertex cover is a classical optimization problem in computer science and is a typical example of an NP-hard optimization problem that has an approximation algorithm, whereas, its decision version, the vertex cover problem, was one of Karp's 21 NP-complete problems and is therefore a classical _NP-complete problem_ in computational complexity theory. Furthermore, the vertex cover problem is fixed-parameter tractable and a central problem in parameterized complexity theory.
 + [Weighted Vertex Normals](http://www.bytehazard.com/articles/vertnorm.html)
    + [Surface Normal Vectors](https://en.wikipedia.org/wiki/Normal_%28geometry%29) are used in computer graphics to determine a surface's orientation toward a light source for flat shading, or the orientation of each of the corners (vertices) to mimic a curved surface with Phong shading.
    + [Phong shading](https://en.wikipedia.org/wiki/Phong_shading) is an interpolation technique for surface shading in 3D computer graphics. Phong interpolation or normal-vector interpolation shading, interpolates surface normals across rasterized polygons and computes pixel colors based on the interpolated normals and a reflection model.
+
 
 ## [NP-hard](https://en.wikipedia.org/wiki/NP-hard)
 + https://en.wikipedia.org/wiki/NP-hard#NP-naming_convention
@@ -61,6 +52,17 @@
 + 2005 : [The Generalized Subgraph Problem: Valid inequalities and separation](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.330.1703), by Corinne Feremans , Martine Labbé , Adam Letchford , Juan-josé Salazar-gonzález. 
    + __Abstract__ : This paper is concerned with a problem on networks which we call the Generalized Subgraph Problem (GSP). The GSP is defined on an undirected graph where the vertex set is partitioned into clusters. The task is to find a subgraph which touches at most one vertex in each cluster so as to maximize the sum of vertex and edge weights. The GSP, which is strongly N P-hard, is a natural relaxation of several important problems of a ‘generalized’ type. In this paper, we examine the GSP from a polyhedral viewpoint. We examine two 0-1 integer programming formulations and derive classes of valid and facet-inducing inequalities. We also give complete linear descriptions for some special cases. Finally, we give some results concerning the separation of these inequalities.
 + 2010jul08 : [Online Vertex-Weighted Bipartite Matching and Single-bid Budgeted Allocations](http://www.gagangoel.com/papers/online_vertex_weighted_soda2011.pdf), Gagan Aggarwal, Gagan Goel, Chinmay Karande, Aranyak Mehta; arXiv:1007.1271v1.
+
+----
+
+# Geometry
++ [Chirality in MATH](http://en.wikipedia.org/wiki/Chirality_%28mathematics%29) and [Chirality in Organic Chemistry](http://en.wikipedia.org/wiki/Chirality_%28chemistry%29).
++ http://mathworld.wolfram.com/Slope.html
++ https://en.wikipedia.org/wiki/Integral_geometry
++ https://en.wikipedia.org/wiki/Geometric_Shapes
+
+#### Papers
++ http://arxiv.org/pdf/1404.1499v2.pdf
 
 ----
 

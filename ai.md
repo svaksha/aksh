@@ -1,3 +1,8 @@
++ [AI](#ai)
++ [HMM](#hmm)
++ [NLP](#nlp)
+
+----
 
 # AI
 * https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors/
@@ -7,12 +12,6 @@
 # Computational formalisms
 + https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
 + https://en.wikipedia.org/wiki/Category:Computational_problems
-
-----
-
-# [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics)
-## [Graphs](https://en.wikipedia.org/wiki/Category:Graph_theory)
-+ https://en.wikipedia.org/wiki/Bipartite_graph
 
 ----
 
