@@ -1,12 +1,14 @@
 + [Arithmetic](#Arithmetic)
 + [Calculus and Analysis](#calculus-and-analysis)
 + [Calculus-II](#calculus-ii)
-+ [Combinatorics and Graph Theory](#combinatorics-and-graph-theory)
-   + [NP-complete](#np-complete)
-   + [NP-hard](#np-hard)
++ [Combinatorics](#combinatorics)
+   + [Graph Theory](#graph-theory)
+        + [NP-complete](#np-complete)
+        + [NP-hard](#np-hard)
 + [Geometry](#geometry)
 + [Linear Algebra](#linear-algebra)
 + [PAPERS](#papers)
++ [Type Theory](#type-theory)
 
 ---- 
 
@@ -32,18 +34,21 @@
 
 ---- 
 
-# [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics) and [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
+# [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics) 
+
+## [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 + https://en.wikipedia.org/wiki/Bipartite_graph
 
-## NP-complete
+### NP-complete
 + Karp's 21 NP-complete problems : https://en.wikipedia.org/wiki/Karp's_21_NP-complete_problems
++ The maximum [weighted independent subset](https://en.wikipedia.org/wiki/Independent_set_%28graph_theory%29) theory : In graph theory, an independent set or stable set is a set of vertices in a graph, no two of which are adjacent. That is, it is a set I of vertices such that for every two vertices in I, there is no edge connecting the two. Equivalently, each edge in the graph has at most one endpoint in I. The size of an independent set is the number of vertices it contains. Independent sets have also been called internally stable sets.
+   + A maximal independent set is either an independent set such that adding any other vertex to the set forces the set to contain an edge or the set of all vertices of the empty graph. It is an independent set of largest possible size for a given graph G. This size is called the independence number of G, and denoted α(G).[2] The problem of finding such a set is called the maximum independent set problem and is an NP-hard optimization problem. As such, it is unlikely that there exists an efficient algorithm for finding a maximum independent set of a graph. Every maximum independent set also is maximal, but the converse implication does not necessarily hold.
 + In the mathematical discipline of graph theory, a [vertex cover](https://en.wikipedia.org/wiki/Vertex_cover) (sometimes node cover) of a graph is a set of vertices such that each edge of the graph is incident to at least one vertex of the set. The problem of finding a minimum vertex cover is a classical optimization problem in computer science and is a typical example of an NP-hard optimization problem that has an approximation algorithm, whereas, its decision version, the vertex cover problem, was one of Karp's 21 NP-complete problems and is therefore a classical _NP-complete problem_ in computational complexity theory. Furthermore, the vertex cover problem is fixed-parameter tractable and a central problem in parameterized complexity theory.
 + [Weighted Vertex Normals](http://www.bytehazard.com/articles/vertnorm.html)
-   + [Surface Normal Vectors](https://en.wikipedia.org/wiki/Normal_%28geometry%29) are used in computer graphics to determine a surface's orientation toward a light source for flat shading, or the orientation of each of the corners (vertices) to mimic a curved surface with Phong shading.
-   + [Phong shading](https://en.wikipedia.org/wiki/Phong_shading) is an interpolation technique for surface shading in 3D computer graphics. Phong interpolation or normal-vector interpolation shading, interpolates surface normals across rasterized polygons and computes pixel colors based on the interpolated normals and a reflection model.
+   + [Surface Normal Vectors](https://en.wikipedia.org/wiki/Normal_%28geometry%29) are used in computer graphics to determine a surface's orientation toward a light source for flat shading, or the orientation of each of the corners (vertices) to mimic a curved surface with [Phong shading](https://en.wikipedia.org/wiki/Phong_shading) - an interpolation technique for surface shading in 3D computer graphics. Phong interpolation or normal-vector interpolation shading, interpolates surface normals across rasterized polygons and computes pixel colors based on the interpolated normals and a reflection model.
 
 
-## [NP-hard](https://en.wikipedia.org/wiki/NP-hard)
+### [NP-hard](https://en.wikipedia.org/wiki/NP-hard)
 + https://en.wikipedia.org/wiki/NP-hard#NP-naming_convention
 + [All-Pairs Bottleneck Paths in Vertex Weighted Graphs](http://www.math.tau.ac.il/~asafico/bottle.pdf), Asaf Shapira, Raphael Yuster, Uri Zwick.
 + 1990 : [SPARSEST CUTS AND BOTTLENECKS IN GRAPHS](http://ac.els-cdn.com/0166218X9090133W/1-s2.0-0166218X9090133W-main.pdf?_tid=196f5ea0-4d71-11e5-8a1d-00000aab0f6c&acdnat=1440758565_1996876e0681c341b61aef7a39b1babb), David W. MATULA, Farhad SHAHROKHI.
@@ -88,5 +93,11 @@
 + [Associative-Commutative Discrimination Nets](http://www.cs.tufts.edu/~nr/cs257/archive/leo-bachmair/ac-discrimination-nets.pdf)
 + Richard Jenk's paper ["A Pattern Compiler"](https://dl.acm.org/citation.cfm?id=806324&dl=ACM&coll=DL&CFID=621425526&CFTOKEN=54560421)
 
+
+----
+
+# [Type Theory](https://en.wikipedia.org/wiki/Category:Type_theory)
+## [Data Types](https://en.wikipedia.org/wiki/Data_type)
++ https://en.wikipedia.org/wiki/Enumerated_type
 
 
