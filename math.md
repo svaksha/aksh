@@ -38,6 +38,7 @@
 
 ## [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 + https://en.wikipedia.org/wiki/Bipartite_graph
++ https://en.wikipedia.org/wiki/Clique_%28graph_theory%29
 
 ### NP-complete
 + Karp's 21 NP-complete problems : https://en.wikipedia.org/wiki/Karp's_21_NP-complete_problems
