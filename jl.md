@@ -1,5 +1,6 @@
 + [0.4-dev](#0.4-dev)
 + [CORE](#core)
++ [Development](#development)
 + [Packaging](#packaging)
 + [Documentation](#documentation)
 + [LIB](#lib)
@@ -134,9 +135,9 @@ You can override Base.show(io, ex) rather than Base.showerror.
 + Metaprogramming, http://julia.readthedocs.org/en/latest/manual/metaprogramming/
 + Arguments of mathematical operators to a common type, https://julia.readthedocs.org/en/latest/manual/conversion-and-promotion/
 
-### BR
+### Advice
 + Make `any` and `all` short-circuit, https://github.com/JuliaLang/julia/pull/11774
-
++ Deprecation warning flags : `empty!(Base.have_warned)`
 
 ### Conditionals
 + http://slendermeans.org/julia-iterators.html
@@ -160,6 +161,33 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 + https://github.com/JuliaLang/julia/issues?q=is%3Aopen+label%3A%22up+for+grabs%22+is%3Aissue+label%3A%22linear+algebra%22
 + #4668 [Proposal: Better linear algebra benchmarks](https://github.com/JuliaLang/julia/issues/4668)
 
+----
+
+# Development
+
+On Wednesday, December 17, 2014 11:21:44 PM UTC+1, Seth wrote:
+
+    I'm wondering whether folks are actually basing their repos in ~/.julia and doing their development and commits from there, or whether there's some other process that allows development to happen in a more standard location than a hidden directory off of ~ while still allowing use of Pkg. I'm probably overlooking something trivial.
+
+    What's a recommended setup/process for creating packages using Pkg to manage them?
+
+
+I'm not sure what the right answer would be, but I have been struggling with it a lot.  This is my set-up for most of the stuff I do.  
+
+ - I develop packages in their own directories on the user filesystem.  For me, that would be `.../julia/<package>/` .  
+ - from there, in `./src/` I have the various source files.  One, specifically is called "nomodule.jl".  This contains a 
+   - "require(<types.jl>)"
+   - "include(<functions.jl>)"
+   - ...
+ - Each time I change something in the code, I do a `reload("nomodule.jl`) from the REPL.  This replaces all functions, except for the type definitions---they can't be updated
+ - When I need to change the types, I need to do a `ctrl-D; julia; reload("nomodule.jl")` which can be a bit of a pain
+ - When I am happy with the functionality, I make this code into a module, using a file "<Module>.jl", very similar to the "nomodule.jl" but with the "require" replaced by "include"
+ - I sync this then with github
+ - If I need the functionality from another working directory, I do a `Pkg.clone(<github>)` to load a sort-of-stable version into ~/.julia
+ - When I am really happy with the code, I do a pull request to METADATA.jl for my package to be included in the standard set of Julia packages. 
+
+ - If I need functionality on some other machines, I sync using git, either through github or directly.
+ 
 ----
 
 # Packaging
