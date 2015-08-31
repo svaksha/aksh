@@ -1,9 +1,11 @@
 + [0.4-dev](#0.4-dev)
 + [CORE](#core)
 + [Development](#development)
+   + [.juliarc](#.juliarc)
 + [Packaging](#packaging)
 + [Documentation](#documentation)
 + [LIB](#lib)
+   + [IJulia](#ijulia)
 + [QA](#qa)
 + [NEWS](#news)
 
@@ -187,7 +189,11 @@ I'm not sure what the right answer would be, but I have been struggling with it 
  - When I am really happy with the code, I do a pull request to METADATA.jl for my package to be included in the standard set of Julia packages. 
 
  - If I need functionality on some other machines, I sync using git, either through github or directly.
- 
+
+### .juliarc
++ https://github.com/JuliaLang/julia/issues/6445
++ https://github.com/JuliaLang/julia/issues/10351 
+
 ----
 
 # Packaging
@@ -302,6 +308,13 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 ### Algorithms
 + Strassen algorithm for matrix multiplication in julia: https://gist.github.com/GaZ3ll3/87df748f76b119199fed
    + Jupyter NB: http://nbviewer.ipython.org/github/GaZ3ll3/Step_In_Julia/blob/master/notebook/Linear%20Algebra.ipynb
+
+## IJulia
++ Proper method for including external JS libraries?, https://github.com/JuliaLang/IJulia.jl/issues/345
+
+## Plotting
++ https://github.com/JuliaPlot/juliaplot_docs/issues/1
++ https://github.com/dcjones/Gadfly.jl/issues/658
 
 ----
 
