@@ -2,6 +2,7 @@
 + [CORE](#core)
 + [Development](#development)
    + [.juliarc](#.juliarc)
+   + [Arrays](#arrays)
 + [Packaging](#packaging)
 + [Documentation](#documentation)
 + [LIB](#lib)
@@ -166,6 +167,7 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 ----
 
 # Development
++ http://docs.julialang.org/en/latest/#developer-documentation
 
 On Wednesday, December 17, 2014 11:21:44 PM UTC+1, Seth wrote:
 
@@ -193,6 +195,17 @@ I'm not sure what the right answer would be, but I have been struggling with it 
 ### .juliarc
 + https://github.com/JuliaLang/julia/issues/6445
 + https://github.com/JuliaLang/julia/issues/10351 
+
+### Arrays
+
++ https://github.com/JuliaLang/julia/issues/3701
++ https://github.com/JuliaLang/julia/issues/4774
++ https://github.com/JuliaLang/julia/pull/7568
++ https://github.com/JuliaLang/julia/issues/7941
++ https://github.com/JuliaLang/julia/pull/10525
++ https://github.com/JuliaLang/julia/pull/10704
++ https://groups.google.com/forum/#!topic/julia-dev/sM0VyVbFewQ
+
 
 ----
 
