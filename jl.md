@@ -169,34 +169,23 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 # Development
 + http://docs.julialang.org/en/latest/#developer-documentation
 
-On Wednesday, December 17, 2014 11:21:44 PM UTC+1, Seth wrote:
-
-    I'm wondering whether folks are actually basing their repos in ~/.julia and doing their development and commits from there, or whether there's some other process that allows development to happen in a more standard location than a hidden directory off of ~ while still allowing use of Pkg. I'm probably overlooking something trivial.
-
-    What's a recommended setup/process for creating packages using Pkg to manage them?
-
-
-I'm not sure what the right answer would be, but I have been struggling with it a lot.  This is my set-up for most of the stuff I do.  
-
- - I develop packages in their own directories on the user filesystem.  For me, that would be `.../julia/<package>/` .  
- - from there, in `./src/` I have the various source files.  One, specifically is called "nomodule.jl".  This contains a 
-   - "require(<types.jl>)"
-   - "include(<functions.jl>)"
-   - ...
- - Each time I change something in the code, I do a `reload("nomodule.jl`) from the REPL.  This replaces all functions, except for the type definitions---they can't be updated
- - When I need to change the types, I need to do a `ctrl-D; julia; reload("nomodule.jl")` which can be a bit of a pain
- - When I am happy with the functionality, I make this code into a module, using a file "<Module>.jl", very similar to the "nomodule.jl" but with the "require" replaced by "include"
- - I sync this then with github
- - If I need the functionality from another working directory, I do a `Pkg.clone(<github>)` to load a sort-of-stable version into ~/.julia
- - When I am really happy with the code, I do a pull request to METADATA.jl for my package to be included in the standard set of Julia packages. 
-
- - If I need functionality on some other machines, I sync using git, either through github or directly.
-
-### .juliarc
+## .juliarc
 + https://github.com/JuliaLang/julia/issues/6445
 + https://github.com/JuliaLang/julia/issues/10351 
 
-### Arrays
+## ~/.julia
++ Notes on basing development repos in ~/.julia and doing development and commits from there with recommended setup/process for creating packages using Pkg to manage them.
+   + Develop packages in their own directories on the user filesystem: `./julia/<package>/` 
+   + From there, in `./src/`, keep the various source files.  One, specifically is called "nomodule.jl".  This contains a `require(<types.jl>)` and `"include(<functions.jl>)`
+   + For each code change, do a `reload("nomodule.jl`) from the REPL.  This replaces all functions, except for the type definitions which can't be updated.
+   + To change the types, do a `ctrl-D; julia; reload("nomodule.jl")` which can be a bit of a pain.
+   + When happy with the functionality, make this code into a module, using a file "<Module>.jl", very similar to the "nomodule.jl" but with the "require" replaced by "include".
+   + Then, sync this with github.
+   + If you need the functionality from another working directory, do a `Pkg.clone(<github>)` to load a sort-of-stable version into ~/.julia
+   + Then, do a pull request to METADATA.jl for your package to be included in the standard set of Julia packages. 
+   + For functionality on some other machines, sync using git, either through github or directly.
+
+## Arrays
 
 + https://github.com/JuliaLang/julia/issues/3701
 + https://github.com/JuliaLang/julia/issues/4774
@@ -215,7 +204,7 @@ I'm not sure what the right answer would be, but I have been struggling with it 
 + http://docs.julialang.org/en/latest/manual/packages/
 + Old SO thread: http://stackoverflow.com/questions/14092316/simplest-ways-to-make-a-julia-package-available-to-others
 
-To move a large number of packages installed on the old system to a new one, do `Pkg.init()`, then copy only the `REQUIRE` file from `~/.julia/v0.x/` folder, then do a `Pkg.update()` on the cli.
++ To move a large number of packages installed on the old system to a new one, do `Pkg.init()`, then copy only the `REQUIRE` file from `~/.julia/v0.x/` folder, then do a `Pkg.update()` on the cli.
 
 ### Naming and Coding Rules
 + Package naming rules, https://github.com/JuliaStats/Distributions.jl/issues/395
