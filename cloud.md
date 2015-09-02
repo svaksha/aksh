@@ -1,4 +1,5 @@
 
+
 # DEVOPS
 + https://github.com/devopsbookmarks/devopsbookmarks.com
 
@@ -149,3 +150,10 @@ http://pika.readthedocs.org/en/0.9.14/intro.html
 ## Random Papers
 + [Large-scale cluster management at Google with Borg](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf).
 
+
+----
+
+# OpenShift
++ http://help.openshift.com
++ https://blog.openshift.com/run-your-nodejs-projects-on-openshift-in-two-simple-steps/
++ https://wiki.python.org/moin/FreeHosts

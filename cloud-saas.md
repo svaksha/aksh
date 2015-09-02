@@ -41,14 +41,8 @@
 # Cloud—Management and Tools
 
 + [abiquo](http://www.abiquo.com), Barcelona, Spain
-
-CloudSwitch
-http://www.cloudswitch.com
-Burlington, MA
-
-Fiberlink
-http://www.maas360.com
-Philadelphia, PA
++ [CloudSwitch](http://www.cloudswitch.com), Burlington, MA
++ [Fiberlink](http://www.maas360.com), Philadelphia, PA
 
 New Relic
 http://www.newrelic.com
@@ -377,9 +371,6 @@ v-Pitch
 v-pitch.com
 Mountain View, CA
 
-Yerbabuena Software
-http://www.yerbabuenasoftware.com
-Malaga, Spain
-
++ [Yerbabuena Software](http://www.yerbabuenasoftware.com), Malaga, Spain
 + [Zendesk](http://www.zendesk.com), San Francisco, CA
 
