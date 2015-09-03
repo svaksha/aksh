@@ -38,12 +38,13 @@
 
 ## [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 + https://en.wikipedia.org/wiki/Bipartite_graph
-
+j
 ### NP-complete
 + Karp's 21 NP-complete problems : https://en.wikipedia.org/wiki/Karp's_21_NP-complete_problems
 + The maximum [weighted independent subset](https://en.wikipedia.org/wiki/Independent_set_%28graph_theory%29) theory : In graph theory, an independent set or stable set is a set of vertices in a graph, no two of which are adjacent. That is, it is a set I of vertices such that for every two vertices in I, there is no edge connecting the two. Equivalently, each edge in the graph has at most one endpoint in I. The size of an independent set is the number of vertices it contains. Independent sets have also been called internally stable sets.
    + A maximal independent set is either an independent set such that adding any other vertex to the set forces the set to contain an edge or the set of all vertices of the empty graph. It is an independent set of largest possible size for a given graph G. This size is called the independence number of G, and denoted α(G).[2] The problem of finding such a set is called the maximum independent set problem and is an NP-hard optimization problem. As such, it is unlikely that there exists an efficient algorithm for finding a maximum independent set of a graph. Every maximum independent set also is maximal, but the converse implication does not necessarily hold.
    + http://iss.ices.utexas.edu/?p=projects/galois/benchmarks/independent_set
+   + http://www3.cs.stonybrook.edu/~algorith/files/independent-set.shtml
    + https://en.wikipedia.org/wiki/Clique_%28graph_theory%29
    + http://en.wikipedia.org/wiki/Maximum_clique
    + Paper: "Algorithm for finding cliques", http://www.imsc.res.in/~pptale/documents/report_ISI.pdf

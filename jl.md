@@ -195,7 +195,6 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 + https://github.com/JuliaLang/julia/pull/10704
 + https://groups.google.com/forum/#!topic/julia-dev/sM0VyVbFewQ
 
-
 ----
 
 # Packaging
@@ -219,8 +218,9 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 ### BR
 + Rewrite Pkg.add to include repo argument [BUG # 11914](https://github.com/JuliaLang/julia/issues/11914).
 
-### build.jl
-+ https://github.com/JuliaOpt/Ipopt.jl/blob/99b85463ca408aefb4931d2ebaaa97cf5f821acc/deps/build.jl#L42-L45
+### Binaries
++ Conda.jl, https://github.com/JuliaLang/METADATA.jl/pull/3238
++ build.jl, https://github.com/JuliaOpt/Ipopt.jl/blob/99b85463ca408aefb4931d2ebaaa97cf5f821acc/deps/build.jl#L42-L45
 
 ### Using VS. import VS. importall
 + https://github.com/JuliaLang/julia/issues/11031 
