@@ -37,8 +37,9 @@
 # [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics) 
 
 ## [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
+
 + https://en.wikipedia.org/wiki/Bipartite_graph
-j
+
 ### NP-complete
 + Karp's 21 NP-complete problems : https://en.wikipedia.org/wiki/Karp's_21_NP-complete_problems
 + The maximum [weighted independent subset](https://en.wikipedia.org/wiki/Independent_set_%28graph_theory%29) theory : In graph theory, an independent set or stable set is a set of vertices in a graph, no two of which are adjacent. That is, it is a set I of vertices such that for every two vertices in I, there is no edge connecting the two. Equivalently, each edge in the graph has at most one endpoint in I. The size of an independent set is the number of vertices it contains. Independent sets have also been called internally stable sets.
