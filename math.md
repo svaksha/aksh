@@ -36,6 +36,8 @@
 
 # [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics) 
 
++ Questions: http://www.cs.ecu.edu/~hochberg/spring2009/PythonPrograms.pdf
+
 ## [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 
 + https://en.wikipedia.org/wiki/Bipartite_graph

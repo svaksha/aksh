@@ -56,8 +56,23 @@ dpkg -S /sbin/ippool
 
 ----
 
+# ISO
++ http://releases.ubuntu.com/
++ Ubuntu iso via wget, https://askubuntu.com/questions/305304/download-13-04-iso-with-wget
++ 64-bit Vs. 32-bit, https://superuser.com/questions/238112/what-is-the-difference-between-i686-and-x86-64
+
+### multiboot iso
++ SARDU, http://www.howtogeek.com/howto/39880/how-to-combine-rescue-disks-to-create-the-ultimate-windows-repair-disk/
++ MultiCD, https://github.com/IsaacSchemm/MultiCD 
+   + http://multicd.us/#Instructions
++ https://askubuntu.com/questions/46624/how-to-create-a-bootable-usb-with-multiple-iso-images-in-it
++ https://ubuntuforums.org/showthread.php?t=1071869
+
+----
+
 # Kernel/ HDD
 + http://www.brendangregg.com/perf.html
++ Initramfs, https://en.wikipedia.org/wiki/Initramfs
 
 ----
 
