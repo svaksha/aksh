@@ -37,6 +37,10 @@
 # [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics) 
 
 + Questions: http://www.cs.ecu.edu/~hochberg/spring2009/PythonPrograms.pdf
++ http://arxiv.org/pdf/1409.0173.pdf
++ https://www.codechef.com/MAY10/problems/GST/
++ http://www-inst.cs.berkeley.edu/~cs170/fa14/misc/final-sol.pdf
++ https://www.google.co.in/search?client=ubuntu&channel=fs&q=+Find+a+subset+of+V+that+maximizes+the+sum+of+vertex+weights+without+any+two+vertices+in+that+subset+being+adjacent.&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=pprtVc6HN7Hv8wfJsYWoCQ#q=Find+a+subset+of+V+that+maximizes+the+sum+of+vertex+weights+without+any+two+vertices+in+that+subset+being+adjacent.&channel=fs&start=30
 
 ## [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 
@@ -53,6 +57,8 @@
    + Paper: "Algorithm for finding cliques", http://www.imsc.res.in/~pptale/documents/report_ISI.pdf
    + https://en.wikipedia.org/wiki/Maximal_independent_set
    + https://en.wikipedia.org/wiki/Matching_%28graph_theory%29
+   + https://wincent.com/wiki/Computing_the_Maximum_Weighted_Independent_Set_of_a_graph_path
+
 + In the mathematical discipline of graph theory, a [vertex cover](https://en.wikipedia.org/wiki/Vertex_cover) (sometimes node cover) of a graph is a set of vertices such that each edge of the graph is incident to at least one vertex of the set. The problem of finding a minimum vertex cover is a classical optimization problem in computer science and is a typical example of an NP-hard optimization problem that has an approximation algorithm, whereas, its decision version, the vertex cover problem, was one of Karp's 21 NP-complete problems and is therefore a classical _NP-complete problem_ in computational complexity theory. Furthermore, the vertex cover problem is fixed-parameter tractable and a central problem in parameterized complexity theory.
 + [Weighted Vertex Normals](http://www.bytehazard.com/articles/vertnorm.html)
    + [Surface Normal Vectors](https://en.wikipedia.org/wiki/Normal_%28geometry%29) are used in computer graphics to determine a surface's orientation toward a light source for flat shading, or the orientation of each of the corners (vertices) to mimic a curved surface with [Phong shading](https://en.wikipedia.org/wiki/Phong_shading) - an interpolation technique for surface shading in 3D computer graphics. Phong interpolation or normal-vector interpolation shading, interpolates surface normals across rasterized polygons and computes pixel colors based on the interpolated normals and a reflection model.
