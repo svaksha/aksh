@@ -41,6 +41,7 @@
 + https://www.codechef.com/MAY10/problems/GST/
 + http://www-inst.cs.berkeley.edu/~cs170/fa14/misc/final-sol.pdf
 + https://www.google.co.in/search?client=ubuntu&channel=fs&q=+Find+a+subset+of+V+that+maximizes+the+sum+of+vertex+weights+without+any+two+vertices+in+that+subset+being+adjacent.&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=pprtVc6HN7Hv8wfJsYWoCQ#q=Find+a+subset+of+V+that+maximizes+the+sum+of+vertex+weights+without+any+two+vertices+in+that+subset+being+adjacent.&channel=fs&start=30
++ http://math.stackexchange.com/questions/436070/maximum-vertex-cover
 
 ## [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 
