@@ -1,4 +1,4 @@
-+ [DEB packagess](#deb-packages)
++ [DEB packages](#deb-packages)
 
 ----
 
@@ -39,10 +39,10 @@ dpkg -S /sbin/ippool
 #### Adding PPA's
 1. Add a PPA using APT in terminal by typing the following command: `sudo add-apt-repository ppa:PPA_Name/ppa`
 
-#### Removing PPA's 
+#### Removing PPA's
 1. Remove a PPA using APT in terminal by typing the following command: `sudo add-apt-repository --remove ppa:PPA_Name/ppa`
 2. Remove a PPA from the source list, else it will get pulled when you update the system.
-   + First, find where these PPAs are stored by listing all the PPAs added in your system: `sudo ls /etc/apt/sources.list.d`. 
+   + First, find where these PPAs are stored by listing all the PPAs added in your system: `sudo ls /etc/apt/sources.list.d`.
    + Then remove the PPA using the following command: `sudo rm -i /etc/apt/sources.list.d/PPA_Name.list`
 3. Remove a PPA by using `ppa-purge` in terminal - What about the applications installed using PPAs? Will they be removed as a result of removing the PPA? The answer is NO. So, we use `PPA purge` to remove the PPA and uninstall all the programs installed by the PPA.
    + Install ppa-purge with this command: `sudo apt-get install ppa-purge`
@@ -63,7 +63,7 @@ dpkg -S /sbin/ippool
 
 ### multiboot iso
 + SARDU, http://www.howtogeek.com/howto/39880/how-to-combine-rescue-disks-to-create-the-ultimate-windows-repair-disk/
-+ MultiCD, https://github.com/IsaacSchemm/MultiCD 
++ MultiCD, https://github.com/IsaacSchemm/MultiCD
    + http://multicd.us/#Instructions
 + https://askubuntu.com/questions/46624/how-to-create-a-bootable-usb-with-multiple-iso-images-in-it
 + https://ubuntuforums.org/showthread.php?t=1071869
@@ -79,7 +79,7 @@ dpkg -S /sbin/ippool
 # REGEX
 + http://en.wikipedia.org/wiki/List_of_Unix_commands
 + http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux?rq=1
-+ https://en.wikipedia.org/wiki/Regular_expression#Syntax 
++ https://en.wikipedia.org/wiki/Regular_expression#Syntax
 + http://www.theunixschool.com/2012/07/find-command-15-examples-to-exclude.html
 
 ----
@@ -98,10 +98,10 @@ dpkg -S /sbin/ippool
 
 ----
 
-# ARBTT 
+# ARBTT
 __desktop timetracker__
 + https://www.joachim-breitner.de/blog/336-The_Automatic_Rule-Based_Time_Tracker
-+ GITHUB mirror : 
++ GITHUB mirror :
 + http://arbtt.nomeata.de/#how
 + Install : http://arbtt.nomeata.de/#install
 + Sample Categorize :: http://darcs.nomeata.de/arbtt/categorize.cfg
@@ -113,4 +113,3 @@ __desktop timetracker__
 
 # Linux : List Open Files for Process
 + http://www.cyberciti.biz/faq/howto-linux-get-list-of-open-files/
-

@@ -10,7 +10,7 @@
 + [PAPERS](#papers)
 + [Type Theory](#type-theory)
 
----- 
+----
 
 # Arithmetic
 + [A "two-product" style algorithm paper](http://www.ti3.tu-harburg.de/paper/rump/OgRuOi05.pdf).
@@ -32,9 +32,9 @@
 + http://mathworld.wolfram.com/IntegralTransform.html
 + http://www.encyclopediaofmath.org/index.php/Singular_integral_equation
 
----- 
+----
 
-# [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics) 
+# [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics)
 
 + Questions: http://www.cs.ecu.edu/~hochberg/spring2009/PythonPrograms.pdf
 + http://arxiv.org/pdf/1409.0173.pdf
@@ -69,9 +69,9 @@
 + https://en.wikipedia.org/wiki/NP-hard#NP-naming_convention
 + [All-Pairs Bottleneck Paths in Vertex Weighted Graphs](http://www.math.tau.ac.il/~asafico/bottle.pdf), Asaf Shapira, Raphael Yuster, Uri Zwick.
 + 1990 : [SPARSEST CUTS AND BOTTLENECKS IN GRAPHS](http://ac.els-cdn.com/0166218X9090133W/1-s2.0-0166218X9090133W-main.pdf?_tid=196f5ea0-4d71-11e5-8a1d-00000aab0f6c&acdnat=1440758565_1996876e0681c341b61aef7a39b1babb), David W. MATULA, Farhad SHAHROKHI.
-+ 1998May15 : [Maximum vertex-weighted matching in strongly chordal graphs](http://ac.els-cdn.com/S0166218X97001364/1-s2.0-S0166218X97001364-main.pdf?_tid=8f64dcc6-4d7f-11e5-b2b0-00000aacb360&acdnat=1440764776_524bfd9783357f296c58ac41d8cdd59d), Manoel B. Campêlo, Sulamita Klein; Discrete Applied Mathematics, Volume 84, Issues 1–3, Elsevier Science B.V., All rights reserved. 
++ 1998May15 : [Maximum vertex-weighted matching in strongly chordal graphs](http://ac.els-cdn.com/S0166218X97001364/1-s2.0-S0166218X97001364-main.pdf?_tid=8f64dcc6-4d7f-11e5-b2b0-00000aacb360&acdnat=1440764776_524bfd9783357f296c58ac41d8cdd59d), Manoel B. Campêlo, Sulamita Klein; Discrete Applied Mathematics, Volume 84, Issues 1–3, Elsevier Science B.V., All rights reserved.
     + __Abstract__ : Given a graph G = (V, E) and a real weight for each vertex of G, the vertex-weight of a matching is defined to be the sum of the weights of the vertices covered by the matching. In this paper we present a linear time algorithm for finding a maximum vertex-weighted matching in a strongly chordal graph, given a strong elimination ordering. The algorithm can be specialized to find a maximum cardinality matching, yielding an algorithm similar to one proposed earlier by Dahlhaus and Karpinsky. The technique does not seem to apply to the case of general edge-weighted matchings.
-+ 2005 : [The Generalized Subgraph Problem: Valid inequalities and separation](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.330.1703), by Corinne Feremans , Martine Labbé , Adam Letchford , Juan-josé Salazar-gonzález. 
++ 2005 : [The Generalized Subgraph Problem: Valid inequalities and separation](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.330.1703), by Corinne Feremans , Martine Labbé , Adam Letchford , Juan-josé Salazar-gonzález.
    + __Abstract__ : This paper is concerned with a problem on networks which we call the Generalized Subgraph Problem (GSP). The GSP is defined on an undirected graph where the vertex set is partitioned into clusters. The task is to find a subgraph which touches at most one vertex in each cluster so as to maximize the sum of vertex and edge weights. The GSP, which is strongly N P-hard, is a natural relaxation of several important problems of a ‘generalized’ type. In this paper, we examine the GSP from a polyhedral viewpoint. We examine two 0-1 integer programming formulations and derive classes of valid and facet-inducing inequalities. We also give complete linear descriptions for some special cases. Finally, we give some results concerning the separation of these inequalities.
 + 2010jul08 : [Online Vertex-Weighted Bipartite Matching and Single-bid Budgeted Allocations](http://www.gagangoel.com/papers/online_vertex_weighted_soda2011.pdf), Gagan Aggarwal, Gagan Goel, Chinmay Karande, Aranyak Mehta; arXiv:1007.1271v1.
 
@@ -116,5 +116,3 @@
 # [Type Theory](https://en.wikipedia.org/wiki/Category:Type_theory)
 ## [Data Types](https://en.wikipedia.org/wiki/Data_type)
 + https://en.wikipedia.org/wiki/Enumerated_type
-
-
