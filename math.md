@@ -36,12 +36,26 @@
 
 # [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics)
 
-+ Questions: http://www.cs.ecu.edu/~hochberg/spring2009/PythonPrograms.pdf
++ Questions:
+    + http://www.cs.ecu.edu/~hochberg/spring2009/PythonPrograms.pdf
+    + http://www.ics.uci.edu/~dechter/publications/r207.pdf
+
 + http://arxiv.org/pdf/1409.0173.pdf
 + https://www.codechef.com/MAY10/problems/GST/
 + http://www-inst.cs.berkeley.edu/~cs170/fa14/misc/final-sol.pdf
 + https://www.google.co.in/search?client=ubuntu&channel=fs&q=+Find+a+subset+of+V+that+maximizes+the+sum+of+vertex+weights+without+any+two+vertices+in+that+subset+being+adjacent.&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=pprtVc6HN7Hv8wfJsYWoCQ#q=Find+a+subset+of+V+that+maximizes+the+sum+of+vertex+weights+without+any+two+vertices+in+that+subset+being+adjacent.&channel=fs&start=30
 + http://math.stackexchange.com/questions/436070/maximum-vertex-cover
+
++ http://math.stackexchange.com/questions/436070/maximum-vertex-cover
++ http://theory.stanford.edu/~trevisan/cs261/lecture14.pdf
++ http://math.stackexchange.com/questions/210160/what-is-the-node-weight-of-a-vertex
++ http://www.brpreiss.com/books/opus4/html/page546.html
++ http://codeforces.com/blog/entry/18425
++ http://www.boost.org/doc/libs/1_46_1/libs/graph/example/undirected.cpp
++ http://www.quora.com/How-can-I-implement-a-weighted-directed-graph-in-C++-or-Java-using-object-oriented-programming
++ http://www.sanfoundry.com/cpp-programming-examples-graph-problems-algorithms/
++ https://quickgrid.wordpress.com/2015/05/30/inputting-directed-undirected-weighted-and-unweighted-graph-in-c-c-adjacency-matrix/
++ http://stanford.edu/~stepp/cppdoc/BasicGraph-class.html
 
 ## [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 
