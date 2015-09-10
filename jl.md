@@ -6,7 +6,11 @@
 + [Packaging](#packaging)
 + [Documentation](#documentation)
 + [LIB](#lib)
+   + [GIST](#gist)
+   + [Graphs](#graphs)
    + [IJulia](#ijulia)
+   + [Math](#math)
+   + [Plotting](#plotting)
 + [QA](#qa)
 + [NEWS](#news)
 
@@ -303,6 +307,13 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 ## GIST
 + cprintf.jl, https://gist.github.com/dpo/11000433
 
+## Graphs
++ http://julialang.org/Graphs.jl/index.html
++ https://graphsjl-docs.readthedocs.org/en/latest/interface.html
+
+## IJulia
++ Proper method for including external JS libraries?, https://github.com/JuliaLang/IJulia.jl/issues/345
+
 ## Math
 ### Integral
 + http://docs.julialang.org/en/latest/stdlib/math/#numerical-integration
@@ -310,9 +321,6 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 ### Algorithms
 + Strassen algorithm for matrix multiplication in julia: https://gist.github.com/GaZ3ll3/87df748f76b119199fed
    + Jupyter NB: http://nbviewer.ipython.org/github/GaZ3ll3/Step_In_Julia/blob/master/notebook/Linear%20Algebra.ipynb
-
-## IJulia
-+ Proper method for including external JS libraries?, https://github.com/JuliaLang/IJulia.jl/issues/345
 
 ## Plotting
 + https://github.com/JuliaPlot/juliaplot_docs/issues/1

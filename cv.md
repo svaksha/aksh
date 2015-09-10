@@ -1,4 +1,6 @@
-[Visual Computing](https://en.wikipedia.org/wiki/Visual_Computing)
++ CV, https://en.wikipedia.org/wiki/Computer_vision
++ [Visual Computing](https://en.wikipedia.org/wiki/Visual_Computing)
++ https://en.wikipedia.org/wiki/Category:Computer_vision
 
 # Algorithms
 + MLAA : http://www.codeproject.com/Articles/229353/MLAA-Efficiently-Moving-Antialiasing-from-the-GPU
