@@ -4,6 +4,7 @@
 + [Congenital Disorders](#congenital-disorders)
 + [General](#general)
 + [NeuroEthics](#neuroethics)
++ [Neurological Disorders](#neurological-disorders)
 + [NeuroSurgery](#neurosurgery)
 + [NEWS](#news)
 + [Papers](#papers)
@@ -67,7 +68,6 @@
 + Neurophysiology :: http://en.wikipedia.org/wiki/Neurophysiology
 + Neurology :: http://en.wikipedia.org/wiki/Neurology
 
-
 ----
 
 # NEWS
@@ -81,10 +81,14 @@
 
 ----
 
+# Neurological Disorders
++ GBS, [Guillain–Barré syndrome](https://en.wikipedia.org/wiki/Guillain%E2%80%93Barr%C3%A9_syndrome), also known as Guillain–Barré–Strohl syndrome or Landry's paralysis, is a rapid-onset muscle weakness as a result of damage to the peripheral nervous system.
+
+----
+
 # NeuroSurgery
 + http://www.medicaldaily.com/battle-waterloo-might-not-have-happened-if-it-wasnt-neurosurgeon-jean-massot-how-345600
 + [Two bullets to the head and an early winter: fate permits Kutuzov to defeat Napoleon at Moscow], Kushchayev SV, Belykh E, Fishchenko Y, et al., Journal of Neurosurgery ; 2015.
-
 
 ----
 
@@ -115,4 +119,7 @@
 + [How to say NO](http://jamesclear.com/how-to-say-no)!
 + [Mastering Creativity](http://jamesclear.com/wp-content/uploads/2014/10/creativity-v1.pdf)
 + [TRANSFORM YOUR HABITS](http://jamesclear.com/wp-content/uploads/2013/11/habits-v2.pdf)
+
+----
+
 
