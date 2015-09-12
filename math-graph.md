@@ -23,26 +23,30 @@
 ## [Independent Set Graph](https://en.wikipedia.org/wiki/Independent_set_%28graph_theory%29)
 + http://iss.ices.utexas.edu/?p=projects/galois/benchmarks/independent_set
 + http://www3.cs.stonybrook.edu/~algorith/files/independent-set.shtml
-+ https://en.wikipedia.org/wiki/Clique_%28graph_theory%29
-+ http://en.wikipedia.org/wiki/Maximum_clique
-+ Paper: "Algorithm for finding cliques", http://www.imsc.res.in/~pptale/documents/report_ISI.pdf
 + https://en.wikipedia.org/wiki/Maximal_independent_set
 + https://en.wikipedia.org/wiki/Matching_%28graph_theory%29
 + https://wincent.com/wiki/Computing_the_Maximum_Weighted_Independent_Set_of_a_graph_path
-+ https://www.google.co.in/search?client=ubuntu&channel=fs&q=+Find+a+subset+of+V+that+maximizes+the+sum+of+vertex+weights+without+any+two+vertices+in+that+subset+being+adjacent.&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=pprtVc6HN7Hv8wfJsYWoCQ#q=Find+a+subset+of+V+that+maximizes+the+sum+of+vertex+weights+without+any+two+vertices+in+that+subset+being+adjacent.&channel=fs&start=30
-+ https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAAahUKEwihyZzA0uzHAhWKJI4KHdoXAt0&url=http%3A%2F%2Fcodereview.stackexchange.com%2Fquestions%2F78292%2Fmax-independent-set-of-a-sequence&usg=AFQjCNEP_dDRJtDKyhAt4o2dcWPiHzejtA&bvm=bv.102022582,d.c2E
-
++ [find a subset that maximizes the sum of vertex weights without any two vertices in that subset being adjacent.](https://www.google.co.in/search?client=ubuntu&channel=fs&q=+Find+a+subset+of+V+that+maximizes+the+sum+of+vertex+weights+without+any+two+vertices+in+that+subset+being+adjacent.&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=pprtVc6HN7Hv8wfJsYWoCQ#q=Find+a+subset+of+V+that+maximizes+the+sum+of+vertex+weights+without+any+two+vertices+in+that+subset+being+adjacent.&channel=fs&start=30)
 + A [vertex cover](https://en.wikipedia.org/wiki/Vertex_cover) (sometimes node cover) of a graph is a set of vertices such that each edge of the graph is incident to at least one vertex of the set. 
 + [Weighted Vertex Normals](http://www.bytehazard.com/articles/vertnorm.html)
    + [Surface Normal Vectors](https://en.wikipedia.org/wiki/Normal_%28geometry%29) are used in computer graphics to determine a surface's orientation toward a light source for flat shading, or the orientation of each of the corners (vertices) to mimic a curved surface with [Phong shading](https://en.wikipedia.org/wiki/Phong_shading) - an interpolation technique for surface shading in 3D computer graphics. Phong interpolation or normal-vector interpolation shading, interpolates surface normals across rasterized polygons and computes pixel colors based on the interpolated normals and a reflection model.
 
+### Cliques
++ Project report on "[Algorithm for finding cliques](http://www.imsc.res.in/~pptale/documents/report_ISI.pdf)" by TALE PRAFULLKUMAR.
++ http://en.wikipedia.org/wiki/Maximum_clique
++ https://en.wikipedia.org/wiki/Clique_%28graph_theory%29
++ http://wenda.baba.io/questions/2786226/finding-a-maximum-weight-clique-in-a-weighted-graph-c-sharp-implementation.html 
+
 ### C-CPP
++ http://stanford.edu/~stepp/cppdoc/BasicGraph-class.html
++ http://www.sanfoundry.com/cpp-programming-examples-graph-problems-algorithms/
 + http://www.cplusplus.com/doc/tutorial/operators/  
 + http://www.boost.org/doc/libs/1_46_1/libs/graph/example/undirected.cpp
 + http://www.quora.com/How-can-I-implement-a-weighted-directed-graph-in-C++-or-Java-using-object-oriented-programming
 + https://quickgrid.wordpress.com/2015/05/30/inputting-directed-undirected-weighted-and-unweighted-graph-in-c-c-adjacency-matrix/
 + c++ code for MVC, http://www.gdeepak.com/thesisme/thesis-Choosing%20the%20Efficient%20Algorithm%20for%20Vertex%20Cover%20problem.pdf  
 + http://coderclubs.com/questions/1443550/maximum-bipartite-matching-c  to read
++ [Max independent set of a sequence](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAAahUKEwihyZzA0uzHAhWKJI4KHdoXAt0&url=http%3A%2F%2Fcodereview.stackexchange.com%2Fquestions%2F78292%2Fmax-independent-set-of-a-sequence&usg=AFQjCNEP_dDRJtDKyhAt4o2dcWPiHzejtA&bvm=bv.102022582,d.c2E)
 
 ### Java
 + http://stackoverflow.com/questions/30412391/maximum-independent-set-weight
@@ -58,7 +62,6 @@
 + http://www.wseas.org/multimedia/journals/mathematics/2012/55-232.pdf
 + http://ise.tamu.edu/people/faculty/butenko/yalta/slides/Trukhanov.pdf
 + http://www.quora.com/What-is-the-fastest-algorithm-to-enumerate-all-maximal-independent-sets-of-a-graph
-+ http://wenda.baba.io/questions/2786226/finding-a-maximum-weight-clique-in-a-weighted-graph-c-sharp-implementation.html ..>pseudo code
 + https://hal.archives-ouvertes.fr/file/index/docid/905079/filename/preprint-AndreicaM-TowardsRealTimeSchedulingTreeNetworks.pdf   imp chordial
 + http://www.geeksforgeeks.org/largest-independent-set-problem/
 + https://github.com/jcoupey/mwis
@@ -71,8 +74,6 @@
 + http://math.stackexchange.com/questions/210160/what-is-the-node-weight-of-a-vertex
 + http://www.brpreiss.com/books/opus4/html/page546.html
 + http://codeforces.com/blog/entry/18425
-+ http://stanford.edu/~stepp/cppdoc/BasicGraph-class.html
-+ http://www.sanfoundry.com/cpp-programming-examples-graph-problems-algorithms/
 
 ### ToReadSearch
 + http://www.cise.ufl.edu/~sahni/dsaac/public/chapters/c20.pdf   
