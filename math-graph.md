@@ -14,6 +14,7 @@
 + HW Questions:
     + http://www.cs.ecu.edu/~hochberg/spring2009/PythonPrograms.pdf
     + http://www.ics.uci.edu/~dechter/publications/r207.pdf
++ [Data Structures and Algorithms with Object-Oriented Design Patterns](http://www.brpreiss.com/books/opus4/html/page9.html)
 
 ----
 

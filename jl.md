@@ -173,9 +173,11 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 # Development
 + http://docs.julialang.org/en/latest/#developer-documentation
 
-## .juliarc
+## .juliarc.jl
++ https://github.com/JuliaLang/julia/issues/5076
 + https://github.com/JuliaLang/julia/issues/6445
 + https://github.com/JuliaLang/julia/issues/10351 
++ https://github.com/JuliaLang/julia/issues/4222
 
 ## ~/.julia
 + Notes on basing development repos in ~/.julia and doing development and commits from there with recommended setup/process for creating packages using Pkg to manage them.

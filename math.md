@@ -39,6 +39,10 @@ https://en.wikipedia.org/wiki/Category:Hashing
 
 # [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics)
 
+### Julia Sets
++ 2004, [Hyperbolic Julia Sets are Poly-Time Computable](http://www.cs.toronto.edu/~mbraverm/Papers/CCA04.pdf), Mark Braverman.
++ [A BRIEF INTRODUCTION TO JULIA SETS OF RATIONAL MAPS](http://new.oberlin.edu/arts-and-sciences/departments/mathematics/documents/projects/SamGhitelmanHonorsPaper.pdf), SAMUEL J. GHITELMAN
+
 ----
 
 # Geometry
