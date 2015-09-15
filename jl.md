@@ -3,14 +3,13 @@
 + [Development](#development)
    + [.juliarc](#.juliarc)
    + [Arrays](#arrays)
-+ [Packaging](#packaging)
-+ [Documentation](#documentation)
-+ [LIB](#lib)
    + [GIST](#gist)
    + [Graphs](#graphs)
    + [IJulia](#ijulia)
    + [Math](#math)
    + [Plotting](#plotting)
++ [Packaging](#packaging)
++ [Documentation](#documentation)
 + [QA](#qa)
 + [NEWS](#news)
 
@@ -116,6 +115,8 @@ You can override Base.show(io, ex) rather than Base.showerror.
 ----
 
 # CORE
++ http://docs.julialang.org/en/latest/#developer-documentation
+
 ## Array
 + http://julia.readthedocs.org/en/latest/manual/arrays/
 + https://julia.readthedocs.org/en/latest/stdlib/arrays
@@ -124,6 +125,7 @@ You can override Base.show(io, ex) rather than Base.showerror.
 + Read .csv, http://randyzwitch.com/julia-import-data/
 + DF, https://github.com/JuliaStats/DataFrames.jl/blob/cac96119c9f5e24c5f2976ff119703a6ec52476c/src/abstractdataframe/abstractdataframe.jl#L67
 + https://stackoverflow.com/questions/24275980/slice-array-of-arrays-in-julia
++ Reshaped Arrays: https://github.com/JuliaLang/julia/pull/10507
 
 ## BR
 + #7941:Towards array nirvana, https://github.com/JuliaLang/julia/issues/7941
@@ -171,7 +173,11 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 ----
 
 # Development
-+ http://docs.julialang.org/en/latest/#developer-documentation
++ Index : http://julia.readthedocs.org/en/latest/genindex/
++ http://julia.readthedocs.org/en/latest/stdlib/base/
++ http://stackoverflow.com/questions/25716547/type-i-discrete-cosine-transform-not-defined-found-in-julia-0-3-0
++ API for scikit, https://github.com/svs14/Orchestra.jl/blob/master/src/python/scikit_learn.jl
++ JuliaStats-Roadmap.jl, https://github.com/JuliaStats/Roadmap.jl/issues/11
 
 ## .juliarc.jl
 + https://github.com/JuliaLang/julia/issues/5076
@@ -200,6 +206,34 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 + https://github.com/JuliaLang/julia/pull/10525
 + https://github.com/JuliaLang/julia/pull/10704
 + https://groups.google.com/forum/#!topic/julia-dev/sM0VyVbFewQ
+
+## Metaprogramming
++ How to use @eval, https://stackoverflow.com/questions/26071317/declaring-top-level-variables-in-julia-using-metaprogramming/26071597#26071597
+
+## GIST
++ cprintf.jl, https://gist.github.com/dpo/11000433
+
+## Graphs
++ https://github.com/JuliaGraphs/LightGraphs.jl
++ http://julialang.org/Graphs.jl/index.html
++ https://graphsjl-docs.readthedocs.org/en/latest/interface.html
++ https://graphsjl-docs.readthedocs.org/en/latest/vertex_edge.html 
++ http://julialang.org/Graphs.jl/matrix.html#adjacency_matrix
+
+## IJulia
++ Proper method for including external JS libraries?, https://github.com/JuliaLang/IJulia.jl/issues/345
+
+## Math
+### Integral
++ http://docs.julialang.org/en/latest/stdlib/math/#numerical-integration
+
+### Algorithms
++ Strassen algorithm for matrix multiplication in julia: https://gist.github.com/GaZ3ll3/87df748f76b119199fed
+   + Jupyter NB: http://nbviewer.ipython.org/github/GaZ3ll3/Step_In_Julia/blob/master/notebook/Linear%20Algebra.ipynb
+
+## Plotting
++ https://github.com/JuliaPlot/juliaplot_docs/issues/1
++ https://github.com/dcjones/Gadfly.jl/issues/658
 
 ----
 
@@ -296,37 +330,6 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 ### BR
 + http://doodlingindata.com/2014/12/29/documenting-julia-code/
 + https://github.com/JuliaLang/julia/issues/8965#issuecomment-67745941
-
-----
-
-# LIB
-+ Index : http://julia.readthedocs.org/en/latest/genindex/
-+ http://julia.readthedocs.org/en/latest/stdlib/base/
-+ http://stackoverflow.com/questions/25716547/type-i-discrete-cosine-transform-not-defined-found-in-julia-0-3-0
-+ API for scikit, https://github.com/svs14/Orchestra.jl/blob/master/src/python/scikit_learn.jl
-+ JuliaStats-Roadmap.jl, https://github.com/JuliaStats/Roadmap.jl/issues/11
-
-## GIST
-+ cprintf.jl, https://gist.github.com/dpo/11000433
-
-## Graphs
-+ http://julialang.org/Graphs.jl/index.html
-+ https://graphsjl-docs.readthedocs.org/en/latest/interface.html
-
-## IJulia
-+ Proper method for including external JS libraries?, https://github.com/JuliaLang/IJulia.jl/issues/345
-
-## Math
-### Integral
-+ http://docs.julialang.org/en/latest/stdlib/math/#numerical-integration
-
-### Algorithms
-+ Strassen algorithm for matrix multiplication in julia: https://gist.github.com/GaZ3ll3/87df748f76b119199fed
-   + Jupyter NB: http://nbviewer.ipython.org/github/GaZ3ll3/Step_In_Julia/blob/master/notebook/Linear%20Algebra.ipynb
-
-## Plotting
-+ https://github.com/JuliaPlot/juliaplot_docs/issues/1
-+ https://github.com/dcjones/Gadfly.jl/issues/658
 
 ----
 
