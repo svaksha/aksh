@@ -22,6 +22,7 @@
 + Karp's 21 NP-complete problems : https://en.wikipedia.org/wiki/Karp's_21_NP-complete_problems
 
 ## [Independent Set Graph](https://en.wikipedia.org/wiki/Independent_set_%28graph_theory%29)
++ http://mathworld.wolfram.com/IndependentSet.html
 + http://iss.ices.utexas.edu/?p=projects/galois/benchmarks/independent_set
 + http://www3.cs.stonybrook.edu/~algorith/files/independent-set.shtml
 + https://en.wikipedia.org/wiki/Maximal_independent_set
