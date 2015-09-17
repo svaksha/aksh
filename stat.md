@@ -1,4 +1,12 @@
++ [NOTES](#notes)
++ [Statistics](#statistics)
 
+----
+
+# NOTES
++ The independent variable is placed on the horizontal (x) axis. The dependent variable is placed on the vertical (y) axis. 
+
+----
 
 # Statistics
 + [Logistic Regression Fundamentals](http://gormanalysis.com/logistic-regression-fundamentals/).
