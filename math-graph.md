@@ -16,6 +16,9 @@
     + http://www.ics.uci.edu/~dechter/publications/r207.pdf
 + Contents of [Data Structures and Algorithms with Object-Oriented Design Patterns](http://www.brpreiss.com/books/opus4/html/page9.html).
 
++ http://www.freebookcentre.net/Mathematics/Graph-Theory-Books.html
++ [Graph Theory With Applications](http://book.huihoo.com/pdf/graph-theory-With-applications/pdf/GTWA.pdf)
+
 ----
 
 # NP-complete
