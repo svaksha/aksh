@@ -1,6 +1,7 @@
 + [AI](#ai)
 + [HMM](#hmm)
 + [NLP](#nlp)
++ [Machine Learning](#machine-learning)
 
 ----
 
@@ -23,6 +24,14 @@
 
 # Books
 + The book "biological sequence analysis" by Durbin and Eddy.
+
+----
+
+# Machine Learning
++ https://www.udacity.com/podcasts/linear-digressions
++ https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast (feed here)
++ http://www.thetalkingmachines.com/ways-to-listen
++ http://www.partiallyderivative.com/
 
 ----
 

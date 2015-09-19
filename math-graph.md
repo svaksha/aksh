@@ -45,7 +45,11 @@
 
 ### Julia
 + https://github.com/svaksha/ahskavs/blob/master/jl.md#graphs
-
++ https://stackoverflow.com/questions/26071317/declaring-top-level-variables-in-julia-using-metaprogramming/26071597#26071597
++ https://stackoverflow.com/questions/24578430/changing-vertices-value-with-graphs-jl?rq=1
++ https://stackoverflow.com/questions/23480722/what-is-a-symbol-in-julia?rq=1
++ https://gist.github.com/ohadle/11323991
++ https://github.com/JuliaLang/Graphs.jl/issues/171
 
 ### C-CPP
 + http://stanford.edu/~stepp/cppdoc/BasicGraph-class.html

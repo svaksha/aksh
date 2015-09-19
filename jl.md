@@ -161,7 +161,7 @@ You can override Base.show(io, ex) rather than Base.showerror.
 ### Discussion: Multiple dispatch vs Single Dispatch syntax.
 For starters, what something should belong to is not always unambiguous - viz. should a function that splits string a at every occurrence of b be a.split(b) or b.split(a)? None of the solutions is inherently significantly better than the other. 
 
-More importantly, search in Julia does not belong to either "Hello World" or e. It belongs to the current namespace. In OOP languages, x.f(y) is the combination of two things: f being under the namespace of x, and f being defined as f(self, y). self is then substituted with x, and so it effectively devolves to f(x, y). Classes are used as proxy namespaces, so that search would be held in the namespace of the string classed object "Hello World" in your example. The benefit of that is that you know where to look for the function. In Julia, there's an overarching namespace. There is an expense associated with that, which is why OOP languages do what they do. But just by changing how we express f(x, y) to x.f(y) or y.f(x) actually doesn't change any of that. Nothing short of actually implementing a full-blown class system with behaviours that properly 'belong to' classes does. Which is not what the design decision was when Julia was started. As such, while I like the syntactic simplification involved here, I just can't see how it would be either trivial but useless or useful but subverting some fundamental underlying design decisions
+More importantly, search in Julia does not belong to either "Hello World" or e. It belongs to the current namespace. In OOP languages, x.f(y) is the combination of two things: f being under the namespace of x, and f being defined as f(self, y). self is then substituted with x, and so it effectively devolves to f(x, y). Classes are used as proxy namespaces, so that search would be held in the namespace of the string classed object "Hello World" in your example. The benefit of that is that you know where to look for the function. In Julia, there's an overarching namespace. There is an expense associated with that, which is why OOP languages do what they do. But just by changing how we express f(x, y) to x.f(y) or y.f(x) actually doesn't change any of that. Nothing short of actually implementing a full-blown class system with behaviours that properly 'belong to' classes does. Which is not what the design decision was when Julia was started. As such, while I like the syntactic simplification involved here, I just can't see how it would be either trivial but useless or useful but subverting some fundamental underlying design decisions.
 
 ### JuliaWeb
 + https://github.com/JuliaWeb/Roadmap/issues
@@ -173,6 +173,7 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 ----
 
 # Development
++ __Month of Julia__ feed: http://www.juliabloggers.com/feed/
 + Index : http://julia.readthedocs.org/en/latest/genindex/
 + http://julia.readthedocs.org/en/latest/stdlib/base/
 + http://stackoverflow.com/questions/25716547/type-i-discrete-cosine-transform-not-defined-found-in-julia-0-3-0
@@ -219,6 +220,13 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 + https://graphsjl-docs.readthedocs.org/en/latest/interface.html
 + https://graphsjl-docs.readthedocs.org/en/latest/vertex_edge.html 
 + http://julialang.org/Graphs.jl/matrix.html#adjacency_matrix
+
++ https://stackoverflow.com/questions/26071317/declaring-top-level-variables-in-julia-using-metaprogramming/26071597#26071597
++ https://stackoverflow.com/questions/24578430/changing-vertices-value-with-graphs-jl?rq=1
++ https://stackoverflow.com/questions/23480722/what-is-a-symbol-in-julia?rq=1
++ https://gist.github.com/ohadle/11323991
++ https://github.com/JuliaLang/Graphs.jl/issues/171
+
 
 ## IJulia
 + Proper method for including external JS libraries?, https://github.com/JuliaLang/IJulia.jl/issues/345
