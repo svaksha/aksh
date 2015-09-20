@@ -1,4 +1,14 @@
-+ [DEB packages](#deb-packages)
++ [GRUB](#grub)
++ [CONFIG](#config)
++ [DEB Packages](#deb-packages)
+   + [PPA](#ppa)
++ [BASH SHELL](#bash-shell)
++ [Kernel-HDD](#kernel-hdd)
+   + [ISO](#iso)
++ [REGEX](#regex)
++ [LaTeX](#latex)
++ [ARBTT](#arbtt)
++ [General](#general)
 
 ----
 
@@ -10,6 +20,7 @@
 + How to Rescue a Non-booting GRUB 2 on Linux, https://www.linux.com/learn/tutorials/776643-how-to-rescue-a-non-booting-grub-2-on-linux/
 + https://www.linux.com/learn/tutorials/809671-get-your-data-back-with-linux-based-data-recovery-tools
 + https://www.howtoforge.com/tutorial/repair-linux-boot-with-grub-rescue/
+    + Basic Commands: https://www.howtoforge.com/tutorial/repair-linux-boot-with-grub-rescue/#basic-commands-available
 + http://www.cgsecurity.org/wiki/TestDisk
 + http://askubuntu.com/questions/142300/fixing-grub-error-error-unknown-filesystem/179662#179662
 + http://askubuntu.com/questions/493826/grub-rescue-problem-after-deleting-ubuntu-partition
@@ -18,11 +29,15 @@
 + https://help.ubuntu.com/community/Grub2/Troubleshooting
 + http://itsfoss.com/solve-error-partition-grub-rescue-ubuntu-linux/
 
+----
 
-# CONFIG(URATION) FILES
+# CONFIG
+
 + Stow: https://www.gnu.org/software/stow/
 + http://en.wikipedia.org/wiki/Category:Configuration_files
 + http://en.wikipedia.org/wiki/INI_file
+
+## Config-Git
 + https://stackoverflow.com/questions/21249071/where-do-you-store-your-gitconfig-file
 + https://stackoverflow.com/questions/11786623/cant-hard-link-the-gitconfig-file
 
@@ -33,7 +48,7 @@
 
 ----
 
-# DEB packages
+# DEB Packages
 + DPKG cheat sheet: http://www.cyberciti.biz/howto/question/linux/dpkg-cheat-sheet.php
 + Syntax 	Description 	Example
 + dpkg -i {.deb package} 	Install the package 	dpkg -i zip_2.31-3_i386.deb
@@ -50,9 +65,8 @@ dpkg -S /sbin/ippool
 + dpkg -p {package} 	Display details about package package group, version, maintainer, Architecture, display depends packages, description etc 	dpkg -p lsof
 + dpkg -s {package} | grep Status 	Find out if Debian package is installed or not (status) 	dpkg -s lsof | grep Status
 
-----
 
-# PPA
+## PPA
 #### Adding PPA's
 1. Add a PPA using APT in terminal by typing the following command: `sudo add-apt-repository ppa:PPA_Name/ppa`
 
@@ -73,7 +87,11 @@ dpkg -S /sbin/ippool
 
 ----
 
-# ISO
+# Kernel-HDD
++ http://www.brendangregg.com/perf.html
++ Initramfs, https://en.wikipedia.org/wiki/Initramfs
+
+## ISO
 + http://releases.ubuntu.com/
 + Ubuntu iso via wget, https://askubuntu.com/questions/305304/download-13-04-iso-with-wget
 + 64-bit Vs. 32-bit, https://superuser.com/questions/238112/what-is-the-difference-between-i686-and-x86-64
@@ -87,12 +105,6 @@ dpkg -S /sbin/ippool
 
 ----
 
-# Kernel/ HDD
-+ http://www.brendangregg.com/perf.html
-+ Initramfs, https://en.wikipedia.org/wiki/Initramfs
-
-----
-
 # REGEX
 + http://en.wikipedia.org/wiki/List_of_Unix_commands
 + http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux?rq=1
@@ -101,7 +113,9 @@ dpkg -S /sbin/ippool
 
 ----
 
-# Images
+# General
++ List Open Files for Process, http://www.cyberciti.biz/faq/howto-linux-get-list-of-open-files/
++ http://askubuntu.com/questions/240857/what-commands-will-change-my-screens-brightness
 + [Installing Image Magick on Ubuntu 14.04](https://gist.github.com/rodleviton/74e22e952bd6e7e5bee1)
 
 ----
@@ -126,10 +140,7 @@ __desktop timetracker__
 + https://wiki.haskell.org/Unicode-symbols
 + http://darcs.nomeata.de/arbtt/doc/users_guide/arbtt-stats.html#idp213048
 
-----
 
-# Linux : List Open Files for Process
-+ http://www.cyberciti.biz/faq/howto-linux-get-list-of-open-files/
 
-+ http://askubuntu.com/questions/240857/what-commands-will-change-my-screens-brightness
+
 
