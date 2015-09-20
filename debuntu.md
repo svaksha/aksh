@@ -3,6 +3,8 @@
 ----
 
 # GRUB
++ https://help.ubuntu.com/community/DataRecovery
+
 ### grub rescue mode
 + grub rescue, https://www.howtoforge.com/tutorial/repair-linux-boot-with-grub-rescue/
 + http://www.cgsecurity.org/wiki/TestDisk
