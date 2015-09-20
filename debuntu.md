@@ -13,8 +13,10 @@
 + http://www.cgsecurity.org/wiki/TestDisk
 + http://askubuntu.com/questions/142300/fixing-grub-error-error-unknown-filesystem/179662#179662
 + http://askubuntu.com/questions/493826/grub-rescue-problem-after-deleting-ubuntu-partition
-
-
++ HOWTO : [Boot & Install Ubuntu from the Grub Rescue Prompt](https://ubuntuforums.org/showthread.php?t=1599293)
++ http://www.supergrubdisk.org/
++ https://help.ubuntu.com/community/Grub2/Troubleshooting
++ 
 
 # CONFIG(URATION) FILES
 + Stow: https://www.gnu.org/software/stow/
@@ -127,3 +129,6 @@ __desktop timetracker__
 
 # Linux : List Open Files for Process
 + http://www.cyberciti.biz/faq/howto-linux-get-list-of-open-files/
+
++ http://askubuntu.com/questions/240857/what-commands-will-change-my-screens-brightness
+
