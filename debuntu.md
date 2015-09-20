@@ -9,6 +9,8 @@
 + grub rescue, https://www.howtoforge.com/tutorial/repair-linux-boot-with-grub-rescue/
 + http://www.cgsecurity.org/wiki/TestDisk
 + http://askubuntu.com/questions/142300/fixing-grub-error-error-unknown-filesystem/179662#179662
++ http://askubuntu.com/questions/493826/grub-rescue-problem-after-deleting-ubuntu-partition
++ How to Rescue a Non-booting GRUB 2 on Linux, https://www.linux.com/learn/tutorials/776643-how-to-rescue-a-non-booting-grub-2-on-linux/
 
 # CONFIG(URATION) FILES
 + Stow: https://www.gnu.org/software/stow/
