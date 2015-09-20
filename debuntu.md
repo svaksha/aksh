@@ -2,6 +2,12 @@
 
 ----
 
+# GRUB
+### grub rescue mode
++ grub rescue, https://www.howtoforge.com/tutorial/repair-linux-boot-with-grub-rescue/
++ http://www.cgsecurity.org/wiki/TestDisk
++ http://askubuntu.com/questions/142300/fixing-grub-error-error-unknown-filesystem/179662#179662
+
 # CONFIG(URATION) FILES
 + Stow: https://www.gnu.org/software/stow/
 + http://en.wikipedia.org/wiki/Category:Configuration_files
