@@ -16,7 +16,8 @@
 + HOWTO : [Boot & Install Ubuntu from the Grub Rescue Prompt](https://ubuntuforums.org/showthread.php?t=1599293)
 + http://www.supergrubdisk.org/
 + https://help.ubuntu.com/community/Grub2/Troubleshooting
-+ 
++ http://itsfoss.com/solve-error-partition-grub-rescue-ubuntu-linux/
+
 
 # CONFIG(URATION) FILES
 + Stow: https://www.gnu.org/software/stow/
