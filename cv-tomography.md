@@ -18,10 +18,12 @@
 + Doppler effect Redshift, http://en.wikipedia.org/wiki/Redshift
 + Otsu Thresholding, http://www.labbookpages.co.uk/software/imgProc/otsuThreshold.html
 
-# Tomography
+# [Tomography](https://en.wikipedia.org/wiki/Tomography)
 + https://en.wikipedia.org/wiki/X-ray_computed_tomography
-+ https://en.wikipedia.org/wiki/Tomography
 + http://en.wikipedia.org/wiki/Medical_imaging#Conventional_tomography
++ http://www.fda.gov/Radiation-EmittingProducts/RadiationEmittingProductsandProcedures/MedicalImaging/MedicalX-Rays/ucm115318.htm
++ http://www.nibib.nih.gov/science-education/science-topics/computed-tomography-ct
+
 
 ## Radon Transform
 + [Radon transform](http://en.wikipedia.org/wiki/Radon_transform) and its complex analog is the [Penrose transform](http://en.wikipedia.org/wiki/Penrose_transform).

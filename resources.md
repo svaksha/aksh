@@ -18,6 +18,7 @@
 
 # Life
 + https://www.linkedin.com/pulse/tweak-your-morning-routine-transform-entire-day-dr-travis-bradberry
++ US NGO working with convicts: http://www.mission-launch.org/rebuilding_re_entry
 
 ----
 

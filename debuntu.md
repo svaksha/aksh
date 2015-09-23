@@ -1,4 +1,5 @@
 + [GRUB](#grub)
++ [Backups](#backups)
 + [CONFIG](#config)
 + [DEB Packages](#deb-packages)
    + [PPA](#ppa)
@@ -28,6 +29,15 @@
 + http://www.supergrubdisk.org/
 + https://help.ubuntu.com/community/Grub2/Troubleshooting
 + http://itsfoss.com/solve-error-partition-grub-rescue-ubuntu-linux/
++ Recovering a deleted partition table: http://tldp.org/HOWTO/Partition/recovering.html
+
+----
+
+# Backups
++ [attic](https://github.com/jborg/attic) :: Deduplicating backup program.
++ https://github.com/xolox/python-rotate-backups
++ BakThat {Stopped} : https://github.com/tsileo/bakthat
++
 
 ----
 

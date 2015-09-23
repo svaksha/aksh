@@ -7,9 +7,10 @@
 + [Neurological Disorders](#neurological-disorders)
 + [NeuroSurgery](#neurosurgery)
 + [NEWS](#news)
++ [Org-CodeNeuro](#org-codeneuro)
++ [Org-Projects](#org-projects)
 + [Papers](#papers)
    + [Podcast](#podcast)
-+ [Projects](#projects)
 + [Psychology](#psychology)
 
 ----
@@ -92,6 +93,17 @@
 
 ----
 
+# Org-[CodeNeuro](http://codeneuro.org/)
++ http://neurofinder.codeneuro.org/leaderboard/
++ http://github.com/codeneuro
+
+----
+
+# Org-Projects
++ [BrainMaps](http://en.wikipedia.org/wiki/BrainMaps) project.
+
+---- 
+
 # Papers
 + [Imaging Study Shows the Spinal Cord Learns On Its Own](http://www.itnonline.com/article/imaging-study-shows-spinal-cord-learns-its-own)
 + The Telltale Hand: [How Writing Reveals the Damaged Brain](http://www.dana.org/Cerebrum/Default.aspx?id=39304) By: Marc J. Seifer Ph.D.
@@ -108,11 +120,6 @@
 + Podcast: [The Mind's Hidden Switches](http://www.scientificamerican.com/podcast/episode/the-minds-hidden-switches-11-11-22/) by E.Nestler, 22/Nov/2011.
 
 ----
-
-# Projects
-+ [BrainMaps](http://en.wikipedia.org/wiki/BrainMaps) project.
-
----- 
 
 # Psychology
 + [All articles](http://jamesclear.com/archives)
