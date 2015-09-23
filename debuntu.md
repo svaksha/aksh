@@ -34,10 +34,9 @@
 ----
 
 # Backups
-+ [attic](https://github.com/jborg/attic) :: Deduplicating backup program.
++ [attic](https://github.com/jborg/attic) :: Deduplicating backup program. [Docs](https://attic-backup.org/).
 + https://github.com/xolox/python-rotate-backups
 + BakThat {Stopped} : https://github.com/tsileo/bakthat
-+
 
 ----
 
@@ -149,8 +148,5 @@ __desktop timetracker__
 + http://stackoverflow.com/questions/20973590/arbtt-nested-if-then-else-in-categorize-cfg/20973950#20973950
 + https://wiki.haskell.org/Unicode-symbols
 + http://darcs.nomeata.de/arbtt/doc/users_guide/arbtt-stats.html#idp213048
-
-
-
 
 

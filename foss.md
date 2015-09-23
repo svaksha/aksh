@@ -33,6 +33,9 @@
 #### OpenNews
 + https://github.com/OpenNewsLabs
 
+#### Tor
++ http://tor.stackexchange.com/questions/4459/how-does-tor-network-latency-speed-compare-with-direct-internet
+
 ----
 
 # Science Orgs
