@@ -1,5 +1,7 @@
 + [NOTES](#notes)
 + [Statistics](#statistics)
+   + [Research Papers](#research-papers)
+   + [Business Analytics](#business-analytics)
 
 ----
 
@@ -13,6 +15,8 @@
 + [Cohort Analysis with Python](http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/).
 + [Why a Mathematician, Statistician, & Machine Learner Solve the Same Problem Differently](http://www.galvanize.com/blog/2015/08/26/why-a-mathematician-statistician-machine-learner-solve-the-same-problem-differently-2/#.Vd807FLLdOo).
 
-### Research Papers related to Statistics 
+### Research Papers
 + [ICRA 2014 paper on crfs for semantic segmenation on the nyu dataset](https://github.com/amueller/icra_2014_crf_nyu). 
 
+### Business Analytics
++ [Predictive analytics: the next bigthing in BI?](http://www.rosebt.com/uploads/8/1/8/1/8181762/predictive_analytics_e_guide.pdf)

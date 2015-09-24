@@ -1,5 +1,4 @@
 + [GRUB](#grub)
-+ [Backups](#backups)
 + [CONFIG](#config)
 + [DEB Packages](#deb-packages)
    + [PPA](#ppa)
@@ -7,9 +6,11 @@
 + [Kernel-HDD](#kernel-hdd)
    + [ISO](#iso)
 + [REGEX](#regex)
-+ [LaTeX](#latex)
-+ [ARBTT](#arbtt)
 + [General](#general)
++ [UTILITIES](#utilities)
+    + [LaTeX](#latex)
+    + [ARBTT](#arbtt)
+    + [Backups](#backups)
 
 ----
 
@@ -30,13 +31,6 @@
 + https://help.ubuntu.com/community/Grub2/Troubleshooting
 + http://itsfoss.com/solve-error-partition-grub-rescue-ubuntu-linux/
 + Recovering a deleted partition table: http://tldp.org/HOWTO/Partition/recovering.html
-
-----
-
-# Backups
-+ [attic](https://github.com/jborg/attic) :: Deduplicating backup program. [Docs](https://attic-backup.org/).
-+ https://github.com/xolox/python-rotate-backups
-+ BakThat {Stopped} : https://github.com/tsileo/bakthat
 
 ----
 
@@ -126,19 +120,13 @@ dpkg -S /sbin/ippool
 + List Open Files for Process, http://www.cyberciti.biz/faq/howto-linux-get-list-of-open-files/
 + http://askubuntu.com/questions/240857/what-commands-will-change-my-screens-brightness
 + [Installing Image Magick on Ubuntu 14.04](https://gist.github.com/rodleviton/74e22e952bd6e7e5bee1)
++ https://github.com/ewiger/findtools
 
 ----
 
-# LaTeX
-+ Prof. Edward R. Scheinerman's resources to "[Learn LaTeX](http://www.ams.jhu.edu/~ers/learn-latex/)".
-+ http://tex.stackexchange.com/questions/8374/the-key-to-understanding-the-latex-syntax
-+ latex for MATH: http://en.wikibooks.org/wiki/LaTeX/Mathematics
-+ LaTeX tutorial : http://www.pages.drexel.edu/~pyo22/students/latexRelated/latexTutorial.html
-+ http://latex-project.org/intro.html
+# UTILITIES
 
-----
-
-# ARBTT
+## Arbtt
 __desktop timetracker__
 + https://www.joachim-breitner.de/blog/336-The_Automatic_Rule-Based_Time_Tracker
 + GITHUB mirror :
@@ -149,4 +137,23 @@ __desktop timetracker__
 + https://wiki.haskell.org/Unicode-symbols
 + http://darcs.nomeata.de/arbtt/doc/users_guide/arbtt-stats.html#idp213048
 
+## Backups
++ [attic](https://github.com/jborg/attic) :: Deduplicating backup program. [Docs](https://attic-backup.org/).
++ https://github.com/xolox/python-rotate-backups
++ BakThat {Stopped} : https://github.com/tsileo/bakthat
++ rsync, http://www.mikerubel.org/computers/rsync_snapshots/
+
+http://stackoverflow.com/questions/123198/how-do-i-copy-a-file-in-python
+http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python?rq=1
+http://codereview.stackexchange.com/questions/49351/python-back-up-script
+https://pypi.python.org/pypi/storelet
+
+## LaTeX
++ Prof. Edward R. Scheinerman's resources to "[Learn LaTeX](http://www.ams.jhu.edu/~ers/learn-latex/)".
++ http://tex.stackexchange.com/questions/8374/the-key-to-understanding-the-latex-syntax
++ latex for MATH: http://en.wikibooks.org/wiki/LaTeX/Mathematics
++ LaTeX tutorial : http://www.pages.drexel.edu/~pyo22/students/latexRelated/latexTutorial.html
++ http://latex-project.org/intro.html
+
+----
 
