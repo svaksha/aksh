@@ -144,7 +144,7 @@ __desktop timetracker__
 + rsync, http://www.mikerubel.org/computers/rsync_snapshots/
 
 http://stackoverflow.com/questions/123198/how-do-i-copy-a-file-in-python
-http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python?rq=1
+http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python
 http://codereview.stackexchange.com/questions/49351/python-back-up-script
 https://pypi.python.org/pypi/storelet
 
