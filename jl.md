@@ -198,6 +198,13 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
    + Then, do a pull request to METADATA.jl for your package to be included in the standard set of Julia packages. 
    + For functionality on some other machines, sync using git, either through github or directly.
 
+### What is the .cache directory and why was it moved into the ~\.julia folder for 0.4?
+
+A cache. Other than that, no idea what it accomplishes (aside from reading the code to find out) or why it works the way it does. It was added in https://github.com/JuliaLang/julia/commit/df7a08893e4402182ec64178ffdb3130aa228943 but there are no design docs on the package manager. Ask Stefan.
+
+.cache moved to being shared between different versioned package directories on 0.4 because of https://github.com/JuliaLang/julia/pull/7361. It worked that way on unix in 0.3 as well. With better support for making directory junctions via the symlink function (which was still a pretty new feature when 0.3.0 was released), that PR made the behavior consistent on Windows as well.
+
+    
 ## Arrays
 
 + https://github.com/JuliaLang/julia/issues/3701
