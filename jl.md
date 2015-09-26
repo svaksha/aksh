@@ -298,6 +298,13 @@ The reason this is important enough to have been given separate syntax is that y
 + https://github.com/JuliaLang/julia/pull/11906
 + https://github.com/JuliaLang/julia/blob/ff9cebe45e6c39933ab26ca134b59b3ef47ec821/doc/helpdb.jl
 
+### HowTo write help text in a function that could be displayed with `?`
++ REPL, `julia> Docs.@repl sin`
+`search: sin sinh sind sinc sinpi asin using isinf asinh asind isinteger`
++ Then, in the REPL `julia> @doc sin`, where `sin(x)` ==  Compute sine of x, where x is in radians
+
+ 
+    
 ### @TeroFrondelius: When you want to contribute an example(s) to Julia's documentation, the process is following:
 + https://github.com/JuliaLang/julia/pull/12279#issuecomment-126058754
 + https://github.com/JuliaFEM/JuliaFEM.jl/pull/54
@@ -349,6 +356,9 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 ----
 
 # QA
+
+## Code Coverage
++ Try, `Base.JLOptions().code_coverage`, (see https://github.com/JuliaLang/julia/blob/68b403f820fbd2f7401e12a90d487f41c96ca652/base/options.jl)
 
 ## Debug a package
 using BinDeps, PkgName
