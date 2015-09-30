@@ -1,5 +1,4 @@
 + [BioMed](#biomed)
-+ [Cognitive Psychology](#cognitive-psychology)
 + [Critical Care Med](#critical-care-med)
 + [Epidemiology](#epidemiology)
 + [MedChem](#medchem)
@@ -10,11 +9,6 @@
 * [Understanding the barriers to identifying carers of people with advanced illness in primary care: triangulating three data sources](http://europepmc.org/articles/PMC3992158). 
 * 10 Algorithms : http://healthsciences.utah.edu/innovation/tenalgorithms/index.php
 * The top 100 papers : http://www.nature.com/news/the-top-100-papers-1.16224?WT.mc_id=TWT_NatureNews#/b8
-
-----
-
-# Cognitive Psychology
-+ https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
 ----
 

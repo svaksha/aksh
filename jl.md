@@ -9,6 +9,7 @@
    + [Math](#math)
    + [Plotting](#plotting)
 + [Packaging](#packaging)
+    + [USING](#using)
 + [Documentation](#documentation)
 + [QA](#qa)
 + [NEWS](#news)
@@ -264,22 +265,20 @@ A cache. Other than that, no idea what it accomplishes (aside from reading the c
 + Package naming rules, https://github.com/JuliaStats/Distributions.jl/issues/395
 + Coding rules, https://github.com/JuliaStats/Distributions.jl/issues/396
 
-## REQUIRE
+## USING
+__REQUIRE is deprecated__
 + https://github.com/JuliaLang/METADATA.jl/issues/2777
 + add to REQUIRE a package which isn't in METADATA, https://github.com/JuliaLang/julia/issues/7737
 + https://github.com/JuliaLang/METADATA.jl/issues/2800
 + https://github.com/rened/DeclarativePackages.jl
 
-### BR
-+ Rewrite Pkg.add to include repo argument [BUG # 11914](https://github.com/JuliaLang/julia/issues/11914).
-
-### Binaries
-+ Conda.jl, https://github.com/JuliaLang/METADATA.jl/pull/3238
-+ build.jl, https://github.com/JuliaOpt/Ipopt.jl/blob/99b85463ca408aefb4931d2ebaaa97cf5f821acc/deps/build.jl#L42-L45
-
 ### Using VS. import VS. importall
++ https://julia.readthedocs.org/en/latest/manual/modules/
 + https://github.com/JuliaLang/julia/issues/11031 
 + https://github.com/JuliaLang/julia/issues/8000
++ Only make exported bindings available with `import`, https://github.com/JuliaLang/julia/issues/12069
++ https://en.wikibooks.org/wiki/Introducing_Julia/Modules_and_packages
+
 
 From Leah:
 I think his summary in #11031 is accurate, and the reason given directly in the reply is the reason for using/importall to be different. Issue #8000 is a discussion of ways to change/simplify the syntax.
@@ -289,6 +288,14 @@ I'll take a stab at rephrasing the different in case that helps. There is only o
 If you use "importall", then "function Foo.bar(..." and "function bar(..." become equivalent. If you use "using", then they are different.
 
 The reason this is important enough to have been given separate syntax is that you don't want to accidentally extend a function that you didn't know existed, because that could easily cause a bug. This is most likely to happen with a method that takes a common type like string or int, because both you and the other module could define a method to handle such a common type. If you use importall, then you'll replace the other module's implementation of "bar(s::String)" with your new implementation, which could easily do something complete different (and break all/many future usages of the other functions in module Foo that depend on calling bar).
+
+
+### BR
++ Rewrite Pkg.add to include repo argument [BUG # 11914](https://github.com/JuliaLang/julia/issues/11914).
+
+### Binaries
++ Conda.jl, https://github.com/JuliaLang/METADATA.jl/pull/3238
++ build.jl, https://github.com/JuliaOpt/Ipopt.jl/blob/99b85463ca408aefb4931d2ebaaa97cf5f821acc/deps/build.jl#L42-L45
 
 ----
 

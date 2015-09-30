@@ -1,6 +1,8 @@
 + [BCI](#bci)
 + [Brain](#brain)
 + [Cerebral Palsy](#cerebral-palsy)
++ [Cognitive Psychology](#cognitive-psychology)
+   + [Psychology](#psychology)
 + [Congenital Disorders](#congenital-disorders)
 + [General](#general)
 + [NeuroEthics](#neuroethics)
@@ -11,7 +13,6 @@
 + [Org-Projects](#org-projects)
 + [Papers](#papers)
    + [Podcast](#podcast)
-+ [Psychology](#psychology)
 
 ----
 
@@ -48,6 +49,20 @@
 
 ## Brain + Sleep
 + [How to Get Better Sleep: The Beginner’s Guide to Overcoming Sleep Deprivation](http://jamesclear.com/better-sleep).
+
+----
+
+# Cognitive Psychology
++ https://en.wikipedia.org/wiki/List_of_cognitive_biases
++ Are you positive about life? Thank your brain first, http://www.freepressjournal.in/are-you-positive-about-life-thank-your-brain-first/
+
+## Psychology
++ [All articles](http://jamesclear.com/archives)
++ [How to say NO](http://jamesclear.com/how-to-say-no)!
++ [Mastering Creativity](http://jamesclear.com/wp-content/uploads/2014/10/creativity-v1.pdf)
++ [TRANSFORM YOUR HABITS](http://jamesclear.com/wp-content/uploads/2013/11/habits-v2.pdf)
++ https://hbr.org/2013/08/why-do-so-many-incompetent-men
++ There are chemical reasons why men are more self-confident: http://www.sciencedaily.com/releases/2012/03/120327215556.htm
 
 ----
 
@@ -121,13 +136,4 @@
 
 ----
 
-# Psychology
-+ [All articles](http://jamesclear.com/archives)
-+ [How to say NO](http://jamesclear.com/how-to-say-no)!
-+ [Mastering Creativity](http://jamesclear.com/wp-content/uploads/2014/10/creativity-v1.pdf)
-+ [TRANSFORM YOUR HABITS](http://jamesclear.com/wp-content/uploads/2013/11/habits-v2.pdf)
-+ https://hbr.org/2013/08/why-do-so-many-incompetent-men
-+ There are chemical reasons why men are more self-confident: http://www.sciencedaily.com/releases/2012/03/120327215556.htm
-
-----
 

@@ -31,6 +31,7 @@
 + Game to learn Epigenetics: [Gene Control game to learn Genetics](http://learn.genetics.utah.edu/content/epigenetics/control/), Genetic Science Learning Center, University of Utah.
 
 ### Papers
++ [genomicspapers](https://github.com/jtleek/genomicspapers) :: The Leek group guide to genomics papers.
 * [Genomic imprinting: recognition and marking of imprinted loci](http://www.ncbi.nlm.nih.gov/pubmed/22195775)
 * [Transposable Elements: Targets for Early Nutritional Effects on Epigenetic Gene Regulation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC165709/)
 * [Transposable Elements: Targets for Early Nutritional Effects on Epigenetic Gene Regulation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC165709/)
