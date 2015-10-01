@@ -258,6 +258,7 @@ A cache. Other than that, no idea what it accomplishes (aside from reading the c
 ## Plotting
 + https://github.com/JuliaPlot/juliaplot_docs/issues/1
 + https://github.com/dcjones/Gadfly.jl/issues/658
++ https://github.com/tbreloff/Plots.jl/issues/30#issuecomment-142995667
 
 ----
 
@@ -304,6 +305,21 @@ The reason this is important enough to have been given separate syntax is that y
 ### Binaries
 + Conda.jl, https://github.com/JuliaLang/METADATA.jl/pull/3238
 + build.jl, https://github.com/JuliaOpt/Ipopt.jl/blob/99b85463ca408aefb4931d2ebaaa97cf5f821acc/deps/build.jl#L42-L45
+
+### Deploying Julia libraries
+On Wednesday, September 30, 2015 at 9:27:29 PM UTC-4, Sebastian Good wrote:
+
+    Setting JULIA_PKGPATH lets me put everything in a more amenable spot, but transporting everything over to another identical machine results in inconsistent behavior with precompiled binaries. They are always “stale”. Is there a good resource to consult to understand binary staleness?
+>
+Staleness is determined by this function:
+
+https://github.com/JuliaLang/julia/blob/e54c38d27028a0c79a10140c8271d484e182b295/base/loading.jl#L421-L449
+
+In particular, it is considered stale if the absolute path changes, or if the modification time of a dependency (which is checked via the absolute path) does not match the modification time of the file when the cache was created.
+
+So, a precompiled image will be considered stale if you change the absolute path of the cache or source directories.   It might be nice to make these relocatable without invalidating the cache.
+
+However, in the meantime I don't think there is much downside to just having the user re-precompile the packages.  Precompilation is very different than building the package; it doesn't require internet access or other external resources, and re-running precompilation can basically only fail if importing the package fails, in which case you probably have bigger problems.
 
 ----
 
