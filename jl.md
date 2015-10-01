@@ -1,8 +1,9 @@
 + [0.4-dev](#0.4-dev)
 + [CORE](#core)
+   + [Arrays](#arrays)
+   + [Syntax-Symbols-Operators](#syntax-symbols-operators)
 + [Development](#development)
    + [.juliarc](#.juliarc)
-   + [Arrays](#arrays)
    + [GIST](#gist)
    + [Graphs](#graphs)
    + [IJulia](#ijulia)
@@ -118,7 +119,8 @@ You can override Base.show(io, ex) rather than Base.showerror.
 # CORE
 + http://docs.julialang.org/en/latest/#developer-documentation
 
-## Array
+## Arrays
+
 + http://julia.readthedocs.org/en/latest/manual/arrays/
 + https://julia.readthedocs.org/en/latest/stdlib/arrays
 + http://quant-econ.net/jl/julia_arrays.html
@@ -128,6 +130,15 @@ You can override Base.show(io, ex) rather than Base.showerror.
 + https://stackoverflow.com/questions/24275980/slice-array-of-arrays-in-julia
 + Reshaped Arrays: https://github.com/JuliaLang/julia/pull/10507
 
+#### Array Division and Multiplication
+    So..
+    10 * [1:3]     is fine
+    10 / [1:3]     is an error
+    10 ^ [1:3]    also erroneous
+
++ Whereas multiplying a matrix by a scalar is well-defined in linear algebra, dividing by a matrix has a very specific meaning which requires the a square matrix.  Same with exponentiation.  The dot-prefixed operators explicitly work elementwise, so use `.*`, `./` and `.^` for element-wise operations.
+
+
 ## BR
 + #7941:Towards array nirvana, https://github.com/JuliaLang/julia/issues/7941
 + https://github.com/JuliaLang/julia/issues/9874#issuecomment-75979041
@@ -136,14 +147,20 @@ You can override Base.show(io, ex) rather than Base.showerror.
 + https://github.com/JuliaLang/julia/pull/7568
 + https://github.com/JuliaLang/julia/pull/10525
 + https://groups.google.com/forum/#!topic/julia-dev/sM0VyVbFewQ
++ https://github.com/JuliaLang/julia/issues/7941
++ https://github.com/JuliaLang/julia/pull/10704
 
-## Syntax
+### Syntax-Symbols-Operators
 + http://julia.readthedocs.org/en/latest/manual/noteworthy-differences/
 + http://docs.julialang.org/en/latest/manual/integers-and-floating-point-numbers/
 + Abstract types: http://julia.readthedocs.org/en/latest/manual/types/#abstract-types
 + Punctuation, http://julia.readthedocs.org/en/latest/stdlib/punctuation/
+    + julia-parser.scm: https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L3-L23
+    + https://julia.readthedocs.org/en/latest/stdlib/punctuation/
+    + http://docs.julialang.org/en/release-0.4/manual/functions/?highlight=anonymous#anonymous-functions
 + Metaprogramming, http://julia.readthedocs.org/en/latest/manual/metaprogramming/
 + Arguments of mathematical operators to a common type, https://julia.readthedocs.org/en/latest/manual/conversion-and-promotion/
+
 
 ### Advice
 + Make `any` and `all` short-circuit, https://github.com/JuliaLang/julia/pull/11774
@@ -159,7 +176,7 @@ You can override Base.show(io, ex) rather than Base.showerror.
 + http://julia.readthedocs.org/en/latest/manual/strings/ 
 + https://stackoverflow.com/questions/20478823/joining-regular-expressions-in-julia
 
-### Discussion: Multiple dispatch vs Single Dispatch syntax.
+### Discussion: Multiple dispatch vs Single Dispatch syntax
 For starters, what something should belong to is not always unambiguous - viz. should a function that splits string a at every occurrence of b be a.split(b) or b.split(a)? None of the solutions is inherently significantly better than the other. 
 
 More importantly, search in Julia does not belong to either "Hello World" or e. It belongs to the current namespace. In OOP languages, x.f(y) is the combination of two things: f being under the namespace of x, and f being defined as f(self, y). self is then substituted with x, and so it effectively devolves to f(x, y). Classes are used as proxy namespaces, so that search would be held in the namespace of the string classed object "Hello World" in your example. The benefit of that is that you know where to look for the function. In Julia, there's an overarching namespace. There is an expense associated with that, which is why OOP languages do what they do. But just by changing how we express f(x, y) to x.f(y) or y.f(x) actually doesn't change any of that. Nothing short of actually implementing a full-blown class system with behaviours that properly 'belong to' classes does. Which is not what the design decision was when Julia was started. As such, while I like the syntactic simplification involved here, I just can't see how it would be either trivial but useless or useful but subverting some fundamental underlying design decisions.
@@ -206,16 +223,6 @@ A cache. Other than that, no idea what it accomplishes (aside from reading the c
 .cache moved to being shared between different versioned package directories on 0.4 because of https://github.com/JuliaLang/julia/pull/7361. It worked that way on unix in 0.3 as well. With better support for making directory junctions via the symlink function (which was still a pretty new feature when 0.3.0 was released), that PR made the behavior consistent on Windows as well.
 
     
-## Arrays
-
-+ https://github.com/JuliaLang/julia/issues/3701
-+ https://github.com/JuliaLang/julia/issues/4774
-+ https://github.com/JuliaLang/julia/pull/7568
-+ https://github.com/JuliaLang/julia/issues/7941
-+ https://github.com/JuliaLang/julia/pull/10525
-+ https://github.com/JuliaLang/julia/pull/10704
-+ https://groups.google.com/forum/#!topic/julia-dev/sM0VyVbFewQ
-
 ## Metaprogramming
 + How to use @eval, https://stackoverflow.com/questions/26071317/declaring-top-level-variables-in-julia-using-metaprogramming/26071597#26071597
 
@@ -238,6 +245,7 @@ A cache. Other than that, no idea what it accomplishes (aside from reading the c
 
 ## IJulia
 + Proper method for including external JS libraries?, https://github.com/JuliaLang/IJulia.jl/issues/345
++ IJulia Errors "load failed, save is disabled" in 0.5-dev despite making the notebook "trusted" : https://github.com/JuliaLang/IJulia.jl/issues/252
 
 ## Math
 ### Integral
