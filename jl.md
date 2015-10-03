@@ -1,18 +1,20 @@
 + [0.4-dev](#0.4-dev)
 + [CORE](#core)
-   + [Arrays](#arrays)
    + [Syntax-Symbols-Operators](#syntax-symbols-operators)
 + [Development](#development)
    + [.juliarc](#.juliarc)
    + [GIST](#gist)
-   + [Graphs](#graphs)
    + [IJulia](#ijulia)
-   + [Math](#math)
    + [Plotting](#plotting)
 + [Packaging](#packaging)
     + [USING](#using)
 + [Documentation](#documentation)
 + [QA](#qa)
+    + [.travis.yml](#.travis.yml)
++ [MATH](#math)
+   + [Arrays](#arrays)
+   + [Graphs](#graphs)
+   + [Algorithms](#algorithms)
 + [NEWS](#news)
 
 ----
@@ -30,7 +32,7 @@
 
 + Freeze : https://github.com/JuliaLang/julia/blob/master/NEWS.md#julia-v040-release-notes
 
-Troubleshoot errors when running the unstable DEV branch
+✶ Troubleshoot errors when running the unstable DEV branch
 
 * https://github.com/QuantEcon/QuantEcon.jl/issues/64#issuecomment-130149602
 * https://github.com/JuliaLang/julia/issues/12586
@@ -118,26 +120,6 @@ You can override Base.show(io, ex) rather than Base.showerror.
 
 # CORE
 + http://docs.julialang.org/en/latest/#developer-documentation
-
-## Arrays
-
-+ http://julia.readthedocs.org/en/latest/manual/arrays/
-+ https://julia.readthedocs.org/en/latest/stdlib/arrays
-+ http://quant-econ.net/jl/julia_arrays.html
-+ http://en.wikibooks.org/wiki/Introducing_Julia/Arrays_and_tuples
-+ Read .csv, http://randyzwitch.com/julia-import-data/
-+ DF, https://github.com/JuliaStats/DataFrames.jl/blob/cac96119c9f5e24c5f2976ff119703a6ec52476c/src/abstractdataframe/abstractdataframe.jl#L67
-+ https://stackoverflow.com/questions/24275980/slice-array-of-arrays-in-julia
-+ Reshaped Arrays: https://github.com/JuliaLang/julia/pull/10507
-
-#### Array Division and Multiplication
-    So..
-    10 * [1:3]     is fine
-    10 / [1:3]     is an error
-    10 ^ [1:3]    also erroneous
-
-+ Whereas multiplying a matrix by a scalar is well-defined in linear algebra, dividing by a matrix has a very specific meaning which requires the a square matrix.  Same with exponentiation.  The dot-prefixed operators explicitly work elementwise, so use `.*`, `./` and `.^` for element-wise operations.
-
 
 ## BR
 + #7941:Towards array nirvana, https://github.com/JuliaLang/julia/issues/7941
@@ -229,31 +211,9 @@ A cache. Other than that, no idea what it accomplishes (aside from reading the c
 ## GIST
 + cprintf.jl, https://gist.github.com/dpo/11000433
 
-## Graphs
-+ https://github.com/JuliaGraphs/LightGraphs.jl
-+ http://julialang.org/Graphs.jl/index.html
-+ https://graphsjl-docs.readthedocs.org/en/latest/interface.html
-+ https://graphsjl-docs.readthedocs.org/en/latest/vertex_edge.html 
-+ http://julialang.org/Graphs.jl/matrix.html#adjacency_matrix
-
-+ https://stackoverflow.com/questions/26071317/declaring-top-level-variables-in-julia-using-metaprogramming/26071597#26071597
-+ https://stackoverflow.com/questions/24578430/changing-vertices-value-with-graphs-jl?rq=1
-+ https://stackoverflow.com/questions/23480722/what-is-a-symbol-in-julia?rq=1
-+ https://gist.github.com/ohadle/11323991
-+ https://github.com/JuliaLang/Graphs.jl/issues/171
-
-
 ## IJulia
 + Proper method for including external JS libraries?, https://github.com/JuliaLang/IJulia.jl/issues/345
 + IJulia Errors "load failed, save is disabled" in 0.5-dev despite making the notebook "trusted" : https://github.com/JuliaLang/IJulia.jl/issues/252
-
-## Math
-### Integral
-+ http://docs.julialang.org/en/latest/stdlib/math/#numerical-integration
-
-### Algorithms
-+ Strassen algorithm for matrix multiplication in julia: https://gist.github.com/GaZ3ll3/87df748f76b119199fed
-   + Jupyter NB: http://nbviewer.ipython.org/github/GaZ3ll3/Step_In_Julia/blob/master/notebook/Linear%20Algebra.ipynb
 
 ## Plotting
 + https://github.com/JuliaPlot/juliaplot_docs/issues/1
@@ -269,6 +229,7 @@ A cache. Other than that, no idea what it accomplishes (aside from reading the c
 + Old SO thread: http://stackoverflow.com/questions/14092316/simplest-ways-to-make-a-julia-package-available-to-others
 
 + To move a large number of packages installed on the old system to a new one, do `Pkg.init()`, then copy only the `REQUIRE` file from `~/.julia/v0.x/` folder, then do a `Pkg.update()` on the cli.
++ To ping a package to a version, the correct command is: `Pkg.checkout(pkg,branch)`. From, http://julia.readthedocs.org/en/latest/manual/packages/#checkout-pin-and-free
 
 ### Naming and Coding Rules
 + Package naming rules, https://github.com/JuliaStats/Distributions.jl/issues/395
@@ -403,7 +364,7 @@ BinDeps.debug("PkgName")
 ### ANN: Testing specific Julia versions on Travis CI
 __Important DEV Notes from Tony__
 
-Hey folks, an announcement for package authors and users who care about testing:
+✶ Hey folks, an announcement for package authors and users who care about testing:
 
 We've had support for Julia package testing on Travis CI for almost 9 months now, ref https://groups.google.com/forum/#!msg/julia-users/BtCxh4k9hZA/ngUvxdxOxQ8J if you missed the original announcement. Up to this point we supported the following settings for which Julia version to test against:
 
@@ -432,10 +393,108 @@ The oldest point release for which we have generic Linux binaries available is 0
 ### Unit and Functional Testing
 + http://julia.readthedocs.org/en/latest/stdlib/test/
 
+### .travis.yml 
+
+I've noticed many people with .travis.yml files that perhaps no longer mean quite what people think they do.
+
+In particular:
+
+language: julia
+julia:
+  - release
+  - nightly
+
+Currently means "Test on Julia 0.3.11 and Julia 0.5-dev"
+When Julia 0.4.0 comes out, it'll mean "Test on Julia 0.4.0 and Julia 0.5-dev"
+
+My preference has been to make it precise, so either
+
+language: julia
+julia:
+  - 0.3
+  - 0.4
+  - nightly
+
+If you want to try to support all 3 versions, or
+
+language: julia
+julia:
+  - 0.3
+  - 0.4
+
+If you just want to support the stable versions, or
+
+language: julia
+julia:
+  - 0.4
+  - nightly
+
+If you want to give up on 0.3 (which is fine, just make sure you update your REQUIRE file!)
+
+
 ----
+
+# MATH
+
+## Arrays
+
++ http://julia.readthedocs.org/en/latest/manual/arrays/
++ https://julia.readthedocs.org/en/latest/stdlib/arrays
++ http://quant-econ.net/jl/julia_arrays.html
++ http://en.wikibooks.org/wiki/Introducing_Julia/Arrays_and_tuples
++ Read .csv, http://randyzwitch.com/julia-import-data/
++ DF, https://github.com/JuliaStats/DataFrames.jl/blob/cac96119c9f5e24c5f2976ff119703a6ec52476c/src/abstractdataframe/abstractdataframe.jl#L67
++ https://stackoverflow.com/questions/24275980/slice-array-of-arrays-in-julia
++ Reshaped Arrays: https://github.com/JuliaLang/julia/pull/10507
+
+#### Array Division and Multiplication
+    So..
+    10 * [1:3]     is fine
+    10 / [1:3]     is an error
+    10 ^ [1:3]    also erroneous
+
++ Whereas multiplying a matrix by a scalar is well-defined in linear algebra, dividing by a matrix has a very specific meaning which requires the a square matrix.  Same with exponentiation.  The dot-prefixed operators explicitly work elementwise, so use `.*`, `./` and `.^` for element-wise operations.
+
+
+## Integral
++ http://docs.julialang.org/en/latest/stdlib/math/#numerical-integration
++ http://hwborchers.lima-city.de/JuliaMeetup/numerical/integration.html
++ http://stackoverflow.com/questions/29292614/how-to-do-two-variable-numeric-integration-in-julia
++ http://calculuswithjulia.github.io/precalc/functions.html
++ http://rosettacode.org/wiki/Numerical_integration/Gauss-Legendre_Quadrature
+
+## Algorithms
++ Strassen algorithm for matrix multiplication in julia: https://gist.github.com/GaZ3ll3/87df748f76b119199fed
+   + Jupyter NB: http://nbviewer.ipython.org/github/GaZ3ll3/Step_In_Julia/blob/master/notebook/Linear%20Algebra.ipynb
+
+
+## Graphs
++ https://github.com/JuliaGraphs/LightGraphs.jl
++ http://julialang.org/Graphs.jl/index.html
++ https://graphsjl-docs.readthedocs.org/en/latest/interface.html
++ https://graphsjl-docs.readthedocs.org/en/latest/vertex_edge.html 
++ http://julialang.org/Graphs.jl/matrix.html#adjacency_matrix
+
++ https://stackoverflow.com/questions/26071317/declaring-top-level-variables-in-julia-using-metaprogramming/26071597#26071597
++ https://stackoverflow.com/questions/24578430/changing-vertices-value-with-graphs-jl?rq=1
++ https://stackoverflow.com/questions/23480722/what-is-a-symbol-in-julia?rq=1
++ https://gist.github.com/ohadle/11323991
++ https://github.com/JuliaLang/Graphs.jl/issues/171
+
+#### etc..
+http://julia.readthedocs.org/en/latest/stdlib/
+http://bogumilkaminski.pl/files/julia_express.pdf
+https://groups.google.com/forum/#!msg/julia-users/F4FQJMzbHsY/eRl7ZHl7KiIJ
+http://quant-econ.net/jl/julia_libraries.html
+https://github.com/stevengj/Cubature.jl/blob/master/src/Cubature.jl
+
+----
+
 
 # NEWS
 + http://www.r-bloggers.com/an-r-programmer-looks-at-julia/
 + http://www.project1.com/expertise/data-science-analytics/data-science-report/item/2526-http-strataoreillycom-2012-10-matlab-r-julia-languages-for-data-analysishtml#.VcdFGaPLdOo
 + http://julialang.org/images/nyhackr.pdf
+
+----
 

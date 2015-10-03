@@ -99,6 +99,11 @@ dpkg -S /sbin/ippool
 + Ubuntu iso via wget, https://askubuntu.com/questions/305304/download-13-04-iso-with-wget
 + 64-bit Vs. 32-bit, https://superuser.com/questions/238112/what-is-the-difference-between-i686-and-x86-64
 
+#### Ubuntu Cloud Snappy
++ https://askubuntu.com/questions/620996/how-to-install-snappy-ubuntu-15-04-core-images-on-a-pc
++ http://www.ubuntu.com/cloud/tools/snappy
++ https://wiki.ubuntu.com/Core
+
 ### multiboot iso
 + SARDU, http://www.howtogeek.com/howto/39880/how-to-combine-rescue-disks-to-create-the-ultimate-windows-repair-disk/
 + MultiCD, https://github.com/IsaacSchemm/MultiCD
