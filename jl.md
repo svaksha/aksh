@@ -285,6 +285,7 @@ However, in the meantime I don't think there is much downside to just having the
 ----
 
 # Documentation
++ Documentation of Julia’s Internals, http://docs.julialang.org/en/latest/devdocs/julia/
 + Moving Docstrings, https://github.com/JuliaLang/julia/pull/12703
 + https://github.com/JuliaLang/julia/pull/11943
 + https://github.com/JuliaLang/julia/pull/11906
@@ -435,6 +436,8 @@ If you want to give up on 0.3 (which is fine, just make sure you update your REQ
 ----
 
 # MATH
+
++ mathematical abbreviations, https://en.wikipedia.org/wiki/List_of_mathematical_abbreviations
 
 ## Arrays
 
