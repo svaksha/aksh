@@ -1,4 +1,5 @@
 + [Arithmetic](#Arithmetic)
++ [BOOKS](#books)
 + [Calculus and Analysis](#calculus-and-analysis)
 + [Calculus-II](#calculus-ii)
 + [Combinatorics](#combinatorics)
@@ -11,6 +12,11 @@
 
 # Arithmetic
 + [A "two-product" style algorithm paper](http://www.ti3.tu-harburg.de/paper/rump/OgRuOi05.pdf).
+
+----
+
+# Books
++ [the Art of Problem Solving](http://artofproblemsolving.com/store/item/aops-vol2), Volume 2: and Beyond, Richard Rusczyk and Sandor Lehoczky.
 
 ----
 
@@ -91,8 +97,8 @@ https://en.wikipedia.org/wiki/Category:Hashing
 # Greek Alphabets
 + https://en.wikipedia.org/wiki/Greek_alphabet#Letters
 
-Letter 	Name 	Sound Ancient[5] 	Modern[6]
-Α α 	alpha, άλφα 	[a] [aː] 	[a]
+| Letter |	Name |
+|Α α |	alpha, άλφα |
 Β β 	beta, βήτα 	[b] 	[v]
 Γ γ 	gamma, γάμμα 	[ɡ] 	[ɣ] ~ [ʝ]
 Δ δ 	delta, δέλτα 	[d] 	[ð]

@@ -1,7 +1,15 @@
 
++ [Geostatistics](#geostatistics)
++ [Postgres-XC](#postgres-xc)
++ [OSM](#osm)
++ [TurfJS](#turfjs)
 
+----
 
+# Geostatistics 
++ https://en.wikipedia.org/wiki/Spatial_analysis
 
+----
 
 # Postgres-XC
 WARNING: enabling "trust" authentication for local connections
@@ -39,6 +47,19 @@ or
 + https://wiki.openstreetmap.org/wiki/Main_Page
 + https://wiki.openstreetmap.org/wiki/Mapping_Weekend_Howto
 
-------------------
+----
+
+# TurfJS
++ http://turfjs.org/
++ http://turfjs.org/static/docs/
+
+----
+
+# Mobile
++ [Wakanda](https://en.wikipedia.org/wiki/Wakanda_%28software%29) is an open-source web application framework for developing web and mobile applications in JavaScript.
++ [Leaflet](http://leafletjs.com/) is an open-source JavaScript library for mobile-friendly interactive maps.
+
+
+
 
 

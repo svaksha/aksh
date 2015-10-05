@@ -13,6 +13,7 @@
     + [.travis.yml](#.travis.yml)
 + [MATH](#math)
    + [Arrays](#arrays)
+   + [Calculus](#calculus)
    + [Graphs](#graphs)
    + [Algorithms](#algorithms)
 + [NEWS](#news)
@@ -459,7 +460,8 @@ If you want to give up on 0.3 (which is fine, just make sure you update your REQ
 + Whereas multiplying a matrix by a scalar is well-defined in linear algebra, dividing by a matrix has a very specific meaning which requires the a square matrix.  Same with exponentiation.  The dot-prefixed operators explicitly work elementwise, so use `.*`, `./` and `.^` for element-wise operations.
 
 
-## Integral
+## Calculus
++ http://mth229.github.io/
 + http://docs.julialang.org/en/latest/stdlib/math/#numerical-integration
 + http://hwborchers.lima-city.de/JuliaMeetup/numerical/integration.html
 + http://stackoverflow.com/questions/29292614/how-to-do-two-variable-numeric-integration-in-julia
