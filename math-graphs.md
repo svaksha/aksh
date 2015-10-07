@@ -111,3 +111,65 @@
 
 ----
 
+http://www.cplusplus.com/doc/tutorial/operators/   c++
+http://math.stackexchange.com/questions/436070/maximum-vertex-cover
+http://theory.stanford.edu/~trevisan/cs261/lecture14.pdf
+https://wincent.com/wiki/Computing_the_Maximum_Weighted_Independent_Set_of_a_graph_path
+http://codereview.stackexchange.com/questions/78292/max-independent-set-of-a-sequence   ...>>imp partial ccpp code OK....
+http://shodhganga.inflibnet.ac.in/bitstream/10603/17548/21/21_%20appendix_02.pdf    imp 0k...
+http://stackoverflow.com/questions/8593105/maximum-independent-set-algorithm    ..> algorithm biprtrite  
+http://iswwwup.com/t/207afe252674/max-independent-set-of-a-sequence.html   imp c++ ok
+http://stackoverflow.com/questions/30921996/heuristic-to-find-the-maximum-weight-independent-set-in-an-arbritary-graph      ..> algorithm MWIS  ...>
+http://stackoverflow.com/questions/30412391/maximum-independent-set-weight   ..>in java MIS
+http://www.wseas.org/multimedia/journals/mathematics/2012/55-232.pdf         ..> algorithm MWIS   
+http://ise.tamu.edu/people/faculty/butenko/yalta/slides/Trukhanov.pdf        ..> PPT algorithm MIS   
+http://www.quora.com/What-is-the-fastest-algorithm-to-enumerate-all-maximal-independent-sets-of-a-graph  ..> algorithm MIS   
+http://wenda.baba.io/questions/2786226/finding-a-maximum-weight-clique-in-a-weighted-graph-c-sharp-implementation.html   ..> MW clique pseudo code
+
+http://math.stackexchange.com/questions/210160/what-is-the-node-weight-of-a-vertex  ...> algorithm  MWIS
+http://www.brpreiss.com/books/opus4/html/page546.html   ..> C++ tutorial
+http://codeforces.com/blog/entry/18425     ..> C++ ????
+http://www.boost.org/doc/libs/1_46_1/libs/graph/example/undirected.cpp
+http://www.quora.com/How-can-I-implement-a-weighted-directed-graph-in-C++-or-Java-using-object-oriented-programming
+http://www.sanfoundry.com/cpp-programming-examples-graph-problems-algorithms/
+https://quickgrid.wordpress.com/2015/05/30/inputting-directed-undirected-weighted-and-unweighted-graph-in-c-c-adjacency-matrix/
+http://stanford.edu/~stepp/cppdoc/BasicGraph-class.html       c++  cslib
+https://hal.archives-ouvertes.fr/file/index/docid/905079/filename/preprint-AndreicaM-TowardsRealTimeSchedulingTreeNetworks.pdf   imp chordial
+https://en.wikipedia.org/wiki/Independent_set_%28graph_theory%29     imp
+http://stackoverflow.com/questions/6798953/program-of-recursion-for-maximum-independent-set-in-a-graph    C++code FOR TREE ex
+https://wincent.com/wiki/Computing_the_Maximum_Weighted_Independent_Set_of_a_graph_path   VERY IMP ALGO
+http://www.geeksforgeeks.org/largest-independent-set-problem/
+http://www.gdeepak.com/thesisme/thesis-Choosing%20the%20Efficient%20Algorithm%20for%20Vertex%20Cover%20problem.pdf   with c++ code for MVC
+https://github.com/jcoupey/mwis
+http://www.cise.ufl.edu/~sahni/dsaac/public/chapters/c20.pdf    to read
+http://coderclub.com/developerworks/library/os-giraph/   to read
+https://www.cs.berkeley.edu/~vazirani/algorithms/chap6.pdf
+https://github.com/networkx/networkx/tree/330fd210d29f5ca4d8f3bf9019cb4912b9f62fbe/doc/source  to search
+
+Py
+http://gael-varoquaux.info/computers/pyreport/example.pdf
+http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/
+Julia
+http://code.metager.de/source/xref/julia/Graphs.jl/src/graph.jl
+http://julialang.org/Graphs.jl/index.html
+http://stackoverflow.com/search?page=1&tab=relevance&q=julia%20graph&s=2208559a-4c1a-4a0d-8fab-0f873299b3e1
+http://stackoverflow.com/questions/23977361/create-simple-graph-object-in-julia-using-graphs-j
+http://stackoverflow.com/questions/24578430/changing-vertices-value-with-graphs-jl
+https://graphsjl-docs.readthedocs.org/en/latest/interface.html
+http://julialang.org/Graphs.jl/matrix.html#weight-matrix
+https://www.codecademy.com/forum_questions/4fc9081cb48d4c0003008395
+http://www.chrisvoncsefalvay.com/2015/08/11/writing-good-julia-functions/
+http://www.codegithub.com/watch?v=CSSJqqQQgUqU
+https://plot.ly/julia/
+http://samuelcolvin.github.io/JuliaByExample/
+https://gist.github.com/gizmaa/7214002#axisplacement   ...plot
+http://heike.github.io/stat590f/gadfly/andee-graphics/#/6
+
+http://www.medicinenet.com/rosiglitazone/article.htm
+
+http://docs.scipy.org/doc/scipy/reference/stats.html
+http://makepp.sourceforge.net/1.19/makepp_tutorial.html
+
+https://apps.ubuntu.com/cat/applications/natty/anjuta/    IDE for C++
+
+

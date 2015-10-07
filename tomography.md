@@ -97,6 +97,7 @@
 
 ## Articles
 + [The mathematics of tomography](https://plus.maths.org/content/saving-lives-mathematics-tomography) by Chris Budd and Cathryn Mitchell.
++ [Inversion of the Linear and Parabolic Radon Transform](https://bora.uib.no/bitstream/handle/1956/4062/71945252.pdf)
 
 ## Books
 + [Principles of computerized tomographic imaging](http://www.slaney.org/pct/pct-toc.html), Prof. Kak A. C. Kak and M. Slaney, IEEE Press, New York, 1988.

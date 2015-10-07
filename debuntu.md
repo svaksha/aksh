@@ -85,8 +85,20 @@ dpkg -S /sbin/ippool
 ----
 
 # BASH SHELL
++ https://en.wikipedia.org/wiki/List_of_Unix_commands
 + [ctypes.sh](https://github.com/taviso/ctypes.sh) :: A BASH plugin that provides a foreign function interface directly in your shell. In other words, it allows you to call routines in shared libraries from within bash.
 + https://stribika.github.io/2015/01/04/secure-secure-shell.html
++ What is the difference between executing a bash script and sourcing a bash script?, http://superuser.com/questions/176783/what-is-the-difference-between-executing-a-bash-script-and-sourcing-a-bash-scrip
+
+### Bash Scripting
++ https://help.ubuntu.com/community/Beginners/BashScripting
+
+### Julia
++ http://stackoverflow.com/questions/30586740/julia-command-line-running-processes-in-parallel
++ http://blog.leahhanson.us/running-shell-commands-from-julia.html
++ http://julialang.org/blog/2012/03/shelling-out-sucks/
++ http://julialang.org/blog/2013/04/put-this-in-your-pipe/   
++ https://www.reddit.com/r/Julia/comments/2ph74u/interacting_with_shell/
 
 ----
 
