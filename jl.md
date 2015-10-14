@@ -4,7 +4,7 @@
 + [Development](#development)
    + [.juliarc](#.juliarc)
    + [GIST](#gist)
-   + [IJulia](#ijulia)
+   + [Jupyter](#jupyter)
    + [Plotting](#plotting)
 + [Packaging](#packaging)
     + [USING](#using)
@@ -202,20 +202,25 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 
 ### What is the .cache directory and why was it moved into the ~\.julia folder for 0.4?
 
-A cache. Other than that, no idea what it accomplishes (aside from reading the code to find out) or why it works the way it does. It was added in https://github.com/JuliaLang/julia/commit/df7a08893e4402182ec64178ffdb3130aa228943 but there are no design docs on the package manager. Ask Stefan.
-
-.cache moved to being shared between different versioned package directories on 0.4 because of https://github.com/JuliaLang/julia/pull/7361. It worked that way on unix in 0.3 as well. With better support for making directory junctions via the symlink function (which was still a pretty new feature when 0.3.0 was released), that PR made the behavior consistent on Windows as well.
+A cache. Other than that, no idea what it accomplishes (aside from reading the code to find out) or why it works the way it does. It was added in https://github.com/JuliaLang/julia/commit/df7a08893e4402182ec64178ffdb3130aa228943 but there are no design docs on the package manager. Ask Stefan. Also, `.cache` moved to being shared between different versioned package directories on 0.4 because of https://github.com/JuliaLang/julia/pull/7361. It worked that way on unix in 0.3 as well. With better support for making directory junctions via the symlink function (which was still a pretty new feature when 0.3.0 was released), that PR made the behavior consistent on Windows as well.
 
     
 ## Metaprogramming
 + How to use @eval, https://stackoverflow.com/questions/26071317/declaring-top-level-variables-in-julia-using-metaprogramming/26071597#26071597
 
+## Macros
++ `import MyModule` will import package module on all workers (because @everywhere is redundant) which is @everywhere because if the module needs to be re-precompiled then it will be compiled only once. 
+
 ## GIST
 + cprintf.jl, https://gist.github.com/dpo/11000433
 
-## IJulia
+## Jupyter
 + Proper method for including external JS libraries?, https://github.com/JuliaLang/IJulia.jl/issues/345
 + IJulia Errors "load failed, save is disabled" in 0.5-dev despite making the notebook "trusted" : https://github.com/JuliaLang/IJulia.jl/issues/252
++ Allow multiple versions of Julia as IPython kernels: https://github.com/JuliaLang/IJulia.jl/pull/280
+    + https://github.com/JuliaLang/IJulia.jl/issues/224
++ IJulia / IPython / Jupyter combination not working #289: https://github.com/JuliaLang/IJulia.jl/issues/289
++ http://stackoverflow.com/questions/24091373/best-way-to-run-julia-code-in-an-ipython-notebook-or-python-code-in-an-ijulia-n
 
 ## Plotting
 + https://github.com/JuliaPlot/juliaplot_docs/issues/1
@@ -237,8 +242,8 @@ A cache. Other than that, no idea what it accomplishes (aside from reading the c
 + Package naming rules, https://github.com/JuliaStats/Distributions.jl/issues/395
 + Coding rules, https://github.com/JuliaStats/Distributions.jl/issues/396
 
-## USING
-__REQUIRE is deprecated__
+## USING 
+__REQUIRE is deprecated, try using these: (include, reload, using, import)__
 + https://github.com/JuliaLang/METADATA.jl/issues/2777
 + add to REQUIRE a package which isn't in METADATA, https://github.com/JuliaLang/julia/issues/7737
 + https://github.com/JuliaLang/METADATA.jl/issues/2800
@@ -450,7 +455,8 @@ If you want to give up on 0.3 (which is fine, just make sure you update your REQ
 + Read .csv, http://randyzwitch.com/julia-import-data/
 + DF, https://github.com/JuliaStats/DataFrames.jl/blob/cac96119c9f5e24c5f2976ff119703a6ec52476c/src/abstractdataframe/abstractdataframe.jl#L67
 + https://stackoverflow.com/questions/24275980/slice-array-of-arrays-in-julia
-+ Reshaped Arrays: https://github.com/JuliaLang/julia/pull/10507
++ Reshaped Arrays, https://github.com/JuliaLang/julia/pull/10507
++ Passing Objects, https://stackoverflow.com/questions/27677399/julia-how-to-copy-data-to-another-processor-in-julia
 
 #### Array Division and Multiplication
     So..
@@ -458,7 +464,7 @@ If you want to give up on 0.3 (which is fine, just make sure you update your REQ
     10 / [1:3]     is an error
     10 ^ [1:3]    also erroneous
 
-+ Whereas multiplying a matrix by a scalar is well-defined in linear algebra, dividing by a matrix has a very specific meaning which requires the a square matrix.  Same with exponentiation.  The dot-prefixed operators explicitly work elementwise, so use `.*`, `./` and `.^` for element-wise operations.
++ Whereas multiplying a matrix by a scalar is well-defined in linear algebra, dividing by a matrix has a very specific meaning which requires a square matrix. Same with exponentiation. The dot-prefixed operators explicitly work elementwise, so use `.*`, `./` and `.^` for element-wise operations.
 
 
 ## Calculus

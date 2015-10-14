@@ -1,7 +1,14 @@
++ [Analytics](#analytics)
++ [Art](#art)
 + [CodeCamp](#codecamp)
 + [Dev](#dev)
 + [Life](#life)
 + [Podcasts](#podcasts)
+
+----
+
+# Analytics
++ [Predictive analytics: the next bigthing in BI?](http://www.rosebt.com/uploads/8/1/8/1/8181762/predictive_analytics_e_guide.pdf)
 
 ----
 
@@ -46,7 +53,11 @@
 
 ----
 
-+ [Business Analytics](#business-analytics)
+# Art
++ http://www.opengraphicdesign.com/print/create-your-own-business-card/ 
++ http://www.flaticon.com/packs/business-cards
 
-# Business Analytics
-+ [Predictive analytics: the next bigthing in BI?](http://www.rosebt.com/uploads/8/1/8/1/8181762/predictive_analytics_e_guide.pdf)
+----
+
++ Anthropomorphism, https://en.wikipedia.org/wiki/Anthropomorphism
++ Passive-Aggressive, http://www.forbes.com/sites/dailymuse/2015/10/02/3-times-you-think-youre-being-nice-but-you-actually-just-sound-passive-aggressive/
