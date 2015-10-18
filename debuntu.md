@@ -3,6 +3,9 @@
 + [DEB Packages](#deb-packages)
    + [PPA](#ppa)
 + [BASH SHELL](#bash-shell)
+   + [Automation](#automation)
+   + [Bash Scripting](#bash-scripting)
+   + [Julia](#julia)
 + [Kernel-HDD](#kernel-hdd)
    + [ISO](#iso)
 + [REGEX](#regex)
@@ -89,6 +92,9 @@ dpkg -S /sbin/ippool
 + [ctypes.sh](https://github.com/taviso/ctypes.sh) :: A BASH plugin that provides a foreign function interface directly in your shell. In other words, it allows you to call routines in shared libraries from within bash.
 + https://stribika.github.io/2015/01/04/secure-secure-shell.html
 + What is the difference between executing a bash script and sourcing a bash script?, http://superuser.com/questions/176783/what-is-the-difference-between-executing-a-bash-script-and-sourcing-a-bash-scrip
+
+### Automation
++ [basher](https://github.com/basherpm/basher) :: A package manager for shell scripts. 
 
 ### Bash Scripting
 + https://help.ubuntu.com/community/Beginners/BashScripting
