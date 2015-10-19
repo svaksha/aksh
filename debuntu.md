@@ -95,6 +95,7 @@ dpkg -S /sbin/ippool
 
 ### Automation
 + [basher](https://github.com/basherpm/basher) :: A package manager for shell scripts. 
++ https://github.com/alebcay/awesome-shell
 
 ### Bash Scripting
 + https://help.ubuntu.com/community/Beginners/BashScripting
