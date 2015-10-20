@@ -1,4 +1,29 @@
 
+# Jupyter
+https://github.com/ipython-contrib/IPython-notebook-extensions, allows you to install some very useful extensions for the Jupyter notebook. One of the extension allows for copy pasting cells across notebooks and picture into a notebook. Here is an installation script used to install the notebook extensions within he Anaconda/Miniconda distribution:
+
+'''
+using PyCall
+if PyCall.conda
+	using Conda
+	conda = Conda.conda
+else
+	conda = "conda"
+end
+dir = mktempdir()
+cd(dir) do
+	run(`git clone https://github.com/ipython-contrib/IPython-notebook-extensions`)
+	run(`$conda install conda-build`)
+	run(`$conda build IPython-notebook-extensions`)
+	run(`$conda install --use-local nbextensions`)
+end
+rm(dir, recursive=true)
+'''
+
+After installation go to `http://localhost:8888/nbextensions` and activate the extensions you like.
+
+----
+
 # NLP
 + http://NLTK.org
 
