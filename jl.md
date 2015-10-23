@@ -256,7 +256,6 @@ __REQUIRE is deprecated, try using these: (include, reload, using, import)__
 + Only make exported bindings available with `import`, https://github.com/JuliaLang/julia/issues/12069
 + https://en.wikibooks.org/wiki/Introducing_Julia/Modules_and_packages
 
-
 From Leah:
 I think his summary in #11031 is accurate, and the reason given directly in the reply is the reason for using/importall to be different. Issue #8000 is a discussion of ways to change/simplify the syntax.
 
@@ -303,7 +302,6 @@ However, in the meantime I don't think there is much downside to just having the
 `search: sin sinh sind sinc sinpi asin using isinf asinh asind isinteger`
 + Then, in the REPL `julia> @doc sin`, where `sin(x)` ==  Compute sine of x, where x is in radians
 
- 
     
 ### @TeroFrondelius: When you want to contribute an example(s) to Julia's documentation, the process is following:
 + https://github.com/JuliaLang/julia/pull/12279#issuecomment-126058754
@@ -474,6 +472,7 @@ If you want to give up on 0.3 (which is fine, just make sure you update your REQ
 + http://stackoverflow.com/questions/29292614/how-to-do-two-variable-numeric-integration-in-julia
 + http://calculuswithjulia.github.io/precalc/functions.html
 + http://rosettacode.org/wiki/Numerical_integration/Gauss-Legendre_Quadrature
++ CUBATURE: https://cran.r-project.org/web/packages/cubature/cubature.pdf
 
 ## Algorithms
 + Strassen algorithm for matrix multiplication in julia: https://gist.github.com/GaZ3ll3/87df748f76b119199fed
@@ -501,7 +500,6 @@ http://quant-econ.net/jl/julia_libraries.html
 https://github.com/stevengj/Cubature.jl/blob/master/src/Cubature.jl
 
 ----
-
 
 # NEWS
 + http://www.r-bloggers.com/an-r-programmer-looks-at-julia/

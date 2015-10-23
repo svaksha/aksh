@@ -49,6 +49,9 @@
 + functional programming, http://www.functionalgeekery.com/ 
 + http://changelog.com
 + https://twit.tv/shows 
++ http://www.codenewbie.org/podcast
++ http://www.talkingcode.com
+
 
 ### Lang
 + Python: http://talkpython.fm/
