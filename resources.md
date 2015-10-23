@@ -51,7 +51,8 @@
 + https://twit.tv/shows 
 + http://www.codenewbie.org/podcast
 + http://www.talkingcode.com
-
++ Herding Code :: http://herdingcode.com/
++ Software Engineering Radio :: http://www.se-radio.net/ 
 
 ### Lang
 + Python: http://talkpython.fm/
