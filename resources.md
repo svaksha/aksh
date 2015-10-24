@@ -1,6 +1,6 @@
 + [Analytics](#analytics)
 + [Art](#art)
-+ [CodeCamp](#codecamp)
++ [Code Exercises](#code-exercises)
 + [Community](#community)
 + [Dev](#dev)
 + [Life](#life)
@@ -19,7 +19,8 @@
 
 ----
 
-# CodeCamp
+# Code Exercises
++ http://synopsis.exercism.io/, https://github.com/exercism/cli, https://github.com/exercism
 + http://freecodecamp.com/
 
 ----

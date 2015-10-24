@@ -1,7 +1,14 @@
-
-
-# DEVOPS
-+ https://github.com/devopsbookmarks/devopsbookmarks.com
++ [AWS](#aws)
++ [DEVOPS](#devops)
++ [AMQP](#amqp)
++ [Monitoring](#monitoring)
++ [OpenStack](#openstack)
++ [Rackspace](#rackspace)
++ [DELL](#dell)
++ [DOCKER](#docker)
++ [HEROKU](#heroku)
++ [NEWS](#news)
++ [OpenShift](#openshift)
 
 ----
 
@@ -9,6 +16,28 @@
 + http://en.wikipedia.org/wiki/Category:Cloud_computing_providers
 + http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software
 + http://docs.python-guide.org/en/latest/scenarios/admin/
+
+----
+
+# AWS
++ http://aws.amazon.com 
++ http://en.wikipedia.org/wiki/Amazon_Web_Services
++ http://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud
+
+## HELP
++ REF : http://docs.aws.amazon.com/general/latest/gr/Welcome.html
++ http://docs.aws.amazon.com/general/latest/gr/rande.html
++ https://aws.amazon.com/documentation/
++ CLI tools : http://docs.aws.amazon.com/general/latest/gr/GetTheTools.html
+
+### SO
++ http://stackoverflow.com/questions/10526345/ec2-command-line-tools   
+
+----
+
+# DEVOPS
++ https://github.com/devopsbookmarks/devopsbookmarks.com
+
 
 ----
 
@@ -42,7 +71,8 @@ http://pika.readthedocs.org/en/0.9.14/intro.html
 
 ----
 
-# System Disk Monitoring tools
+# Monitoring
+### System Disk Monitoring tools
 + https://en.wikipedia.org/wiki/Comparison_of_network_monitoring_systems
 
 + https://pypi.python.org/pypi/psutil
@@ -56,24 +86,21 @@ http://pika.readthedocs.org/en/0.9.14/intro.html
 + https://en.wikipedia.org/wiki/Icinga
 + https://en.wikipedia.org/wiki/Nagios
 
-
-----
-
-# Chef (.rb)
+## Chef 
+(.rb)
 + https://github.com/chef/chef
 + http://stackful-dev.com/cuisine-the-lightweight-chefpuppet-alternative
 
-----
-
-# Puppet (.rb)
+## Puppet 
+(.rb)
 + http://en.wikipedia.org/wiki/Puppet_%28software%29
 
-----
-
-# Vagrant (.rb)
+## Vagrant 
+(.rb)
 + https://en.wikipedia.org/wiki/Vagrant_%28software%29
 
-# Cobbler (.py)
+## Cobbler 
+(.py)
 + https://en.wikipedia.org/wiki/Cobbler_%28software%29
 + https://github.com/cobbler/cobbler
 
@@ -84,22 +111,6 @@ http://pika.readthedocs.org/en/0.9.14/intro.html
 + http://www.openstack.org/software/
 + [OpenStack drivers](http://www.openstack.org/marketplace/drivers/)
 + http://www.ibm.com/developerworks/cloud/library/cl-openstack-pythonapis/
-
-----
-
-# AWS
-+ http://aws.amazon.com 
-+ http://en.wikipedia.org/wiki/Amazon_Web_Services
-+ http://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud
-
-## HELP
-+ REF : http://docs.aws.amazon.com/general/latest/gr/Welcome.html
-+ http://docs.aws.amazon.com/general/latest/gr/rande.html
-+ https://aws.amazon.com/documentation/
-+ CLI tools : http://docs.aws.amazon.com/general/latest/gr/GetTheTools.html
-
-### SO
-+ http://stackoverflow.com/questions/10526345/ec2-command-line-tools   
 
 ----
 
@@ -129,6 +140,7 @@ http://pika.readthedocs.org/en/0.9.14/intro.html
 + https://books.google.co.in/books?id=oAkZBQAAQBAJ&pg=PA116&lpg=PA116&dq=python+code+to+spin+up+docker+containers&source=bl&ots=dSp_ddqppk&sig=BfOcQ7hY1oBndYT3DtVbgaT8dis&hl=en&sa=X&ei=Q9EcVeroFI-0uATYvoKYBg&ved=0CEcQ6AEwBw#v=onepage&q=python%20code%20to%20spin%20up%20docker%20containers&f=true
 + http://phusion.github.io/baseimage-docker/
 + https://pypi.python.org/pypi/docker-compose/1.2.0rc3
++ https://coreos.com/os/docs/latest/getting-started-with-docker.html
 
 ----
 
@@ -157,3 +169,5 @@ http://pika.readthedocs.org/en/0.9.14/intro.html
 + http://help.openshift.com
 + https://blog.openshift.com/run-your-nodejs-projects-on-openshift-in-two-simple-steps/
 + https://wiki.python.org/moin/FreeHosts
+
+
