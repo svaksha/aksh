@@ -99,6 +99,8 @@ dpkg -S /sbin/ippool
 
 ### Bash Scripting
 + https://help.ubuntu.com/community/Beginners/BashScripting
++ http://stackoverflow.com/questions/106387/is-it-possible-to-detect-32-bit-vs-64-bit-in-a-bash-script
++ http://stackoverflow.com/questions/394230/detect-the-os-from-a-bash-script
 
 ### Julia
 + http://stackoverflow.com/questions/30586740/julia-command-line-running-processes-in-parallel
@@ -133,6 +135,7 @@ dpkg -S /sbin/ippool
 ----
 
 # REGEX
++ RegEX cheatsheet, https://remram44.github.io/regex-cheatsheet/regex.html
 + http://en.wikipedia.org/wiki/List_of_Unix_commands
 + http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux?rq=1
 + https://en.wikipedia.org/wiki/Regular_expression#Syntax
