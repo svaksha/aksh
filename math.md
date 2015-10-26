@@ -44,6 +44,7 @@ https://en.wikipedia.org/wiki/Category:Hashing
 ----
 
 # [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics)
++ Curse of dimensionality, https://en.wikipedia.org/wiki/Curse_of_dimensionality
 
 ### Julia Sets
 + 2004, [Hyperbolic Julia Sets are Poly-Time Computable](http://www.cs.toronto.edu/~mbraverm/Papers/CCA04.pdf), Mark Braverman.
