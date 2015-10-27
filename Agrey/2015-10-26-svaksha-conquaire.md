@@ -26,11 +26,13 @@ Other useful tips to keep in mind:
 + https://github.com/swcarpentry/good-enough-practices-in-scientific-computing/blob/gh-pages/index.md is an ongoing paper being written about best practices in scientific computing with many useful tips like normalizing data, automation, writing small funtions, etc.. 
 + The standardization of research methodologies and processes will help the data quality monitoring process, create reusable datasets and reproducable research.
 
+
 Development related tips:
-+ Choose the stack whose programming language is popular across domains (web-dev, TDD and scientific development).
-+ Must have good library support for all the different domains.
-+ Must be easy to learn - in terms of future development and maintenance.
-+ Mixing programming languages is inevitable for certain tasks but more than 2-3 will become a maintenance nightmare over the years. Think of future maintenance issues - will the existing API wrappers be maintained in future too?
+
++ Choose the stack whose programming language is popular across domains (web-dev, TDD and scientific development) with good library support for all the different domains.
++ Mixing programming languages is inevitable for certain tasks but more than 2 or 3 will become a maintenance nightmare over time - Dependency hell and future maintenance issues, if any.
++ Must be easy to learn - in terms of future development and maintenance issues.
++ Existing cross-lang API wrappers must be maintained in future too.
 + Good community support - essential for help-related issues.
 + Good documentation.
 
@@ -68,8 +70,9 @@ __The web framework, CI, messaging libs, and other backendtack options available
 
 ## [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
 
++ [GitLab Continuous Integration](https://about.gitlab.com/gitlab-ci/): Integrated CI to test, build and deploy your code on GitLab.
 + [BuildBot](https://en.wikipedia.org/wiki/Buildbot), is written in Python on top of the Twisted libraries.
-+ [Dockunit.io](https://dockunit.io/) is a GPL licensed, cross-platform Docker based CI platform that integrates with github and is an experiment in Docker based integration tests.
++ [Dockunit.io](https://dockunit.io/) is a GPL licensed, cross-platform experiment in Docker based integration tests [CI platform](https://github.com/dockunit/platform) that integrates with github.
 + [Tox](http://tox.readthedocs.org/en/latest/), an automation tool providing packaging, testing and deployment of Python software.
 + [Rake](https://en.wikipedia.org/wiki/Rake_%28software%29), a Ruby tool for software task management and build automation.
 + [Capistrano](https://en.wikipedia.org/wiki/Capistrano_%28software%29), an open source Ruby tool for running scripts on multiple servers to deploy web applications.
@@ -135,8 +138,9 @@ Options to consider are:
 Depending on the researcher data types, support which of the following DB's(?): 
 
 + RDBMS (Postgres, MariaDB, ..)
-+ NoSQL (Mongo, Redis, ..) 
-   * Is it document/ graph/ array based?
++ NoSQL : Is it document/ graph/ array based?
+   - MongoDB
+   - [Redis](http://redis.io/), is an open source (BSD licensed), in-memory data structure store, used as database, cache and message broker.
 + Array-based DB (SciDB).
 + HDF5
 
