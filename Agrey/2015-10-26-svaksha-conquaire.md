@@ -1,5 +1,5 @@
-+ [Objectives](#objectives)
-+ [Technology](#technology)
++ [OBJECTIVES](#objectives)
++ [TECHNOLOGY](#technology)
    + [WP3 - Data Quality Assesment Framework](#wp3-data-quality-assesment-framework)
         + [Bubbles](#bubbles)
    + [Backend](#backend)
@@ -11,11 +11,12 @@
         + [Server Infrastructure](#server-infrastructure)
         + [Messaging Lib](#messaging-lib)
         + [Database](#database)
-        + [TDD](#tdd)
-        
-----
+        + [Continuous Integration](#continuous-integration)        
+            + [TDD](#tdd)
 
-# Objectives
+====
+
+# OBJECTIVES
 + Infrastructure to support continuous research data quality monitoring.
 + Infrastructure to host data and implement corresponding workflows.
 + OpenData - Make the data publicly available to allow reproduction of the computational analysis.
@@ -26,9 +27,17 @@ Other useful tips to keep in mind:
 + https://github.com/swcarpentry/good-enough-practices-in-scientific-computing/blob/gh-pages/index.md is an ongoing paper being written about best practices in scientific computing with many useful tips like normalizing data, automation, writing small funtions, etc.. 
 + The standardization of research methodologies and processes will help the data quality monitoring process, create reusable datasets and reproducable research.
 
-----
+Development related tips:
++ Choose the stack whose programming language is popular across domains (web-dev, TDD and scientific development).
++ Must have good library support for all the different domains.
++ Must be easy to learn - in terms of future development and maintenance.
++ Mixing programming languages is inevitable for certain tasks but more than 2-3 will become a maintenance nightmare over the years. Think of future maintenance issues - will the existing API wrappers be maintained in future too?
++ Good community support - essential for help-related issues.
++ Good documentation.
 
-# Technology
+====
+
+# TECHNOLOGY
 
 Leverage existing FOSS tools for the similarity in features and other specifications and their reuse potential as per the Licenses they are released under.
 
@@ -40,7 +49,7 @@ Leverage existing FOSS tools for the similarity in features and other specificat
 + Availability of scripts. 
 + Domain-specific quality checks will be implemented and integrated into the framework as services in a plug-in framework. 
 
-Foss tools available: 
+The Foss tools available are : 
 
 ### [Bubbles](http://bubbles.databrewery.org/index.html)
 + A Python framework for data processing and data quality measurement.
@@ -48,7 +57,7 @@ Foss tools available:
 + Repo: https://github.com/Stiivi/bubbles
 + License: MIT.
 
-##### Pros & Cons
+###### Pros & Cons
 + _Pros_:
    * A Python framework makes it easier to maintain the dependency hell of various scientific libs if researchers also use Python for their analyical work.
    * The scientific library ecosystem has excellent support for [Astronomy & GIS](https://github.com/svaksha/pythonidae/blob/master/Earth-Science.md), [Biology](https://github.com/svaksha/pythonidae/blob/master/Biology.md), [Chemistry](https://github.com/svaksha/pythonidae/blob/master/Chemistry.md), [Physics](https://github.com/svaksha/pythonidae/blob/master/Physics.md), [Math](https://github.com/svaksha/pythonidae/blob/master/Mathematics.md), [Statistics](https://github.com/svaksha/pythonidae/blob/master/Statistics.md), and other scientific disciplines.
@@ -82,12 +91,20 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
 Options to consider are:
 
 + Django (.py)
+   - Django is better suited to CMS-like tasks.
+   - Strong and popular with many django-libs.
+   - Good support, project wont vanish or cease development.
+   - More explicit than Ruby/RoR.
 + RoR (.rb)
+   - Rails is more general-purpose.
+   - Popular but too much inbuilt magic.
+   - Fast prototyping and easy to get webapps up and running in a very quick time. 
+   - Many high quality gems (libs) out there that would serve many common requirements for web development.
 + [Volt](http://voltframework.com/) (.rb), https://github.com/voltrb/volt
 
 ### Configuration Management
-+ Saltstack
-+ Puppet
++ Saltstack (.py)
++ Puppet (.rb)
 + Ansible
 + Chef
 
@@ -107,10 +124,15 @@ Depending on the researcher data types, support which of the following DB's(?):
 + Array-based DB (SciDB).
 + HDF5
 
-### TDD
+### [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
+
++ Travis-CI, https://travis-ci.org/      
+
+#### TDD
 + Julia: https://github.com/svaksha/Julia.jl/blob/master/QA.md
 + Python: https://github.com/svaksha/pythonidae/blob/master/QA.md
 + Ruby: 
    * https://github.com/sdogruyol/awesome-ruby#testing
    * https://github.com/markets/awesome-ruby#testing
-      
+
+
