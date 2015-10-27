@@ -69,9 +69,10 @@ __The web framework, CI, messaging libs, and other backendtack options available
 ## [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
 
 + [BuildBot](https://en.wikipedia.org/wiki/Buildbot), is written in Python on top of the Twisted libraries.
++ [Dockunit.io](https://dockunit.io/) is a GPL licensed, cross-platform Docker based CI platform that integrates with github and is an experiment in Docker based integration tests.
 + [Tox](http://tox.readthedocs.org/en/latest/), an automation tool providing packaging, testing and deployment of Python software.
 + [Rake](https://en.wikipedia.org/wiki/Rake_%28software%29), a Ruby tool for software task management and build automation.
-+ [Capistrano](https://en.wikipedia.org/wiki/Capistrano_%28software%29), an open source tool for running scripts on multiple servers to deploy web applications.
++ [Capistrano](https://en.wikipedia.org/wiki/Capistrano_%28software%29), an open source Ruby tool for running scripts on multiple servers to deploy web applications.
 + _NON-FOSS_:
    + [Travis-CI](https://travis-ci.org/), free only for open source projects - integrates with github, gitlab status is not known.
 
