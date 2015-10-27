@@ -1,3 +1,19 @@
++ [Objectives](#objectives)
++ [Technology](#technology)
+   + [WP3 - Data Quality Assesment Framework](#wp3-data-quality-assesment-framework)
+        + [Bubbles](#bubbles)
+   + [Backend](#backend)
+        + [DVCS - Git GitLab](#dvcs-git-gitlab)
+        + [Computational Reproducibility - Docker](#computational-reproducibility-docker)
+        + [Computational Reproducibility - Reprozip](#computational-reproducibility-reprozip)
+        + [Web Framework](#web-framework)
+        + [Configuration Management](#configuration-management)
+        + [Server Infrastructure](#server-infrastructure)
+        + [Messaging Lib](#messaging-lib)
+        + [Database](#database)
+
+----
+
 # Objectives
 + Infrastructure to support continuous research data quality monitoring.
 + Infrastructure to host data and implement corresponding workflows.
@@ -25,7 +41,15 @@ Leverage existing FOSS tools for the similarity in features and other specificat
 
 Foss tools available: 
 
-+ [Bubbles](http://bubbles.databrewery.org/index.html), a Python framework for data processing and data quality measurement that implements basic concepts like abstract data objects, operations and dynamic operation dispatch. License: MIT.
+### [Bubbles](http://bubbles.databrewery.org/index.html)
++ A Python framework for data processing and data quality measurement.
++ Implements basic concepts like abstract data objects, operations and dynamic operation dispatch. 
++ Repo: https://github.com/Stiivi/bubbles
++ License: MIT.
+
+## Backend
+
+The web framework, CI, messaging libs, and other backendtack options available are:
 
 ### DVCS - Git GitLab
 + Git is the DVCS running the backend system to store data running a web-application to upload scripts, etc..
@@ -46,8 +70,11 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
 + There was a package conflict bug for Python-3.x within anaconda, now fixed : https://github.com/ViDA-NYU/reprozip/issues/157
 
 ### Web Framework
-+ Django
-+ RoR
+Options to consider are:
+
++ Django (.py)
++ RoR (.rb)
++ [Volt](http://voltframework.com/) (.rb), https://github.com/voltrb/volt
 
 ### Configuration Management
 + Saltstack
@@ -55,17 +82,19 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
 + Ansible
 + Chef
 
-### Server Hosting
+### Server Infrastructure
 + Self-hosted server farms.
 
-### MessagingLib
+### Messaging Lib
 + RabbitMQ
 + ZeroMQ
 
 ### Database
-Depending on the researcher data types, support for 
-+ RDBMS (Postgres, MariaDB), 
-+ NoSQL (Mongo, Redis), or 
+Depending on the researcher data types, support which of the following DB's(?): 
+
++ RDBMS (Postgres, MariaDB, ..)
++ NoSQL (Mongo, Redis, ..) 
+   * Is it document/ graph/ array based?
 + Array-based DB (SciDB).
 + HDF5
 
