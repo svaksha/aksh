@@ -11,7 +11,8 @@
         + [Server Infrastructure](#server-infrastructure)
         + [Messaging Lib](#messaging-lib)
         + [Database](#database)
-
+        + [TDD](#tdd)
+        
 ----
 
 # Objectives
@@ -46,6 +47,14 @@ Foss tools available:
 + Implements basic concepts like abstract data objects, operations and dynamic operation dispatch. 
 + Repo: https://github.com/Stiivi/bubbles
 + License: MIT.
+
+##### Pros & Cons
++ _Pros_:
+   * A Python framework makes it easier to maintain the dependency hell of various scientific libs if researchers also use Python for their analyical work.
+   * The scientific library ecosystem has excellent support for [Astronomy & GIS](https://github.com/svaksha/pythonidae/blob/master/Earth-Science.md), [Biology](https://github.com/svaksha/pythonidae/blob/master/Biology.md), [Chemistry](https://github.com/svaksha/pythonidae/blob/master/Chemistry.md), [Physics](https://github.com/svaksha/pythonidae/blob/master/Physics.md), [Math](https://github.com/svaksha/pythonidae/blob/master/Mathematics.md), [Statistics](https://github.com/svaksha/pythonidae/blob/master/Statistics.md), and other scientific disciplines.
++ _Cons_:
+   * The packaging ecosystem can be hard for a newbie to navigate.
+
 
 ## Backend
 
@@ -98,3 +107,10 @@ Depending on the researcher data types, support which of the following DB's(?):
 + Array-based DB (SciDB).
 + HDF5
 
+### TDD
++ Julia: https://github.com/svaksha/Julia.jl/blob/master/QA.md
++ Python: https://github.com/svaksha/pythonidae/blob/master/QA.md
++ Ruby: 
+   * https://github.com/sdogruyol/awesome-ruby#testing
+   * https://github.com/markets/awesome-ruby#testing
+      
