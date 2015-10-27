@@ -1,18 +1,19 @@
 + [OBJECTIVES](#objectives)
 + [TECHNOLOGY](#technology)
-   + [WP3 - Data Quality Assesment Framework](#wp3-data-quality-assesment-framework)
-        + [Bubbles](#bubbles)
    + [Continuous Integration](#continuous-integration)        
+        + [Configuration Management](#configuration-management)
         + [TDD](#tdd)
-   + [DVCS - Git GitLab](#dvcs-git-gitlab)
    + [Computational Reproducibility - Docker](#computational-reproducibility-docker)
    + [Computational Reproducibility - Reprozip](#computational-reproducibility-reprozip)
-   + [Web Framework](#web-framework)
-   + [Configuration Management](#configuration-management)
-   + [Server Infrastructure](#server-infrastructure)
-   + [Messaging Lib](#messaging-lib)
    + [Database](#database)
-
+   + [DVCS - Git GitLab](#dvcs-git-gitlab)
+   + [Framework - Data Quality Assesment](#framework-data-quality-assesment)
+        + [Bubbles](#bubbles)
+   + [Framework - Web](#framework-web)
+   + [Infrastructure - Server](#infrastructure-server)
+   + [Messaging Lib](#messaging-lib)
+   + [Visualization](#visualization)
+   
 ====
 
 # OBJECTIVES
@@ -40,9 +41,68 @@ Development related tips:
 
 # TECHNOLOGY
 
-Leverage existing FOSS tools for the similarity in features and other specifications and their reuse potential as per the Licenses they are released under.
+Leverage existing FOSS tools for the similarity in features and other specifications and their reuse potential as per the Licenses they are released under. The web framework, CI, messaging libs, and other backendtack options available are : 
 
-## WP3 - Data Quality Assesment Framework
+## [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
+
++ [GitLab Continuous Integration](https://about.gitlab.com/gitlab-ci/): Integrated CI to test, build and deploy your code on GitLab.
++ [BuildBot](https://en.wikipedia.org/wiki/Buildbot), is written in Python on top of the Twisted libraries.
++ [Dockunit.io](https://dockunit.io/) is a GPL licensed, cross-platform experiment in Docker based integration tests [CI platform](https://github.com/dockunit/platform) that integrates with github.
++ [Tox](http://tox.readthedocs.org/en/latest/), an automation tool providing packaging, testing and deployment of Python software.
++ [Rake](https://en.wikipedia.org/wiki/Rake_%28software%29), a Ruby tool for software task management and build automation.
++ [Capistrano](https://en.wikipedia.org/wiki/Capistrano_%28software%29), an open source Ruby tool for running scripts on multiple servers to deploy web applications.
++ _NON-FOSS_:
+   + [Travis-CI](https://travis-ci.org/), free only for open source projects - integrates with github, gitlab status is not known.
+
+### Configuration Management
++ Ansible (.py)
++ Saltstack (.py)
++ Puppet (.rb)
++ Chef (.rb)
+
+### TDD
++ Julia: https://github.com/svaksha/Julia.jl/blob/master/QA.md
++ Python: https://github.com/svaksha/pythonidae/blob/master/QA.md
++ Ruby: 
+   * https://github.com/sdogruyol/awesome-ruby#testing
+   * https://github.com/markets/awesome-ruby#testing
+
+
+
+## Database
+Depending on the researcher data types, support which of the following DB's(?): 
+
++ RDBMS (Postgres, MariaDB, ..)
++ NoSQL : Is it document/ graph/ array based?
+   - MongoDB
+   - [Redis](http://redis.io/), is an open source (BSD licensed), in-memory data structure store, used as database, cache and message broker.
++ Array-based DB (SciDB).
++ HDF5
+
+
+## DVCS - Git GitLab
++ Git is the DVCS running the backend system to store data running a web-application to upload scripts, etc..
++ Use Gitlab, a Free and open source DVCS that uses GIT for version control.
++ For advanced features of git, non-CS researchers would need to be provided with help and documentation to enable them to use the tools smoothly. 
+
+
+## Computational Reproducibility - [Docker](https://docker.com)
+VM's are memory-intensive and harder to setup besides varying across distros. Hence, docker containers are a safer method to ensure easy reproducability without massive system or data changes.
++ Containerize the research data that is syntactically well-formed, has __meta tags__, is __cleaned up__ and __ready for reuse__ or for __testing and revalidating__ already published research. 
++ By creating __docker instances__ for the pockets of research that a scientist wishes to share, one can easily __reproduce the same environment instance in which the original computation was carried out__.
++ Write simple scripts to simplify the deployment of local code which will ease the worktable. (see, https://github.com/svaksha/yaksha)
+
+
+
+## Computational Reproducibility - [Reprozip](https://vida-nyu.github.io/reprozip/)
++ Computational reproducibility is hard to achieve due to the tedious scientific paper reviewing process which requires authors to generate a compendium that encapsulates all the inputs needed to correctly reproduce their experiments: the data, a complete specification of the experiment and its steps, and information about the originating computational environment (OS, hardware architecture, and library dependencies). 
++ Various OS introduce a dependency hell making it an impossible task to get the same computational environment across all distros even if they use similar tools.
++ Reprozip is almost like a virtual machine, but maybe smaller than a VM and most importantly it uses vagrant and docker and runs on anaconda (2.x).
++ Gives the user an isolated sandbox to test their research while allowing others to use the tools used by the scientist to reproduce the analytic procedures (e.g. scripts, spreadsheets, etc.) that were used to process or analyse the research data. 
++ There was a package conflict bug for Python-3.x within anaconda, now fixed : https://github.com/ViDA-NYU/reprozip/issues/157
+
+   
+## Framework - Data Quality Assesment
 + Quality checks on data for range and errors.
 + Domain-independent tests check syntactic wellformedness.
 + Validate data according to schemas.
@@ -58,7 +118,8 @@ The Foss tools available are :
 + Repo: https://github.com/Stiivi/bubbles
 + License: MIT.
 
-###### Pros & Cons
+###### NOTES
++ _Task_: Integrate validation scripts into platform.
 + _Pros_:
    * A Python framework makes it easier to maintain the dependency hell of various scientific libs if researchers also use Python for their analyical work.
    * The scientific library ecosystem has excellent support for [Astronomy & GIS](https://github.com/svaksha/pythonidae/blob/master/Earth-Science.md), [Biology](https://github.com/svaksha/pythonidae/blob/master/Biology.md), [Chemistry](https://github.com/svaksha/pythonidae/blob/master/Chemistry.md), [Physics](https://github.com/svaksha/pythonidae/blob/master/Physics.md), [Math](https://github.com/svaksha/pythonidae/blob/master/Mathematics.md), [Statistics](https://github.com/svaksha/pythonidae/blob/master/Statistics.md), and other scientific disciplines.
@@ -66,45 +127,8 @@ The Foss tools available are :
    * The packaging ecosystem can be hard for a newbie to navigate. Automating this is easier.
 
 
-__The web framework, CI, messaging libs, and other backendtack options available are__:
 
-## [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
-
-+ [GitLab Continuous Integration](https://about.gitlab.com/gitlab-ci/): Integrated CI to test, build and deploy your code on GitLab.
-+ [BuildBot](https://en.wikipedia.org/wiki/Buildbot), is written in Python on top of the Twisted libraries.
-+ [Dockunit.io](https://dockunit.io/) is a GPL licensed, cross-platform experiment in Docker based integration tests [CI platform](https://github.com/dockunit/platform) that integrates with github.
-+ [Tox](http://tox.readthedocs.org/en/latest/), an automation tool providing packaging, testing and deployment of Python software.
-+ [Rake](https://en.wikipedia.org/wiki/Rake_%28software%29), a Ruby tool for software task management and build automation.
-+ [Capistrano](https://en.wikipedia.org/wiki/Capistrano_%28software%29), an open source Ruby tool for running scripts on multiple servers to deploy web applications.
-+ _NON-FOSS_:
-   + [Travis-CI](https://travis-ci.org/), free only for open source projects - integrates with github, gitlab status is not known.
-
-### TDD
-+ Julia: https://github.com/svaksha/Julia.jl/blob/master/QA.md
-+ Python: https://github.com/svaksha/pythonidae/blob/master/QA.md
-+ Ruby: 
-   * https://github.com/sdogruyol/awesome-ruby#testing
-   * https://github.com/markets/awesome-ruby#testing
-
-## DVCS - Git GitLab
-+ Git is the DVCS running the backend system to store data running a web-application to upload scripts, etc..
-+ Use Gitlab, a Free and open source DVCS that uses GIT for version control.
-+ For advanced features of git, non-CS researchers would need to be provided with help and documentation to enable them to use the tools smoothly. 
-
-## Computational Reproducibility - [Docker](https://docker.com)
-VM's are memory-intensive and harder to setup besides varying across distros. Hence, docker containers are a safer method to ensure easy reproducability without massive system or data changes.
-+ Containerize the research data that is syntactically well-formed, has __meta tags__, is __cleaned up__ and __ready for reuse__ or for __testing and revalidating__ already published research. 
-+ By creating __docker instances__ for the pockets of research that a scientist wishes to share, one can easily __reproduce the same environment instance in which the original computation was carried out__.
-+ Write simple scripts to simplify the deployment of local code which will ease the worktable. (see, https://github.com/svaksha/yaksha)
-
-## Computational Reproducibility - [Reprozip](https://vida-nyu.github.io/reprozip/)
-+ Computational reproducibility is hard to achieve due to the tedious scientific paper reviewing process which requires authors to generate a compendium that encapsulates all the inputs needed to correctly reproduce their experiments: the data, a complete specification of the experiment and its steps, and information about the originating computational environment (OS, hardware architecture, and library dependencies). 
-+ Various OS introduce a dependency hell making it an impossible task to get the same computational environment across all distros even if they use similar tools.
-+ Reprozip is almost like a virtual machine, but maybe smaller than a VM and most importantly it uses vagrant and docker and runs on anaconda (2.x).
-+ Gives the user an isolated sandbox to test their research while allowing others to use the tools used by the scientist to reproduce the analytic procedures (e.g. scripts, spreadsheets, etc.) that were used to process or analyse the research data. 
-+ There was a package conflict bug for Python-3.x within anaconda, now fixed : https://github.com/ViDA-NYU/reprozip/issues/157
-
-## Web Framework
+## Framework - Web
 Options to consider are:
 
 + Django (.py)
@@ -120,28 +144,17 @@ Options to consider are:
 + [Volt](http://voltframework.com/) (.rb), https://github.com/voltrb/volt
    - New ruby framework.
    - Not sure about the level of community support, libs and documentation.
-   
-## Configuration Management
-+ Ansible (.py)
-+ Saltstack (.py)
-+ Puppet (.rb)
-+ Chef (.rb)
 
-## Server Infrastructure
+
+
+## Infrastructure - Server
 + Self-hosted server farms.
+
 
 ## Messaging Lib
 + RabbitMQ
 + ZeroMQ
 
-## Database
-Depending on the researcher data types, support which of the following DB's(?): 
-
-+ RDBMS (Postgres, MariaDB, ..)
-+ NoSQL : Is it document/ graph/ array based?
-   - MongoDB
-   - [Redis](http://redis.io/), is an open source (BSD licensed), in-memory data structure store, used as database, cache and message broker.
-+ Array-based DB (SciDB).
-+ HDF5
-
+## Visualization
++ 
 
