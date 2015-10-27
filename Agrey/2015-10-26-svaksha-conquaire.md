@@ -2,17 +2,16 @@
 + [TECHNOLOGY](#technology)
    + [WP3 - Data Quality Assesment Framework](#wp3-data-quality-assesment-framework)
         + [Bubbles](#bubbles)
-   + [Backend](#backend)
-        + [DVCS - Git GitLab](#dvcs-git-gitlab)
-        + [Computational Reproducibility - Docker](#computational-reproducibility-docker)
-        + [Computational Reproducibility - Reprozip](#computational-reproducibility-reprozip)
-        + [Web Framework](#web-framework)
-        + [Configuration Management](#configuration-management)
-        + [Server Infrastructure](#server-infrastructure)
-        + [Messaging Lib](#messaging-lib)
-        + [Database](#database)
-        + [Continuous Integration](#continuous-integration)        
-            + [TDD](#tdd)
+   + [Continuous Integration](#continuous-integration)        
+        + [TDD](#tdd)
+   + [DVCS - Git GitLab](#dvcs-git-gitlab)
+   + [Computational Reproducibility - Docker](#computational-reproducibility-docker)
+   + [Computational Reproducibility - Reprozip](#computational-reproducibility-reprozip)
+   + [Web Framework](#web-framework)
+   + [Configuration Management](#configuration-management)
+   + [Server Infrastructure](#server-infrastructure)
+   + [Messaging Lib](#messaging-lib)
+   + [Database](#database)
 
 ====
 
@@ -62,60 +61,75 @@ The Foss tools available are :
    * A Python framework makes it easier to maintain the dependency hell of various scientific libs if researchers also use Python for their analyical work.
    * The scientific library ecosystem has excellent support for [Astronomy & GIS](https://github.com/svaksha/pythonidae/blob/master/Earth-Science.md), [Biology](https://github.com/svaksha/pythonidae/blob/master/Biology.md), [Chemistry](https://github.com/svaksha/pythonidae/blob/master/Chemistry.md), [Physics](https://github.com/svaksha/pythonidae/blob/master/Physics.md), [Math](https://github.com/svaksha/pythonidae/blob/master/Mathematics.md), [Statistics](https://github.com/svaksha/pythonidae/blob/master/Statistics.md), and other scientific disciplines.
 + _Cons_:
-   * The packaging ecosystem can be hard for a newbie to navigate.
+   * The packaging ecosystem can be hard for a newbie to navigate. Automating this is easier.
 
 
-## Backend
+__The web framework, CI, messaging libs, and other backendtack options available are__:
 
-The web framework, CI, messaging libs, and other backendtack options available are:
+## [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
 
-### DVCS - Git GitLab
++ [BuildBot](https://en.wikipedia.org/wiki/Buildbot), is written in Python on top of the Twisted libraries.
++ [Tox](http://tox.readthedocs.org/en/latest/), an automation tool providing packaging, testing and deployment of Python software.
++ [Rake](https://en.wikipedia.org/wiki/Rake_%28software%29), a Ruby tool for software task management and build automation.
++ _NON-FOSS_:
+   + [Travis-CI](https://travis-ci.org/), free only for open source projects - integrates with github, gitlab status is not known.
+
+### TDD
++ Julia: https://github.com/svaksha/Julia.jl/blob/master/QA.md
++ Python: https://github.com/svaksha/pythonidae/blob/master/QA.md
++ Ruby: 
+   * https://github.com/sdogruyol/awesome-ruby#testing
+   * https://github.com/markets/awesome-ruby#testing
+
+## DVCS - Git GitLab
 + Git is the DVCS running the backend system to store data running a web-application to upload scripts, etc..
 + Use Gitlab, a Free and open source DVCS that uses GIT for version control.
 + For advanced features of git, non-CS researchers would need to be provided with help and documentation to enable them to use the tools smoothly. 
 
-### Computational Reproducibility - [Docker](https://docker.com)
+## Computational Reproducibility - [Docker](https://docker.com)
 VM's are memory-intensive and harder to setup besides varying across distros. Hence, docker containers are a safer method to ensure easy reproducability without massive system or data changes.
 + Containerize the research data that is syntactically well-formed, has __meta tags__, is __cleaned up__ and __ready for reuse__ or for __testing and revalidating__ already published research. 
 + By creating __docker instances__ for the pockets of research that a scientist wishes to share, one can easily __reproduce the same environment instance in which the original computation was carried out__.
 + Write simple scripts to simplify the deployment of local code which will ease the worktable. (see, https://github.com/svaksha/yaksha)
 
-### Computational Reproducibility - [Reprozip](https://vida-nyu.github.io/reprozip/)
+## Computational Reproducibility - [Reprozip](https://vida-nyu.github.io/reprozip/)
 + Computational reproducibility is hard to achieve due to the tedious scientific paper reviewing process which requires authors to generate a compendium that encapsulates all the inputs needed to correctly reproduce their experiments: the data, a complete specification of the experiment and its steps, and information about the originating computational environment (OS, hardware architecture, and library dependencies). 
 + Various OS introduce a dependency hell making it an impossible task to get the same computational environment across all distros even if they use similar tools.
 + Reprozip is almost like a virtual machine, but maybe smaller than a VM and most importantly it uses vagrant and docker and runs on anaconda (2.x).
 + Gives the user an isolated sandbox to test their research while allowing others to use the tools used by the scientist to reproduce the analytic procedures (e.g. scripts, spreadsheets, etc.) that were used to process or analyse the research data. 
 + There was a package conflict bug for Python-3.x within anaconda, now fixed : https://github.com/ViDA-NYU/reprozip/issues/157
 
-### Web Framework
+## Web Framework
 Options to consider are:
 
 + Django (.py)
    - Django is better suited to CMS-like tasks.
    - Strong and popular with many django-libs.
-   - Good support, project wont vanish or cease development.
+   - Good community support, project wont vanish or cease development.
    - More explicit than Ruby/RoR.
 + RoR (.rb)
    - Rails is more general-purpose.
-   - Popular but too much inbuilt magic.
-   - Fast prototyping and easy to get webapps up and running in a very quick time. 
+   - Good community support and a popular web tool.
+   - Fast prototyping and easy to get webapps up and running in a very quick time BUT has too much inbuilt magic.
    - Many high quality gems (libs) out there that would serve many common requirements for web development.
 + [Volt](http://voltframework.com/) (.rb), https://github.com/voltrb/volt
-
-### Configuration Management
+   - New ruby framework.
+   - Not sure about the level of community support, libs and documentation.
+   
+## Configuration Management
++ Ansible (.py)
 + Saltstack (.py)
 + Puppet (.rb)
-+ Ansible
-+ Chef
++ Chef (.rb)
 
-### Server Infrastructure
+## Server Infrastructure
 + Self-hosted server farms.
 
-### Messaging Lib
+## Messaging Lib
 + RabbitMQ
 + ZeroMQ
 
-### Database
+## Database
 Depending on the researcher data types, support which of the following DB's(?): 
 
 + RDBMS (Postgres, MariaDB, ..)
@@ -123,16 +137,5 @@ Depending on the researcher data types, support which of the following DB's(?):
    * Is it document/ graph/ array based?
 + Array-based DB (SciDB).
 + HDF5
-
-### [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
-
-+ Travis-CI, https://travis-ci.org/      
-
-#### TDD
-+ Julia: https://github.com/svaksha/Julia.jl/blob/master/QA.md
-+ Python: https://github.com/svaksha/pythonidae/blob/master/QA.md
-+ Ruby: 
-   * https://github.com/sdogruyol/awesome-ruby#testing
-   * https://github.com/markets/awesome-ruby#testing
 
 
