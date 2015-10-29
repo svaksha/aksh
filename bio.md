@@ -4,7 +4,9 @@
 * [BIOINFORMATICS](#bioinformatics)
 * [BIOSTATISTICS](#bioinformatics)
 * [BIOTECHNOLOGY](#biotechnology)
-   
+   + [SAS](#sas)
+   + [Proteins](#proteins)
+      
 ----
 
 # BOOKS
@@ -25,6 +27,15 @@
 * https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology
 * https://en.wikipedia.org/wiki/BBGKY_hierarchy
 * [HN thread on Bayesian Statistics](https://news.ycombinator.com/item?id=4030061) and the article: [Understand the Math Behind it All: Bayesian Statistics](http://blogs.adobe.com/digitalmarketing/personalization/conversion-optimization/understand-the-math-behind-it-all-bayesian-statistics/)
+
++ http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/MethodsInBiostatisticsI/coursePage/index/
++ Lecture notes, http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/MethodsInBiostatisticsI/coursePage/lectureNotes/
++ http://www.smart-stats.org/
++ More lecture notes from 2012, https://docs.google.com/folder/d/0B4QrfwPyx_SQdS14YXZuZHRIWG8/edit?docId=0B4QrfwPyx_SQamg3M09MVGYyc28
+
++ https://class.coursera.org/biostats-2012-001/class/index
+* http://ocw.jhsph.edu/
+* Study material on the wiki, http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/BiostatisticsLectureSeries05/coursePage/index/
 
 ----
 
@@ -52,7 +63,6 @@
 * https://www.ebi.ac.uk/Tools/webservices/services/pfa/fingerprintscan_rest
 
 ----
-
 
 # NEWS
 * http://www.ozy.com/rising-stars-and-provocateurs/the-crusade-of-marcela-uliano-da-silva/32937

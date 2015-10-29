@@ -105,9 +105,9 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
 ## Framework - Data Quality Assesment
 + Quality checks on data for range and errors.
 + Domain-independent tests check syntactic wellformedness.
-+ Validate data according to schemas.
++ Validate data according to schemas. _Task_: Integrate validation scripts into platform.
 + Provision of metadata and consistent use of vocabulary.
-+ Availability of scripts. 
++ Open availability of scripts for automation tasks.
 + Domain-specific quality checks will be implemented and integrated into the framework as services in a plug-in framework. 
 
 The Foss tools available are : 
@@ -119,7 +119,6 @@ The Foss tools available are :
 + License: MIT.
 
 ###### NOTES
-+ _Task_: Integrate validation scripts into platform.
 + _Pros_:
    * A Python framework makes it easier to maintain the dependency hell of various scientific libs if researchers also use Python for their analyical work.
    * The scientific library ecosystem has excellent support for [Astronomy & GIS](https://github.com/svaksha/pythonidae/blob/master/Earth-Science.md), [Biology](https://github.com/svaksha/pythonidae/blob/master/Biology.md), [Chemistry](https://github.com/svaksha/pythonidae/blob/master/Chemistry.md), [Physics](https://github.com/svaksha/pythonidae/blob/master/Physics.md), [Math](https://github.com/svaksha/pythonidae/blob/master/Mathematics.md), [Statistics](https://github.com/svaksha/pythonidae/blob/master/Statistics.md), and other scientific disciplines.
@@ -129,7 +128,7 @@ The Foss tools available are :
 
 
 ## Framework - Web
-Options to consider are:
+The most popular web frameworks to consider are:
 
 + Django (.py)
    - Django is better suited to CMS-like tasks.
@@ -156,5 +155,7 @@ Options to consider are:
 + ZeroMQ
 
 ## Visualization
+Tools for visualization are available in Python, Julia, Javascript, etc..
+
 + 
 

@@ -3,6 +3,7 @@
 + [Calculus and Analysis](#calculus-and-analysis)
 + [Calculus-II](#calculus-ii)
 + [Combinatorics](#combinatorics)
+   + [Julia Sets](#julia-sets)
 + [Geometry](#geometry)
 + [Linear Algebra](#linear-algebra)
 + [PAPERS](#papers)
@@ -45,6 +46,8 @@ https://en.wikipedia.org/wiki/Category:Hashing
 
 # [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics)
 + Curse of dimensionality, https://en.wikipedia.org/wiki/Curse_of_dimensionality
++ http://aofa.cs.princeton.edu 
++ http://ac.cs.princeton.edu
 
 ### Julia Sets
 + 2004, [Hyperbolic Julia Sets are Poly-Time Computable](http://www.cs.toronto.edu/~mbraverm/Papers/CCA04.pdf), Mark Braverman.
