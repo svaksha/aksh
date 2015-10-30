@@ -1,23 +1,37 @@
-+ [Arithmetic](#Arithmetic)
++ [PAPERS](#papers)
 + [BOOKS](#books)
++ [Resources](#resources)
 + [Calculus and Analysis](#calculus-and-analysis)
 + [Calculus-II](#calculus-ii)
 + [Combinatorics](#combinatorics)
    + [Julia Sets](#julia-sets)
++ [Numerical Analysis](#numerical-analysis)
 + [Geometry](#geometry)
 + [Linear Algebra](#linear-algebra)
-+ [PAPERS](#papers)
 + [Type Theory](#type-theory)
 
 ----
 
-# Arithmetic
-+ [A "two-product" style algorithm paper](http://www.ti3.tu-harburg.de/paper/rump/OgRuOi05.pdf).
+# PAPERS
++ Arithmetic : [A "two-product" style algorithm paper](http://www.ti3.tu-harburg.de/paper/rump/OgRuOi05.pdf).
++ [Associative-Commutative Discrimination Nets](http://www.cs.tufts.edu/~nr/cs257/archive/leo-bachmair/ac-discrimination-nets.pdf)
++ Richard Jenk's paper ["A Pattern Compiler"](https://dl.acm.org/citation.cfm?id=806324&dl=ACM&coll=DL&CFID=621425526&CFTOKEN=54560421)
 
 ----
 
+
 # Books
 + [the Art of Problem Solving](http://artofproblemsolving.com/store/item/aops-vol2), Volume 2: and Beyond, Richard Rusczyk and Sandor Lehoczky.
+
+----
+
+# Resources
+
++ http://www.youtube.com/watch?v=hE7l6Adoiiw
++ vihart.com/doodling , http://vihart.com/doodling/
++ WaterJugs puzzle, http://delphiforfun.org/programs/WaterJugs.htm
++ math-sci-net, http://www.ams.org/mathscinet
++ highwire, http://highwire.stanford.edu:4141/
 
 ----
 
@@ -55,6 +69,11 @@ https://en.wikipedia.org/wiki/Category:Hashing
 
 ----
 
+# Numerical Analysis
++ http://en.wikipedia.org/wiki/Category:Linux_numerical_analysis_software
+
+----
+
 # Geometry
 + [Chirality in MATH](http://en.wikipedia.org/wiki/Chirality_%28mathematics%29) and [Chirality in Organic Chemistry](http://en.wikipedia.org/wiki/Chirality_%28chemistry%29).
 + http://mathworld.wolfram.com/Slope.html
@@ -81,13 +100,6 @@ https://en.wikipedia.org/wiki/Category:Hashing
 + https://en.wikipedia.org/wiki/Array_data_type
 + https://ch.mathworks.com/help/distcomp/sparse.html
 + https://ch.mathworks.com/help/distcomp/distributed.spalloc.html
-
-----
-
-# PAPERS
-+ [Associative-Commutative Discrimination Nets](http://www.cs.tufts.edu/~nr/cs257/archive/leo-bachmair/ac-discrimination-nets.pdf)
-+ Richard Jenk's paper ["A Pattern Compiler"](https://dl.acm.org/citation.cfm?id=806324&dl=ACM&coll=DL&CFID=621425526&CFTOKEN=54560421)
-
 
 ----
 

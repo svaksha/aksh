@@ -1,10 +1,13 @@
-
++ [Algorithms](#algorithms)
++ [3D Libs](#3d-libs)
++ [File Formats](#file-formats)
 
 ----
 
 + CV, https://en.wikipedia.org/wiki/Computer_vision
 + [Visual Computing](https://en.wikipedia.org/wiki/Visual_Computing)
 + https://en.wikipedia.org/wiki/Category:Computer_vision
++ http://en.wikipedia.org/wiki/Category:Free_data_visualization_software
 
 ----
 
