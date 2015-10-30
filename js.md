@@ -1,6 +1,7 @@
 + [Node.JS](#node.js)
 + [Templating](#templating)
 + [PDF](#pdf)
++ [Functional](#functional)
 
 ----
 
@@ -24,3 +25,9 @@
 
 # PDF 
 + https://github.com/nisaacson/pdf-extract
+
+----
+
+# Functional
++ An intro to functional programming: http://www.bootstrapworld.org/materials/ 
+

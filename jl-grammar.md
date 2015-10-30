@@ -1,6 +1,7 @@
 + [MAP](#map)
 + [OOP](#oop)
 + [RANGES](#ranges)
++ [Functional](#functional)
 
 ----
 
@@ -102,4 +103,8 @@ julia> findin([5.2, 3.3], 3:20)
 julia> findin([5.2, 3.3], 3:1:20)
 0-element Array{Int64,1}
 
+----
+
+# Functional
++ An intro to functional programming: http://www.bootstrapworld.org/materials/ 
 

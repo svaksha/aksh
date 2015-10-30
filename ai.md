@@ -41,6 +41,18 @@
 # NLP
 + https://github.com/ftzeng/broca
 
+## Sentiment Analysis
++ Front End Resources: Ajax Hacks : http://webmasters.stackexchange.com/questions/22338/why-not-ajaxify-entire-websites
++ Back End Resources:
++ http://www.elasticsearch.org/guide/reference/river/
++ https://dev.twitter.com/programs/twitter-certified-products/products
+
+### NLTK 
+* NLTK trainer, https://bitbucket.org/japerk/nltk-trainer/src
+* https://github.com/marcua/tweeql/
+* http://streamhacker.com/2010/10/25/training-binary-text-classifiers-nltk-trainer/
+* http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
+
 ### Resources
 + http://spaceandtim.es/opennews/broca
 

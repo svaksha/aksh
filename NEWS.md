@@ -38,3 +38,6 @@
 + http://en.wikipedia.org/wiki/Taxonomy
 + Info Sc. ontology, http://en.wikipedia.org/wiki/Ontology_%28information_science%29
 + Formal concept analysis: http://en.wikipedia.org/wiki/Formal_concept_analysis
+
+## Software Design
++ What not to do if you are designing a new language: http://tetamap.wordpress.com/2012/11/13/if-i-were-to-design-a-new-programming-language/

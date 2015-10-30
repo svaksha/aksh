@@ -1,13 +1,14 @@
-* [Crystallography](#crystallography)
-* [Genome](#genome)
-* [General Datasets](#general-datasets)
-* [Genetics-Medicine](#genetics-medicine)
-* [Machine Learning](#machine-learning)
++ [Crystallography](#crystallography)
++ [Genome](#genome)
++ [General Datasets](#general-datasets)
++ [Genetics-Medicine](#genetics-medicine)
++ [Machine Learning](#machine-learning)
 + [Molecular Biology](#molecular-biology)
-* [Neuroscience](#neuroscience)
-* [Pharma](#Pharma)
-* [Research Data](#research-data)
-* [Scientific Databases](#scientific-databases)
++ [Neuroscience](#neuroscience)
++ [NLP](#nlp)
++ [Pharma](#Pharma)
++ [Research Data](#research-data)
++ [Scientific Databases](#scientific-databases)
 
 **NB :: Not all the DB's are freely available.**
 
@@ -74,6 +75,11 @@
 * [OpenfMRI.org](https://openfmri.org) :: is a project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
 * [Neuroscience Databases](http://en.wikipedia.org/wiki/List_of_neuroscience_databases) list.
 * [Neurovault](http://neurovault.org/) :: A place where researchers can publicly store and share unthresholded statistical maps produced by MRI and PET studies.
+
+----
+
+# NLP
++ Free CORPUS: http://www.cs.pitt.edu/mpqa/
 
 ----
 

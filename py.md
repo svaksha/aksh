@@ -69,6 +69,8 @@ After installation go to `http://localhost:8888/nbextensions` and activate the e
 
 # Programming
 
++ MIT's "gentle" introduction to Python : http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/
+
 ## Exceptions
 + http://stackoverflow.com/questions/21211006/how-to-catch-all-old-style-class-exceptions-in-python
 
@@ -80,5 +82,9 @@ After installation go to `http://localhost:8888/nbextensions` and activate the e
 
 ## BAD programming habits
 + http://stackoverflow.com/questions/21553327/why-is-except-pass-a-bad-programming-practice
+
+## Interactive Python
++ http://www.codeskulptor.org/coursera/syllabus.html
++ Ex:  http://www.codeskulptor.org/#user2-T5HQQkgicddJyTs-0.py
 
 
