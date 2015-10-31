@@ -56,6 +56,7 @@ Leverage existing FOSS tools for the similarity in features and other specificat
 
 ### Configuration Management
 + Ansible (.py)
+  + + [julia-ansible-scripts](https://github.com/staticfloat/julia-ansible-scripts) :: Various julia ansible scripts for provisioning servers, buildbots etc... 
 + Saltstack (.py)
 + Puppet (.rb)
 + Chef (.rb)
