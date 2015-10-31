@@ -82,7 +82,6 @@
 
 ### Programming resources
 + MIT's intro to computer science (Open Courseware) : http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm
-+ MIT's introduction to programming in Java : http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/
 + MIT's introduction to C++ : http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/
 + MIT's building programming experience: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/
 + Stanford Engineering Everywhere : http://see.stanford.edu/see/courses.aspx
@@ -90,7 +89,6 @@
 + Nick Parlante: http://codingbat.com/ is a great collection of python and java programming exercises.
 + For web specific: http://www.dontfeartheinternet.com/ 
 + http://www.codecademy.com/
-+ Greenfoot is a great beginner's language you code in Java, but takes away some of the abstraction because the things you are building are concrete and visible on the screen.
 + http://lifeandcode.tumblr.com/post/11980940683/life-and-codes-learn-to-code-resources-guide has a good collection of resources including a bunch on computer science.
 + There is always the non-gentle introduction, available for free: http://mitpress.mit.edu/sicp/full-text/book/book.html  
 
@@ -103,20 +101,9 @@ Good online places to start:
 - http://www.codecademy.com/ (This is great, if you sign up for codeyear you get emails every week with new lessons
 - http://www.udacity.com/ (hasn't started yet but sign up is open)
 
-PYTHON
 
-MIT's Python class:
-    - http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/
-
-Think Python: Pretty standard python book if you don't like this one there are a bunch of open free ones online.
-    -http://greenteapress.com/thinkpython/thinkpython.html
-
-Codingbat: Online test cases to practice python and Java
-    -http://codingbat.com/
-
-
-JAVA
-
-Greenfoot: They offer a AP CS text book that uses their software. Its a friendly and visual introduction to real Java programming.
-    -http://www.greenfoot.org/door (shameless plug, I am teaching a class on this starting next Monday)
+#### JAVA
++ MIT's introduction to programming in Java : http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/
++ Greenfoot: They offer a AP CS text book that uses their software. Its a friendly and visual introduction to real Java programming.
+   - http://www.greenfoot.org/door 
 

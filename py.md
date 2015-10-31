@@ -1,3 +1,9 @@
++ [Jupyter](#jupyter)
++ [NLP](#nlp)
++ [HDF5](#hdf5)
++ [MOOC](#mooc)
+
+----
 
 # Jupyter
 https://github.com/ipython-contrib/IPython-notebook-extensions, allows you to install some very useful extensions for the Jupyter notebook. One of the extension allows for copy pasting cells across notebooks and picture into a notebook. Here is an installation script used to install the notebook extensions within he Anaconda/Miniconda distribution:
@@ -41,9 +47,7 @@ After installation go to `http://localhost:8888/nbextensions` and activate the e
 + https://docs.python.org/3.4/distutils/setupscript.html
 + http://stackoverflow.com/questions/5932804/set-file-permission-in-setup-py-file/25761434#25761434
 
-----
-
-# Conda
+## Conda
 + http://conda.pydata.org/docs/intro.html#conda-overview
 
 ----
@@ -69,8 +73,6 @@ After installation go to `http://localhost:8888/nbextensions` and activate the e
 
 # Programming
 
-+ MIT's "gentle" introduction to Python : http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/
-
 ## Exceptions
 + http://stackoverflow.com/questions/21211006/how-to-catch-all-old-style-class-exceptions-in-python
 
@@ -87,4 +89,9 @@ After installation go to `http://localhost:8888/nbextensions` and activate the e
 + http://www.codeskulptor.org/coursera/syllabus.html
 + Ex:  http://www.codeskulptor.org/#user2-T5HQQkgicddJyTs-0.py
 
+## MOOC
++ MIT's "gentle" introduction to Python : http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/
++ MIT's Python class: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/
++ Think Python: http://greenteapress.com/thinkpython/thinkpython.html
++ Codingbat: Online test cases to practice python and Java, http://codingbat.com/
 
