@@ -94,6 +94,7 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
 + Containerize the research data that is syntactically well-formed, has __meta tags__, is __cleaned up__ and __ready for reuse__ or for __testing and revalidating__ already published research. 
 + By creating __docker instances__ for the pockets of research that a scientist wishes to share, one can easily __reproduce the same environment instance in which the original computation was carried out__.
 + Write simple scripts to simplify the deployment of local code which will ease the worktable. (see, https://github.com/svaksha/yaksha)
++ From 2015November, docker will upgrade the autobuilds functionality and infrastructure to offer dynamic matching of git branches and tags as well as faster builds. This means, the Docker Hub build system can be configured to dynamically trigger builds when the team creates new git branches and tags. For example, if you you create a new git feature branch named `new-feature`, the build system will automatically build a docker image tagged as `new-feature`. This allows Docker Hub autobuilds to fit seamlessly into your development and deployment workflow and it is configurable to support full dynamic matches, regex filters, or simple static matches.
 
 
 
