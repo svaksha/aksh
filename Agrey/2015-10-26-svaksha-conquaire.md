@@ -10,7 +10,6 @@
    + [Framework - Data Quality Assesment](#framework-data-quality-assesment)
         + [Bubbles](#bubbles)
    + [Framework - Web](#framework-web)
-   + [Infrastructure - Server](#infrastructure-server)
    + [Messaging Lib](#messaging-lib)
    + [Visualization](#visualization)
    
@@ -35,31 +34,35 @@ Development related tips:
 + Must be easy to learn - in terms of future development and maintenance issues.
 + Existing cross-lang API wrappers must be maintained in future too.
 + Good community support - essential for help-related issues.
-+ Good documentation.
++ Good documentation :: Locally, where ever possible provide links to documentation and other helpful links in a wiki or a git-based system that can be easily updated (via markdown document files), say, the public github wiki system based on git. Alternatively, a self-hosted [private wiki](https://github.com/kahun/awesome-sysadmin#wikis) can also be used but it creates additional overheads of regular maintenence and data backups, hence, the public git-based system is more suitable.
 
 ====
 
 # TECHNOLOGY
 
-Leverage existing FOSS tools for the similarity in features and other specifications and their reuse potential as per the Licenses they are released under. The web framework, CI, messaging libs, and other backendtack options available are : 
+The Infrastructure & Servers for the below mentioned FOSS stack will run on self-hosted server farms. The idea is to leverage existing free software stack for the similarity in features and other specifications and their reuse potential as per the Licenses they are released under. 
+
+The web framework, CI, messaging libs, and other backendtack options available are : 
 
 ## [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
 
-+ [GitLab Continuous Integration](https://about.gitlab.com/gitlab-ci/): Integrated CI to test, build and deploy your code on GitLab.
++ [GitLab Continuous Integration](https://about.gitlab.com/gitlab-ci/): Integrated CI to test, build and deploy your code on GitLab. [Volkswagen](https://github.com/auchenberg/volkswagen) detects when your tests are being run in a CI server, and makes them pass. Gitlab CI is supported.
 + [BuildBot](https://en.wikipedia.org/wiki/Buildbot), is written in Python on top of the Twisted libraries.
 + [Dockunit.io](https://dockunit.io/) is a GPL licensed, cross-platform experiment in Docker based integration tests [CI platform](https://github.com/dockunit/platform) that integrates with github.
++ https://github.com/kahun/awesome-sysadmin#continuous-integration--continuous-deployment
 + [Tox](http://tox.readthedocs.org/en/latest/), an automation tool providing packaging, testing and deployment of Python software.
 + [Rake](https://en.wikipedia.org/wiki/Rake_%28software%29), a Ruby tool for software task management and build automation.
 + [Capistrano](https://en.wikipedia.org/wiki/Capistrano_%28software%29), an open source Ruby tool for running scripts on multiple servers to deploy web applications.
 + _NON-FOSS_:
    + [Travis-CI](https://travis-ci.org/), free only for open source projects - integrates with github, gitlab status is not known.
 
+
 ### Configuration Management
 + Ansible (.py)
   + + [julia-ansible-scripts](https://github.com/staticfloat/julia-ansible-scripts) :: Various julia ansible scripts for provisioning servers, buildbots etc... 
 + Saltstack (.py)
 + Puppet (.rb)
-+ Chef (.rb)
++ Chef (.rb) : https://github.com/obazoud/awesome-chef
 
 ### TDD
 + Julia: https://github.com/svaksha/Julia.jl/blob/master/QA.md
@@ -69,16 +72,22 @@ Leverage existing FOSS tools for the similarity in features and other specificat
    * https://github.com/markets/awesome-ruby#testing
 
 
-
 ## Database
 Depending on the researcher data types, support which of the following DB's(?): 
 
-+ RDBMS (Postgres, MariaDB, ..)
+#### RDBMS
++ [Relational DBMS](https://github.com/kahun/awesome-sysadmin#rdbms) : Postgres, MariaDB, ..
+
+#### NoSQL
 + NoSQL : Is it document/ graph/ array based?
    - MongoDB
    - [Redis](http://redis.io/), is an open source (BSD licensed), in-memory data structure store, used as database, cache and message broker.
 + Array-based DB (SciDB).
++ https://github.com/kahun/awesome-sysadmin#nosql
+
+#### Distributed File Systems
 + HDF5
++ https://github.com/kahun/awesome-sysadmin#distributed-filesystems
 
 
 ## DVCS - Git GitLab
@@ -124,17 +133,17 @@ The Foss tools available are :
 
 ###### NOTES
 + _Pros_:
-   * A Python framework makes it easier to maintain the dependency hell of various scientific libs if researchers also use Python for their analyical work.
+   * A Python framework reduces the dependency hell between various scientific libs when researchers also use Python for their analyical work, thereby reducing devops infrastructure maintenance.
    * The scientific library ecosystem has excellent support for [Astronomy & GIS](https://github.com/svaksha/pythonidae/blob/master/Earth-Science.md), [Biology](https://github.com/svaksha/pythonidae/blob/master/Biology.md), [Chemistry](https://github.com/svaksha/pythonidae/blob/master/Chemistry.md), [Physics](https://github.com/svaksha/pythonidae/blob/master/Physics.md), [Math](https://github.com/svaksha/pythonidae/blob/master/Mathematics.md), [Statistics](https://github.com/svaksha/pythonidae/blob/master/Statistics.md), and other scientific disciplines.
 + _Cons_:
-   * The packaging ecosystem can be hard for a newbie to navigate. Automating this is easier.
+   * The packaging ecosystem can be hard for a newbie to navigate. Hence, the service adoption can be increased by automating simple tasks and providing this information to all the researchers.
 
 
 
 ## Framework - Web
 The most popular web frameworks to consider are:
 
-+ Django (.py)
++ Django (.py) : [List of Django libs](https://github.com/rosarior/awesome-django).
    - Django is better suited to CMS-like tasks.
    - Strong and popular with many django-libs.
    - Good community support, project wont vanish or cease development.
@@ -149,17 +158,16 @@ The most popular web frameworks to consider are:
    - Not sure about the level of community support, libs and documentation.
 
 
-
-## Infrastructure - Server
-+ Self-hosted server farms.
-
-
 ## Messaging Lib
 + RabbitMQ
 + ZeroMQ
++ https://github.com/kahun/awesome-sysadmin#queuing
 
-## Visualization
-Tools for visualization are available in Python, Julia, Javascript, etc..
+## Visualization {ToDo}
+Toolkits for visualization are available in the following languages:
++ JS: [D3.js](https://github.com/wbkd/awesome-d3) is a list of D3 libraries, plugins and utilities.
++ Julia: [Visualization](https://github.com/svaksha/Julia.jl/blob/master/Computer-Graphics.md#infographics) libs.
++ Python: [Bokeh, Matplotlib, etc..](https://github.com/svaksha/pythonidae/blob/master/Computer-Graphics.md#infographics).
 
-+ 
+
 
