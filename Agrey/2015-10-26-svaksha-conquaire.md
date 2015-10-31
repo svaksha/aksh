@@ -21,28 +21,25 @@
 + OpenData - Make the data publicly available to allow reproduction of the computational analysis.
 + Ensure research data quality and reproducibility along the whole research lifecycle. 
 
-Other useful tips to keep in mind: 
-
+Other useful tips to remember: 
 + https://github.com/swcarpentry/good-enough-practices-in-scientific-computing/blob/gh-pages/index.md is an ongoing paper being written about best practices in scientific computing with many useful tips like normalizing data, automation, writing small funtions, etc.. 
 + The standardization of research methodologies and processes will help the data quality monitoring process, create reusable datasets and reproducable research.
 
-
-Development related tips:
-
-+ Choose the stack whose programming language is popular across domains (web-dev, TDD and scientific development) with good library support for all the different domains.
+General development tips for choosing a FOSS stack :
++ Choose the stack whose programming language is popular across domains (web-dev, TDD and scientific development) as they have good library support for all the different domains. Besides, these will most likely be well-maintained due to their popularity.
 + Mixing programming languages is inevitable for certain tasks but more than 2 or 3 will become a maintenance nightmare over time - Dependency hell and future maintenance issues, if any.
 + Must be easy to learn - in terms of future development and maintenance issues.
 + Existing cross-lang API wrappers must be maintained in future too.
-+ Good community support - essential for help-related issues.
++ Good community support - very essential for bugs or help wanted situations. At the minimum, a mailing list or irc-channel with some core-devs interacting with the general public.
 + Good documentation :: Locally, where ever possible provide links to documentation and other helpful links in a wiki or a git-based system that can be easily updated (via markdown document files), say, the public github wiki system based on git. Alternatively, a self-hosted [private wiki](https://github.com/kahun/awesome-sysadmin#wikis) can also be used but it creates additional overheads of regular maintenence and data backups, hence, the public git-based system is more suitable.
 
 ====
 
 # TECHNOLOGY
 
-The Infrastructure & Servers for the below mentioned FOSS stack will run on self-hosted server farms. The idea is to leverage existing free software stack for the similarity in features and other specifications and their reuse potential as per the Licenses they are released under. 
+The Hardware infrastructure & servers for the below mentioned FOSS stack will run on self-hosted server farms. The idea is to leverage existing free software stack for the similarity in features and other specifications and their reuse potential as per the Licenses they are released under. 
 
-The web framework, CI, messaging libs, and other backendtack options available are : 
+Here is a quick outline for the web frameworks, CI, messaging libs, and other backend stack options that are currently available and/or popular:
 
 ## [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
 
@@ -73,7 +70,7 @@ The web framework, CI, messaging libs, and other backendtack options available a
 
 
 ## Database
-Depending on the researcher data types, support which of the following DB's(?): 
+Depending on the researcher's data types, support which of the following DB's(?):
 
 #### RDBMS
 + [Relational DBMS](https://github.com/kahun/awesome-sysadmin#rdbms) : Postgres, MariaDB, ..
@@ -104,7 +101,6 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
 + By creating __docker instances__ for the pockets of research that a scientist wishes to share, one can easily __reproduce the same environment instance in which the original computation was carried out__.
 + Write simple scripts to simplify the deployment of local code which will ease the worktable. (see, https://github.com/svaksha/yaksha)
 + From 2015November, docker will upgrade the autobuilds functionality and infrastructure to offer dynamic matching of git branches and tags as well as faster builds. This means, the Docker Hub build system can be configured to dynamically trigger builds when the team creates new git branches and tags. For example, if you you create a new git feature branch named `new-feature`, the build system will automatically build a docker image tagged as `new-feature`. This allows Docker Hub autobuilds to fit seamlessly into your development and deployment workflow and it is configurable to support full dynamic matches, regex filters, or simple static matches.
-
 
 
 ## Computational Reproducibility - [Reprozip](https://vida-nyu.github.io/reprozip/)
