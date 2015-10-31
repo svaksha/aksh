@@ -83,7 +83,9 @@ Depending on the researcher data types, support which of the following DB's(?):
 
 ## DVCS - Git GitLab
 + Git is the DVCS running the backend system to store data running a web-application to upload scripts, etc..
-+ Use Gitlab, a Free and open source DVCS that uses GIT for version control.
++ GIT-based Free and open source DVCS hosting service:
+   + https://notabug.org
+   + https://gitlab.com
 + For advanced features of git, non-CS researchers would need to be provided with help and documentation to enable them to use the tools smoothly. 
 
 
