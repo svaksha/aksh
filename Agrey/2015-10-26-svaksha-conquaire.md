@@ -30,7 +30,8 @@ General development tips for choosing a FOSS stack :
 + Mixing programming languages is inevitable for certain tasks but more than 2 or 3 will become a maintenance nightmare over time - Dependency hell and future maintenance issues, if any.
 + Must be easy to learn - in terms of future development and maintenance issues.
 + Existing cross-lang API wrappers must be maintained in future too.
-+ Good community support - very essential for bugs or help wanted situations. At the minimum, a mailing list or irc-channel with some core-devs interacting with the general public.
++ Good community support - very essential for bugs or help wanted situations. 
+   + For external project libs: They must have a mailing list, irc-channel and bug tracker with some core-devs interacting with the general public otherwise its hard to get help.
 + Good documentation :: Locally, where ever possible provide links to documentation and other helpful links in a wiki or a git-based system that can be easily updated (via markdown document files), say, the public github wiki system based on git. Alternatively, a self-hosted [private wiki](https://github.com/kahun/awesome-sysadmin#wikis) can also be used but it creates additional overheads of regular maintenence and data backups, hence, the public git-based system is more suitable.
 
 ====
@@ -168,5 +169,10 @@ Toolkits for visualization are available in the following languages:
 + Julia: [Visualization](https://github.com/svaksha/Julia.jl/blob/master/Computer-Graphics.md#infographics) libs.
 + Python: [Bokeh, Matplotlib, etc..](https://github.com/svaksha/pythonidae/blob/master/Computer-Graphics.md#infographics).
 
+----
+
+### Communication - Internal 
+Options for internal communication/ help channel:
++ Discourse.org :: A mailing list integrated with a Forum-like UI with useful features like topic tags, etc..
 
 
