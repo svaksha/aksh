@@ -12,6 +12,7 @@
    + [Framework - Web](#framework-web)
    + [Messaging Lib](#messaging-lib)
    + [Visualization](#visualization)
+   + [Communication - Internal](#communication-internal)
    
 ====
 
@@ -21,7 +22,8 @@
 + OpenData - Make the data publicly available to allow reproduction of the computational analysis.
 + Ensure research data quality and reproducibility along the whole research lifecycle. 
 
-Other useful tips to remember: 
+### Guidelines
+Other useful projects to remember: 
 + https://github.com/swcarpentry/good-enough-practices-in-scientific-computing/blob/gh-pages/index.md is an ongoing paper being written about best practices in scientific computing with many useful tips like normalizing data, automation, writing small funtions, etc.. 
 + The standardization of research methodologies and processes will help the data quality monitoring process, create reusable datasets and reproducable research.
 
@@ -163,16 +165,18 @@ The most popular web frameworks to consider are:
 + ZeroMQ
 + https://github.com/kahun/awesome-sysadmin#queuing
 
-## Visualization {ToDo}
+## Visualization 
 Toolkits for visualization are available in the following languages:
 + JS: [D3.js](https://github.com/wbkd/awesome-d3) is a list of D3 libraries, plugins and utilities.
 + Julia: [Visualization](https://github.com/svaksha/Julia.jl/blob/master/Computer-Graphics.md#infographics) libs.
 + Python: [Bokeh, Matplotlib, etc..](https://github.com/svaksha/pythonidae/blob/master/Computer-Graphics.md#infographics).
 
-----
 
-### Communication - Internal 
+## Communication - Internal 
 Options for internal communication/ help channel:
 + Discourse.org :: A mailing list integrated with a Forum-like UI with useful features like topic tags, etc..
+   * From: https://groups.google.com/forum/#!topic/mozilla.moss/f8dmpPE4W2M, they plan to add features for "complete mailing list parity". Discourse already has a lot of overlap with mailing lists and supports creating and responding to topics by e-mail in the "mailing list mode" that e-mails every new topic to opt-in subscribers, and there's upcoming support for "email profiles", letting users join a discussion by e-mail without having to sign up for a regular Discourse account. Complete ML parity will allow users to participate in discussions on a Discourse forum in exactly the same way as they would on a mailing list. That way, an organisation's disparate mailing lists can all be run on a single (or just a few, for larger organisations) Discourse instance, keeping all longform communication (i.e. not chat) in one central place, whilst allowing users to choose between a mailing list or forum interface to participate.
+
+----
 
 
