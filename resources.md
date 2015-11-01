@@ -66,6 +66,9 @@
 ----
 
 # Community
++ A project for discussing ways to fund open source development :: https://github.com/pybee/paying-the-piper
++ MOSS: https://blog.lizardwrangler.com/2015/10/23/mozilla-launches-open-source-support-program/
+  + https://wiki.mozilla.org/MOSS/Projects_in_use_by_Mozilla
 + Anthropomorphism, https://en.wikipedia.org/wiki/Anthropomorphism
 + Passive-Aggressive, http://www.forbes.com/sites/dailymuse/2015/10/02/3-times-you-think-youre-being-nice-but-you-actually-just-sound-passive-aggressive/
 + What makes a good Foss community: http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/

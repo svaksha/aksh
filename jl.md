@@ -506,6 +506,26 @@ https://github.com/stevengj/Cubature.jl/blob/master/src/Cubature.jl
 + http://www.project1.com/expertise/data-science-analytics/data-science-report/item/2526-http-strataoreillycom-2012-10-matlab-r-julia-languages-for-data-analysishtml#.VcdFGaPLdOo
 + http://julialang.org/images/nyhackr.pdf
 
+### Images
+A new Images.jl has been tagged and it now uses FileIO for image loading and
+saving. I've introduced FileIO in previous posts to this mailing list; it
+improves the the ability to dynamically choose package(s) for image I/O.
+
+One consequence is that by default, you may not have any installed image
+loaders. If you're using Images interactively, FileIO will likely prompt you
+to install appropriate package(s) as it discovers you need them.
+
+However, this doesn't happen in "non-interactive" usage. So, if you maintain a
+package whose tests depend on loading or saving images, I highly recommend
+adding a test/REQUIRE file that specifies the package(s) you need for image I/O.
+For example:
+
+Contents of MyPkg/test/REQUIRE:
+ImageMagick
+
+That should do the trick for the large majority of cases.
+
+
 ----
 
 
