@@ -21,7 +21,7 @@
 
 
 # Books
-+ [the Art of Problem Solving](http://artofproblemsolving.com/store/item/aops-vol2), Volume 2: and Beyond, Richard Rusczyk and Sandor Lehoczky.
++ [The Art of Problem Solving](http://artofproblemsolving.com/store/item/aops-vol2), Volume 2: and Beyond, Richard Rusczyk and Sandor Lehoczky.
 
 ----
 

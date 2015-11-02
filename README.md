@@ -1,6 +1,6 @@
 # ahskavs
 
-My personal reference bibliography of STEM resources, books, technical notes, [scientific](https://en.wikipedia.org/wiki/Outline_of_science) research papers and [grey literature](https://en.wikipedia.org/wiki/Grey_literature).
+My personal reference bibliography of STEM resources, books, technical notes, conference/ workshop jottings, [scientific](https://en.wikipedia.org/wiki/Outline_of_science) research papers and [grey literature](https://en.wikipedia.org/wiki/Grey_literature) that makes an interesting read.
 
 ----
 
