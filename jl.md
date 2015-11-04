@@ -273,7 +273,7 @@ The reason this is important enough to have been given separate syntax is that y
 + Conda.jl, https://github.com/JuliaLang/METADATA.jl/pull/3238
 + build.jl, https://github.com/JuliaOpt/Ipopt.jl/blob/99b85463ca408aefb4931d2ebaaa97cf5f821acc/deps/build.jl#L42-L45
 
-### Deploying Julia libraries
+#### Deploying Julia libraries
 On Wednesday, September 30, 2015 at 9:27:29 PM UTC-4, Sebastian Good wrote:
 
     Setting JULIA_PKGPATH lets me put everything in a more amenable spot, but transporting everything over to another identical machine results in inconsistent behavior with precompiled binaries. They are always “stale”. Is there a good resource to consult to understand binary staleness?
@@ -287,6 +287,17 @@ In particular, it is considered stale if the absolute path changes, or if the mo
 So, a precompiled image will be considered stale if you change the absolute path of the cache or source directories.   It might be nice to make these relocatable without invalidating the cache.
 
 However, in the meantime I don't think there is much downside to just having the user re-precompile the packages.  Precompilation is very different than building the package; it doesn't require internet access or other external resources, and re-running precompilation can basically only fail if importing the package fails, in which case you probably have bigger problems.
+
+#### Anaconda Python, lewis-AT-neilson-levin discussion on JL binary distribution
+I have built it all on Mac.  It really was quite terrible--put it all in a bash script and its worse yet on Windows--I tried and quickly went to WinPython or PythonXY in preference to Anaconda or ActiveState, both of which I also tried. I am glad that I don't have to any more. Haven't had to for about a year and a half.  Which is why we do want a decent approach to binary distribution. I agree that forking as a way to test innovation with an intention to eventually re-integrate is a fine way to make progress.  A permanent fork, on the other hand, seems undesirable though it happens for a variety of reasons.  
+
+It appears that Python has stepped up to this, if belatedly and incompletely.  There are pre-built binaries available for Mac and Windows for numpy, matplotlib, scipy, and pandas provided by the maintainers of those packages.  These folks have stepped up and contributed a lot.  There are wheels for Mac and Windows for all of them--except Numpy on Windows.  In general, according to the scipy umbrella website, these binaries are targeted to the PSF binary distributions (2.7.10 and 3.5.0--with earlier versions available in many cases).  I am afraid that Linux is more challenging though in some cases the package repos for the major distros offer binaries though those are likely to lag. I think the recent breakage in some Python packages has occurred in the cycle of upgrading to work with Python 2.7.10 and 3.5.0.  Despite improvement it remains messy.
+
+If Julia weren't so very good at integrating other things--Python, C, R, and using git as a package manager--we wouldn't be having the discussion.  We are having it because Julia's core team carefully invested where it should--in the defining innovations of the language--while finding very efficient ways to bootstrap some of the maintenance "machinery" and leveraging other platforms for needed capabilities.  The pace of progress, as a result, is simply astonishing for a language--really a nascent ecosystem--that has been here such a short time.
+
+There are still issues managing large binary dependencies, but it must be done because having thousands of people build very large libraries doesn't make sense. I think Julia user-developers want to use the capabilities Julia provides without becoming sys admins.  Sounds like the Julia core team has some ideas for this, especially for statically compiled pure Julia packages (bring'em on!).  As to preferences for Python distributions, it seems a few things occasionally break when using PSF Python distro with pip managed packages.  It used to work; it will get sorted out.  Relying exclusively on a quasi-proprietary distro for the long-term doesn't seem like a good thing, though it has been expedient as an option and it is fine to have more than one option.  It makes sense for Julia to provide a self-contained Python for Julia users, especially for matplotlib/PyPlot.jl but also because it is so easy to use PyCall for lots of things.
+
+I stirred up a rat's nest here and I am dropping it. In a way, this is more of an issue for the Python community than the Julia community.  Julia has adopted a new approach with more up to date and broadly adopted tooling (git--though the binary issue remains) which allows for much more rapid progress.  
 
 ----
 
