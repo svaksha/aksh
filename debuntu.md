@@ -223,6 +223,13 @@ a nice appliance instead?
 This is a pretty tight solution:  REDWALL
 http://redwall.sourceforge.net/features.html
 
+#### Web, basic port firewalling.
+
++ https://www.owasp.org/index.php/Main_Page, is a good place to start for Web, aimed more towards the Development side (applications).
++ Linux server hardening, http://www.tecmint.com/linux-server-hardening-security-tips/
+Keep in mind those tips are for  PRODUCTION SERVERS rather than Development machines or Workstations.  For example, it is best practices NOT to have GUI desktops on most Production Linux Servers (there are some exceptions), but for Workstations, most Developers would prefer to have a GUI development environment.
+
+
 ----
 
 # UTILITIES
