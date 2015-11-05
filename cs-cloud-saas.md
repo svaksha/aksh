@@ -43,18 +43,10 @@
 + [abiquo](http://www.abiquo.com), Barcelona, Spain
 + [CloudSwitch](http://www.cloudswitch.com), Burlington, MA
 + [Fiberlink](http://www.maas360.com), Philadelphia, PA
++ [New Relic](http://www.newrelic.com), San Francisco, CA
++ [Pano Logic](http://www.panologic.com), Menlo Park, CA
++ [Puppet Labs](http://www.puppetlabs.com), Portland, OR
 
-New Relic
-http://www.newrelic.com
-San Francisco, CA
-
-Pano Logic
-http://www.panologic.com
-Menlo Park, CA
-
-Puppet Labs
-http://www.puppetlabs.com
-Portland, OR
 
 rPath
 http://www.rpath.com
