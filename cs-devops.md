@@ -101,7 +101,7 @@ http://pika.readthedocs.org/en/0.9.14/intro.html
 
 # Monitoring
 + https://en.wikipedia.org/wiki/Comparison_of_network_monitoring_systems
-
++ Blog on incron, http://www.splitbrain.org/blog/2011-01/07-watcher_a_recursive_incron_alternative
 + [Watcher](https://github.com/splitbrain/Watcher) :: A daemon that watches specified files/folders for changes and fires commands in response to those changes. It is similar to incron, however, configuration uses a simpler to read ini file instead of a plain text file. Unlike incron it can also recursively monitor directories. It's also written in Python, making it easier to hack.
 
 ### System Disk Monitoring tools
