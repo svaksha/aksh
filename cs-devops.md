@@ -20,6 +20,7 @@
 
 ----
 
+
 # AWS
 + http://aws.amazon.com 
 + http://en.wikipedia.org/wiki/Amazon_Web_Services
@@ -38,6 +39,9 @@
 
 # DEVOPS
 + https://github.com/devopsbookmarks/devopsbookmarks.com
+
+## Batch jobs
++ [Luigi](https://github.com/spotify/luigi) :: A Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 
 
 ----
