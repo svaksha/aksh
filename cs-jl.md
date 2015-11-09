@@ -237,6 +237,7 @@ A cache. Other than that, no idea what it accomplishes (aside from reading the c
 
 + To move a large number of packages installed on the old system to a new one, do `Pkg.init()`, then copy only the `REQUIRE` file from `~/.julia/v0.x/` folder, then do a `Pkg.update()` on the cli.
 + To ping a package to a version, the correct command is: `Pkg.checkout(pkg,branch)`. From, http://julia.readthedocs.org/en/latest/manual/packages/#checkout-pin-and-free
++ set environment variable `JULIA_PKGDIR` for all users : http://docs.julialang.org/en/release-0.4/stdlib/pkg/#Base.Pkg.dir
 
 ### Naming and Coding Rules
 + Package naming rules, https://github.com/JuliaStats/Distributions.jl/issues/395
