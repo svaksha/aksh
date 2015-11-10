@@ -107,7 +107,7 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
 
 ###### Resources
 + Collection of [docker images](https://github.com/hwuethrich/docker-images) and an [index](https://hub.docker.com/u/hwuethrich/).
-
++ [dokku](https://github.com/progrium/dokku) :: Docker powered mini-Heroku in around 100 lines of Bash
 
 ## Computational Reproducibility - [Reprozip](https://vida-nyu.github.io/reprozip/)
 + Computational reproducibility is hard to achieve due to the tedious scientific paper reviewing process which requires authors to generate a compendium that encapsulates all the inputs needed to correctly reproduce their experiments: the data, a complete specification of the experiment and its steps, and information about the originating computational environment (OS, hardware architecture, and library dependencies). 
