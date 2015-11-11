@@ -22,9 +22,12 @@
 + OpenData - Make the data publicly available to allow reproduction of the computational analysis.
 + Ensure research data quality and reproducibility along the whole research lifecycle. 
 
+### References
++ [To be or not to be a Scientist 2.0?](http://www2.uibk.ac.at/downloads/trans/publik/open-agnetta.pdf), Open Access in Translatology, A German Case Study, by Marco Agnetta, Saarland University, Germany, 2015.
+
 ### Guidelines
 Other useful projects to remember: 
-+ https://github.com/swcarpentry/good-enough-practices-in-scientific-computing/blob/gh-pages/index.md is an ongoing paper being written about best practices in scientific computing with many useful tips like normalizing data, automation, writing small funtions, etc.. 
++ https://github.com/swcarpentry/good-enough-practices-in-scientific-computing/blob/gh-pages/index.md is an ongoing paper being written about best practices in scientific computing with many useful tips like normalizing data, automation, writing small functions, etc.. 
 + The standardization of research methodologies and processes will help the data quality monitoring process, create reusable datasets and reproducable research.
 
 General development tips for choosing a FOSS stack :
@@ -34,7 +37,7 @@ General development tips for choosing a FOSS stack :
 + Existing cross-lang API wrappers must be maintained in future too.
 + Good community support - very essential for bugs or help wanted situations. 
    + For external project libs: They must have a mailing list, irc-channel and bug tracker with some core-devs interacting with the general public otherwise its hard to get help.
-+ Good documentation :: Locally, where ever possible provide links to documentation and other helpful links in a wiki or a git-based system that can be easily updated (via markdown document files), say, the public github wiki system based on git. Alternatively, a self-hosted [private wiki](https://github.com/kahun/awesome-sysadmin#wikis) can also be used but it creates additional overheads of regular maintenence and data backups, hence, the public git-based system is more suitable.
++ Good documentation :: Locally, where ever possible provide links to documentation and other helpful links in a wiki or a git-based system that can be easily updated (via markdown document files), say, the public github wiki system based on git. Alternatively, a self-hosted [private wiki](https://github.com/kahun/awesome-sysadmin#wikis) can also be used but it creates additional overheads of regular maintenence and data backups, hence, the public github wiki is more suitable.
 
 ====
 
@@ -54,7 +57,7 @@ Here is a quick outline for the web frameworks, CI, messaging libs, and other ba
 + [Rake](https://en.wikipedia.org/wiki/Rake_%28software%29), a Ruby tool for software task management and build automation.
 + [Capistrano](https://en.wikipedia.org/wiki/Capistrano_%28software%29), an open source Ruby tool for running scripts on multiple servers to deploy web applications.
 + _NON-FOSS_:
-   + [Travis-CI](https://travis-ci.org/), free only for open source projects - integrates with github, gitlab status is not known.
+   + [Travis-CI](https://travis-ci.org/), free only for open source projects - integrates with github, but gitlab status is not known.
 
 
 ### Configuration Management
