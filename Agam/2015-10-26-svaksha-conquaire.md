@@ -123,8 +123,8 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
    
 ## Framework - Data Quality Assesment
 + Quality checks on data for range and errors.
-+ Domain-independent tests check syntactic wellformedness.
-+ Validate data according to schemas. _Task_: Integrate validation scripts into platform.
++ Domain-independent tests check syntactic well-formedness.
++ Validate data according to schemas. _Task_: Integrate validation scripts into the platform.
 + Provision of metadata and consistent use of vocabulary.
 + Open availability of scripts for automation tasks.
 + Domain-specific quality checks will be implemented and integrated into the framework as services in a plug-in framework. 
@@ -139,10 +139,10 @@ The Foss tools available are :
 
 ###### NOTES
 + _Pros_:
-   * A Python framework reduces the dependency hell between various scientific libs when researchers also use Python for their analyical work, thereby reducing devops infrastructure maintenance.
+   * A Python framework reduces the dependency hell between various scientific libs when researchers also use Python for their analyical work, thereby reducing the devops infrastructure maintenance.
    * The scientific library ecosystem has excellent support for [Astronomy & GIS](https://github.com/svaksha/pythonidae/blob/master/Earth-Science.md), [Biology](https://github.com/svaksha/pythonidae/blob/master/Biology.md), [Chemistry](https://github.com/svaksha/pythonidae/blob/master/Chemistry.md), [Physics](https://github.com/svaksha/pythonidae/blob/master/Physics.md), [Math](https://github.com/svaksha/pythonidae/blob/master/Mathematics.md), [Statistics](https://github.com/svaksha/pythonidae/blob/master/Statistics.md), and other scientific disciplines.
 + _Cons_:
-   * The packaging ecosystem can be hard for a newbie to navigate. Hence, the service adoption can be increased by automating simple tasks and providing this information to all the researchers.
+   * The Linux packaging ecosystem can be hard for a newbie to navigate. Hence, the service adoption can be increased by automating simple tasks and providing this information to all the researchers.
 
 
 

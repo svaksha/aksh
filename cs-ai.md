@@ -24,13 +24,16 @@
 
 ----
 
-# HMM 
+# HMM
 + http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf
-+ Computational biology, http://www.rosalind.info 
++ Computational biology, http://www.rosalind.info
 
 ----
 
 # Machine Learning
++ https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning
++ https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning
++ https://github.com/hangtwenty/dive-into-machine-learning
 + https://www.udacity.com/podcasts/linear-digressions
 + https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast (feed here)
 + http://www.thetalkingmachines.com/ways-to-listen
@@ -47,7 +50,7 @@
 + http://www.elasticsearch.org/guide/reference/river/
 + https://dev.twitter.com/programs/twitter-certified-products/products
 
-### NLTK 
+### NLTK
 * NLTK trainer, https://bitbucket.org/japerk/nltk-trainer/src
 * https://github.com/marcua/tweeql/
 * http://streamhacker.com/2010/10/25/training-binary-text-classifiers-nltk-trainer/
@@ -55,6 +58,6 @@
 
 ### Resources
 + http://spaceandtim.es/opennews/broca
++ https://textio.com/ - Text analyzer
 
 ----
-
