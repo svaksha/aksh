@@ -278,7 +278,7 @@ The reason this is important enough to have been given separate syntax is that y
 On Wednesday, September 30, 2015 at 9:27:29 PM UTC-4, Sebastian Good wrote:
 
     Setting JULIA_PKGPATH lets me put everything in a more amenable spot, but transporting everything over to another identical machine results in inconsistent behavior with precompiled binaries. They are always “stale”. Is there a good resource to consult to understand binary staleness?
->
+
 Staleness is determined by this function:
 
 https://github.com/JuliaLang/julia/blob/e54c38d27028a0c79a10140c8271d484e182b295/base/loading.jl#L421-L449
@@ -299,6 +299,16 @@ If Julia weren't so very good at integrating other things--Python, C, R, and usi
 There are still issues managing large binary dependencies, but it must be done because having thousands of people build very large libraries doesn't make sense. I think Julia user-developers want to use the capabilities Julia provides without becoming sys admins.  Sounds like the Julia core team has some ideas for this, especially for statically compiled pure Julia packages (bring'em on!).  As to preferences for Python distributions, it seems a few things occasionally break when using PSF Python distro with pip managed packages.  It used to work; it will get sorted out.  Relying exclusively on a quasi-proprietary distro for the long-term doesn't seem like a good thing, though it has been expedient as an option and it is fine to have more than one option.  It makes sense for Julia to provide a self-contained Python for Julia users, especially for matplotlib/PyPlot.jl but also because it is so easy to use PyCall for lots of things.
 
 I stirred up a rat's nest here and I am dropping it. In a way, this is more of an issue for the Python community than the Julia community.  Julia has adopted a new approach with more up to date and broadly adopted tooling (git--though the binary issue remains) which allows for much more rapid progress.  
+
+#### How2create a stable version of Julia + other packages?
+
+How to create a stable version of Julia + Gadfly + PyPlot + IJulia (+ other packages?) that prevents the students running `Pkg.add(...)/Pkg.update()`, as packages have a tendency to occasionally break on updates, and it's a headache dealing with this during the lecture. The possible solutions are:
+
+1.  Prebake a .julia folder that contains all the necessary resources, with a script to reset in case the students break it with Pkg.update().
+2.  Use system image: http://docs.julialang.org/en/release-0.4/devdocs/sysimg/, that includes all the necessary packages.   It's not really clear how to do this from the documentation, though.   I'm also not sure how that would interact with Pkg.update() though, so probably instructions to delete .julia would also need to be given.
+3. https://github.com/rened/DeclarativePackages.jl, which allows you to run Julia with a given set of versions of given packages.
+4. Possibly another option would be a Docker container image.
+
 
 ----
 
