@@ -44,6 +44,12 @@
 + Time domain & Frequency domain, http://multimechatronics.com/images/uploads/freshman%20tuts/Time%20Domain%20&%20Frequency%20Domain.pdf
 + What is the difference between Time domain and frequency domain?, http://www.researchgate.net/post/What_is_the_difference_between_Time_domain_and_frequency_domain10
 
+### FFTW
++ https://github.com/FFTW/fftw3
++ http://www.fftw.org/
++ https://en.wikipedia.org/wiki/FFTW
++ http://ab-initio.mit.edu/~stevenj/thesis-ch1.pdf
+
 ### Fourier slice theorem
 + Filtered back projection: http://www.owlnet.rice.edu/~elec539/Projects97/cult/node2.html
    + Reconstruction As a Set of Linear Equations, http://www.owlnet.rice.edu/~elec539/Projects97/cult/node7.html#SECTION00031000000000000000
@@ -59,6 +65,10 @@
 
 ### DCT
 + http://en.wikipedia.org/wiki/Discrete_cosine_transform
+
+###### NOTES
++  In MATLAB, we can form an nxn FFT matrix by doing fft(eye(n)). In Julia, doing fft(eye(n)) doesn't seem to be giving me the same result. I am actually interested in randomly sampling the rows of a FFT matrix, and doing matrix-vector multiples with only those rows. I was wondering if there was a way to use plan_fft to get the nlogn flop speed using plan_fft in this case.  
++ Julia fft(A) is the 2d DFT of A. You can get MATLAB's behavior with fft(A, 1)
 
 ----
 
@@ -76,11 +86,6 @@
 ----
 
 # FOSS
-### FFTW
-+ https://github.com/FFTW/fftw3
-+ http://www.fftw.org/
-+ https://en.wikipedia.org/wiki/FFTW
-+ http://ab-initio.mit.edu/~stevenj/thesis-ch1.pdf
 
 ### Radon Transform
 + http://scikit-image.org/docs/dev/auto_examples/plot_radon_transform.html
@@ -140,4 +145,5 @@
 ----
 
 + http://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html
+
 

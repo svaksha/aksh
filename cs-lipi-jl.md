@@ -4,7 +4,6 @@
 + [Development](#development)
    + [.juliarc](#.juliarc)
    + [GIST](#gist)
-   + [Jupyter](#jupyter)
    + [Plotting](#plotting)
 + [Packaging](#packaging)
     + [USING](#using)
@@ -213,14 +212,6 @@ A cache. Other than that, no idea what it accomplishes (aside from reading the c
 
 ## GIST
 + cprintf.jl, https://gist.github.com/dpo/11000433
-
-## Jupyter
-+ Proper method for including external JS libraries?, https://github.com/JuliaLang/IJulia.jl/issues/345
-+ IJulia Errors "load failed, save is disabled" in 0.5-dev despite making the notebook "trusted" : https://github.com/JuliaLang/IJulia.jl/issues/252
-+ Allow multiple versions of Julia as IPython kernels: https://github.com/JuliaLang/IJulia.jl/pull/280
-    + https://github.com/JuliaLang/IJulia.jl/issues/224
-+ IJulia / IPython / Jupyter combination not working #289: https://github.com/JuliaLang/IJulia.jl/issues/289
-+ http://stackoverflow.com/questions/24091373/best-way-to-run-julia-code-in-an-ipython-notebook-or-python-code-in-an-ijulia-n
 
 ## Plotting
 + https://github.com/JuliaPlot/juliaplot_docs/issues/1
