@@ -1,4 +1,4 @@
-+ [0.4-dev](#0.4-dev)
++ [0.5-dev](#0.5-dev)
 + [CORE](#core)
    + [Syntax-Symbols-Operators](#syntax-symbols-operators)
 + [Development](#development)
@@ -29,7 +29,7 @@
 ----
 
 
-# 0.4-dev
+# 0.5-dev
 
 + Freeze : https://github.com/JuliaLang/julia/blob/master/NEWS.md#julia-v040-release-notes
 
@@ -217,6 +217,9 @@ A cache. Other than that, no idea what it accomplishes (aside from reading the c
 + https://github.com/JuliaPlot/juliaplot_docs/issues/1
 + https://github.com/dcjones/Gadfly.jl/issues/658
 + https://github.com/tbreloff/Plots.jl/issues/30#issuecomment-142995667
+
+## Working with Text Files
+* Working with paths and filenames: https://en.wikibooks.org/wiki/Introducing_Julia/Working_with_text_files#Working_with_paths_and_filenames
 
 ----
 
