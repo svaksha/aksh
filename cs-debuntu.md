@@ -109,6 +109,9 @@ dpkg -S /sbin/ippool
 + http://julialang.org/blog/2013/04/put-this-in-your-pipe/   
 + https://www.reddit.com/r/Julia/comments/2ph74u/interacting_with_shell/
 
+### Zsh
++ https://www.quora.com/What-is-the-difference-between-bash-and-zsh
+
 ----
 
 # Kernel-HDD
