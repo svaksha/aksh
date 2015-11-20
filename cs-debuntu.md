@@ -111,6 +111,7 @@ dpkg -S /sbin/ippool
 
 ### Zsh
 + https://www.quora.com/What-is-the-difference-between-bash-and-zsh
++ https://github.com/robbyrussell/oh-my-zsh
 
 ----
 
