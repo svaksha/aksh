@@ -88,6 +88,7 @@ dpkg -S /sbin/ippool
 ----
 
 # BASH SHELL
++ Shells compared: http://hyperpolyglot.org/unix-shells
 + https://en.wikipedia.org/wiki/List_of_Unix_commands
 + [ctypes.sh](https://github.com/taviso/ctypes.sh) :: A BASH plugin that provides a foreign function interface directly in your shell. In other words, it allows you to call routines in shared libraries from within bash.
 + https://stribika.github.io/2015/01/04/secure-secure-shell.html
@@ -112,6 +113,7 @@ dpkg -S /sbin/ippool
 ### Zsh
 + https://www.quora.com/What-is-the-difference-between-bash-and-zsh
 + https://github.com/robbyrussell/oh-my-zsh
++ http://code.joejag.com/2014/why-zsh.html
 
 ----
 

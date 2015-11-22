@@ -219,7 +219,12 @@ A cache. Other than that, no idea what it accomplishes (aside from reading the c
 + https://github.com/tbreloff/Plots.jl/issues/30#issuecomment-142995667
 
 ## Working with Text Files
-* Working with paths and filenames: https://en.wikibooks.org/wiki/Introducing_Julia/Working_with_text_files#Working_with_paths_and_filenames
++ Working with paths and filenames: https://en.wikibooks.org/wiki/Introducing_Julia/Working_with_text_files#Working_with_paths_and_filenames
+
+## Parallel Computing
++ http://www.csd.uwo.ca/~moreno/cs2101a_moreno/Parallel_computing_with_Julia.pdf
+
+
 
 ----
 
@@ -459,6 +464,7 @@ If you want to give up on 0.3 (which is fine, just make sure you update your REQ
 # MATH
 
 + mathematical abbreviations, https://en.wikipedia.org/wiki/List_of_mathematical_abbreviations
++ Numerical Analysis & Statistics: MATLAB, R, NumPy, Julia : http://hyperpolyglot.org/numerical-analysis
 
 ## Arrays
 
@@ -536,8 +542,7 @@ package whose tests depend on loading or saving images, I highly recommend
 adding a test/REQUIRE file that specifies the package(s) you need for image I/O.
 For example:
 
-Contents of MyPkg/test/REQUIRE:
-ImageMagick
+Contents of MyPkg/test/REQUIRE: ImageMagick
 
 That should do the trick for the large majority of cases.
 
