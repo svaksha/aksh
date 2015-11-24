@@ -5,6 +5,7 @@
 + [Dev](#dev)
 + [Life](#life)
 + [Podcasts](#podcasts)
++ [Resourcelist](#resourcelist)
 
 ----
 
@@ -109,4 +110,9 @@ Good online places to start:
 + MIT's introduction to programming in Java : http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/
 + Greenfoot: They offer a AP CS text book that uses their software. Its a friendly and visual introduction to real Java programming.
    - http://www.greenfoot.org/door 
+
+---- 
+
+# Resourcelist
++ https://github.com/NARKOZ/guides
 

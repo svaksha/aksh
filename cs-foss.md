@@ -1,4 +1,15 @@
 
+
+# Event-Management 
+__Meetup Mgmt.__
++ Portland's Calagator : http://calagator.org/ and wiki : https://github.com/calagator/calagator/wiki/Supported-Import-Formats
+
+__Conf Mgmt__:
++ [OpenConferenceWare](https://github.com/osbridge/openconferenceware) is an open source web application for events and conferences. This customizable, general-purpose platform provides proposals, sessions, schedules, tracks and more.
+
+
+----
+
 # MOZILLA
 ## SWC-MSF
 + https://swcarpentry.etherpad.mozilla.org/instructors-Europe?
