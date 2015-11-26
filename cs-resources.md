@@ -1,12 +1,15 @@
 + [Analytics](#analytics)
 + [Art](#art)
-+ [Code Exercises](#code-exercises)
-+ [Community](#community)
-+ [Dev](#dev)
++ [DEV](#dev)
+   + [Code Exercises](#code-exercises)
+   + [Lists](#lists)
++ [FOSS-Community](#foss-community)
 + [Life](#life)
++ [MOOC](#mooc)
 + [Podcasts](#podcasts)
-+ [Resourcelist](#resourcelist)
-
+   + [programming language](#programming language)
++ [Reading](#reading)
+   
 ----
 
 # Analytics
@@ -20,59 +23,32 @@
 
 ----
 
-# Code Exercises
-+ http://synopsis.exercism.io/, https://github.com/exercism/cli, https://github.com/exercism
-+ http://freecodecamp.com/
-
-----
-
-# Dev
+# DEV
 + NoSpec, http://www.nospec.com/faq
    + https://medium.com/@sir_castiq/how-to-exploit-a-developer-a005306d5320
 
-----
+## Code Exercises
++ http://synopsis.exercism.io/, https://github.com/exercism/cli, https://github.com/exercism
++ http://freecodecamp.com/
 
-# Life
-+ https://www.linkedin.com/pulse/tweak-your-morning-routine-transform-entire-day-dr-travis-bradberry
-+ US NGO working with convicts: http://www.mission-launch.org/rebuilding_re_entry
-
-----
-
-# Podcasts
-+ CodeNewbie interviews.: http://www.codenewbie.org/podcast
-+ Zed Shaw : http://www.codenewbie.org/podcast/the-hard-way
-+ Sandi Metz : http://www.codenewbie.org/podcast/poodr-and-beyond-part-i
-+ Dave Thomas : http://www.codenewbie.org/podcast/the-pragmatic-programmer-
-+ Vanessa Hurst : http://www.codenewbie.org/podcast/autotune-inclusivity-and-getting-a-job
-+ Making Embedded Systems, http://embedded.fm/
-+ https://www.dotnetrocks.com/ 
-+ http://hanselminutes.com/
-+ http://www.dailytechnewsshow.com/
-+ functional programming, http://www.functionalgeekery.com/ 
-+ http://changelog.com
-+ https://twit.tv/shows 
-+ http://www.codenewbie.org/podcast
-+ http://www.talkingcode.com
-+ Herding Code :: http://herdingcode.com/
-+ Software Engineering Radio :: http://www.se-radio.net/ 
-
-### Lang
-+ Python: http://talkpython.fm/
-+ ROR/Ruby, http://bikeshed.fm/
-+ [Ruby/ ROR / Small business/ general topics](https://robots.thoughtbot.com/)
-+ clojure, http://blog.cognitect.com/cognicast/ 
-+ ember, javascript and general, https://frontsidethepodcast.simplecast.fm/ 
-+ a podcast that combines fitness and programming, http://getupandcode.com/
+## Lists
++ https://github.com/NARKOZ/guides
 
 ----
 
-# Community
+# FOSS-Community
 + A project for discussing ways to fund open source development :: https://github.com/pybee/paying-the-piper
 + MOSS: https://blog.lizardwrangler.com/2015/10/23/mozilla-launches-open-source-support-program/
   + https://wiki.mozilla.org/MOSS/Projects_in_use_by_Mozilla
 + Anthropomorphism, https://en.wikipedia.org/wiki/Anthropomorphism
 + Passive-Aggressive, http://www.forbes.com/sites/dailymuse/2015/10/02/3-times-you-think-youre-being-nice-but-you-actually-just-sound-passive-aggressive/
 + What makes a good Foss community: http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/
+
+----
+
+# Life
++ https://www.linkedin.com/pulse/tweak-your-morning-routine-transform-entire-day-dr-travis-bradberry
++ US NGO working with convicts: http://www.mission-launch.org/rebuilding_re_entry
 
 ----
 
@@ -113,6 +89,36 @@ Good online places to start:
 
 ---- 
 
-# Resourcelist
-+ https://github.com/NARKOZ/guides
+
+# Podcasts
++ CodeNewbie interviews.: http://www.codenewbie.org/podcast
++ Zed Shaw : http://www.codenewbie.org/podcast/the-hard-way
++ Sandi Metz : http://www.codenewbie.org/podcast/poodr-and-beyond-part-i
++ Dave Thomas : http://www.codenewbie.org/podcast/the-pragmatic-programmer-
++ Vanessa Hurst : http://www.codenewbie.org/podcast/autotune-inclusivity-and-getting-a-job
++ Making Embedded Systems, http://embedded.fm/
++ https://www.dotnetrocks.com/ 
++ http://hanselminutes.com/
++ http://www.dailytechnewsshow.com/
++ functional programming, http://www.functionalgeekery.com/ 
++ http://changelog.com
++ https://twit.tv/shows 
++ http://www.codenewbie.org/podcast
++ http://www.talkingcode.com
++ Herding Code :: http://herdingcode.com/
++ Software Engineering Radio :: http://www.se-radio.net/ 
+
+### programming language
++ Python: http://talkpython.fm/
++ ROR/Ruby, http://bikeshed.fm/
++ [Ruby/ ROR / Small business/ general topics](https://robots.thoughtbot.com/)
++ clojure, http://blog.cognitect.com/cognicast/ 
++ ember, javascript and general, https://frontsidethepodcast.simplecast.fm/ 
++ a podcast that combines fitness and programming, http://getupandcode.com/
+
+
+----
+
+# Reading
+* http://worrydream.com/#!/ClimateChange, s about computational climate change but Victor makes an interesting point about “Tools for scientists and engineers" : http://worrydream.com/ClimateChange/#tools
 
