@@ -19,7 +19,6 @@
 
 ----
 
-
 # Books
 + [The Art of Problem Solving](http://artofproblemsolving.com/store/item/aops-vol2), Volume 2: and Beyond, Richard Rusczyk and Sandor Lehoczky.
 
@@ -82,6 +81,14 @@ https://en.wikipedia.org/wiki/Category:Hashing
 
 #### Papers
 + http://arxiv.org/pdf/1404.1499v2.pdf
+
+----
+
+# HPC-Math
++ Lecture "[Software Basics for High Performance Computing](https://github.com/michael-lehn/ulmBLAS)" (MATH9367) at Ulm University: 
+   + http://apfel.mathematik.uni-ulm.de/~lehn/ulmBLAS
+   + http://apfel.mathematik.uni-ulm.de/~lehn/sghpc
+   + section demonstrating how to achieve peak performance for the matrix-matrix product: http://apfel.mathematik.uni-ulm.de/~lehn/sghpc/gemm/index.html
 
 ----
 
