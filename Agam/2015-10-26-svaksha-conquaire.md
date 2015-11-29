@@ -7,7 +7,7 @@
         + [Configuration Management](#configuration-management)
         + [TDD](#tdd)
    + [Database](#database)
-   + [DVCS]
+   + [DVCS](#dvcs)
         + [GitLab](#gitlab)
         + [Kallithea](#kallithea)
    + [Framework - Data Quality Assesment](#framework-data-quality-assesment)
@@ -111,32 +111,31 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
 ## Database
 Depending on the researcher's data types, support which of the following DB's(?):
 
-#### RDBMS
+### RDBMS
 + [Relational DBMS](https://github.com/kahun/awesome-sysadmin#rdbms) : Postgres, MariaDB, ..
 
-#### NoSQL
+### NoSQL
 + NoSQL : Is it document/ graph/ array based?
    - MongoDB
    - [Redis](http://redis.io/), is an open source (BSD licensed), in-memory data structure store, used as database, cache and message broker.
 + Array-based DB (SciDB).
 + https://github.com/kahun/awesome-sysadmin#nosql
 
-#### Distributed File Systems
-+ HDF5
+### Distributed File Systems - HDF5
 + https://github.com/kahun/awesome-sysadmin#distributed-filesystems
 
 
 ----
 
 ## DVCS 
-#### GitLab
+### GitLab
 + Git is the DVCS running the backend system to store data running a web-application to upload scripts, etc..
 + GIT-based Free and open source DVCS hosting service:
    + https://notabug.org
    + https://gitlab.com
 + For advanced features of git, non-CS researchers would need to be provided with help and documentation to enable them to use the tools smoothly. 
 
-#### Kallithea 
+### Kallithea 
 + https://en.wikipedia.org/wiki/Kallithea_(software)
 + https://kallithea-scm.org/
 
@@ -205,5 +204,13 @@ Toolkits for visualization are available in the following languages:
 + JS: [D3.js](https://github.com/wbkd/awesome-d3) is a list of D3 libraries, plugins and utilities.
 + Julia: [Visualization](https://github.com/svaksha/Julia.jl/blob/master/Computer-Graphics.md#infographics) libs.
 + Python: [Bokeh, Matplotlib, etc..](https://github.com/svaksha/pythonidae/blob/master/Computer-Graphics.md#infographics).
+
+----
+
+# PAPERS
++ http://quinlanlab.org/software.html :: Click on the `paper` link for each lib.
++ https://github.com/PracticingOpenScience/PracticingOpenScience :: Repository for the Practicing Open Science book.
++ https://github.com/shriram/repro-in-cs :: Tracking Responses to the "Reproducibility in Computer Science" Repository (http://reproducibility.cs.arizona.edu/)
+   + Paper: [Repeatability and Benefaction in Computer Systems Research](http://reproducibility.cs.arizona.edu/v2/RepeatabilityTR.pdf).
 
 
