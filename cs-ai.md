@@ -24,13 +24,14 @@
 
 ----
 
-# HMM
+# [HMM](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 + http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf
 + Computational biology, http://www.rosalind.info
 
 ----
 
 # Machine Learning
++ {Paper} : [Evaluation of Deep Learning Frameworks](https://github.com/zer0n/deepframeworks).
 + https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning
 + https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning
 + https://github.com/hangtwenty/dive-into-machine-learning
