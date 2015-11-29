@@ -124,6 +124,8 @@ Depending on the researcher's data types, support which of the following DB's(?)
 ### Distributed File Systems - HDF5
 + https://github.com/kahun/awesome-sysadmin#distributed-filesystems
 
+##### Papers
++ https://github.com/hadley/tidy-data :: A paper on data tidying.
 
 ----
 
