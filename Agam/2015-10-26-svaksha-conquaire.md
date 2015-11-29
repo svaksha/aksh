@@ -9,6 +9,7 @@
    + [DVCS - Git GitLab](#dvcs-git-gitlab)
    + [Framework - Data Quality Assesment](#framework-data-quality-assesment)
         + [Bubbles](#bubbles)
+   + [Framework - online IDE](#framework-online-ide)
    + [Framework - Web](#framework-web)
    + [Messaging Lib](#messaging-lib)
    + [Visualization](#visualization)
@@ -145,6 +146,9 @@ The Foss tools available are :
    * The Linux packaging ecosystem can be hard for a newbie to navigate. Hence, the service adoption can be increased by automating simple tasks and providing this information to all the researchers.
 
 
+## Framework - online IDE
++ [Cloud9 IDE](https://en.wikipedia.org/wiki/Cloud9_IDE) :: [Cloud9](https://github.com/c9/core) supports more than 40 languages, with class A support for PHP, Ruby, Python, JavaScript, Go, and more. {ToDo} Check if it works on the intranet.
+
 
 ## Framework - Web
 The most popular web frameworks to consider are:
@@ -180,6 +184,7 @@ Toolkits for visualization are available in the following languages:
 Options for internal communication/ help channel:
 + Discourse.org :: A mailing list integrated with a Forum-like UI with useful features like topic tags, etc..
    * From: https://groups.google.com/forum/#!topic/mozilla.moss/f8dmpPE4W2M, they plan to add features for "complete mailing list parity". Discourse already has a lot of overlap with mailing lists and supports creating and responding to topics by e-mail in the "mailing list mode" that e-mails every new topic to opt-in subscribers, and there's upcoming support for "email profiles", letting users join a discussion by e-mail without having to sign up for a regular Discourse account. Complete ML parity will allow users to participate in discussions on a Discourse forum in exactly the same way as they would on a mailing list. That way, an organisation's disparate mailing lists can all be run on a single (or just a few, for larger organisations) Discourse instance, keeping all longform communication (i.e. not chat) in one central place, whilst allowing users to choose between a mailing list or forum interface to participate.
+
 
 ----
 
