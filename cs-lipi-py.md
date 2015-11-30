@@ -28,10 +28,14 @@
 ## Conda
 + http://conda.pydata.org/docs/intro.html#conda-overview
 
-## pythonrc
+## .pythonrc.py
 + http://eseth.org/2008/pimping-pythonrc.html
++ https://docs.python.org/3/using/cmdline.html
 + http://dlo.me/archives/2014/09/08/pythonrc/
-+ 
++ https://www.reddit.com/r/Python/comments/2fun6t/how_to_supercharge_your_python_shell_with_a/
++ http://www.sontek.net/blog/2010/12/28/tips_and_tricks_for_the_python_interpreter.html
++ http://rc98.net/pystartup
++ IPYNB, http://www.pixelbeat.org/scripts/inpy
 
 ----
 
