@@ -28,6 +28,11 @@
 ## Conda
 + http://conda.pydata.org/docs/intro.html#conda-overview
 
+## pythonrc
++ http://eseth.org/2008/pimping-pythonrc.html
++ http://dlo.me/archives/2014/09/08/pythonrc/
++ 
+
 ----
 
 # Julia-via-Anaconda
