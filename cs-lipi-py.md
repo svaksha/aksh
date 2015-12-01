@@ -51,7 +51,6 @@
 
 ----
 
-
 # MATH
 + http://stackoverflow.com/questions/7160926/how-to-solve-an-integral-equation-in-python
 + http://stackoverflow.com/questions/16275352/how-to-solve-integration-using-simpsons-rule-in-python
@@ -63,14 +62,16 @@
 ## Exceptions
 + http://stackoverflow.com/questions/21211006/how-to-catch-all-old-style-class-exceptions-in-python
 
-## Classes
+## Classes-Metaclasses-Functions-Methods
 + http://lucumr.pocoo.org/2013/2/13/moar-classes/
++ Metaclass: https://github.com/njsmith/metamodule#how-it-works
 
 ## schedule tasks
 + http://www.fbeedle.com/python/99-6ch02.pdf
 
 ## BAD programming habits
 + http://stackoverflow.com/questions/21553327/why-is-except-pass-a-bad-programming-practice
++ Private methods and name mangling, http://stackoverflow.com/questions/1301346/the-meaning-of-a-single-and-a-double-underscore-before-an-object-name-in-python
 
 ## Interactive Python
 + http://www.codeskulptor.org/coursera/syllabus.html
