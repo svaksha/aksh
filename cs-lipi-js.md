@@ -1,7 +1,9 @@
 + [Node.JS](#node.js)
 + [Templating](#templating)
-+ [PDF](#pdf)
-+ [Functional](#functional)
++ [LIBS](#libs)
+   + [PDF](#pdf)
++ [Programming](#programming)
+   + [Functional](#functional)
 
 ----
 
@@ -23,11 +25,15 @@
 
 ----
 
-# PDF 
+#LIBS
+## PDF 
 + https://github.com/nisaacson/pdf-extract
 
 ----
 
-# Functional
+# Programming
++ http://ourcodeblog.com/2015/11/10/technical-challenge-understanding-javascript-closures/
+
+## Functional
 + An intro to functional programming: http://www.bootstrapworld.org/materials/ 
 
