@@ -1,6 +1,7 @@
 + [BOOKS](#books)
 + [AI](#ai)
 + [Computational Formalisms](#computational-formalisms)
++ [Graphs](#graphs)
 + [HMM](#hmm)
 + [Machine Learning](#machine-learning)
 + [NLP](#nlp)
@@ -21,6 +22,11 @@
 + https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
 + https://en.wikipedia.org/wiki/Category:Computational_problems
 + http://en.wikipedia.org/wiki/Category:Computational_science
+
+----
+
+# Graphs
++ [Hierarchical Scheduling of DAG Structured Computations on Manycore Processors with Dynamic Thread Grouping](http://www.cs.huji.ac.il/~feit/parsched/jsspp10/p9-xia.pdf), Yinglong Xia, et al.
 
 ----
 
