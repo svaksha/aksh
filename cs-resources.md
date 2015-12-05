@@ -120,5 +120,5 @@ Good online places to start:
 ----
 
 # Reading
-* http://worrydream.com/#!/ClimateChange, s about computational climate change but Victor makes an interesting point about “Tools for scientists and engineers" : http://worrydream.com/ClimateChange/#tools
+* http://worrydream.com/#!/ClimateChange => about computational climate change but Victor makes an interesting point about “Tools for scientists and engineers" : http://worrydream.com/ClimateChange/#tools
 

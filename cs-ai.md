@@ -65,6 +65,8 @@
 
 ### Resources
 + http://spaceandtim.es/opennews/broca
-+ https://textio.com/ - Text analyzer
++ Automated Job Description Text analyzers : 
+   + [Textio](https://textio.com/)
+   + [Joblint](http://joblint.org/) and the [source code](https://github.com/rowanmanning/joblint).
 
 ----
