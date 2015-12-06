@@ -174,6 +174,7 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 ----
 
 # Development
++ Workflow tips: http://docs.julialang.org/en/release-0.4/manual/workflow-tips/
 + __Month of Julia__ feed: http://www.juliabloggers.com/feed/
 + Index : http://julia.readthedocs.org/en/latest/genindex/
 + http://julia.readthedocs.org/en/latest/stdlib/base/
