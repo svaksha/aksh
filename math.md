@@ -44,6 +44,7 @@
 + Calculus-II course at Lamar University: http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx
 
 ### Integral Transforms
++ http://stankova.net/statistics_2012/double_integration.pdf
 + https://en.wikipedia.org/wiki/Exponential_integral
 + https://en.wikipedia.org/wiki/Integral_geometry
 + http://mathworld.wolfram.com/IntegralTransform.html
