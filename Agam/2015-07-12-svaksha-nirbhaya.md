@@ -62,11 +62,12 @@ It is proposed to use Python for programming the initial aspect of gathering dat
    + https://github.com/h5io/h5io
 + NLP
    + http://NLTK.org
-+ Github 
 + Twitter API
    + Credentials for Twitter API - create a new application at: https://dev.twitter.com/apps
    + https://dev.twitter.com/overview/documentation
    + https://dev.twitter.com/rest/reference/get/search/tweets
++ Crawlers
+   + Twitter crawler : https://github.com/charman/trawler 
    + CLI integration : https://github.com/sixohsix/twitter
         + https://github.com/sferik/t
    + App by Meg Ford {{ReadOnly}} : https://github.com/MegFord/twitter_app/
