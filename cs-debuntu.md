@@ -11,10 +11,11 @@
 + [REGEX](#regex)
 + [General](#general)
 + [UTILITIES](#utilities)
-    + [LaTeX](#latex)
-    + [ARBTT](#arbtt)
-    + [Backups](#backups)
-
+   + [LaTeX](#latex)
+   + [ARBTT](#arbtt)
+   + [Backups](#backups)
+   + [Spreadsheets](#spreadsheets)
+   
 ----
 
 # GRUB
@@ -162,7 +163,6 @@ dpkg -S /sbin/ippool
 ## Arbtt
 __desktop timetracker__
 + https://www.joachim-breitner.de/blog/336-The_Automatic_Rule-Based_Time_Tracker
-+ GITHUB mirror :
 + http://arbtt.nomeata.de/#how
 + Install : http://arbtt.nomeata.de/#install
 + Sample Categorize :: http://darcs.nomeata.de/arbtt/categorize.cfg
@@ -175,11 +175,11 @@ __desktop timetracker__
 + https://github.com/xolox/python-rotate-backups
 + BakThat {Stopped} : https://github.com/tsileo/bakthat
 + rsync, http://www.mikerubel.org/computers/rsync_snapshots/
++ storelet : https://pypi.python.org/pypi/storelet
 
-http://stackoverflow.com/questions/123198/how-do-i-copy-a-file-in-python
-http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python
-http://codereview.stackexchange.com/questions/49351/python-back-up-script
-https://pypi.python.org/pypi/storelet
++ http://stackoverflow.com/questions/123198/how-do-i-copy-a-file-in-python
++ http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python
++ http://codereview.stackexchange.com/questions/49351/python-back-up-script
 
 ## LaTeX
 + Prof. Edward R. Scheinerman's resources to "[Learn LaTeX](http://www.ams.jhu.edu/~ers/learn-latex/)".
@@ -187,6 +187,9 @@ https://pypi.python.org/pypi/storelet
 + latex for MATH: http://en.wikibooks.org/wiki/LaTeX/Mathematics
 + LaTeX tutorial : http://www.pages.drexel.edu/~pyo22/students/latexRelated/latexTutorial.html
 + http://latex-project.org/intro.html
+
+## Spreadsheets
++ [roo](https://github.com/roo-rb/roo) :: an interface to spreadsheets of several sorts. 
 
 ----
 

@@ -1,6 +1,6 @@
 + [Postgres-XC](#postgres-xc)
 
-----
+====
 
 # Postgres-XC
 + http://www.postgresql.org/download/
@@ -31,4 +31,11 @@ or
 + https://wiki.openstreetmap.org/wiki/PostgreSQL
 + https://help.openstreetmap.org/questions/11102/example-postgres-queries-for-osm
 + https://wiki.openstreetmap.org/wiki/Osm2pgsql/schema
+
+----
+
+# SQL Temporal data
++ [groupdate.sql](https://github.com/ankane/groupdate.sql) :: The simplest way to group temporal data.
+
+----
 

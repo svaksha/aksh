@@ -12,6 +12,7 @@
 + [NEWS](#news)
 + [OpenShift](#openshift)
 + [SECURITY](#security)
++ [Yaksha ToDo](#yaksha-todo)
 
 ====
 
@@ -234,5 +235,16 @@ This is a pretty tight solution:  REDWALL, http://redwall.sourceforge.net/featur
 + https://www.owasp.org/index.php/Main_Page, is a good place to start for Web, aimed more towards the Development side (applications).
 + Linux server hardening, http://www.tecmint.com/linux-server-hardening-security-tips/
 Keep in mind those tips are for  PRODUCTION SERVERS rather than Development machines or Workstations.  For example, it is best practices NOT to have GUI desktops on most Production Linux Servers (there are some exceptions), but for Workstations, most Developers would prefer to have a GUI development environment.
+
+----
+
+# Yaksha ToDo
++ Cleanup my bash programs - [BASH best practices](https://github.com/progrium/bashstyle).
++ @[holman](http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/) talks about keeping dotfiles lean. Learn how they do it: [rtomayko](https://github.com/rtomayko/dotfiles), [holman](https://github.com/holman/dotfiles), [mathiasbynens](https://github.com/mathiasbynens/dotfiles), ..
++ Automate with [homeshick](https://github.com/andsens/homeshick)-git dotfiles synchronizer written in bash.
+   + homesick compatible bashrc and zshrc files : https://github.com/andsens/rc-files
++ Reconsider if [zsh](https://github.com/robbyrussell/oh-my-zsh) is more useful than bash? on all machines?
++ Auto-Alias
+   + HuffShell is a gem for suggesting and optimizing your shell aliases, programtically. 
 
 
