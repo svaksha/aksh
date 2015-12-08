@@ -186,6 +186,8 @@ http://pika.readthedocs.org/en/0.9.14/intro.html
 
 # SECURITY
 
++ credential leaks : https://github.com/ChALkeR/notes/blob/master/Do-not-underestimate-credentials-leaks.md
+
 ## Firewalls
 
 Each line should start with $ipt (which is your variable that points to the iptables binary with complete path).  This shows your second line starting with "ESTABLISHED" & third line with "$WAN_IFACE".
