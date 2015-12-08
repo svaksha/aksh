@@ -245,6 +245,6 @@ Keep in mind those tips are for  PRODUCTION SERVERS rather than Development mach
    + homesick compatible bashrc and zshrc files : https://github.com/andsens/rc-files
 + Reconsider if [zsh](https://github.com/robbyrussell/oh-my-zsh) is more useful than bash? on all machines?
 + Auto-Alias
-   + HuffShell is a gem for suggesting and optimizing your shell aliases, programtically. 
+   + [HuffShell](https://github.com/paulmars/huffshell) :: A gem for suggesting and optimizing your shell aliases, programtically. 
 
 
