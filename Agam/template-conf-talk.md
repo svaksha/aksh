@@ -12,7 +12,7 @@
 + [ADDITIONAL REQUIREMENTS](#additional-requirements)
 + [FEEDBACK](#feedback)
 
-----
+====
 
 # PROPOSAL
 ### Event :: Conference (Talk / Workshop)
@@ -23,11 +23,12 @@
 + __Category__ :: Core / Lib / Web/ Science / ...
 + __Duration__ :: 30/45 min
 + __Level__    :: Novice / Intermediate / Expert
++ __Audience__   :: Developers interested in learning $language, those who may want to use the "$Name" library, and $language enthusiasts.
 
 ----
 
 # ABSTRACT
-{{*Detailed description - public, if talk is accepted, one paragraph, maximum 400 characters.*}}
+{{*Short description - public, if talk is accepted, one paragraph, maximum 400 characters.*}}
 
 
 ----
