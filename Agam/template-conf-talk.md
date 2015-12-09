@@ -23,7 +23,7 @@
 + __Category__ :: Core / Lib / Web/ Science / ...
 + __Duration__ :: 30/45 min
 + __Level__    :: Novice / Intermediate / Expert
-+ __Audience__   :: Developers interested in learning $language, those who may want to use the "$Name" library, and $language enthusiasts.
++ __Audience__ :: Developers interested in learning $language, those who may want to use the "$Name" library, and $language enthusiasts.
 
 ----
 
