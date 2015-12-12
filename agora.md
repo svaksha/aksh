@@ -1,4 +1,5 @@
 + [CFP](#cfp)
+   + [OpenHardware](#openhardware)
 + [ConfTools](#conftools)
 
 ====
@@ -8,6 +9,9 @@
 + GOR [General Online Research](http://www.gor.de/). [CFP](http://www.gor.de/about/call-for-papers.html).
 + IEEE Technically Sponsored [SAI Computing Conference 2016](http://www.SAIConference.com/Computing2016), 13-15 July 2016, London UK.
 + 2016feb16 : http://www.pycon.se/
+
+## OpenHardware
++ http://openhardware.science/
 
 ----
 
