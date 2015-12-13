@@ -1,3 +1,5 @@
+[Agora](https://en.wikipedia.org/wiki/Agora) is an Ancient Greek word for "gathering place" or "assembly", which exactly represents modern-day conferences and events.
+
 + [CFP](#cfp)
    + [OpenHardware](#openhardware)
 + [ConfTools](#conftools)

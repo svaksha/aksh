@@ -112,6 +112,8 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
 ## Database
 Depending on the researcher's data types, support which of the following DB's(?):
 
++ [camlipy](https://github.com/tsileo/camlipy) :: The unofficial Python client for [Camlistore](http://camlistore.org/). [Documentation](http://camlipy.readthedocs.org) and [source code](https://camlistore.googlesource.com/camlistore) on googlesource. 
+
 ### RDBMS
 + [Relational DBMS](https://github.com/kahun/awesome-sysadmin#rdbms) : Postgres, MariaDB, ..
 
