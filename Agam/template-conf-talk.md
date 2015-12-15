@@ -56,7 +56,7 @@ My talk will use Jupyter notebooks for the presentation with multiple slides in 
 # BIOGRAPHY
 {{*Anything else you'd like the program committee to know when making their selection: your past speaking experience, open source community experience, etc.*}}
 
-I am a computing technologist and [Foss contributor](http://svaksha.com/pages/Bio) who has spoken at coding camps and technical conferences like [Pycon-CA](http://2012.pycon.ca/talk/29). Recently, my talk "[Bootstrapping your Foss journey with Julia](http://nbviewer.ipython.org/github/svaksha/ira/blob/master/2015-07-fsmkcamp/00_index.ipynb)" at FSMK-Camp was very well received and rated as "worth it / [higher standard](http://harikavreddy.blogspot.in/2015/07/i-always-wanted-my-holidays-to-be.html)" by the Engg student attendees. 
+I am a computing technologist and [Foss contributor](http://svaksha.com/pages/Bio) who has spoken at coding camps and technical conferences like [Pycon-CA](http://2012.pycon.ca/talk/29). Recently, my talk "[Bootstrapping your Foss journey with Julia](http://nbviewer.ipython.org/github/svaksha/ira/blob/master/2015-07-fsmkcamp/00_index.ipynb)" at FSMK-Camp was very well received and an the Engg student attendee blogged my talk as "worth it .. [higher standard](http://harikavreddy.blogspot.in/2015/07/i-always-wanted-my-holidays-to-be.html)". 
 
 Here is a detailed list of my print [publications and technical talks](http://svaksha.com/pages/Publications) presented at conferences. The Jupyter notebooks and slide materials used in my talks and presentations (including conference proposals) have been released under the AGPL/CC licenses in the [IRA](http://svaksha.github.io/ira) repo on github.
 
