@@ -151,6 +151,9 @@ http://pika.readthedocs.org/en/0.9.14/intro.html
 + [OpenStack drivers](http://www.openstack.org/marketplace/drivers/)
 + http://www.ibm.com/developerworks/cloud/library/cl-openstack-pythonapis/
 
+###### UserExample
++ https://www.mediawiki.org/wiki/Wikimedia_Labs
+
 ----
 
 # Rackspace

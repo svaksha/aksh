@@ -34,3 +34,6 @@
 + https://en.wikipedia.org/wiki/Image_file_formats
 + https://en.wikipedia.org/wiki/Raster_graphics
 + True color, https://en.wikipedia.org/wiki/Color_depth#True_color_.2824-bit.29
++ https://helpx.adobe.com/photoshop/using/file-formats.html
+
+
