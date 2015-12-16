@@ -15,7 +15,14 @@
    + [ARBTT](#arbtt)
    + [Backups](#backups)
    + [Spreadsheets](#spreadsheets)
-   
+
+====
+
+# DNS
++ http://www.thekelleys.org.uk/dnsmasq/doc.html
++ https://hackercodex.com/guide/how-to-stop-isp-dns-server-hijacking/
++ http://askubuntu.com/questions/708762/redirecting-to-http-domain-error-com
+
 ----
 
 # GRUB
