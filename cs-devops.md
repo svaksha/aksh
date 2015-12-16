@@ -88,6 +88,7 @@ http://pika.readthedocs.org/en/0.9.14/intro.html
 + https://docs.docker.com/installation/ubuntulinux/
 + https://docs.docker.com/articles/basics/
 + http://www.liquidweb.com/kb/how-to-install-docker-on-ubuntu-14-04-lts/
++ [dockerspawner](https://github.com/jupyter/dockerspawner) :: Spawns JupyterHub user servers in Docker containers. 
 
 ----
 

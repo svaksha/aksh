@@ -30,7 +30,7 @@
 + OpenData - Make the data publicly available to allow reproduction of the computational analysis.
 + Ensure research data quality and reproducibility along the whole research lifecycle. 
 
-The Hardware infrastructure & servers for the FOSS stack will run on self-hosted server farms. The idea is to leverage existing free software stack for the similarity in features and other specifications and their reuse potential as per the Licenses they are released under. This document contains an outline for the web frameworks, CI, messaging libs, and other backend stack options that are currently available and/or popular.
+The Hardware infrastructure & servers for the FOSS stack will run on private server farms. The idea is to leverage existing free software stack for the similarity in features and other specifications and their reuse potential as per the Licenses they are released under. This document contains an outline for the web frameworks, CI, messaging libs, and other backend stack options that are currently available and/or popular.
 
 ----
 
@@ -46,6 +46,7 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
 + [Containerization resources](https://github.com/svaksha/pythonidae/blob/master/Build-Automation.md#containers-virtualization).
 + [dokku](https://github.com/progrium/dokku) :: Docker powered mini-Heroku in around 100 lines of Bash.
 + [elk-docker](https://github.com/spujadas/elk-docker) with [documentation](https://github.com/spujadas/elk-docker-doc/blob/master/docs/index.md).
++ [dockerspawner](https://github.com/jupyter/dockerspawner) :: Spawns JupyterHub user servers in Docker containers. 
 
 # Computational Reproducibility - [Reprozip](https://vida-nyu.github.io/reprozip/)
 + Computational reproducibility is hard to achieve due to the tedious scientific paper reviewing process which requires authors to generate a compendium that encapsulates all the inputs needed to correctly reproduce their experiments: the data, a complete specification of the experiment and its steps, and information about the originating computational environment (OS, hardware architecture, and library dependencies). 
