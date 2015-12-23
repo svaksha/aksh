@@ -26,6 +26,7 @@
 
 # Resources
 
++ https://github.com/rossant/awesome-math
 + http://www.youtube.com/watch?v=hE7l6Adoiiw
 + vihart.com/doodling , http://vihart.com/doodling/
 + WaterJugs puzzle, http://delphiforfun.org/programs/WaterJugs.htm
