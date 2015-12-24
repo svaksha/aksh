@@ -3,7 +3,6 @@
 + [DEB Packages](#deb-packages)
    + [PPA](#ppa)
 + [BASH SHELL](#bash-shell)
-   + [Automation](#automation)
    + [Bash Scripting](#bash-scripting)
    + [Julia](#julia)
 + [Kernel-HDD](#kernel-hdd)
@@ -15,6 +14,7 @@
    + [ARBTT](#arbtt)
    + [Backups](#backups)
    + [Spreadsheets](#spreadsheets)
++ [Resources](#resources)
 
 ====
 
@@ -103,10 +103,6 @@ dpkg -S /sbin/ippool
 + https://stribika.github.io/2015/01/04/secure-secure-shell.html
 + What is the difference between executing a bash script and sourcing a bash script?, http://superuser.com/questions/176783/what-is-the-difference-between-executing-a-bash-script-and-sourcing-a-bash-scrip
 
-### Automation
-+ [basher](https://github.com/basherpm/basher) :: A package manager for shell scripts. 
-+ https://github.com/alebcay/awesome-shell
-
 ### Bash Scripting
 + https://help.ubuntu.com/community/Beginners/BashScripting
 + http://stackoverflow.com/questions/106387/is-it-possible-to-detect-32-bit-vs-64-bit-in-a-bash-script
@@ -181,7 +177,7 @@ __desktop timetracker__
 ## Backups
 + [attic](https://github.com/jborg/attic) :: Deduplicating backup program. [Docs](https://attic-backup.org/).
 + https://github.com/xolox/python-rotate-backups
-+ BakThat {Stopped} : https://github.com/tsileo/bakthat
++ BakThat : https://github.com/tsileo/bakthat __{Status : UnMaintained}__
 + rsync, http://www.mikerubel.org/computers/rsync_snapshots/
 + storelet : https://pypi.python.org/pypi/storelet
 
@@ -199,5 +195,8 @@ __desktop timetracker__
 ## Spreadsheets
 + [roo](https://github.com/roo-rb/roo) :: an interface to spreadsheets of several sorts. 
 
+
 ----
 
+# Resources
++ https://github.com/aleksandar-todorovic/awesome-linux/

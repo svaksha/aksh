@@ -13,6 +13,7 @@
 + [OpenShift](#openshift)
 + [SECURITY](#security)
 + [Yaksha ToDo](#yaksha-todo)
+   + [Automation](#automation)
 
 ====
 
@@ -242,8 +243,16 @@ Keep in mind those tips are for  PRODUCTION SERVERS rather than Development mach
 
 ----
 
-# Yaksha ToDo
+# [Yaksha](http://svaksha.github.io/yaksha) ToDo
 + Moved to https://github.com/svaksha/yaksha/blob/master/todo.md
 + https://pypi.python.org/pypi/backalaika/0.2.1
 + https://www.zufallsheld.de/2014/01/25/python-backup-script-revisited/
 + https://github.com/aliceh75/dufl
+
+### Automation
++ [basher](https://github.com/basherpm/basher) :: A package manager for shell scripts. 
++ https://github.com/alebcay/awesome-shell
+
+----
+
+
