@@ -16,7 +16,7 @@
    + [Spreadsheets](#spreadsheets)
 + [Resources](#resources)
 
-====
+----
 
 # DNS
 + http://www.thekelleys.org.uk/dnsmasq/doc.html
@@ -199,4 +199,5 @@ __desktop timetracker__
 ----
 
 # Resources
++ https://help.ubuntu.com/community/SoftwareManagement
 + https://github.com/aleksandar-todorovic/awesome-linux/

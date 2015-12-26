@@ -1,24 +1,36 @@
-[Agora](https://en.wikipedia.org/wiki/Agora) is an Ancient Greek word for "gathering place" or "assembly", which exactly represents modern-day conferences and events.
+[Agora](https://en.wikipedia.org/wiki/Agora) is an Ancient Greek word for "gathering place" or "assembly", which exactly represents modern-day conferences and Foss events.
 
-+ [CFP](#cfp)
-   + [OpenHardware](#openhardware)
++ [Agora](#agora)
++ [OpenHardware](#openhardware)
 + [ConfTools](#conftools)
 
-====
+----
 
-# CFP
+# Agora
 + http://pydata.org/amsterdam2016/cfp/
 + SAVE-SD 2016, https://lists.okfn.org/pipermail/open-science/2015-November/004048.html
 + GOR [General Online Research](http://www.gor.de/). [CFP](http://www.gor.de/about/call-for-papers.html).
 + IEEE Technically Sponsored [SAI Computing Conference 2016](http://www.SAIConference.com/Computing2016), 13-15 July 2016, London UK.
 + 2016feb16 : http://www.pycon.se/
 
-# CCC
-[1] https://events.ccc.de/congress/2015/wiki/Session:Open_Science_Workshop
-[2] https://events.ccc.de/congress/2015/wiki/Main_Page
-[3] https://events.ccc.de/2015/12/07/32c3-ticket-status/
+### CCC
++ https://events.ccc.de/congress/2015/wiki/Session:Open_Science_Workshop
++ https://events.ccc.de/congress/2015/wiki/Main_Page
++ https://events.ccc.de/2015/12/07/32c3-ticket-status/
 
-## OpenHardware
+### [FORCE11](http://www.force2016.org)
++ Force2016 Conference
++ Dates: Preconference: April 17, 2016; Main conference: April 18-19, 2016
++ Venue: Portland, Oregon.
++ The FORCE2016 Research Communication and e-Scholarship Conference brings together a diverse group of people interested in changing the way scholarly and scientific information is communicated and shared. Who is it for? Scholars, researchers, librarians, data managers, grant administrators, funders, publishers, editors, societies and anyone else interested in scholarly communications.
+
+### ICCS
++ INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE :: http://www.iccs-meeting.org/iccs2016/ 
++ Workshop on Teaching Computational Science 2016 (WTCS 2016) :: http://webs.wofford.edu/shifletab/iccs/ 
+
+----
+
+# OpenHardware
 + http://openhardware.science/
 
 ----

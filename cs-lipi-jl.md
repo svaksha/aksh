@@ -183,6 +183,9 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 + JuliaStats-Roadmap.jl, https://github.com/JuliaStats/Roadmap.jl/issues/11
 
 ## .juliarc.jl
++ https://gist.github.com/Ismael-VC/6db0c310eaf04d0b0a1b
++ https://gist.github.com/search?l=julia&q=.juliarc.jl&ref=searchresults&utf8=%E2%9C%93
++ https://gist.github.com/ZacCranko/ac505c8db680ba97a9be
 + https://github.com/JuliaLang/julia/issues/5076
 + https://github.com/JuliaLang/julia/issues/6445
 + https://github.com/JuliaLang/julia/issues/10351 
