@@ -1,6 +1,7 @@
 + [BOOKS](#books)
 + [AI](#ai)
 + [Computational Formalisms](#computational-formalisms)
++ [Data Structures](#data-structures)
 + [Graphs](#graphs)
 + [HMM](#hmm)
 + [Machine Learning](#machine-learning)
@@ -22,6 +23,16 @@
 + https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
 + https://en.wikipedia.org/wiki/Category:Computational_problems
 + http://en.wikipedia.org/wiki/Category:Computational_science
+
+----
+
+# Data Structures
++ Algorithms, Part I :: https://www.coursera.org/course/algs4partI
++ https://en.wikipedia.org/wiki/Data_structure
+
+### Books
++ The Algorithm Design Manual, Steven.S.Skiena - An excellent reference to algorithm design and many common data types. 
++ "The Art of Computer Programming", Donald Knuth.
 
 ----
 
@@ -70,3 +81,4 @@
    + [Joblint](http://joblint.org/) and the [source code](https://github.com/rowanmanning/joblint).
 
 ----
+

@@ -3,6 +3,7 @@
 + [Organizations](#organizations)
 + [LINKS](#links)
    + [How2HireDataScientists](#how2hiredatascientists)
++ [Software Engineering](#software-engineering)
 + [Software Management](#software-management)
 
 ----
@@ -25,10 +26,17 @@
 ----
 
 # LINKS
-
 + http://thenextweb.com/dd/2015/06/11/8-barriers-to-overcome-when-learning-to-code/
 + How 2 Hire Data Scientists, http://firstround.com/review/how-to-consistently-hire-remarkable-data-scientists/
 + http://yourstory.com/2015/04/doormint/
+
+----
+
+# Software Engineering
++ https://www.quora.com/What-skills-do-self-taught-programmers-commonly-lack/
+
+## Software Design
++ What not to do if you are designing a new language: http://tetamap.wordpress.com/2012/11/13/if-i-were-to-design-a-new-programming-language/
 
 ----
 
@@ -39,5 +47,5 @@
 + Info Sc. ontology, http://en.wikipedia.org/wiki/Ontology_%28information_science%29
 + Formal concept analysis: http://en.wikipedia.org/wiki/Formal_concept_analysis
 
-## Software Design
-+ What not to do if you are designing a new language: http://tetamap.wordpress.com/2012/11/13/if-i-were-to-design-a-new-programming-language/
+----
+
