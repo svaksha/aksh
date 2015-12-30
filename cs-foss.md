@@ -1,16 +1,6 @@
 
 
-# Utils
-* RISCOSS GitHubAnalyzer: http://riscossplatform.ow2.org/riscoss/wiki/gha/
 
-----
-
-# Event-Management 
-__Meetup Mgmt.__
-+ Portland's Calagator : http://calagator.org/ and wiki : https://github.com/calagator/calagator/wiki/Supported-Import-Formats
-
-__Conf Mgmt__:
-+ [OpenConferenceWare](https://github.com/osbridge/openconferenceware) is an open source web application for events and conferences. This customizable, general-purpose platform provides proposals, sessions, schedules, tracks and more.
 
 
 ----
@@ -31,7 +21,8 @@ __Conf Mgmt__:
 
 ----
 
-# Dotclear-DocuWiki
+# WIKI
+## Dotclear-DocuWiki
 + Dotclear wiki syntax : http://dotclear.org/documentation/2.0/usage/syntaxes
 + Formatting syntax : http://fr.dotclear.org/documentation/wiki/syntax
 + http://fr.dotclear.org/documentation/wiki/dokuwiki
@@ -39,26 +30,30 @@ __Conf Mgmt__:
 ----
 
 # ORGS
-
 + https://thehackerwithin.github.io/
 
-#### gsoc
+### gsoc
 + https://github.com/sils1297/configurations/blob/master/scripts/git/collect_authors_patches.sh
 + https://wiki.documentfoundation.org/Development/GSoC#Student_Tips
 
-#### OpenNews
+### OpenNews
 + https://github.com/OpenNewsLabs
 
-#### Tor
-+ http://tor.stackexchange.com/questions/4459/how-does-tor-network-latency-speed-compare-with-direct-internet
-
-----
-
-# Science Orgs
+### Science 
 + https://openhatch.org/wiki/Open_Science_Projects_and_Organizations
+
+### Tor
++ http://tor.stackexchange.com/questions/4459/how-does-tor-network-latency-speed-compare-with-direct-internet
 
 ----
 
 # ENGG Tutorials
 + Engg Tut, https://engineering.purdue.edu/kak/Tutorials/Tutorials.html (via, https://engineering.purdue.edu/kak/)
+
+----
+
+# Utilities
++ RISCOSS GitHubAnalyzer: http://riscossplatform.ow2.org/riscoss/wiki/gha/
+
+
 

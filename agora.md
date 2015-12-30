@@ -2,7 +2,8 @@
 
 + [Agora](#agora)
 + [OpenHardware](#openhardware)
-+ [ConfTools](#conftools)
++ [Event Management](#event-management)
+   + [ConfTools](#conftools)
 
 ----
 
@@ -35,8 +36,16 @@
 
 ----
 
-# ConfTools
-An interesting thread on a Meetup forum: http://www.discussmeetup.com/forum/general-questions-how-tos-tips-tricks/i-want-to-close-my-group-what-are-good-free-alternative-platforms-to-meetup/
+# Event Management 
+__Meetup Mgmt__
++ Portland's Calagator : http://calagator.org/ and wiki : https://github.com/calagator/calagator/wiki/Supported-Import-Formats
+
+
+## ConfTools
+__Conf Mgmt__:
++ [OpenConferenceWare](https://github.com/osbridge/openconferenceware) is an open source web application for events and conferences. This customizable, general-purpose platform provides proposals, sessions, schedules, tracks and more.
+
++ An interesting thread on a Meetup forum: http://www.discussmeetup.com/forum/general-questions-how-tos-tips-tricks/i-want-to-close-my-group-what-are-good-free-alternative-platforms-to-meetup/
 
 For Conferences:
 * http://www.eventbrite.com/ (free for free events)
@@ -51,6 +60,5 @@ For Conferences:
    
 For BarCamps:
 * https://www.barcamptools.eu/ (again, mostly in Germany)
-
 
 

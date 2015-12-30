@@ -9,6 +9,7 @@
 + [Podcasts](#podcasts)
    + [programming language](#programming language)
 + [Reading](#reading)
++ [Presentations](#presentations)
    
 ----
 
@@ -89,7 +90,6 @@ Good online places to start:
 
 ---- 
 
-
 # Podcasts
 + CodeNewbie interviews.: http://www.codenewbie.org/podcast
 + Zed Shaw : http://www.codenewbie.org/podcast/the-hard-way
@@ -116,9 +116,13 @@ Good online places to start:
 + ember, javascript and general, https://frontsidethepodcast.simplecast.fm/ 
 + a podcast that combines fitness and programming, http://getupandcode.com/
 
-
 ----
 
 # Reading
-* http://worrydream.com/#!/ClimateChange => about computational climate change but Victor makes an interesting point about “Tools for scientists and engineers" : http://worrydream.com/ClimateChange/#tools
++ http://worrydream.com/#!/ClimateChange => about computational climate change but Victor makes an interesting point about “Tools for scientists and engineers" : http://worrydream.com/ClimateChange/#tools
 
+----
+
+# Presentations
++ http://www.treesmapsandtheorems.com/
++ https://en.wikipedia.org/wiki/PechaKucha
