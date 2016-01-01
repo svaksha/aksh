@@ -235,7 +235,7 @@ Since most of us really need something "bigger" than say as SOHO router (even so
 
 This is a pretty tight solution:  REDWALL, http://redwall.sourceforge.net/features.html
 
-#### Web, basic port firewalling.
+#### Web, basic port firewalling
 
 + https://www.owasp.org/index.php/Main_Page, is a good place to start for Web, aimed more towards the Development side (applications).
 + Linux server hardening, http://www.tecmint.com/linux-server-hardening-security-tips/
@@ -254,5 +254,4 @@ Keep in mind those tips are for  PRODUCTION SERVERS rather than Development mach
 + https://github.com/alebcay/awesome-shell
 
 ----
-
 

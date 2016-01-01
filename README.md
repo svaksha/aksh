@@ -1,6 +1,6 @@
 # aksh
 
-My personal reference bibliography of STEM resources, books, technical notes, conference/ workshop jottings, [scientific](https://en.wikipedia.org/wiki/Outline_of_science) research papers and [grey literature](https://en.wikipedia.org/wiki/Grey_literature) that makes an interesting read.
+My personal reference bibliography of STEM resources, books, technical notes, conference/ workshop jottings, [scientific](https://en.wikipedia.org/wiki/Outline_of_science) research papers and [grey literature](https://en.wikipedia.org/wiki/Grey_literature) that makes an interesting read. 
 
 ----
 
@@ -10,6 +10,6 @@ My personal reference bibliography of STEM resources, books, technical notes, co
 
 
 ### Mirrors
-+ ☆ [GitLab](https://gitlab.com/svaksha/aksh) :: git clone git@gitlab.com:svaksha/aksh.git 
++ [GitLab](https://gitlab.com/svaksha/aksh) :: `git clone git@gitlab.com:svaksha/aksh.git`
 
 
