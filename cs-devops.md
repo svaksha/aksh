@@ -250,6 +250,7 @@ Keep in mind those tips are for  PRODUCTION SERVERS rather than Development mach
 + https://github.com/aliceh75/dufl
 
 ### Automation
++ https://github.com/szaghi/dotfiles
 + [basher](https://github.com/basherpm/basher) :: A package manager for shell scripts. 
 + https://github.com/alebcay/awesome-shell
 
