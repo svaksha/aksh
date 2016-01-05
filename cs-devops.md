@@ -3,6 +3,7 @@
 + [DEVOPS](#devops)
    + [Automation](#automation)
    + [Batch Jobs](#batch-jobs)
+   + [CI](#ci)
 + [DELL](#dell)
 + [DOCKER](#docker)
 + [Monitoring](#monitoring)
@@ -43,13 +44,12 @@
    
    
 ## RabbitMQ
-+ RabbitMQ, https://www.rabbitmq.com           # Erlang AMQP lib
++ RabbitMQ, https://www.rabbitmq.com       # Erlang AMQP lib
+   + https://www.rabbitmq.com/tutorials/tutorial-two-python.html
+   + http://www.rabbitmq.com/configure.html#config-items
+   + http://www.rabbitmq.com/memory.html#diskfreesup
 + Pika, https://github.com/pika/pika       # a Pure Python RabbitMQ/AMQP 0-9-1 client library.
-
-https://www.rabbitmq.com/tutorials/tutorial-two-python.html
-http://www.rabbitmq.com/configure.html#config-items
-http://www.rabbitmq.com/memory.html#diskfreesup
-http://pika.readthedocs.org/en/0.9.14/intro.html
+   + http://pika.readthedocs.org/en/0.9.14/intro.html
 
 ----
 
@@ -77,6 +77,9 @@ http://pika.readthedocs.org/en/0.9.14/intro.html
 
 ## Batch Jobs
 + [Luigi](https://github.com/spotify/luigi) :: A Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+
+## CI
++ https://github.com/fredhutchio/containers-ci
 
 ----
 
