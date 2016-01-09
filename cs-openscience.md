@@ -1,6 +1,6 @@
 + [NEWS](#news)
 
-====
+----
 
 # NEWS
 ## DataScientist (Vs. DataAnalyst) Vs. DataEngineer Vs. Statistician 

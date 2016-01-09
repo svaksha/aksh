@@ -248,6 +248,7 @@ Keep in mind those tips are for  PRODUCTION SERVERS rather than Development mach
 
 # [Yaksha](http://svaksha.github.io/yaksha) ToDo
 + Moved to https://github.com/svaksha/yaksha/blob/master/todo.md
++ Papertrail, CopperEgg, Skeddly, Monit, Jenkins.
 
 ----
 

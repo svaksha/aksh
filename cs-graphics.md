@@ -20,6 +20,9 @@
 + https://en.wikipedia.org/wiki/Integral_imaging
 + https://en.wikipedia.org/wiki/Category:3D_imaging
 
+### Convert .jpg to .pdf
++ http://askubuntu.com/questions/246647/jpeg-files-to-pdf
+
 ### Reduce image size
 + http://ubuntu.5.x6.nabble.com/how-to-compress-jpeg-to-reduce-size-td1310250.html
 

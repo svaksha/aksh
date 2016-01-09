@@ -1,5 +1,6 @@
 + [Analytics](#analytics)
 + [Art](#art)
++ [Citation Software](#citation-software)
 + [DEV](#dev)
    + [Code Exercises](#code-exercises)
    + [Lists](#lists)
@@ -21,6 +22,11 @@
 # Art
 + http://www.opengraphicdesign.com/print/create-your-own-business-card/ 
 + http://www.flaticon.com/packs/business-cards
+
+----
+
+# Citation Software
++ https://www.mediawiki.org/wiki/Citoid
 
 ----
 
@@ -126,5 +132,11 @@ Good online places to start:
 # Presentations
 + http://www.treesmapsandtheorems.com/
 + https://en.wikipedia.org/wiki/PechaKucha
+
+----
+
+
+
+
 
 
