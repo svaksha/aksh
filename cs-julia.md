@@ -1,5 +1,6 @@
 + [0.5-dev](#0.5-dev)
 + [CORE](#core)
+   + [Daemons](#daemons)
    + [Syntax-Symbols-Operators](#syntax-symbols-operators)
 + [Development](#development)
    + [.juliarc](#.juliarc)
@@ -122,7 +123,7 @@ You can override Base.show(io, ex) rather than Base.showerror.
 # CORE
 + http://docs.julialang.org/en/latest/#developer-documentation
 
-## BR
+### BR
 + #7941:Towards array nirvana, https://github.com/JuliaLang/julia/issues/7941
 + https://github.com/JuliaLang/julia/issues/9874#issuecomment-75979041
 + https://github.com/JuliaLang/julia/issues/3701
@@ -133,7 +134,11 @@ You can override Base.show(io, ex) rather than Base.showerror.
 + https://github.com/JuliaLang/julia/issues/7941
 + https://github.com/JuliaLang/julia/pull/10704
 
-### Syntax-Symbols-Operators
+## Daemons
++ https://github.com/JuliaLang/julia/issues/8295
++ https://github.com/JuliaLang/julia/issues/985#issuecomment-54837219
+
+## Syntax-Symbols-Operators
 + http://julia.readthedocs.org/en/latest/manual/noteworthy-differences/
 + http://docs.julialang.org/en/latest/manual/integers-and-floating-point-numbers/
 + Abstract types: http://julia.readthedocs.org/en/latest/manual/types/#abstract-types
