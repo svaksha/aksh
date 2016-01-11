@@ -4,6 +4,7 @@
    + [Automation](#automation)
    + [Batch Jobs](#batch-jobs)
    + [CI](#ci)
+   + [LibCloud](#libcloud)
 + [DELL](#dell)
 + [DOCKER](#docker)
 + [Monitoring](#monitoring)
@@ -80,6 +81,11 @@
 
 ## CI
 + An introduction to containers for continuous integration : https://github.com/fredhutchio/containers-ci
+
+## [LibCloud](https://libcloud.apache.org/)
++ A Python library for interacting with many of the popular cloud service providers using a unified API - can handle files on AWS, Dropbox, GoogleDrive. 
++ List of supported providers : https://libcloud.readthedocs.org/en/latest/supported_providers.html
+
 
 ----
 

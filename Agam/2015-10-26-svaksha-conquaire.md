@@ -2,7 +2,6 @@
 + [Computational Reproducibility](#computational-reproducibility)
    + [Docker](#docker)
    + [Reprozip](#reprozip)
-   + [Libs](#libs)
 + [Continuous Integration](#continuous-integration)        
    + [Configuration Management](#configuration-management)
    + [TDD](#tdd)
@@ -23,7 +22,7 @@
    + [References](#references)
    + [Guidelines](#guidelines)
    
-====
+----
 
 # TECHNOLOGY OBJECTIVES
 
@@ -59,10 +58,6 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
 + Reprozip is almost like a virtual machine, but maybe smaller than a VM and most importantly it uses vagrant and docker and runs on anaconda (2.x).
 + Gives the user an isolated sandbox to test their research while allowing others to use the tools used by the scientist to reproduce the analytic procedures (e.g. scripts, spreadsheets, etc.) that were used to process or analyse the research data. 
 + There was a package conflict bug for Python-3.x within anaconda, now fixed : https://github.com/ViDA-NYU/reprozip/issues/157
-
-## Libs
-+ http://libcloud.apache.org
-
 
 ----
 
