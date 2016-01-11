@@ -1,6 +1,8 @@
 + [TECHNOLOGY OBJECTIVES](#technology-objectives)
-+ [Computational Reproducibility - Docker](#computational-reproducibility-docker)
-+ [Computational Reproducibility - Reprozip](#computational-reproducibility-reprozip)
++ [Computational Reproducibility](#computational-reproducibility)
+   + [Docker](#docker)
+   + [Reprozip](#reprozip)
+   + [Libs](#libs)
 + [Continuous Integration](#continuous-integration)        
    + [Configuration Management](#configuration-management)
    + [TDD](#tdd)
@@ -34,7 +36,9 @@ The Hardware infrastructure & servers for the FOSS stack will run on private ser
 
 ----
 
-# Computational Reproducibility - [Docker](https://docker.com)
+# Computational Reproducibility 
+
+## [Docker](https://docker.com)
 VM's are memory-intensive and harder to setup besides varying across distros. Hence, docker containers are a safer method to ensure easy reproducability without massive system or data changes.
 + Containerize the research data that is syntactically well-formed, has __meta tags__, is __cleaned up__ and __ready for reuse__ or for __testing and revalidating__ already published research. 
 + By creating __docker instances__ for the pockets of research that a scientist wishes to share, one can easily __reproduce the same environment instance in which the original computation was carried out__.
@@ -48,12 +52,17 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
 + [elk-docker](https://github.com/spujadas/elk-docker) with [documentation](https://github.com/spujadas/elk-docker-doc/blob/master/docs/index.md).
 + [dockerspawner](https://github.com/jupyter/dockerspawner) :: Spawns JupyterHub user servers in Docker containers. 
 
-# Computational Reproducibility - [Reprozip](https://vida-nyu.github.io/reprozip/)
+
+## [Reprozip](https://vida-nyu.github.io/reprozip/)
 + Computational reproducibility is hard to achieve due to the tedious scientific paper reviewing process which requires authors to generate a compendium that encapsulates all the inputs needed to correctly reproduce their experiments: the data, a complete specification of the experiment and its steps, and information about the originating computational environment (OS, hardware architecture, and library dependencies). 
 + Various OS introduce a dependency hell making it an impossible task to get the same computational environment across all distros even if they use similar tools.
 + Reprozip is almost like a virtual machine, but maybe smaller than a VM and most importantly it uses vagrant and docker and runs on anaconda (2.x).
 + Gives the user an isolated sandbox to test their research while allowing others to use the tools used by the scientist to reproduce the analytic procedures (e.g. scripts, spreadsheets, etc.) that were used to process or analyse the research data. 
 + There was a package conflict bug for Python-3.x within anaconda, now fixed : https://github.com/ViDA-NYU/reprozip/issues/157
+
+## Libs
++ http://libcloud.apache.org
+
 
 ----
 
