@@ -1,6 +1,14 @@
++ [Data Types](#data-types)
 + [Postgres-XC](#postgres-xc)
 
-====
+----
+
+# Data Types
++ https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats
++ https://en.wikipedia.org/wiki/S-expression
+
+
+----
 
 # Postgres-XC
 + http://www.postgresql.org/download/
