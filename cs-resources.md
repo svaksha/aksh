@@ -177,8 +177,27 @@ around you.
 ### Always a learner.
 + Your education is never complete and you will learn new things every day.  A 
 lifetime of learning is good for your brain -- it will keep it young and nimble.
++ Always be open to learning
++ Balance learning programming with domain knowledge and design/system thinking
 
+### Develop yourself internally
++ Get a life outside of work. The pace of technology is fast and you have a 
+lifetime to learn. Programming is an intense profession, you will burn out at 
+some point.  Having a life outside of programming can help to prevent the burn 
+out.  If you live and breathe programming, when you are on a shitty project, it 
+will be hard to separate yourself from the project and you may get stuck.  I 
+can't see a way to solve the problem, because I don't have a necessary level of 
+detachment.
++ Grow as a person, not just as a developer. Not everyone loves personal 
+projects and avoid thinking less of those who dont. Some people enjoy having a 
+life outside of programming, which has no bearing on their job efficiency.  
++ Having external hobbies or outside interests will give you different ways of 
+thinking about problems and better people skills, hence making you a better 
+programmer and person.
 
-
-
+### Know yourself
++ Know how you learn.
++ Know what gets you intellectually excited
++ Know what keeps you engaged and excited
++ Play, a lot.
 
