@@ -1,3 +1,5 @@
+https://www.suse.com/documentation/sles11/book_sle_admin/data/sec_netz_xntp_yast
+.html
 
 + https://forums.opensuse.org/showthread.php/487122-Use-zypper-as-sudoer-
 configuration
