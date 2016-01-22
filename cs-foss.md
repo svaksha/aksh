@@ -6,6 +6,15 @@
 
 ----
 
+# Mailman
+Create a sublist or an umbrella list 
++ http://www.sussex.ac.uk/its/help/faq?faqid=1222
++ http://wiki.list.org/DOC/What%20is%20an%20Umbrella%20list%20-%20and%20why%
+20doesn't%20it%20do%20what%20I%20want%3F
+
+
+----
+
 # MOZILLA
 ## SWC-MSF
 + https://swcarpentry.etherpad.mozilla.org/instructors-Europe?
