@@ -254,6 +254,12 @@ A cache. Other than that, no idea what it accomplishes (aside from reading the c
 + Coding rules, https://github.com/JuliaStats/Distributions.jl/issues/396
 
 ## USING 
+You can write `using A, B` to use both A and B but then you can't list specific 
+bindings.
+Example: 
+´´´using A: fooA, barA
+   using B: fooB, barB
+´´´
 __REQUIRE is deprecated, try using these: (include, reload, using, import)__
 + https://github.com/JuliaLang/METADATA.jl/issues/2777
 + Add to REQUIRE a package which isn't in METADATA, https://github.com/JuliaLang/julia/issues/7737

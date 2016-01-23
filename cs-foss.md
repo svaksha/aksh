@@ -68,4 +68,7 @@ Create an umbrella list
 + RISCOSS GitHubAnalyzer: http://riscossplatform.ow2.org/riscoss/wiki/gha/
 
 
+----
 
+# Library management
++ https://github.com/projecthydra
