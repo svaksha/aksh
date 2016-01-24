@@ -90,6 +90,7 @@
 ----
 
 # DOCKER
++ https://github.com/jfrazelle/dockerfiles
 + https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications
 + https://books.google.co.in/books?id=oAkZBQAAQBAJ&pg=PA116&lpg=PA116&dq=python+code+to+spin+up+docker+containers&source=bl&ots=dSp_ddqppk&sig=BfOcQ7hY1oBndYT3DtVbgaT8dis&hl=en&sa=X&ei=Q9EcVeroFI-0uATYvoKYBg&ved=0CEcQ6AEwBw#v=onepage&q=python%20code%20to%20spin%20up%20docker%20containers&f=true
 + http://phusion.github.io/baseimage-docker/
