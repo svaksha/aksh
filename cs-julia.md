@@ -235,8 +235,6 @@ A cache. Other than that, no idea what it accomplishes (aside from reading the c
 ## Parallel Computing
 + http://www.csd.uwo.ca/~moreno/cs2101a_moreno/Parallel_computing_with_Julia.pdf
 
-
-
 ----
 
 # Packaging
@@ -324,6 +322,15 @@ How to create a stable version of Julia + Gadfly + PyPlot + IJulia (+ other pack
 2.  Use system image: http://docs.julialang.org/en/release-0.4/devdocs/sysimg/, that includes all the necessary packages.   It's not really clear how to do this from the documentation, though.   I'm also not sure how that would interact with Pkg.update() though, so probably instructions to delete .julia would also need to be given.
 3. https://github.com/rened/DeclarativePackages.jl, which allows you to run Julia with a given set of versions of given packages.
 4. Possibly another option would be a Docker container image.
+
+## Package Managers
++ http://dontkry.com/posts/code/modules-the-right-way.html
+
+The Julia package manager lacks solutions to two problems that `npm` solves with nested dependencies inside the project folder:
+
+1. The ability to have different versions of the same package active on the same machine, and even in the same project's (sub)dependencies.
+2. The ability to specify dependencies and their versions on a per-project basis, also for projects that are not modules themselves, allowing you to check in a file specifying dependencies and then running something like `Pkg.restore()` to install everything you need.
+
 
 
 ----
