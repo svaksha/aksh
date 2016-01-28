@@ -11,8 +11,15 @@
 
 # BOOKS
 + The book "biological sequence analysis" by Durbin and Eddy.
+
+## NLP and ML
 + https://mitpress.mit.edu/books/introduction-algorithms
 + http://www.amazon.com/The-Art-Computer-Programming-Vol/dp/0201896834
++ G. Bordogna, M. Pagani, and G. Pasi, Soft Computing for Information Retrieval on the Web. Springer Verlag, 2006.
++ Indurkhya, N., and Damerau, F. Handbook Of Natural Language Processing, 2nd Edition CRC 2010
++ Sebastiani, (2002) Machine learning in automated text categorization, ACM Computing Surveys, 34 (1), 1-47.
++ On The Use of Fuzzy Rules to Text Document Classification: Tatiane M. Nogueira, Solange O. Rezende, Heloisa A. Camargo
++ A fuzzy approach to classifying text documents, Liu , Song.
 
 ----
 
