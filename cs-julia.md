@@ -186,6 +186,7 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 + http://julia.readthedocs.org/en/latest/stdlib/base/
 + http://stackoverflow.com/questions/25716547/type-i-discrete-cosine-transform-not-defined-found-in-julia-0-3-0
 + API for scikit, https://github.com/svs14/Orchestra.jl/blob/master/src/python/scikit_learn.jl
++ JuliaComputing Statistics roadmap: http://juliacomputing.com/blog/2016/01/14/stats-roadmap.html
 + JuliaStats-Roadmap.jl, https://github.com/JuliaStats/Roadmap.jl/issues/11
 
 ## .juliarc.jl

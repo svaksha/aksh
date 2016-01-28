@@ -11,6 +11,8 @@
 
 # BOOKS
 + The book "biological sequence analysis" by Durbin and Eddy.
++ https://mitpress.mit.edu/books/introduction-algorithms
++ http://www.amazon.com/The-Art-Computer-Programming-Vol/dp/0201896834
 
 ----
 
