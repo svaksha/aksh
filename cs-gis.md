@@ -42,3 +42,10 @@
 ----
 
 + http://earthexplorer.usgs.gov/ 
+
+----
+
+# Geographic Data
++ Vector tiles : https://en.wikipedia.org/wiki/Vector_tiles
++ GeoJSON
++ https://github.com/mapbox/tile-reduce
