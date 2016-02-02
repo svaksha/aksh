@@ -1,4 +1,6 @@
 + [NEWS](#news)
++ [Papers](#papers)
++ [Quality](#quality)
 
 ----
 
@@ -10,3 +12,13 @@
 + Book, http://www.librarything.com/work/15575877
 + http://www.datasciencemasters.org
 + Advice: http://datascienceresume.com/advice/5-reasons-why-doing-kaggle-projects-won-t-help-you-create-a-stand-out-data-science-resume
+
+----
+
+# Papers
++ http://crowston.syr.edu/system/files/PID2090593.pdf
+
+----
+
+# Quality
++ https://en.wikipedia.org/wiki/Data_quality
