@@ -1,5 +1,5 @@
 + [NEWS](#news)
-+ [Papers](#papers)
++ [RDM Papers](#rdm-papers)
 + [Quality](#quality)
 
 ----
@@ -15,8 +15,13 @@
 
 ----
 
-# Papers
+# RDM Papers
+Research Data Management (RDM)
 + http://crowston.syr.edu/system/files/PID2090593.pdf
++ https://www.google.co.in/?gfe_rd=cr&ei=t9OwVv3SFI7I8AfN37WoCA#q=research+data+management+tools  # work on RDM by universitis in UK
++ http://www2.le.ac.uk/services/research-data/rdm/what-is-rdm                  // what is data management
++ http://www.dcc.ac.uk/resources/briefing-papers/making-case-rdm
++ http://www.dcc.ac.uk/sites/default/files/documents/publications/Making%20the%20case.pdf
 
 ----
 
