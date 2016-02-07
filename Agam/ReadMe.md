@@ -8,6 +8,10 @@ My space to store technical reports/ proposals, technical jottings and document 
 + How to write a research proposal: http://newt.phys.unsw.edu.au/~jw/thesis.html
 + http://www.phdcompletion.com/phd-completion-why-create-a-writing-schedule/
 + http://openscienceasap.org/stream/2014/11/27/how-i-set-up-my-scientific-work-environment/#comment-946
++ [Jason Hong's collection of advice links](http://www.cs.cmu.edu/~jasonh/advice.html)
++ [Prof. Philip Guo](http://pgbovine.net/PhD-memoir.htm)'s very readable book on his personal Ph.D. school experience with other useful blog posts.
++ A website & forum for graduate students : http://thegradcafe.com 
+
 
 #### Tasks of a researcher include:
 * Authentic desire and drive to commit to the research program.
