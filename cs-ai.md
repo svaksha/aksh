@@ -69,7 +69,6 @@
 ----
 
 # NLP
-+ https://github.com/ftzeng/broca
 
 ## Sentiment Analysis
 + Front End Resources: Ajax Hacks : http://webmasters.stackexchange.com/questions/22338/why-not-ajaxify-entire-websites
@@ -83,8 +82,12 @@
 * http://streamhacker.com/2010/10/25/training-binary-text-classifiers-nltk-trainer/
 * http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
 
-### Resources
+###### Resources
++ A topic modeling paper is Latent Dirichlet Allocation by Blei.
+
+### Software
 + http://spaceandtim.es/opennews/broca
++ https://github.com/ftzeng/broca
 + Automated Job Description Text analyzers : 
    + [Textio](https://textio.com/)
    + [Joblint](http://joblint.org/) and the [source code](https://github.com/rowanmanning/joblint).
