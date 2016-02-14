@@ -1,5 +1,16 @@
-# Samskrit
 
+
+# Grammar
++ Yaska : https://en.wikipedia.org/wiki/Yāska
++ Panini : https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini
++ [Bahuvrihi](https://en.wikipedia.org/wiki/Bahuvrihi) 
++ [Synecdoche](https://en.wikipedia.org/wiki/Synecdoche).
++ 
+
+
+
+
+# Samskrit
 + [Unicode equivalence](http://en.wikipedia.org/wiki/Unicode_equivalence)
 + http://en.wikipedia.org/wiki/Sanskrit#Phonology
 + http://en.wikipedia.org/wiki/Unicode_equivalence
@@ -22,5 +33,6 @@
 + http://en.wikipedia.org/wiki/List_of_ancient_Indian_writers
 
 ##### Books
-+ [Toward a Global Science: Mining Civilizational Knowledge By Susantha Goonatilake](http://books.google.co.in/books?id=SI5ip95BbgEC&pg=PA126&dq=Virahanka+Fibonacci&hl=en#v=onepage&q&f=false
++ [Toward a Global Science: Mining Civilizational Knowledge](http://books.google.co.in/books?id=SI5ip95BbgEC&pg=PA126&dq=Virahanka+Fibonacci&hl=en#v=onepage&q&f=false) By Susantha Goonatilake.
+
 

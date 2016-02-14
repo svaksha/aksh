@@ -39,6 +39,7 @@
 # Graphs
 + [Hierarchical Scheduling of DAG Structured Computations on Manycore Processors with Dynamic Thread Grouping](http://www.cs.huji.ac.il/~feit/parsched/jsspp10/p9-xia.pdf), Yinglong Xia, et al.
 + [Querying Graph Patterns](http://homepages.inf.ed.ac.uk/libkin/papers/pods11b.pdf)
++ [Patterns in graphs](https://mathman.biz/html/patgraph.html)
 
 ----
 
