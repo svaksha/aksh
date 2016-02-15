@@ -42,8 +42,7 @@
 + guide, http://zguide.zeromq.org/py:all
    + Julia, https://github.com/imatix/zguide/tree/master/examples/Julia
    + Python, https://github.com/imatix/zguide/tree/master/examples/Python
-   
-   
+
 ## RabbitMQ
 + RabbitMQ, https://www.rabbitmq.com       # Erlang AMQP lib
    + https://www.rabbitmq.com/tutorials/tutorial-two-python.html
@@ -90,6 +89,7 @@
 ----
 
 # DOCKER
++ https://github.com/ddboline/docker_scripts :: Scripts to use with Docker, along with example Dockerfile's
 + Various Dockerfiles : https://github.com/jfrazelle/dockerfiles and a blog post: https://blog.jessfraz.com/post/docker-containers-on-the-desktop/
 + https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications
 + https://books.google.co.in/books?id=oAkZBQAAQBAJ&pg=PA116&lpg=PA116&dq=python+code+to+spin+up+docker+containers&source=bl&ots=dSp_ddqppk&sig=BfOcQ7hY1oBndYT3DtVbgaT8dis&hl=en&sa=X&ei=Q9EcVeroFI-0uATYvoKYBg&ved=0CEcQ6AEwBw#v=onepage&q=python%20code%20to%20spin%20up%20docker%20containers&f=true
