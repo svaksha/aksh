@@ -12,6 +12,12 @@ My space to store technical reports/ proposals, technical jottings and document 
 + [Prof. Philip Guo](http://pgbovine.net/PhD-memoir.htm)'s very readable book on his personal Ph.D. school experience with other useful blog posts.
 + A website & forum for graduate students : http://thegradcafe.com 
 
+### Inspirational Quotes
++ Focus on the results, and you'll never make progress. Focus on the progress, and you'll see results.
++ Learn what counts, and only do what counts (time management).
++ If you can dream it, you can do it!
++ (not a quote): the result from: http://myidp.sciencecareers.org/ 
++ Perfect is the enemy of the good!
 
 #### Tasks of a researcher include:
 * Authentic desire and drive to commit to the research program.

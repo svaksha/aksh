@@ -5,6 +5,7 @@
    + [Code Exercises](#code-exercises)
    + [Lists](#lists)
 + [FOSS-Community](#foss-community)
++ [FOSS-License](#foss-license)
 + [Life](#life)
 + [MOOC](#mooc)
 + [Podcasts](#podcasts)
@@ -51,6 +52,12 @@
 + Anthropomorphism, https://en.wikipedia.org/wiki/Anthropomorphism
 + Passive-Aggressive, http://www.forbes.com/sites/dailymuse/2015/10/02/3-times-you-think-youre-being-nice-but-you-actually-just-sound-passive-aggressive/
 + What makes a good Foss community: http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/
+
+----
+
+# FOSS-License
++ Sublicense the MIT to AGPL, http://programmers.stackexchange.com/questions/105912/can-you-change-code-distributed-under-the-mit-license-and-re-distribute-it-unde
+   + http://programmers.stackexchange.com/questions/189633/what-sublicense-actually-means?lq=1
 
 ----
 

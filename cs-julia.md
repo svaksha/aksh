@@ -346,6 +346,23 @@ The Julia package manager lacks solutions to two problems that `npm` solves with
 + https://github.com/JuliaLang/julia/pull/11943
 + https://github.com/JuliaLang/julia/pull/11906
 + https://github.com/JuliaLang/julia/blob/ff9cebe45e6c39933ab26ca134b59b3ef47ec821/doc/helpdb.jl
++ Search for functions at the Julia REPL:
+``` julia> apropos("standard deviation")
+    randn!
+    stdm
+    std
+    randn
+
+    help?> std
+    search: std stdm STDIN STDOUT STDERR setdiff setdiff! hist2d hist2d! stride strides StridedArray StridedVector StridedMatrix StridedVecOrMat redirect_stdin
+
+      std(v[, region])
+
+      Compute the sample standard deviation of a vector or array v, optionally along dimensions in region. The algorithm returns an estimator of the generative
+      distribution's standard deviation under the assumption that each entry of v is an IID drawn from that generative distribution. This computation is equivalent to
+      calculating sqrt(sum((v - mean(v)).^2) / (length(v) - 1)). Note: Julia does not ignore NaN values in the computation. For applications requiring the handling of
+      missing data, the DataArray package is recommended.
+```
 
 ### HowTo write help text in a function that could be displayed with `?`
 + REPL, `julia> Docs.@repl sin`

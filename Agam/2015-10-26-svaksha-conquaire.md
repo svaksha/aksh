@@ -21,7 +21,7 @@
    + [Papers](#papers)
    + [References](#references)
    + [Guidelines](#guidelines)
-   
+
 ----
 
 # TECHNOLOGY OBJECTIVES
@@ -225,8 +225,8 @@ General development tips for choosing a FOSS stack :
 + Must be easy to learn - in terms of future development and maintenance issues.
 + Existing cross-lang API wrappers must be maintained in future too.
 + Good community support - very essential for bugs or help wanted situations. 
-   + For external project libs: They must have a mailing list, irc-channel and bug tracker with some core-devs interacting with the general public otherwise its hard to get help.
-+ Good documentation :: Locally, where ever possible provide links to documentation and other helpful links in a wiki or a git-based system that can be easily updated (via markdown document files), say, the public github wiki system based on git. Alternatively, a self-hosted [private wiki](https://github.com/kahun/awesome-sysadmin#wikis) can also be used but it creates additional overheads of regular maintenence and data backups, hence, the public github wiki is more suitable.
+   + External project libraries: They must have a mailing list, irc-channel and bug tracker with the core-devs and maintainers interacting with the general public otherwise its hard to get help.
++ Good documentation :: Locally, where ever possible provide links to documentation and other helpful links in a wiki or a git-based system that can be easily updated (via markdown document files), say, the public github wiki system based on git. Alternatively, a self-hosted [private wiki](https://github.com/kahun/awesome-sysadmin#wikis) can also be used but it creates additional overheads of regular maintenence and data backups, hence, the intranet gitlab wiki is more suitable.
 
 ----
 
