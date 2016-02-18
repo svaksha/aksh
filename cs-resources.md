@@ -52,6 +52,7 @@
 + Anthropomorphism, https://en.wikipedia.org/wiki/Anthropomorphism
 + Passive-Aggressive, http://www.forbes.com/sites/dailymuse/2015/10/02/3-times-you-think-youre-being-nice-but-you-actually-just-sound-passive-aggressive/
 + What makes a good Foss community: http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/
++ Why not to use slack and other non-foss'y IRC alternatives: https://drewdevault.com/2015/11/01/Please-stop-using-slack.html
 
 ----
 
