@@ -13,6 +13,7 @@
 + [Reading](#reading)
 + [Presentations](#presentations)
 + [Advice-Programmer](#advice-programmer)
++ [Salary](#salary)
 
 ----
 
@@ -209,3 +210,7 @@ programmer and person.
 + Know what keeps you engaged and excited
 + Play, a lot.
 
+----
+
+# Salary
++ Salary: https://docs.google.com/spreadsheets/u/1/d/1UnLz40Our1Ids-O0sz26uPNCF6cQjwosrZQY4VLdflU/htmlview?pli=1&sle=true#
