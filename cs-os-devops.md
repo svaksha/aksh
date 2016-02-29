@@ -14,10 +14,11 @@
 + [NEWS](#news)
 + [OpenShift](#openshift)
 + [SECURITY](#security)
++ [VM](#vm)
 + [Yaksha ToDo](#yaksha-todo)
    + [Automation](#automation)
 
-====
+----
 
 + http://en.wikipedia.org/wiki/Category:Cloud_infrastructure
 + http://en.wikipedia.org/wiki/Category:Cloud_computing_providers
@@ -100,6 +101,23 @@
 + https://docs.docker.com/articles/basics/
 + http://www.liquidweb.com/kb/how-to-install-docker-on-ubuntu-14-04-lts/
 + [dockerspawner](https://github.com/jupyter/dockerspawner) :: Spawns JupyterHub user servers in Docker containers. 
++ https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/
+
+
+## dockerboxer
++ https://docker.io , https://docker.com
++ https://quay.io/user/svaksha
+
+## docker-gitlab
++ https://github.com/sameersbn/docker-gitlab-ci
+
+#### Docker Demo
++ https://github.com/bizmate/docker_lemp_php7_mysql
+
+
+#### Press
++ http://www.zdnet.com/article/red-hat-ubuntu-and-docker-container-virtualization-goes-mainstream/
++ http://www.infoworld.com/article/2609888/virtualization/docker-challenges-virtualization-market-with-containers.html
 
 ----
 
@@ -253,9 +271,14 @@ Keep in mind those tips are for  PRODUCTION SERVERS rather than Development mach
 
 ----
 
+
+# VM
++ setting up a debian vm step by step, https://jtreminio.com/2012/07/setting-up-a-debian-vm-step-by-step/
+
+----
+
 # [Yaksha](http://svaksha.github.io/yaksha) ToDo
 + Moved to https://github.com/svaksha/yaksha/blob/master/todo.md
 + Papertrail, CopperEgg, Skeddly, Monit, Jenkins.
 
 ----
-

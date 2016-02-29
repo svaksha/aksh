@@ -6,7 +6,6 @@
 + https://www.novell.com/documentation/opensuse110/opensuse110_reference/data/sec_zypper.html
 
 
-
 # Zypper
 + http://www.thegeekstuff.com/category/bash-2/
 + http://www.thegeekstuff.com/2015/04/zypper-examples/
@@ -16,5 +15,6 @@
 + https://forums.opensuse.org/showthread.php/407910-quot-zypper-update-quot-vs-quot-zypper-dup-quot
 
 ### Zypper automation
++ http://opensuse-guide.org/codecs.php
 + http://unix.stackexchange.com/questions/82016/how-to-use-zypper-in-bash-scripts-for-someone-coming-from-apt-get
 + http://unix.stackexchange.com/questions/101534/using-zypper-how-can-i-remove-all-packages-installed-from-a-specific-repository?rq=1
