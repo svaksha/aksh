@@ -103,6 +103,10 @@
 + [dockerspawner](https://github.com/jupyter/dockerspawner) :: Spawns JupyterHub user servers in Docker containers. 
 + https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/
 
+## DockerCloud
+
++ https://docs.docker.com/docker-cloud/getting-started/
++ https://forums.docker.com/c/docker-cloud
 
 ## dockerboxer
 + https://docker.io , https://docker.com
