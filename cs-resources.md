@@ -33,6 +33,7 @@
 ----
 
 # DEV
++ Semantic Version scheme : http://semver.org
 + NoSpec, http://www.nospec.com/faq
    + https://medium.com/@sir_castiq/how-to-exploit-a-developer-a005306d5320
 
