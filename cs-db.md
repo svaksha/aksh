@@ -1,5 +1,7 @@
 + [Data Types](#data-types)
 + [Postgres-XC](#postgres-xc)
++ [SQL Temporal Data](#sql-temporal-data)
+
 
 ----
 
@@ -42,8 +44,7 @@ or
 
 ----
 
-# SQL Temporal data
+# SQL Temporal Data
 + [groupdate.sql](https://github.com/ankane/groupdate.sql) :: The simplest way to group temporal data.
 
 ----
-

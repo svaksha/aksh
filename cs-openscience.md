@@ -16,6 +16,7 @@
 
 # Papers
 
++ http://www.nature.com/sdata/
 + February 2015, A Reputation Economy: Results from an Empirical Survey on Academic Data Sharing : http://www.ratswd.de/dl/RatSWD_WP_246.pdf
 + Examining Data Sharing and Data Reuse in the DataONE Environment, https://www.asis.org/asist2014/proceedings/submissions/posters/335poster.pdf
 + OECD (2015), “Making Open Science a Reality”, OECD Science, Technology and Industry Policy Papers, No. 25, OECD Publishing, Paris.
