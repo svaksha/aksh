@@ -11,6 +11,9 @@
 + git-lfs bugs: https://github.com/github/git-lfs/issues/333
 + http://swcarpentry.github.io/git-novice/
 
+#### Cheatsheet
++ Basic git comands, http://doc.gitlab.com/ce/gitlab-basics/basic-git-commands.html
+
 ## git-svn
 + http://git.or.cz/course/svn.html
 + https://help.github.com/articles/importing-from-subversion/
@@ -21,6 +24,7 @@
 
 + Omnibus, http://doc.gitlab.com/omnibus/
 + Continuous Integration, http://doc.gitlab.com/ce/ci/
++ Web hooks: http://doc.gitlab.com/ee/web_hooks/web_hooks.html
 
 ----
 
