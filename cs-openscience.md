@@ -16,6 +16,7 @@
 
 # Papers
 
++ [What Drives Academic Data Sharing?](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118053), Benedikt Fecher, Sascha Friesike, Marcel Hebing, PLOS. Published: February 25, 2015. DOI: 10.1371/journal.pone.0118053
 + http://www.nature.com/sdata/
 + February 2015, A Reputation Economy: Results from an Empirical Survey on Academic Data Sharing : http://www.ratswd.de/dl/RatSWD_WP_246.pdf
 + Examining Data Sharing and Data Reuse in the DataONE Environment, https://www.asis.org/asist2014/proceedings/submissions/posters/335poster.pdf
