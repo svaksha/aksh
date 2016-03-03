@@ -1,6 +1,6 @@
-# AGrey
+# Agam
 
-My space to store technical reports/ proposals, technical jottings and document studies, including [grey literature](https://en.wikipedia.org/wiki/Grey_literature) that interests me.
+My space to store technical proposals, reports and document studies, including [grey literature](https://en.wikipedia.org/wiki/Grey_literature) that interests me.
 
 ## Advice
 + [How to read a research paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html).

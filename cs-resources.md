@@ -1,9 +1,10 @@
 + [Analytics](#analytics)
 + [Art](#art)
 + [Citation Software](#citation-software)
-+ [DEV](#dev)
++ [Programming](#programming)
    + [Code Exercises](#code-exercises)
    + [Lists](#lists)
+   + [Advice](#advice)
 + [FOSS-Community](#foss-community)
 + [FOSS-License](#foss-license)
 + [Life](#life)
@@ -12,7 +13,6 @@
    + [programming language](#programming language)
 + [Reading](#reading)
 + [Presentations](#presentations)
-+ [Advice-Programmer](#advice-programmer)
 
 ----
 
@@ -32,7 +32,7 @@
 
 ----
 
-# DEV
+# Programming
 + Semantic Version scheme : http://semver.org
 + NoSpec, http://www.nospec.com/faq
    + https://medium.com/@sir_castiq/how-to-exploit-a-developer-a005306d5320
@@ -43,6 +43,44 @@
 
 ## Lists
 + https://github.com/NARKOZ/guides
+
+
+## Advice
+### Work on personal projects!
++ It is the best way to learn new technologies that you may not have a chance to try out at work. When the time comes to use it, you'll be the smarty-pants who already knows all about it. 
++ Or it will be another item for your resume, the next time you go looking for a new job.  Bonus: This will also give you code samples that won't belong to your previous employer. 
++ Planning and executing a personal project will also make you a more confident programmer, because you know that you can build 
+something.
+
+### Know the code.
++ Never cut-and-paste anything you don't understand. If you're borrowing somebody else's code, you better damn well study it and learn how it works. 
++ You are responsible for ALL the code you contribute to a project -- even if it was originally somebody else's code.  If there's a bug in there, you better find it and fix it.  If there's a security flaw, you need to fix that, too.
++ Many code samples online do NOT represent production code.  They exhibit irresponsible error handling, insufficient security, and are organized in such a manner that they won't scale in a healthy way.
+
+### Don't ask for help too soon.  
++ Always give yourself a chance to figure something out on your own.
++ While asking for help will save you time, you will develop a deeper knowledge of the technology if you solve problems on your own than if someone dictates the answer to you.
+
+### Be Flexible.
++ Don't get suckered into dogma.  This field is always changing, and we have to stay flexible with it.  While it's important to respect best practices, it's also important to be open to learning new ways of looking at things. 
++ Embracing anything as religion in our field will hamper your ability to learn new things, and will also make you less capable to adapt to changes taking place around you.
+
+### Always a learner.
++ Your education is never complete and you will learn new things every day.  A lifetime of learning is good for your brain -- it will keep it young and nimble.
++ Always be open to learning.
++ Balance learning programming with domain knowledge and design/system thinking.
+
+### Develop yourself internally
++ Get a life outside of work. The pace of technology is fast and you have a lifetime to learn. Programming is an intense profession, you will burn out at some point.  Having a life outside of programming can help to prevent the burn out.  
++ If you live and breathe programming, when you are on a shitty project, it will be hard to separate yourself from the project and you may get stuck. A sense of detachment will provide a way to solve the problem.
++ Grow as a person, not just as a developer. Not everyone loves personal projects and avoid thinking less of those who dont. Some people enjoy having a life outside of programming, which has no bearing on their job efficiency. 
++ Having external hobbies or outside interests will give you different ways of thinking about problems and better people skills, hence making you a better programmer and person.
+
+### Know yourself
++ Know how you learn.
++ Know what gets you intellectually excited.
++ Know what keeps you engaged and excited.
++ Play, a lot.
 
 ----
 
@@ -144,71 +182,3 @@ Good online places to start:
 + https://en.wikipedia.org/wiki/PechaKucha
 
 ----
-
-# Advice - Programmer
-### Work on personal projects!
-+ It is the best way to learn new technologies that you may not have a chance 
-to try out at work.  When it comes time to use it, you'll be the smarty-pants 
-who already knows all about it.  
-+ Or it will be another item for your resume, the next time you go looking for 
-a new job.  Bonus:  This will also give you code samples that don't belong to 
-your previous employer.  
-+ Planning and executing a personal project will also 
-make you a more confident programmer, because you know that you can build 
-something
-
-### Know the code.
-+ Never cut-and-paste anything you don't understand. If you're borrowing 
-somebody else's code, you better damn well study it and learn how it 
-works. 
-+ You are responsible for ALL the code you contribute to a project -- even 
-if it was originally somebody else's code.  If there's a bug in there, you 
-better find it and fix it.  If there's a security flaw, you need to fix that, 
-too.  
-+ Many code samples online do NOT represent production code.  They exhibit 
-irresponsible error handling, insufficient security, and are organized in such a 
-manner that they won't scale in a healthy way.
-
-### Don't ask for help too soon.  
-+ Always give yourself a chance to figure something out on your own.  
-+ While asking for help will save you time, you will develop a deeper knowledge 
-of the technology if you solve problems on your own than if someone dictates the 
-answer to you.
-
-### Be Flexible.
-+ Don't get suckered into dogma.  This field is always changing, and we have to 
-stay flexible with it.  While it's important to respect best practices, it's 
-also important to be open to learning new ways of looking at things.  
-+ Embracing anything as religion in our field will hamper your ability to learn 
-new things, and will also make you less capable to adapt to changes taking place 
-around you.
-
-### Always a learner.
-+ Your education is never complete and you will learn new things every day.  A 
-lifetime of learning is good for your brain -- it will keep it young and nimble.
-+ Always be open to learning
-+ Balance learning programming with domain knowledge and design/system thinking
-
-### Develop yourself internally
-+ Get a life outside of work. The pace of technology is fast and you have a 
-lifetime to learn. Programming is an intense profession, you will burn out at 
-some point.  Having a life outside of programming can help to prevent the burn 
-out.  If you live and breathe programming, when you are on a shitty project, it 
-will be hard to separate yourself from the project and you may get stuck.  I 
-can't see a way to solve the problem, because I don't have a necessary level of 
-detachment.
-+ Grow as a person, not just as a developer. Not everyone loves personal 
-projects and avoid thinking less of those who dont. Some people enjoy having a 
-life outside of programming, which has no bearing on their job efficiency.  
-+ Having external hobbies or outside interests will give you different ways of 
-thinking about problems and better people skills, hence making you a better 
-programmer and person.
-
-### Know yourself
-+ Know how you learn.
-+ Know what gets you intellectually excited
-+ Know what keeps you engaged and excited
-+ Play, a lot.
-
-----
-
