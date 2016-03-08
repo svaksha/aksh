@@ -39,3 +39,9 @@ dpkg -S /sbin/ippool
 
 # ISO
 + http://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
++ https://www.debian.org/CD/faq/#write-usb
++ 
+
+$ fdisk -l
+$ dd if=debian.iso of=/dev/sdX   # X is replaced by `sda`
+
