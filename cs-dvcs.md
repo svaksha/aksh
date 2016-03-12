@@ -1,5 +1,5 @@
 + [GIT](#git)
-+ [GitLab Docs](#gitlab-docs)
++ [GitLab](#gitlab)
 + [SVN](#svn)
 
 ----
@@ -13,6 +13,7 @@
 
 #### Cheatsheet
 + Basic git comands, http://doc.gitlab.com/ce/gitlab-basics/basic-git-commands.html
++ A list of cool features of [Git and GitHub](http://git.io/sheet), source for the [git cheatsheet](https://github.com/tiimgreen/github-cheat-sheet).
 
 ## git-svn
 + http://git.or.cz/course/svn.html
@@ -20,9 +21,13 @@
 
 ----
 
-# GitLab Docs
+# GitLab
++ https://about.gitlab.com/2016/01/15/making-gitlab-better-for-large-open-source-projects/
++ 
 
+## Documentation
 + Omnibus, http://doc.gitlab.com/omnibus/
+   + code: https://gitlab.com/gitlab-org/omnibus-gitlab
 + Continuous Integration, http://doc.gitlab.com/ce/ci/
 + Web hooks: http://doc.gitlab.com/ee/web_hooks/web_hooks.html
 
