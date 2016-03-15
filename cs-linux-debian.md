@@ -1,6 +1,7 @@
 + [DEB Packages](#deb-packages)
    + [PPA](#ppa)
 + [ISO](#iso)
++ [SUDO](#sudo)
 
 ----
 
@@ -42,6 +43,23 @@ dpkg -S /sbin/ippool
 + https://www.debian.org/CD/faq/#write-usb
 + 
 
+### WIFI realtek firmware for Debian
+$ dmesg    # list devices
+$ mount    # mounts a device (like USB)
+$ sudo mount /dev/sdb1 /mnt      # mount the USB stick.
+$ ls /mnt              # list mounted devices.
+$ cp /mnt/firmware-realtek_0.43_all.deb /var/tmp     # copies the WIFI realtek firmware debian library to the /var temp lib.
+$ sudo dpkg -i /var/tmp/firmware-realtek_0.43_all.deb  # update the firmware from the debian repository.
+
+### delete contents of USB
 $ fdisk -l
 $ dd if=debian.iso of=/dev/sdX   # X is replaced by `sda`
 
+----
+
+# SUDO
+### Adding users to sudoers group
+$ groups        # check if the user is in the sudoers file 
+$ less /etc/passwd    # check if the user is in the sudoers file 
+$ sudo visudo       # visudo tool can also check the sudoer group
+$ nano /etc/group   # now add the user to the sudoer file with nano.
