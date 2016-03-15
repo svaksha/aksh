@@ -4,6 +4,7 @@
    + [Syntax-Symbols-Operators](#syntax-symbols-operators)
 + [Development](#development)
    + [.juliarc](#.juliarc)
+   + [.julia](#.julia)
    + [GIST](#gist)
    + [Plotting](#plotting)
 + [Packaging](#packaging)
@@ -202,6 +203,7 @@ Q1. Will the roadmap obviate some of the bottlenecks for day to day normal explo
 + https://github.com/JuliaLang/julia/issues/6445
 + https://github.com/JuliaLang/julia/issues/10351 
 + https://github.com/JuliaLang/julia/issues/4222
++ https://books.google.de/books?id=P-09CgAAQBAJ&pg=PA91&lpg=PA91&dq=.juliarc+file&source=bl&ots=U6GC9cNQ8a&sig=ZjAhl9KqYHXxCbhJ9ZcKk4foJog&hl=en&sa=X&ved=0ahUKEwjluaXqhsPLAhXqCpoKHfyAALkQ6AEISDAH#v=onepage&q=.juliarc%20file&f=false
 
 ## ~/.julia
 + Notes on basing development repos in ~/.julia and doing development and commits from there with recommended setup/process for creating packages using Pkg to manage them.
