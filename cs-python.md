@@ -1,10 +1,16 @@
++ [Anaconda](#anaconda)
 + [NLP](#nlp)
 + [HDF5](#hdf5)
 + [MOOC](#mooc)
 
-====
+----
 
 + Python is easier to learn than C/C++, http://neverworkintheory.org/2014/01/29/stefik-siebert-syntax.html
+
+----
+
+# Anaconda
++ http://conda.pydata.org/docs/using/envs.html
 
 ----
 

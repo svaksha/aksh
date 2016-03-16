@@ -1,6 +1,7 @@
 + [Algorithms](#algorithms)
 + [3D Libs](#3d-libs)
 + [File Formats](#file-formats)
++ [Visualization](#visualization)
 
 ----
 
@@ -40,3 +41,7 @@
 + https://helpx.adobe.com/photoshop/using/file-formats.html
 
 
+----
+
+# Visualization
++ Bokeh for visualization - draw the brain : https://www.continuum.io/blog/developer-blog/drawing-brain-bokeh
