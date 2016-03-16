@@ -1,7 +1,12 @@
++ [DEBIAN Packages](#debian-packages)
++ [UBUNTU](#ubuntu)
+   + [PPA](#ppa)
++ [ISO](#iso)
++ [SUDO](#sudo)
++ [WiFi](#wifi)
++ [DNS](#dns)
 + [GRUB](#grub)
 + [CONFIG](#config)
-+ [DEB Packages](#deb-packages)
-   + [PPA](#ppa)
 + [BASH SHELL](#bash-shell)
    + [Bash Scripting](#bash-scripting)
    + [Julia](#julia)
@@ -15,6 +20,90 @@
    + [Backups](#backups)
    + [Spreadsheets](#spreadsheets)
 + [Resources](#resources)
+
+----
+
+# DEBIAN Packages
++ DPKG cheat sheet: http://www.cyberciti.biz/howto/question/linux/dpkg-cheat-sheet.php
++ Syntax 	Description 	Example
++ dpkg -i {.deb package} 	Install the package 	dpkg -i zip_2.31-3_i386.deb
++ dpkg -i {.deb package} 	Upgrade package if it is installed else install a fresh copy of package 	dpkg -i zip_2.31-3_i386.deb
++ dpkg -R {Directory-name} 	Install all packages recursively from directory 	dpkg -R /tmp/downloads
++ dpkg -r {package} 	Remove/Delete an installed package except configuration files 	dpkg -r zip
++ dpkg -P {package} 	Remove/Delete everything including configuration files 	dpkg -P apache-perl
++ dpkg -l 	List all installed packages, along with package version and short description 	dpkg -l ; dokg -l | less ;  dpkg -l '*apache*' ; dpkg -l | grep -i 'sudo'
++ dpkg -l {package} 	List individual installed packages, along with package version and short description 	dpkg -l apache-perl
++ dpkg -L {package} 	Find out files are provided by the installed package i.e. list where files were installed 	dpkg -L apache-perl ; dpkg -L perl
++ dpkg -c {.Deb package} 	List files provided (or owned) by the package i.e. List all files inside debian .deb package file, very useful to find where files would be installed 	dpkg -c dc_1.06-19_i386.deb
++ dpkg -S {/path/to/file} 	Find what package owns the file i.e. find out what package does file belong 	dpkg -S /bin/netstat
+dpkg -S /sbin/ippool
++ dpkg -p {package} 	Display details about package package group, version, maintainer, Architecture, display depends packages, description etc 	dpkg -p lsof
++ dpkg -s {package} | grep Status 	Find out if Debian package is installed or not (status) 	dpkg -s lsof | grep Status
+
+----
+
+# UBUNTU
+
+## PPA
+#### Adding PPA's
+1. Add a PPA using APT in terminal by typing the following command: `sudo add-apt-repository ppa:PPA_Name/ppa`
+
+#### Removing PPA's
+1. Remove a PPA using APT in terminal by typing the following command: `sudo add-apt-repository --remove ppa:PPA_Name/ppa`
+2. Remove a PPA from the source list, else it will get pulled when you update the system.
+   + First, find where these PPAs are stored by listing all the PPAs added in your system: `sudo ls /etc/apt/sources.list.d`.
+   + Then remove the PPA using the following command: `sudo rm -i /etc/apt/sources.list.d/PPA_Name.list`
+3. Remove a PPA by using `ppa-purge` in terminal - What about the applications installed using PPAs? Will they be removed as a result of removing the PPA? The answer is NO. So, we use `PPA purge` to remove the PPA and uninstall all the programs installed by the PPA.
+   + Install ppa-purge with this command: `sudo apt-get install ppa-purge`
+   + Then use it to purge the PPA: `sudo ppa-purge ppa-url` {{The URL of the PPA can be found in the Software Sources list.}}
+
+----
+
+# ISO
+## ISO - Debian
++ http://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
++ https://www.debian.org/CD/faq/#write-usb
+
+## ISO - Ubuntu
++ http://releases.ubuntu.com/
++ Ubuntu iso via wget, https://askubuntu.com/questions/305304/download-13-04-iso-with-wget
++ 64-bit Vs. 32-bit, https://superuser.com/questions/238112/what-is-the-difference-between-i686-and-x86-64
+
+### multiboot iso
++ SARDU, http://www.howtogeek.com/howto/39880/how-to-combine-rescue-disks-to-create-the-ultimate-windows-repair-disk/
++ MultiCD, https://github.com/IsaacSchemm/MultiCD
+   + http://multicd.us/#Instructions
++ https://askubuntu.com/questions/46624/how-to-create-a-bootable-usb-with-multiple-iso-images-in-it
++ https://ubuntuforums.org/showthread.php?t=1071869
+
+
+### delete contents of USB
+$ fdisk -l
+$ dd if=debian.iso of=/dev/sdX   # X is replaced by `sda`
+
+----
+
+# SUDO
+### Adding users to sudoers group
+$ groups        # check if the user is in the sudoers file 
+$ less /etc/passwd    # check if the user is in the sudoers file 
+$ sudo visudo       # visudo tool can also check the sudoer group
+$ nano /etc/group   # now add the user to the sudoer file with nano.
+
+----
+
+# WiFi
+
+### WIFI realtek firmware for Debian
+$ dmesg    # list devices
+$ mount    # mounts a device (like USB)
+$ sudo mount /dev/sdb1 /mnt      # mount the USB stick.
+$ ls /mnt              # list mounted devices.
+$ cp /mnt/firmware-realtek_0.43_all.deb /var/tmp     # copies the WIFI realtek firmware debian library to the /var temp lib.
+$ sudo dpkg -i /var/tmp/firmware-realtek_0.43_all.deb  # update the firmware from the debian repository.
+
++ https://wiki.debian.org/rtl819x
++ http://www.linux.org/threads/fixing-broadcom-and-realtek-wireless-issues.7685/
 
 ----
 
@@ -63,39 +152,6 @@
 
 ----
 
-# DEB Packages
-+ DPKG cheat sheet: http://www.cyberciti.biz/howto/question/linux/dpkg-cheat-sheet.php
-+ Syntax 	Description 	Example
-+ dpkg -i {.deb package} 	Install the package 	dpkg -i zip_2.31-3_i386.deb
-+ dpkg -i {.deb package} 	Upgrade package if it is installed else install a fresh copy of package 	dpkg -i zip_2.31-3_i386.deb
-+ dpkg -R {Directory-name} 	Install all packages recursively from directory 	dpkg -R /tmp/downloads
-+ dpkg -r {package} 	Remove/Delete an installed package except configuration files 	dpkg -r zip
-+ dpkg -P {package} 	Remove/Delete everything including configuration files 	dpkg -P apache-perl
-+ dpkg -l 	List all installed packages, along with package version and short description 	dpkg -l ; dokg -l | less ;  dpkg -l '*apache*' ; dpkg -l | grep -i 'sudo'
-+ dpkg -l {package} 	List individual installed packages, along with package version and short description 	dpkg -l apache-perl
-+ dpkg -L {package} 	Find out files are provided by the installed package i.e. list where files were installed 	dpkg -L apache-perl ; dpkg -L perl
-+ dpkg -c {.Deb package} 	List files provided (or owned) by the package i.e. List all files inside debian .deb package file, very useful to find where files would be installed 	dpkg -c dc_1.06-19_i386.deb
-+ dpkg -S {/path/to/file} 	Find what package owns the file i.e. find out what package does file belong 	dpkg -S /bin/netstat
-dpkg -S /sbin/ippool
-+ dpkg -p {package} 	Display details about package package group, version, maintainer, Architecture, display depends packages, description etc 	dpkg -p lsof
-+ dpkg -s {package} | grep Status 	Find out if Debian package is installed or not (status) 	dpkg -s lsof | grep Status
-
-
-## PPA
-#### Adding PPA's
-1. Add a PPA using APT in terminal by typing the following command: `sudo add-apt-repository ppa:PPA_Name/ppa`
-
-#### Removing PPA's
-1. Remove a PPA using APT in terminal by typing the following command: `sudo add-apt-repository --remove ppa:PPA_Name/ppa`
-2. Remove a PPA from the source list, else it will get pulled when you update the system.
-   + First, find where these PPAs are stored by listing all the PPAs added in your system: `sudo ls /etc/apt/sources.list.d`.
-   + Then remove the PPA using the following command: `sudo rm -i /etc/apt/sources.list.d/PPA_Name.list`
-3. Remove a PPA by using `ppa-purge` in terminal - What about the applications installed using PPAs? Will they be removed as a result of removing the PPA? The answer is NO. So, we use `PPA purge` to remove the PPA and uninstall all the programs installed by the PPA.
-   + Install ppa-purge with this command: `sudo apt-get install ppa-purge`
-   + Then use it to purge the PPA: `sudo ppa-purge ppa-url` {{The URL of the PPA can be found in the Software Sources list.}}
-
-----
-
 # BASH SHELL
 + Shells compared: http://hyperpolyglot.org/unix-shells
 + https://en.wikipedia.org/wiki/List_of_Unix_commands
@@ -126,22 +182,10 @@ dpkg -S /sbin/ippool
 + http://www.brendangregg.com/perf.html
 + Initramfs, https://en.wikipedia.org/wiki/Initramfs
 
-## ISO
-+ http://releases.ubuntu.com/
-+ Ubuntu iso via wget, https://askubuntu.com/questions/305304/download-13-04-iso-with-wget
-+ 64-bit Vs. 32-bit, https://superuser.com/questions/238112/what-is-the-difference-between-i686-and-x86-64
-
-#### Ubuntu Cloud Snappy
+### Ubuntu Cloud Snappy
 + https://askubuntu.com/questions/620996/how-to-install-snappy-ubuntu-15-04-core-images-on-a-pc
 + http://www.ubuntu.com/cloud/tools/snappy
 + https://wiki.ubuntu.com/Core
-
-### multiboot iso
-+ SARDU, http://www.howtogeek.com/howto/39880/how-to-combine-rescue-disks-to-create-the-ultimate-windows-repair-disk/
-+ MultiCD, https://github.com/IsaacSchemm/MultiCD
-   + http://multicd.us/#Instructions
-+ https://askubuntu.com/questions/46624/how-to-create-a-bootable-usb-with-multiple-iso-images-in-it
-+ https://ubuntuforums.org/showthread.php?t=1071869
 
 ----
 
@@ -194,7 +238,6 @@ __desktop timetracker__
 
 ## Spreadsheets
 + [roo](https://github.com/roo-rb/roo) :: an interface to spreadsheets of several sorts. 
-
 
 ----
 
