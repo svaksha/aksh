@@ -2,6 +2,7 @@
 + [Computational Reproducibility](#computational-reproducibility)
    + [Docker](#docker)
    + [Reprozip](#reprozip)
+   + [Care](#care)
 + [Continuous Integration](#continuous-integration)        
    + [Configuration Management](#configuration-management)
    + [TDD](#tdd)
@@ -56,8 +57,13 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
 + Computational reproducibility is hard to achieve due to the tedious scientific paper reviewing process which requires authors to generate a compendium that encapsulates all the inputs needed to correctly reproduce their experiments: the data, a complete specification of the experiment and its steps, and information about the originating computational environment (OS, hardware architecture, and library dependencies). 
 + Various OS introduce a dependency hell making it an impossible task to get the same computational environment across all distros even if they use similar tools.
 + Reprozip is almost like a virtual machine, but maybe smaller than a VM and most importantly it uses vagrant and docker and runs on anaconda (2.x).
-+ Gives the user an isolated sandbox to test their research while allowing others to use the tools used by the scientist to reproduce the analytic procedures (e.g. scripts, spreadsheets, etc.) that were used to process or analyse the research data. 
-+ There was a package conflict bug for Python-3.x within anaconda, now fixed : https://github.com/ViDA-NYU/reprozip/issues/157
+    + It gives the user an isolated sandbox to test their research while allowing others to use the tools used by the scientist to reproduce the analytic procedures (e.g. scripts, spreadsheets, etc.) that were used to process or analyse the research data. 
+    + You record running your program on a Linux system and it monitors all of the system calls that your programs make and then zips up all of the required files – including shared libraries, etc. – so that they can be unzipped in a virtual machine and the whole thing can be replayed. 
+    + There was a package conflict bug for Python-3.x within anaconda, now fixed : https://github.com/ViDA-NYU/reprozip/issues/157
+
+## Care
++ [Care](http://reproducible.io/) (based on PRoot, http://proot.me/) is another interesting option that can be used to pack up a complete Julia installation (including packages and required system libraries) on Ubuntu 14.04, then run on Scientific Linux 6. 
++ Care and PRoot are available as simple static binaries and give you a simulated chroot environment (via ptrace).
 
 ----
 

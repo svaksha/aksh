@@ -40,6 +40,9 @@ dpkg -S /sbin/ippool
 + dpkg -p {package} 	Display details about package package group, version, maintainer, Architecture, display depends packages, description etc 	dpkg -p lsof
 + dpkg -s {package} | grep Status 	Find out if Debian package is installed or not (status) 	dpkg -s lsof | grep Status
 
+### APT
++ http://www.tecmint.com/useful-basic-commands-of-apt-get-and-apt-cache-for-package-management/
+
 ----
 
 # UBUNTU
