@@ -7,6 +7,7 @@
 # GIT
 + Git tools: https://git.wiki.kernel.org/index.php/Interfaces,_frontends,_and_tools
 + Git for CS: http://eagain.net/articles/git-for-computer-scientists/
++ https://help.github.com/articles/good-resources-for-learning-git-and-github/
 + https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes
 + git-lfs bugs: https://github.com/github/git-lfs/issues/333
 + http://swcarpentry.github.io/git-novice/
