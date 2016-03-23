@@ -23,6 +23,8 @@
 
 ----
 
++ https://www.debian.org/doc/manuals/debian-faq/ch-choosing.en.html
+
 # DEBIAN Packages
 + DPKG cheat sheet: http://www.cyberciti.biz/howto/question/linux/dpkg-cheat-sheet.php
 + Syntax 	Description 	Example

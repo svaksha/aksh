@@ -1,7 +1,20 @@
++ [Functional](#functional)
++ [Include](#include)
 + [MAP](#map)
 + [OOP](#oop)
 + [RANGES](#ranges)
-+ [Functional](#functional)
+
+----
+
+# Functional
++ An intro to functional programming: http://www.bootstrapworld.org/materials/ 
+
+----
+
+# Include
++ The scope for `include("foo.jl")` is global scope only. You cannot call variables defined in different .jl file. See: 
+http://docs.julialang.org/en/release-0.4/manual/noteworthy-differences/
++ The include statement should be used outside the function.
 
 ----
 
@@ -13,7 +26,13 @@ __map-broadcast__
 ----
 
 # OOP
-__Looping Vs. OOP in Julia__
+
+Julia is not an OOP language.
+
+### Inheritance
+https://groups.google.com/forum/#!topic/julia-dev/eA4VkFAD-yQ
+ 
+### Looping Vs. OOP in Julia
 
 One doesn't always need to write the loops oneself. Oftentimes switching from a pure operator (e.g. broadcast) to its in-place counterpart (e.g. broadcast!) can make a world of difference:
 
@@ -104,7 +123,4 @@ julia> findin([5.2, 3.3], 3:1:20)
 0-element Array{Int64,1}
 
 ----
-
-# Functional
-+ An intro to functional programming: http://www.bootstrapworld.org/materials/ 
 
