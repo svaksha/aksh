@@ -1,5 +1,6 @@
 + [Functional](#functional)
 + [Include](#include)
++ [Macros](#macros)
 + [MAP](#map)
 + [OOP](#oop)
 + [RANGES](#ranges)
@@ -15,6 +16,13 @@
 + The scope for `include("foo.jl")` is global scope only. You cannot call variables defined in different .jl file. See: 
 http://docs.julialang.org/en/release-0.4/manual/noteworthy-differences/
 + The include statement should be used outside the function.
+
+----
+
+# Macros
+### @everywhere
+@everywhere id = myid() 
+remotecall_fetch(2, ()->id)  # The @everywhere macro executes a statement on all running processes.
 
 ----
 

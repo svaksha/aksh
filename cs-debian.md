@@ -68,6 +68,7 @@ dpkg -S /sbin/ippool
 ## ISO - Debian
 + http://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
 + https://www.debian.org/CD/faq/#write-usb
++ Debian ISO, https://www.debian.org/CD/
 
 ## ISO - Ubuntu
 + http://releases.ubuntu.com/

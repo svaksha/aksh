@@ -1,5 +1,6 @@
 + [AMQP](#amqp)
 + [AWS](#aws)
++ [CONFIG](#config)
 + [DEVOPS](#devops)
    + [Automation](#automation)
    + [Batch Jobs](#batch-jobs)
@@ -14,6 +15,7 @@
 + [NEWS](#news)
 + [OpenShift](#openshift)
 + [SECURITY](#security)
++ [Vagrant](#vagrant)
 + [VM](#vm)
 + [Yaksha ToDo](#yaksha-todo)
    + [Automation](#automation)
@@ -70,6 +72,14 @@
 
 ----
 
+# CONFIG
+### how to create a config file
++ http://stackoverflow.com/questions/18700295/standard-way-of-creating-config-file-suitable-for-python-and-java-together
++ https://wiki.python.org/moin/ConfigParserExamples
++ https://docs.python.org/3.5/library/configparser.html
+
+----
+
 # DEVOPS
 + https://github.com/devopsbookmarks/devopsbookmarks.com
 
@@ -90,6 +100,9 @@
 ----
 
 # DOCKER
++ Install docker on debian, https://docs.docker.com/engine/installation/linux/debian/
++ https://docs.docker.com/v1.5/faq/
++ http://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-normal-virtual-machine
 + https://github.com/ddboline/docker_scripts :: Scripts to use with Docker, along with example Dockerfile's
 + Various Dockerfiles : https://github.com/jfrazelle/dockerfiles and a blog post: https://blog.jessfraz.com/post/docker-containers-on-the-desktop/
 + https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications
@@ -103,6 +116,10 @@
 + [dockerspawner](https://github.com/jupyter/dockerspawner) :: Spawns JupyterHub user servers in Docker containers. 
 + https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/
 
+## docker-gitlab
++ http://doc.gitlab.com/omnibus/docker/
++ https://github.com/sameersbn/docker-gitlab-ci
+
 ## DockerCloud
 
 + https://docs.docker.com/docker-cloud/getting-started/
@@ -112,9 +129,6 @@
 + https://docker.io , https://docker.com
 + https://quay.io/user/svaksha
 
-## docker-gitlab
-+ https://github.com/sameersbn/docker-gitlab-ci
-
 #### Docker Demo
 + https://github.com/bizmate/docker_lemp_php7_mysql
 
@@ -122,6 +136,9 @@
 #### Press
 + http://www.zdnet.com/article/red-hat-ubuntu-and-docker-container-virtualization-goes-mainstream/
 + http://www.infoworld.com/article/2609888/virtualization/docker-challenges-virtualization-market-with-containers.html
++ http://www.techrepublic.com/article/containers-replacements-or-alternatives-to-virtual-machines/
++ http://www.zdnet.com/article/docker-an-open-source-startup-you-need-to-know-about/
+
 
 ----
 
@@ -275,9 +292,13 @@ Keep in mind those tips are for  PRODUCTION SERVERS rather than Development mach
 
 ----
 
+# Vagrant
++ If you mess-up the VM, blow it away with vagrant, https://www.vagrantup.com/docs/
+
+----
 
 # VM
-+ setting up a debian vm step by step, https://jtreminio.com/2012/07/setting-up-a-debian-vm-step-by-step/
++ setting up a Debian VM step by step instructions: https://jtreminio.com/2012/07/setting-up-a-debian-vm-step-by-step/
 
 ----
 
