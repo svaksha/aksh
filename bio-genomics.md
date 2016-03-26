@@ -5,6 +5,7 @@
 * [Gene](#gene)
 * [Genome](#genome)
 * [Proteomics](#proteomics)
++ [Papers](#papers)
 
 ----
 
@@ -83,3 +84,7 @@
 * http://en.wikipedia.org/wiki/Protein_sequencing (replaced by nucleic acid technology)
 * http://en.wikipedia.org/wiki/Edman_degradation
 
+---- 
+
+# Papers
++ https://github.com/jtleek/genomicspapers

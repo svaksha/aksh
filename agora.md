@@ -1,18 +1,52 @@
 [Agora](https://en.wikipedia.org/wiki/Agora) is an Ancient Greek word for "gathering place" or "assembly", which exactly represents modern-day conferences and Foss events.
 
-+ [Agora](#agora)
-+ [OpenHardware](#openhardware)
 + [Event Management](#event-management)
    + [ConfTools](#conftools)
++ [OpenHardware](#openhardware)
++ [AGORA](#agora)
 
 ----
 
-# Agora
+# Event Management 
+__Meetup Mgmt__
++ Portland's Calagator : http://calagator.org/ and wiki : https://github.com/calagator/calagator/wiki/Supported-Import-Formats
+
+
+## ConfTools
+__Conf Mgmt__:
++ [OpenConferenceWare](https://github.com/osbridge/openconferenceware) is an open source web application for events and conferences. This customizable, general-purpose platform provides proposals, sessions, schedules, tracks and more.
+
++ An interesting thread on a Meetup forum: http://www.discussmeetup.com/forum/general-questions-how-tos-tips-tricks/i-want-to-close-my-group-what-are-good-free-alternative-platforms-to-meetup/
+
+For Conferences:
++ http://www.eventbrite.com/ (free for free events)
++ https://www.farornear.com/ (free)
++ http://attending.io/ (free)
++ https://www.xing.com/de/events (free for free events, much like eventbrite, used often in Germany)
++ http://ti.to
++ https://ti.to/ (free for free events, used by PyCon UK)
++ https://nvite.com/ (free for free events)
++ use the Python events calendar together with the map mashup: https://wiki.python.org/moin/PythonEventsCalendar
+   + http://lmorillas.github.io/python_events/
+
+For BarCamps:
++ https://www.barcamptools.eu/ (mostly in Germany)
+
+----
+
+# OpenHardware
++ http://openhardware.science/
+
+----
+
+# AGORA
+
 + http://pydata.org/amsterdam2016/cfp/
 + SAVE-SD 2016, https://lists.okfn.org/pipermail/open-science/2015-November/004048.html
 + GOR [General Online Research](http://www.gor.de/). [CFP](http://www.gor.de/about/call-for-papers.html).
 + IEEE Technically Sponsored [SAI Computing Conference 2016](http://www.SAIConference.com/Computing2016), 13-15 July 2016, London UK.
 + 2016feb16 : http://www.pycon.se/
+
 
 ### CCC
 + https://events.ccc.de/congress/2015/wiki/Session:Open_Science_Workshop
@@ -29,36 +63,15 @@
 + INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE :: http://www.iccs-meeting.org/iccs2016/ 
 + Workshop on Teaching Computational Science 2016 (WTCS 2016) :: http://webs.wofford.edu/shifletab/iccs/ 
 
+
+### [SEMANTiCS 2016](http://2016.semantics.cc) - The Linked Data Conference
++ __Info__:: 12th International Conference on Semantic Systems.
++ __Dates & Venue__:: 2016September12-15, Leipzig, Germany.
++ __CFP__:: 
+    * Abstract Submission Deadline: 14April2016 (11:59 pm, Hawaii time)
+    * Paper Submission Deadline: 21April2016 (11:59 pm, Hawaii time)
+    * Notification of Acceptance: 26May2016 (11:59 pm, Hawaii time)
+    * Camera-Ready Paper: 16June2016 (11:59 pm, Hawaiitime)
+
 ----
-
-# OpenHardware
-+ http://openhardware.science/
-
-----
-
-# Event Management 
-__Meetup Mgmt__
-+ Portland's Calagator : http://calagator.org/ and wiki : https://github.com/calagator/calagator/wiki/Supported-Import-Formats
-
-
-## ConfTools
-__Conf Mgmt__:
-+ [OpenConferenceWare](https://github.com/osbridge/openconferenceware) is an open source web application for events and conferences. This customizable, general-purpose platform provides proposals, sessions, schedules, tracks and more.
-
-+ An interesting thread on a Meetup forum: http://www.discussmeetup.com/forum/general-questions-how-tos-tips-tricks/i-want-to-close-my-group-what-are-good-free-alternative-platforms-to-meetup/
-
-For Conferences:
-* http://www.eventbrite.com/ (free for free events)
-* https://www.farornear.com/ (free)
-* http://attending.io/ (free)
-* https://www.xing.com/de/events (free for free events, much like eventbrite, used often in Germany)
-+ http://ti.to
-* https://ti.to/ (free for free events, used by PyCon UK)
-* https://nvite.com/ (free for free events)
-* use the Python events calendar together with the map mashup: https://wiki.python.org/moin/PythonEventsCalendar
-   + http://lmorillas.github.io/python_events/
-   
-For BarCamps:
-* https://www.barcamptools.eu/ (again, mostly in Germany)
-
 

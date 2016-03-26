@@ -1,9 +1,67 @@
++ [Functions](#functions)
 + [Functional](#functional)
 + [Include](#include)
 + [Macros](#macros)
 + [MAP](#map)
 + [OOP](#oop)
 + [RANGES](#ranges)
+
+----
+
+# Functions
+one thing to note about julia is that you can put multiple functions in one file:
+
+    square_and_mult_by_c(x, c) = c*x*x
+
+    smc(X::AbstractVector, c) = [square_and_mult_by_c(x, c) for x in X]
+
+Note the second function calls the first, but you can put both of these in the same disk file. Once loaded, you can also call either of these functions from the command line.
+
++ Functions can have more than one argument, so you can pass both `x` and `c` from one function to another. See the manual sections on default and keyword arguments.
+
+do not try to use variables, that you have defined in one function within another function.
+
+I would suggest the following approach, if you need to modify variables in multiple functions:
+
+```
+# if you need to modify multiple variables in multiple functions,
+# define a data type that holds all your variables
+type Data
+    a::Number
+    b::Number
+    c::Number
+end
+
+# declaring data as const has the main meaning, that the type stays the same,
+# you CAN change the values of the fields later
+const data = Data(1,2,3)
+
+# pass an instance of the type Data to your function
+function test1(dat, x, y)
+    dat.a*x + dat.b*y
+end
+
+# to a second function, pass the same variable
+function test2(dat, x1, y1)
+    # you can change the value of the fields in the function
+    dat.a += 1
+    dat.b *= 2
+    dat.a^x1 + dat.b^y1
+end
+
+x = 1.0
+y = 3.0
+
+println(test1(data, x, y))
+println(data.a, " ", data.b)
+
+println()
+println(test2(data, x, y))
+println(data.a, " ", data.b)
+```
+
+If you want to define your function in different files, that put the type definition in a third file and include
+this file in both files, that define your functions.
 
 ----
 
