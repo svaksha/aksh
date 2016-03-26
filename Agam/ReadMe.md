@@ -5,6 +5,8 @@ My space to store technical proposals, reports and document studies, including [
 
 ## Advice
 + Some excellent advice on Time Management as a [Video](https://www.youtube.com/watch?v=oTugjssqOT0&ebc=ANyPxKqznHPt8tH-h6nssbneWEMegl11qJ51FGN7Wdtu9gad2SkIF1qSE-F6--s5EI_O4uzwT0TL) and as [written slides](http://www.cs.virginia.edu/helpnet/Time/time.html) by the Late. Prof. Randy Pausch.
+    + Procrastination is the thief of time. 
+    + Computers are faster, they just take longer.
 + [How to read a research paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html).
 + [Some Thoughts on What it Takes to Produce a Good Ph.D. Thesis](https://engineering.purdue.edu/kak/HowToPhD.pdf).
 + How to write a research proposal: http://newt.phys.unsw.edu.au/~jw/thesis.html
