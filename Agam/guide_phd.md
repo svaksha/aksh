@@ -1,18 +1,7 @@
-+ [Guide-PhD](#guide-phd)
 + [Guide-Journal Paper](#guide-journal-paper)
++ [Guide-PhD](#guide-phd)
 + [Guide-Research Paper](#guide-research-paper)
 + [Coursework-CS](#coursework-cs)
-
-----
-
-## Researcher Tasks
-* Authentic desire and drive to commit to the research program.
-* Willingness to develop further and learn in a multidisciplinary environment of talented people and high-end facilities.
-* Fun in solving problems, carrying out analysis and working with attention to detail.
-* Independently managing a project, conducting and documenting a research project.
-* Planning, designing, putting into practice and controlling all laboratory and experimental work.
-* Participation in curricular and extra-curricular activities, such as lectures, soft skills courses, methods courses, retreats, presentations, PhD committee, thesis committee.
-* Team working with other scientists and mutual support in experiments.
 
 ----
 
@@ -21,9 +10,9 @@
 + [How to Write A Paper in Scientific Journal Style and Format](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTWtoc.html).
 + 10-tips for writing for an [academic journal](http://www.theguardian.com/higher-education-network/blog/2013/sep/06/academic-journal-writing-top-tips).
 + How to structure the journal paper: http://writingajournalarticle.wordpress.com/structure/structure-the-paper/
++ Some excellent advice on research writing by @mnielsen : https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md
 
 ## Journal Paper Structure
-
 ### Introduction
     State why the problem you address is important
     State what is lacking in the current knowledge
@@ -73,6 +62,16 @@
 + https://www.findaphd.com/
 + A website & forum for graduate students : http://thegradcafe.com 
 
+
+## Researcher Tasks
+* Authentic desire and drive to commit to the research program.
+* Willingness to develop further and learn in a multidisciplinary environment of talented people and high-end facilities.
+* Enjoy solving problems, carrying out analysis and working with attention to detail.
+* Independently manage a project, conduct and document a research project.
+* Planning, designing, putting into practice and controlling all laboratory and experimental work.
+* Participation in curricular and extra-curricular activities, such as lectures, soft skills courses, methods courses, retreats, presentations, PhD committee, thesis committee.
+* Team working with other scientists and mutual support in experiments.
+
 ----
 
 # Guide - Research Paper
@@ -110,3 +109,5 @@
 + https://www.cs.cornell.edu/phd/requirements         # Requirement of Cornell University
 + http://www.cse.ucsd.edu/node/1963              # Requirement of UCSan Diego University
 + https://www.cs.rutgers.edu/graduate/phd_program.html  # Requirement for admission and Credits for teaching and research
+
+----
