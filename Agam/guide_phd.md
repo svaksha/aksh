@@ -1,6 +1,7 @@
-+ [Guide - PhD](#guide-phd)
-+ [Guide - Research Paper](#guide-research-paper)
-+ [Coursework - CS](#coursework-cs)
++ [Guide-PhD](#guide-phd)
++ [Guide-Journal Paper](#guide-journal-paper)
++ [Guide-Research Paper](#guide-research-paper)
++ [Coursework-CS](#coursework-cs)
 
 ----
 
@@ -15,7 +16,55 @@
 
 ----
 
-# Guide - PhD
+# Guide-Journal Paper
++ [Writing a research article: advice to beginners](http://intqhc.oxfordjournals.org/content/16/3/191).
++ [How to Write A Paper in Scientific Journal Style and Format](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTWtoc.html).
++ 10-tips for writing for an [academic journal](http://www.theguardian.com/higher-education-network/blog/2013/sep/06/academic-journal-writing-top-tips).
++ How to structure the journal paper: http://writingajournalarticle.wordpress.com/structure/structure-the-paper/
+
+## Journal Paper Structure
+
+### Introduction
+    State why the problem you address is important
+    State what is lacking in the current knowledge
+    State the objectives of your study or the research question
+### Methods
+    Describe the context and setting of the study
+    Specify the study design
+    Describe the ‘population’ (patients, doctors, hospitals, etc.)
+    Describe the sampling strategy
+    Describe the intervention (if applicable)
+    Identify the main study variables
+    Describe data collection instruments and procedures
+    Outline analysis methods
+### Results
+    Report on data collection and recruitment (response rates, etc.)
+    Describe participants (demographic, research condition, etc.)
+    Present key findings with respect to the central research question.
+    Present secondary findings (secondary outcomes, subgroup analyses, etc.)
+### Discussion
+    + State the main findings of the study
+    + Discuss the main results with reference to previous research
+    + Discuss policy and practice implications of the results.
+    + Analyse the strengths and limitations of the study. 
+    + Offer perspectives for future work
+### Conclusions
+    + Include major findings followed by brief discussion on future perspectives and/or application of present work to other disciplines. 
+    + Important: Do not rewrite the abstract. Statements with “Investigated” or “Studied” are not conclusions!
+### Acknowledgements 
+    + Remember to thank the funding agency if the research was supported by a grant, and the name of the funding body must be included.
+    + Remember to thank colleagues/scientists/technicians who might have provided assistance and all important contributors should be acknowledged.
+        + For example, persons who provided statistical or technical advice and assistance, incl. people who helped with the preparation of the manuscript.  
+### Citations-Bibliography
+    + State and cite whose work was referenced to.
+    + The styles vary for different journals - some journals require complete titles of the cited references.
+    + Please check for the accuracy of all citations.
+### Appendix (optional)
+    + Extra Information
+    
+----
+
+# Guide-PhD
 + [Prof. Philip Guo](http://pgbovine.net/PhD-memoir.htm)'s very readable book on his personal Ph.D. school experience with other useful blog posts.
 + [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf).
 + [Advice on the PhD life](http://blog.vivekhaldar.com/post/29296581613/what-is-life-like-for-phds-in-computer-science-who).
@@ -28,10 +77,14 @@
 
 # Guide - Research Paper
 + [How to read a research paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html).
++ [Advice on reading academic papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 + [Some Thoughts on What it Takes to Produce a Good Ph.D. Thesis](https://engineering.purdue.edu/kak/HowToPhD.pdf).
 + http://openscienceasap.org/stream/2014/11/27/how-i-set-up-my-scientific-work-environment/#comment-946
++ [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)?
 + [Jason Hong's collection of advice links](http://www.cs.cmu.edu/~jasonh/advice.html)
 + How to write a research proposal: http://newt.phys.unsw.edu.au/~jw/thesis.html
++ [Should I Read Papers](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)?
++ [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 
 ## Time Management
 + http://www.phdcompletion.com/phd-completion-why-create-a-writing-schedule/
