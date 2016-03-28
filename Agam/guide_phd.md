@@ -1,6 +1,8 @@
 + [Guide-Journal Paper](#guide-journal-paper)
 + [Guide-PhD](#guide-phd)
 + [Guide-Research Paper](#guide-research-paper)
+    + [Time Management](#time-management)
+    + [Quotes](#quotes)
 + [Coursework-CS](#coursework-cs)
 
 ----
@@ -12,30 +14,33 @@
 + How to structure the journal paper: http://writingajournalarticle.wordpress.com/structure/structure-the-paper/
 + Some excellent advice on research writing by @mnielsen : https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md
 
+
 ## Journal Paper Structure
+
 ### Introduction
-    State why the problem you address is important
-    State what is lacking in the current knowledge
-    State the objectives of your study or the research question
+    + State why the problem you address is important
+	+ State what is lacking in the current knowledge
+    + State the objectives of your study or the research question
+
 ### Methods
-    Describe the context and setting of the study
-    Specify the study design
-    Describe the ‘population’ (patients, doctors, hospitals, etc.)
-    Describe the sampling strategy
-    Describe the intervention (if applicable)
-    Identify the main study variables
-    Describe data collection instruments and procedures
-    Outline analysis methods
+	+ Describe the context and setting of the study
+	+ Specify the study design
+	+ Describe the sampling strategy
+	+ Describe the intervention (if applicable)
+	+ Identify the main study variables
+	+ Describe data collection instruments and procedures
+	+ Outline analysis methods
+
 ### Results
-    Report on data collection and recruitment (response rates, etc.)
-    Describe participants (demographic, research condition, etc.)
-    Present key findings with respect to the central research question.
-    Present secondary findings (secondary outcomes, subgroup analyses, etc.)
+	+ Report on data collection and recruitment (response rates, etc.)
+    + Describe participants (demographic, research condition, etc.)
+	+ Present key findings with respect to the central research question.
+	+ Present secondary findings (secondary outcomes, subgroup analyses, etc.)
 ### Discussion
-    + State the main findings of the study
-    + Discuss the main results with reference to previous research
-    + Discuss policy and practice implications of the results.
-    + Analyse the strengths and limitations of the study. 
+	+ State the main findings of the study
+    + Discuss the main results with reference to previous research
+	+ Discuss policy and practice implications of the results.
+    + Analyse the strengths and limitations of the study. 
     + Offer perspectives for future work
 ### Conclusions
     + Include major findings followed by brief discussion on future perspectives and/or application of present work to other disciplines. 
@@ -50,7 +55,7 @@
     + Please check for the accuracy of all citations.
 ### Appendix (optional)
     + Extra Information
-    
+
 ----
 
 # Guide-PhD
@@ -93,8 +98,9 @@
 + James Lipscomb, son of the Nobel Prize-winning chemist [William Nunn Lipscomb, Jr.](https://en.wikipedia.org/wiki/William_Lipscomb), writes about '[Scientific Aggression as a Way of Life](http://wlipscomb.tripod.com/wnl_life.html)'.
 
 
-## Inspirational Quotes
-+ "Experience is what you get when you didnt get what you wanted." - Prof. Randy Pausch from the [Randy Pausch Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo).
+## Quotes
++ Prof. Randy Pausch from the [Randy Pausch Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo): 
+	+ "Experience is what you get when you didnt get what you wanted."
     + Be prepared : _Luck_ is where __preparation__ meets __opportunity__.
 + “Let me tell you the secret that has led me to my goal. My strength lies solely in my tenacity.” - Louis Pasteur.
 + Focus on the results, and you'll never make progress. Focus on the progress, and you'll see results.

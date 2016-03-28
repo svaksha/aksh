@@ -8,7 +8,9 @@
    + [GIST](#gist)
    + [Plotting](#plotting)
 + [Packaging](#packaging)
+    + [build.jl](#build.jl)
     + [USING](#using)
+    + [INCLUDE](#include)
 + [Documentation](#documentation)
 + [QA](#qa)
     + [.travis.yml](#.travis.yml)
@@ -258,6 +260,13 @@ A cache. Other than that, no idea what it accomplishes (aside from reading the c
 + Package naming rules, https://github.com/JuliaStats/Distributions.jl/issues/395
 + Coding rules, https://github.com/JuliaStats/Distributions.jl/issues/396
 
+
+## build.jl
+Good examples of various build files for dependencies: 
++ https://github.com/jiahao/GSL.jl/blob/master/deps/build.jl
++ https://github.com/JuliaLang/Cairo.jl/blob/master/deps/build.jl
+
+
 ## USING 
 You can write `using A, B` to use both A and B but then you can't list specific 
 bindings.
@@ -286,7 +295,6 @@ I'll take a stab at rephrasing the different in case that helps. There is only o
 If you use "importall", then "function Foo.bar(..." and "function bar(..." become equivalent. If you use "using", then they are different.
 
 The reason this is important enough to have been given separate syntax is that you don't want to accidentally extend a function that you didn't know existed, because that could easily cause a bug. This is most likely to happen with a method that takes a common type like string or int, because both you and the other module could define a method to handle such a common type. If you use importall, then you'll replace the other module's implementation of "bar(s::String)" with your new implementation, which could easily do something complete different (and break all/many future usages of the other functions in module Foo that depend on calling bar).
-
 
 ### BR
 + Rewrite Pkg.add to include repo argument [BUG # 11914](https://github.com/JuliaLang/julia/issues/11914).
@@ -339,6 +347,10 @@ The Julia package manager lacks solutions to two problems that `npm` solves with
 2. The ability to specify dependencies and their versions on a per-project basis, also for projects that are not modules themselves, allowing you to check in a file specifying dependencies and then running something like `Pkg.restore()` to install everything you need.
 
 
+## INCLUDE
++ The scope for `include("foo.jl")` is global scope only. You cannot call variables defined in different .jl file. See: 
+http://docs.julialang.org/en/release-0.4/manual/noteworthy-differences/
++ The include statement should be used outside the function.
 
 ----
 

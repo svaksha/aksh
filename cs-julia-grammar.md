@@ -1,6 +1,5 @@
 + [Functions](#functions)
 + [Functional](#functional)
-+ [Include](#include)
 + [Macros](#macros)
 + [MAP](#map)
 + [OOP](#oop)
@@ -67,13 +66,6 @@ this file in both files, that define your functions.
 
 # Functional
 + An intro to functional programming: http://www.bootstrapworld.org/materials/ 
-
-----
-
-# Include
-+ The scope for `include("foo.jl")` is global scope only. You cannot call variables defined in different .jl file. See: 
-http://docs.julialang.org/en/release-0.4/manual/noteworthy-differences/
-+ The include statement should be used outside the function.
 
 ----
 
