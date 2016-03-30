@@ -9,6 +9,7 @@
 ---- 
 
 # Interviews
++ http://interviewing.io? They do interviews every Tuesday evening.
 + http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/
 + Zach Holman says that "startup interviewing is fucked" : https://zachholman.com/posts/startup-interviewing-is-fucked/
 

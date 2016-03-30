@@ -121,13 +121,16 @@
 + https://github.com/sameersbn/docker-gitlab-ci
 
 ## DockerCloud
-
 + https://docs.docker.com/docker-cloud/getting-started/
 + https://forums.docker.com/c/docker-cloud
 
 ## dockerboxer
 + https://docker.io , https://docker.com
 + https://quay.io/user/svaksha
+
+## docker-persistent-storage
++ http://www.computerweekly.com/feature/Docker-storage-101-How-storage-works-in-Docker
++ http://stackoverflow.com/questions/18496940/how-to-deal-with-persistent-storage-e-g-databases-in-docker
 
 #### Docker Demo
 + https://github.com/bizmate/docker_lemp_php7_mysql
