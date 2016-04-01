@@ -25,6 +25,12 @@
 + https://github.com/gitpython-developers/GitPython/issues/240
     + http://gitpython.readthedocs.org/en/stable/tutorial.html
 
+### Git-Hooks
++ https://www.atlassian.com/git/tutorials/git-hooks
++ http://www.systutorials.com/1473/setting-up-git-commit-email-notification/
++ http://stackoverflow.com/questions/552360/git-hook-to-send-email-notification-on-repo-changes
++ https://bdhacker.wordpress.com/2012/01/16/send-commit-emails-after-users-push-in-remote-git-repositoryserver/
+
 ----
 
 # GitLab

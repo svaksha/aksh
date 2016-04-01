@@ -128,7 +128,7 @@
 + https://docker.io , https://docker.com
 + https://quay.io/user/svaksha
 
-## docker-persistent-storage
+## docker-persistent-Storage
 + http://www.computerweekly.com/feature/Docker-storage-101-How-storage-works-in-Docker
 + http://stackoverflow.com/questions/18496940/how-to-deal-with-persistent-storage-e-g-databases-in-docker
 

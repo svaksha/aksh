@@ -1,19 +1,19 @@
-+ [0.5-dev](#0.5-dev)
++ [0-5-DEV](#0-5-dev)
 + [CORE](#core)
    + [Daemons](#daemons)
    + [Syntax-Symbols-Operators](#syntax-symbols-operators)
 + [Development](#development)
-   + [.juliarc](#.juliarc)
-   + [.julia](#.julia)
+   + [dotjuliarc](#dotjuliarc)
+   + [dotjulia](#dotjulia)
    + [GIST](#gist)
    + [Plotting](#plotting)
 + [Packaging](#packaging)
     + [build.jl](#build.jl)
     + [USING](#using)
     + [INCLUDE](#include)
-+ [Documentation](#documentation)
++ [DOCUMENTATION](#documentation)
 + [QA](#qa)
-    + [.travis.yml](#.travis.yml)
+    + [dottravis-yml](#dottravis-yml)
 + [MATH](#math)
    + [Arrays](#arrays)
    + [Calculus](#calculus)
@@ -33,7 +33,7 @@
 ----
 
 
-# 0.5-dev
+# 0-5-DEV
 
 + Freeze : https://github.com/JuliaLang/julia/blob/master/NEWS.md#julia-v040-release-notes
 
@@ -196,7 +196,7 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 + julia-stats thread: https://groups.google.com/d/topic/julia-stats/29l5yA87Qss/discussion
 Q1. Will the roadmap obviate some of the bottlenecks for day to day normal exploratory workflow?  These are minimal  things that R and Python have and whose lack hamper any use of Julia for regular analysis. Thing like robust dataframe with data i/o into different formats, web scraping, work out nullable semantics and integration with ecosystem , robust data cleaning and tidy data, modeling with basic  diagnostic tests etc
 
-## .juliarc.jl
+## dotjuliarc.jl
 + https://gist.github.com/Ismael-VC/6db0c310eaf04d0b0a1b
 + https://gist.github.com/search?l=julia&q=.juliarc.jl&ref=searchresults&utf8=%E2%9C%93
 + https://gist.github.com/ZacCranko/ac505c8db680ba97a9be
@@ -354,7 +354,7 @@ http://docs.julialang.org/en/release-0.4/manual/noteworthy-differences/
 
 ----
 
-# Documentation
+# [DOCUMENTATION](http://docs.julialang.org/en/latest/manual/documentation/)
 + Documentation of Julia’s Internals, http://docs.julialang.org/en/latest/devdocs/julia/
 + Moving Docstrings, https://github.com/JuliaLang/julia/pull/12703
 + https://github.com/JuliaLang/julia/pull/11943
@@ -480,7 +480,7 @@ The oldest point release for which we have generic Linux binaries available is 0
 ### Unit and Functional Testing
 + http://julia.readthedocs.org/en/latest/stdlib/test/
 
-### .travis.yml 
+### dottravis.yml 
 
 I've noticed many people with .travis.yml files that perhaps no longer mean quite what people think they do.
 
