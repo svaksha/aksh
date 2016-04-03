@@ -6,6 +6,8 @@
    + [Batch Jobs](#batch-jobs)
    + [CI](#ci)
    + [LibCloud](#libcloud)
+   + [OCP](#ocp)
+   + [Open SDN](#open-sdn)
 + [DELL](#dell)
 + [DOCKER](#docker)
 + [Monitoring](#monitoring)
@@ -96,6 +98,14 @@
 + A Python library for interacting with many of the popular cloud service providers using a unified API - can handle files on AWS, Dropbox, GoogleDrive. 
 + List of supported providers : https://libcloud.readthedocs.org/en/latest/supported_providers.html
 
+# [OCP](http://www.opencompute.org)
++ http://www.opencompute.org :: The Open Compute Project (OCP) is reimagining 
+hardware, making it more efficient, flexible, and scalable.
+
+# Open SDN 
+__An open platform for network services across a spectrum of hardware 
+in multivendor environments.__
++ https://www.opendaylight.org/
 
 ----
 

@@ -31,7 +31,7 @@ type Data
     c::Number
 end
 
-# declaring data as const has the main meaning, that the type stays the same,
+# declaring data as [const](docs.julialang.org/en/latest/stdlib/constants) has the main meaning, that the type stays the same,
 # you CAN change the values of the fields later
 const data = Data(1,2,3)
 
@@ -182,3 +182,10 @@ julia> findin([5.2, 3.3], 3:1:20)
 
 ----
 
+# Julia [Style Guide](http://docs.julialang.org/en/latest/manual/style-guide/)
+
+### Python, if __name__ == '__main__':
++ https://groups.google.com/forum/#!msg/julia-users/ufpi8tV7sk8/-Uv0rtAWTWsJ
+
+In Julia, files are either code to be loaded by something else or code to run. Python likes to mix the two with that idiom as a quick-and-dirty form of unit testing. Python also requires '__main__' when utilizing multiprocessing (http://docs.python.org/2/library/multiprocessing.html), presumably so child processes can load global code without getting caught in infinite recursions.
+That is an anti-pattern in Julia, where you would just make a separate file full of ´@assert´ macros. See the [style guide](http://docs.julialang.org/en/latest/manual/style-guide/).

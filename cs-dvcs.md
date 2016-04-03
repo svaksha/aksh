@@ -30,6 +30,7 @@
 + http://www.systutorials.com/1473/setting-up-git-commit-email-notification/
 + http://stackoverflow.com/questions/552360/git-hook-to-send-email-notification-on-repo-changes
 + https://bdhacker.wordpress.com/2012/01/16/send-commit-emails-after-users-push-in-remote-git-repositoryserver/
++ http://www.systutorials.com/1473/setting-up-git-commit-email-notification/
 
 ----
 
