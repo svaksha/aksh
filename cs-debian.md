@@ -19,6 +19,7 @@
    + [ARBTT](#arbtt)
    + [Backups](#backups)
    + [Spreadsheets](#spreadsheets)
+   + [Terminal Multiplexer](#terminal-multiplexer)
 + [Resources](#resources)
 
 ----
@@ -244,6 +245,11 @@ __desktop timetracker__
 
 ## Spreadsheets
 + [roo](https://github.com/roo-rb/roo) :: an interface to spreadsheets of several sorts. 
+
+## Terminal Multiplexer
+### [Screen](https://en.wikipedia.org/wiki/GNU_Screen)
+### [Tmux](https://en.wikipedia.org/wiki/Tmux)
++ Rik's conf: http://www.rikrose.net/tmux.conf
 
 ----
 
