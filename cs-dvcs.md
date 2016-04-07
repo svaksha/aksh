@@ -40,9 +40,6 @@
 + http://doc.gitlab.com/omnibus/docker/
 + https://github.com/sameersbn/docker-gitlab-ci
  
-### CI
-+ Docs: http://doc.gitlab.com/ce/ci/
-
 ## CE
 + + Download the gitlab version for [Debian-8, Jessie](https://about.gitlab.com/downloads/#debian8).
 + Allow hierarchical ordering of Groups {Team-1::Project-1,Project-2} {Team-1::Project-1,Project-2} : https://gitlab.com/gitlab-org/gitlab-ce/issues/2772
@@ -50,13 +47,12 @@
 ### Documentation
 + http://doc.gitlab.com/ce/api/projects.html
 + http://doc.gitlab.com/ce/ci/
-
-
-## Documentation
-+ Omnibus, http://doc.gitlab.com/omnibus/
-   + code: https://gitlab.com/gitlab-org/omnibus-gitlab
++ CI Docs: http://doc.gitlab.com/ce/ci/
 + Continuous Integration, http://doc.gitlab.com/ce/ci/
 + Web hooks: http://doc.gitlab.com/ee/web_hooks/web_hooks.html
++ Architecture: ://doc.gitlab.com/ce/development/architecture.html
++ Omnibus, http://doc.gitlab.com/omnibus/
+   + code: https://gitlab.com/gitlab-org/omnibus-gitlab
 
 ----
 
