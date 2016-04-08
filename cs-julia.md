@@ -352,6 +352,16 @@ The Julia package manager lacks solutions to two problems that `npm` solves with
 + The scope for `include("foo.jl")` is global scope only. You cannot call variables defined in different .jl file. See: 
 http://docs.julialang.org/en/release-0.4/manual/noteworthy-differences/
 + The include statement should be used outside the function.
++ __Bug__, [relative using/import should search current directory](https://github.com/JuliaLang/julia/issues/4600)
++ With `importall` you dont need a submodule definition and can have a flat internal namespace.
++ Alternatively, write a macro in your module to do these for you in one line. Of course this may still include a file multiple times if you call include on it multiple times in the source file, however, for non-trivial inter-submodule dependency the python style submodule import.
++ Example: See https://github.com/eschnett/FunHPC.jl, where `src` has many files, each with its own module. The modules refer to each other, using regular "using" statements. In the tests folder, they are imported with `unshift!(LOAD_PATH, "../src")` so that statements such as `using Comm` find the respective module.
++ [Reexport](https://github.com/simonster/Reexport.jl) is another useful package.
++ For the locally defined A module (not a global A module), instead of modifying the LOAD_PATH, do this: 
+'''
+include("A.jl")
+using .A
+'''
 
 ----
 

@@ -15,6 +15,9 @@
 + http://swcarpentry.github.io/git-novice/
 + https://www.atlassian.com/git/tutorials/git-hooks/
 
+#### cherry-pick commits
++ Cherry-pick a commit from another git repository : http://stackoverflow.com/questions/5120038/is-it-possible-to-cherry-pick-a-commit-from-another-git-repository
+
 #### Cheatsheet
 + Basic git comands, http://doc.gitlab.com/ce/gitlab-basics/basic-git-commands.html
 + A list of cool features of [Git and GitHub](http://git.io/sheet), source for the [git cheatsheet](https://github.com/tiimgreen/github-cheat-sheet).
