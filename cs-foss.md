@@ -74,3 +74,10 @@ Create an umbrella list
 
 # Library management
 + https://github.com/projecthydra
+
+----
+
+# MOOC-LMS software
++ XBlock: https://en.wikipedia.org/wiki/XBlock from [EdX](https://en.wikipedia.org/wiki/EdX).
++ https://en.wikipedia.org/wiki/SlideWiki, http://slidewiki.org/
++ Moodle
