@@ -14,6 +14,7 @@
 + git-lfs bugs: https://github.com/github/git-lfs/issues/333
 + http://swcarpentry.github.io/git-novice/
 + https://www.atlassian.com/git/tutorials/git-hooks/
++ http://nuclearsquid.com/writings/git-tricks-tips-workflows/
 
 #### cherry-pick commits
 + Cherry-pick a commit from another git repository : http://stackoverflow.com/questions/5120038/is-it-possible-to-cherry-pick-a-commit-from-another-git-repository
