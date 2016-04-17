@@ -243,8 +243,15 @@ __desktop timetracker__
 + LaTeX tutorial : http://www.pages.drexel.edu/~pyo22/students/latexRelated/latexTutorial.html
 + http://latex-project.org/intro.html
 
+### LaTex2PDF
++ http://www.latex-community.org/forum/viewtopic.php?f=5&t=22560
++ https://math.berkeley.edu/~vojta/tex/pdf.html
++ http://www-rohan.sdsu.edu/~aty/bibliog/latex/LaTeXtoPDF.html
++ http://askubuntu.com/questions/166679/how-can-i-convert-a-tex-file-to-pdf-on-via-the-command-line
++ http://tex.stackexchange.com/questions/21405/how-to-create-pdf-with-command-line-using-miktex
+
 ## Spreadsheets
-+ [roo](https://github.com/roo-rb/roo) :: an interface to spreadsheets of several sorts. 
++ [roo](https://github.com/roo-rb/roo) :: An interface to spreadsheets of several sorts. 
 
 ## Terminal Multiplexer
 ### [Screen](https://en.wikipedia.org/wiki/GNU_Screen)
