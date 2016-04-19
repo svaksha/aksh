@@ -12,7 +12,7 @@
 + [ADDITIONAL REQUIREMENTS](#additional-requirements)
 + [FEEDBACK](#feedback)
 
-====
+----
 
 # PROPOSAL
 ### Event :: Conference (Talk / Workshop)

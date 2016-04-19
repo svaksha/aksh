@@ -1,64 +1,14 @@
-+ [Guide-Journal Paper](#guide-journal-paper)
-+ [Guide-PhD](#guide-phd)
-+ [Guide-Research Paper](#guide-research-paper)
-    + [Time Management](#time-management)
++ [Guide-PHD](#guide-phd)
+    + [Coursework-CS](#coursework-cs)
+    + [Researcher Tasks](#researcher-tasks)
++ [Guide-READ-PAPERS](#guide-read-papers)
++ [Guide-WRITE-PAPERS](#guide-write-papers)
++ [TIME MANAGEMENT](#time-management)
     + [Quotes](#quotes)
-+ [Coursework-CS](#coursework-cs)
 
 ----
 
-# Guide-Journal Paper
-+ [Writing a research article: advice to beginners](http://intqhc.oxfordjournals.org/content/16/3/191).
-+ [How to Write A Paper in Scientific Journal Style and Format](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTWtoc.html).
-+ 10-tips for writing for an [academic journal](http://www.theguardian.com/higher-education-network/blog/2013/sep/06/academic-journal-writing-top-tips).
-+ How to structure the journal paper: http://writingajournalarticle.wordpress.com/structure/structure-the-paper/
-+ Some excellent advice on research writing by @mnielsen : https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md
-
-
-## Journal Paper Structure
-
-### Introduction
-    + State why the problem you address is important
-	+ State what is lacking in the current knowledge
-    + State the objectives of your study or the research question
-
-### Methods
-	+ Describe the context and setting of the study
-	+ Specify the study design
-	+ Describe the sampling strategy
-	+ Describe the intervention (if applicable)
-	+ Identify the main study variables
-	+ Describe data collection instruments and procedures
-	+ Outline analysis methods
-
-### Results
-	+ Report on data collection and recruitment (response rates, etc.)
-    + Describe participants (demographic, research condition, etc.)
-	+ Present key findings with respect to the central research question.
-	+ Present secondary findings (secondary outcomes, subgroup analyses, etc.)
-### Discussion
-	+ State the main findings of the study
-    + Discuss the main results with reference to previous research
-	+ Discuss policy and practice implications of the results.
-    + Analyse the strengths and limitations of the study. 
-    + Offer perspectives for future work
-### Conclusions
-    + Include major findings followed by brief discussion on future perspectives and/or application of present work to other disciplines. 
-    + Important: Do not rewrite the abstract. Statements with “Investigated” or “Studied” are not conclusions!
-### Acknowledgements 
-    + Remember to thank the funding agency if the research was supported by a grant, and the name of the funding body must be included.
-    + Remember to thank colleagues/scientists/technicians who might have provided assistance and all important contributors should be acknowledged.
-        + For example, persons who provided statistical or technical advice and assistance, incl. people who helped with the preparation of the manuscript.  
-### Citations-Bibliography
-    + State and cite whose work was referenced to.
-    + The styles vary for different journals - some journals require complete titles of the cited references.
-    + Please check for the accuracy of all citations.
-### Appendix (optional)
-    + Extra Information
-
-----
-
-# Guide-PhD
+# Guide-PHD
 + [Prof. Philip Guo](http://pgbovine.net/PhD-memoir.htm)'s very readable book on his personal Ph.D. school experience with other useful blog posts.
 + [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf).
 + [Advice on the PhD life](http://blog.vivekhaldar.com/post/29296581613/what-is-life-like-for-phds-in-computer-science-who).
@@ -66,6 +16,12 @@
 + The computer science graduate school PhD survival guide "[The 4th guide in the Hitchhiker’s guide trilogy](http://www.cs.unc.edu/~azuma/hitch4.html)" by Dr. Azuma.
 + https://www.findaphd.com/
 + A website & forum for graduate students : http://thegradcafe.com 
+
+
+## Coursework - CS
++ https://www.cs.cornell.edu/phd/requirements         # Requirement of Cornell University
++ http://www.cse.ucsd.edu/node/1963              # Requirement of UCSan Diego University
++ https://www.cs.rutgers.edu/graduate/phd_program.html  # Requirement for admission and Credits for teaching and research
 
 
 ## Researcher Tasks
@@ -77,9 +33,10 @@
 * Participation in curricular and extra-curricular activities, such as lectures, soft skills courses, methods courses, retreats, presentations, PhD committee, thesis committee.
 * Team working with other scientists and mutual support in experiments.
 
+
 ----
 
-# Guide - Research Paper
+# Guide-READ-PAPERS
 + [How to read a research paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html).
 + [Advice on reading academic papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 + [Some Thoughts on What it Takes to Produce a Good Ph.D. Thesis](https://engineering.purdue.edu/kak/HowToPhD.pdf).
@@ -90,7 +47,90 @@
 + [Should I Read Papers](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)?
 + [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 
-## Time Management
+## Engineering Research Paper - Question–Answer Form
+
++ Title:
++ Name:
++ Authors:
++ Published in:
++ DOI, Date: 
+
+#### 1. [Message](What is your take away message from this paper?)
+
+#### 2. [Motivation](What is the motivation for this work (both people problem and technical problem), and its distillation into a research question? Why doesn’t the people problem have a trivial solution? What are the previous solutions and why are they inadequate?)
+
+#### 3. [Hypothesis](What is the proposed solution (hypothesis, idea, design)? Why is it believed it will work? How does it represent an improvement? How is the solution achieved?)
+
+#### 4. [Author Evaluation](What is the author's evaluation of the solution? What logic, argument, evidence, artifacts (e.g., a proof-of-concept system), or experiments are presented in support of the idea?)
+
+#### 5. [Reader Analysis](What is your analysis of the identifed problem, idea and evaluation? Is this a good idea? What flaws do you perceive in the work? What are the most interesting or controversial ideas? For work that has practical implications, ask whether this will work, who would want it, what it will take to give it to them, and when might it become a reality?)
+
+#### 6. [Outcomes](What are the paper's contributions (author's and your opinion)? Ideas, methods, software, experimental results, experimental techniques...?)
+
+#### 7. [Future-Critiques](What are future directions for this research (author's and yours, perhaps driven by shortcomings or other critiques)?)
+
+#### 8. [Questions](What questions are you left with? What questions would you like to raise in an open discussion of the work (review interesting and controversial points, above)? What do you find difficult to under stand? List as many as you can.)
+
+
+----
+
+# Guide-WRITE-PAPERS
++ [Writing a research article: advice to beginners](http://intqhc.oxfordjournals.org/content/16/3/191).
++ [How to Write A Paper in Scientific Journal Style and Format](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTWtoc.html).
++ 10-tips for writing for an [academic journal](http://www.theguardian.com/higher-education-network/blog/2013/sep/06/academic-journal-writing-top-tips).
++ How to structure the journal paper: http://writingajournalarticle.wordpress.com/structure/structure-the-paper/
++ Some excellent advice on research writing by @mnielsen : https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md
+
+
+## Journal Paper Structure
+
+#### Introduction
+    + State why the problem you address is important
+	+ State what is lacking in the current knowledge
+    + State the objectives of your study or the research question
+
+#### Methods
+	+ Describe the context and setting of the study
+	+ Specify the study design
+	+ Describe the sampling strategy
+	+ Describe the intervention (if applicable)
+	+ Identify the main study variables
+	+ Describe data collection instruments and procedures
+	+ Outline analysis methods
+
+#### Results
+	+ Report on data collection and recruitment (response rates, etc.)
+    + Describe participants (demographic, research condition, etc.)
+	+ Present key findings with respect to the central research question.
+	+ Present secondary findings (secondary outcomes, subgroup analyses, etc.)
+
+#### Discussion
+	+ State the main findings of the study
+    + Discuss the main results with reference to previous research
+	+ Discuss policy and practice implications of the results.
+    + Analyse the strengths and limitations of the study. 
+    + Offer perspectives for future work
+
+#### Conclusions
+    + Include major findings followed by brief discussion on future perspectives and/or application of present work to other disciplines. 
+    + Important: Do not rewrite the abstract. Statements with “Investigated” or “Studied” are not conclusions!
+
+#### Acknowledgements 
+    + Remember to thank the funding agency if the research was supported by a grant, and the name of the funding body must be included.
+    + Remember to thank colleagues/scientists/technicians who might have provided assistance and all important contributors should be acknowledged.
+        + For example, persons who provided statistical or technical advice and assistance, incl. people who helped with the preparation of the manuscript.  
+
+#### Citations-Bibliography
+    + State and cite whose work was referenced to.
+    + The styles vary for different journals - some journals require complete titles of the cited references.
+    + Please check for the accuracy of all citations.
+
+#### Appendix (optional)
+    + Extra Information
+
+----
+
+# TIME MANAGEMENT
 + http://www.phdcompletion.com/phd-completion-why-create-a-writing-schedule/
 + Some excellent advice on Time Management as a [Video](https://www.youtube.com/watch?v=oTugjssqOT0&ebc=ANyPxKqznHPt8tH-h6nssbneWEMegl11qJ51FGN7Wdtu9gad2SkIF1qSE-F6--s5EI_O4uzwT0TL) and as [written slides](http://www.cs.virginia.edu/helpnet/Time/time.html) by the Late. Prof. Randy Pausch.
     + Procrastination is the thief of time. 
@@ -100,20 +140,11 @@
 
 ## Quotes
 + Prof. Randy Pausch from the [Randy Pausch Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo): 
-	+ "Experience is what you get when you didnt get what you wanted."
-    + Be prepared : _Luck_ is where __preparation__ meets __opportunity__.
+	+ Experience is what you get when you didnt get what you wanted!
+    + Be prepared : __Luck__ is where __preparation__ meets __opportunity__.
 + “Let me tell you the secret that has led me to my goal. My strength lies solely in my tenacity.” - Louis Pasteur.
 + Focus on the results, and you'll never make progress. Focus on the progress, and you'll see results.
 + Learn what counts, and only do what counts (time management).
 + If you can dream it, you can do it!
 + (not a quote): the result from: http://myidp.sciencecareers.org/ 
 + Perfect is the enemy of the good!
-
-----
-
-# Coursework - CS
-+ https://www.cs.cornell.edu/phd/requirements         # Requirement of Cornell University
-+ http://www.cse.ucsd.edu/node/1963              # Requirement of UCSan Diego University
-+ https://www.cs.rutgers.edu/graduate/phd_program.html  # Requirement for admission and Credits for teaching and research
-
-----
