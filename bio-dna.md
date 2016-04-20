@@ -32,12 +32,14 @@
 + http://en.wikipedia.org/wiki/DNA_polymerase_III_holoenzyme
 + http://en.wikipedia.org/wiki/Divalent
 + https://en.wikipedia.org/wiki/DNA_codon_table
++ [Start codon](http://en.wikipedia.org/wiki/Start_codon) :: The first codon of a messenger RNA (mRNA) transcript translated by a ribosome.
++ [5' prime untranslated region](http://en.wikipedia.org/wiki/Five_prime_untranslated_region)
 
 ## Chromosomes
-* The U.S. National Library of Medicine's Genetics Home Reference on [Chromosomes](http://ghr.nlm.nih.gov/chromosomes) 
++ The U.S. National Library of Medicine's Genetics Home Reference on [Chromosomes](http://ghr.nlm.nih.gov/chromosomes) 
 
 ## Sequence Analysis
-* [Guide to SEQ analysis](https://www.ncbi.nlm.nih.gov/guide/sequence-analysis/)
++ [Guide to SEQ analysis](https://www.ncbi.nlm.nih.gov/guide/sequence-analysis/)
 
 ----
 
@@ -46,5 +48,9 @@
 * [The demoiselle of X-inactivation: 50 years old and as trendy and mesmerising as ever](http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1002212), Morey C, Avner P. (2011). PLoS Genet 7(7):e1002212.
 * [A comparative encyclopedia of DNA elements in the mouse genome](http://www.nature.com/nature/journal/v515/n7527/full/nature13992.html)
 * [Principles of regulatory information conservation between mouse and human](http://www.nature.com/nature/journal/v515/n7527/full/nature13985.html)
-
++ [Proteins for technical applications](http://research-in-germany.de/dachportal/en/Research-Landscape/News/2014/10/2014-10-27-proteins-for-technical-applications.html)
++ PAPER: [Genomic imprinting: recognition and marking of imprinted loci](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3314145/),  Abramowitz LK, Bartolomei MS. (2012). Curr Opin Genet Dev 22(2):72-8.
++ **[tag:ToDo]** PAPER? [Man’s Genome From 45,000 Years Ago Is Reconstructed](http://www.nytimes.com/2014/10/23/science/research-humans-interbred-with-neanderthals.html?ref=science&_r=0)
+  + [Toe Fossil Provides Complete Neanderthal Genome](http://www.nytimes.com/2013/12/19/science/toe-fossil-provides-complete-neanderthal-genome.html)
++ [From One Genome, Many Types of Cells. But How?](http://www.nytimes.com/2009/02/24/science/24chromatin.html?_r=4&ref=science&pagewanted=all) by Wade N., on 23Feb2009 in the New York Times.
 
