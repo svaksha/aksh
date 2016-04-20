@@ -1,5 +1,5 @@
-* [RNA](#rna)
-   - [Papers](#papers)
++ [RNA](#rna)
++ [Papers](#papers)
 
 ----
 
@@ -44,8 +44,16 @@
 * [Keep DNA Methylation Experiments in Check](http://epigenie.com/keeping-dna-methylation-experiments-in-check/)
 * http://en.wikipedia.org/wiki/Nucleic_acid
    - Protein sequencing was replaced by nucleic acid technology.
++ http://en.wikipedia.org/wiki/DNA
++ http://en.wikipedia.org/wiki/RNA
++ mRNA : http://en.wikipedia.org/wiki/Messenger_RNA
+- Exome sequencing : http://en.wikipedia.org/wiki/Exome_sequencing
+- Intron : http://en.wikipedia.org/wiki/Intron
+- Exon : http://en.wikipedia.org/wiki/Exon
 
-### Papers
+----
+
+# Papers
 * [Mitochondrial cob and cox1 Genes and Editing of the Corresponding mRNAs in Dinophysis acuminata from Narragansett Bay, with Special Reference to the Phylogenetic Position of the Genus Dinophysis](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2258633/)
 * [Sequestration of multiple RNA recognition motif-containing proteins by C9orf72 repeat expansions](http://brain.oxfordjournals.org/content/137/7/2040). [Europemc.org link](http://europepmc.org/articles/PMC4065024).
 * [Mistimed sleep disrupts circadian regulation of the human transcriptome](http://europepmc.org/articles/PMC3926083).
@@ -59,4 +67,6 @@
 * [Molecular mechanisms of long noncoding RNAs](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3199020/). Mol Cell 43(6):904-14, KC.Wang, HY.Chang ,2011.
 * [Use of Heterologous Complementary DNA Array Screening to Analyze BovineOocyte Transcriptome and Its Evolution During In Vitro Maturation](http://www.biolreprod.org/content/68/1/252.full.pdf+html), Rozenn Dalbie`s-Tran and Pascal Mermillod.
 * [From early lessons to new frontiers: the worm as a treasure trove of small RNA biology](http://journal.frontiersin.org/Journal/10.3389/fgene.2014.00416/abstract)
++ **[ToRead]** PAPER? :: [New Study Finds That Neurons Actively Fine Tune Themselves at the Genetic Level](http://neurosciencenews.com/mrna-ion-channels-cluster-neurons-1434/). 
++ SNPs and their short flanking sequences for Drosophila melanogaster putative thrombospondin mRNA →  http://www.ncbi.nlm.nih.gov/nuccore/AF305875.1 
 

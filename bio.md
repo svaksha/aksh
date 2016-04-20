@@ -19,6 +19,9 @@
 * https://en.wikipedia.org/wiki/Category:Genetics 
 * https://en.wikipedia.org/wiki/Genetics
 * https://en.wikipedia.org/wiki/Recombinant_DNA
+- http://en.wikipedia.org/wiki/Category:Molecular_biology
+- http://en.wikipedia.org/wiki/Category:Biochemistry 
+- http://en.wikipedia.org/wiki/Category:Genetics
 
 ----
 
@@ -65,6 +68,7 @@
 ----
 
 # NEWS
-* http://www.ozy.com/rising-stars-and-provocateurs/the-crusade-of-marcela-uliano-da-silva/32937
++ http://www.ozy.com/rising-stars-and-provocateurs/the-crusade-of-marcela-uliano-da-silva/32937
++ Next generation sequencing services: http://www.biotech.cornell.edu/brc/genomics-facility/services/next-generation-sequencing
 
 
