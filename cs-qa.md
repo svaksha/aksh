@@ -4,6 +4,14 @@
 
 ----
 
+# DOCUMENTATION
++ https://github.com/GitbookIO/gitbook
++ Sphinx
++ Pandoc
+
+
+----
+
 ## GitLab
 + http://doc.gitlab.com/ce/ci/runners/README.html
 
@@ -32,3 +40,4 @@
     + Test all your CI scripts locally. This also helps if you are working on CI a lot and want to test changes before running them on production CI server, kind of debugging process.
 
 
+----
