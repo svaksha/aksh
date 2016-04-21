@@ -6,6 +6,7 @@
 ----
 
 + https://erc.europa.eu/sites/default/files/content/pages/pdf/2.1%20Sabina%20Leonelli.pdf
++ statistical analysis, https://zedshaw.com/archive/a-rubric-for-it-analysis-papers/
 
 ----
 
