@@ -51,13 +51,30 @@
 
 # Machine Learning
 + {Paper} : [Evaluation of Deep Learning Frameworks](https://github.com/zer0n/deepframeworks).
-+ https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning
-+ https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning
++ Julia Libraries, https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning
++ Python libraries, https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning
 + https://github.com/hangtwenty/dive-into-machine-learning
 + https://www.udacity.com/podcasts/linear-digressions
 + https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast (feed here)
 + http://www.thetalkingmachines.com/ways-to-listen
 + http://www.partiallyderivative.com/
+
+## Books
+Information Science and Statistics 
++ Bishop: Pattern Recognition and Machine Learning, Springer.
+  + http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
+  + http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf
++ Akaike and Kitagawa: The Practice of Time Series Analysis. 
++ Cowell, Dawid, Lauritzen, and Spiegelhalter: Probabilistic Networks and Expert Systems. 
++ Doucet, de Freitas, and Gordon: Sequential Monte Carlo Methods in Practice. 
++ Fine: Feedforward Neural Network Methodology. 
++ Hawkins and Olwell: Cumulative Sum Charts and Charting for Quality Improvement. 
++ Jensen: Bayesian Networks and Decision Graphs. 
++ Marchette: Computer Intrusion Detection and Network Monitoring:A Statistical Viewpoint. 
++ Rubinstein and Kroese: The Cross-Entropy Method:  A Unified Approach to Combinatorial Optimization, Monte Carlo Simulation, and Machine Learning. 
++ Studený: Probabilistic Conditional Independence Structures.
++ Vapnik: The Nature of Statistical Learning Theory, Second Edition.  
++ Wallace: Statistical and Inductive Inference by Minimum Massage Length 
 
 ----
 
