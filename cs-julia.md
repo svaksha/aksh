@@ -449,6 +449,7 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 
 ## Code Coverage
 + Try, `Base.JLOptions().code_coverage`, (see https://github.com/JuliaLang/julia/blob/68b403f820fbd2f7401e12a90d487f41c96ca652/base/options.jl)
++ https://github.com/timholy/DebuggingUtilities.jl/commit/5f20ac4347f10687595cabaa2b304d073f7cf836
 
 ## Debug a package
 using BinDeps, PkgName
@@ -457,7 +458,6 @@ BinDeps.debug("PkgName")
 ## QA - core JULIA
 + https://github.com/JuliaLang/julia/blob/master/test/unicode.jl
 + https://github.com/JuliaLang/julia/blob/e0176ec9c44530f4474f2f347613de121f9ed1fc/test/pkg.jl
-
 
 ### ANN: Testing specific Julia versions on Travis CI
 __Important DEV Notes from Tony__
