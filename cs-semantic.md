@@ -23,6 +23,7 @@
 # Semantics
 + https://en.wikipedia.org/wiki/Semantic_query
 + https://en.wikipedia.org/wiki/Semantic_Web
++ MWE-aware English Dependency Corpus :: https://github.com/naist-cl-parsing/mwe-aware-dependency
 
 ----
 

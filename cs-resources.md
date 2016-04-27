@@ -36,6 +36,9 @@
 + NoSpec, http://www.nospec.com/faq
    + https://medium.com/@sir_castiq/how-to-exploit-a-developer-a005306d5320
 
+## Books
++ Hal Abelson's, Jerry Sussman's and Julie Sussman's [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/) (MIT Press, 1984; ISBN 0-262-01077-1), an excellent computer science text used in introductory courses at MIT.
+   
 ## Code Exercises
 + http://synopsis.exercism.io/, https://github.com/exercism/cli, https://github.com/exercism
 + http://freecodecamp.com/

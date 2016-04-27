@@ -55,21 +55,38 @@
 + Published in:
 + DOI, Date: 
 
-#### 1. [Message](What is your take away message from this paper?)
+### 1. Message
++ What is your take away message from this paper?)
 
-#### 2. [Motivation](What is the motivation for this work (both people problem and technical problem), and its distillation into a research question? Why doesn’t the people problem have a trivial solution? What are the previous solutions and why are they inadequate?)
+### 2. Motivation
++ What is the motivation for this work (both people problem and technical problem), and its distillation into a research question? 
++ Why doesn’t the people problem have a trivial solution? 
++ What are the previous solutions and why are they inadequate?)
 
-#### 3. [Hypothesis](What is the proposed solution (hypothesis, idea, design)? Why is it believed it will work? How does it represent an improvement? How is the solution achieved?)
+### 3. Hypothesis
++ What is the proposed solution (hypothesis, idea, design)? 
++ Why is it believed it will work? 
++ How does it represent an improvement? 
++ How is the solution achieved?
 
-#### 4. [Author Evaluation](What is the author's evaluation of the solution? What logic, argument, evidence, artifacts (e.g., a proof-of-concept system), or experiments are presented in support of the idea?)
+### 4. Author Evaluation
++ What is the author's evaluation of the solution? 
++ What logic, argument, evidence, artifacts (e.g., a proof-of-concept system), or experiments are presented in support of the idea?
 
-#### 5. [Reader Analysis](What is your analysis of the identifed problem, idea and evaluation? Is this a good idea? What flaws do you perceive in the work? What are the most interesting or controversial ideas? For work that has practical implications, ask whether this will work, who would want it, what it will take to give it to them, and when might it become a reality?)
+### 5. Reader Analysis
++ What is your analysis of the identifed problem, idea and evaluation? 
++ Is this a good idea? What flaws do you perceive in the work? 
++ What are the most interesting or controversial ideas? For work that has practical implications, ask whether this will work, who would want it, what it will take to give it to them, and when might it become a reality?
 
-#### 6. [Outcomes](What are the paper's contributions (author's and your opinion)? Ideas, methods, software, experimental results, experimental techniques...?)
+### 6. Outcomes
++ What are the paper's contributions (author's and your opinion)? Ideas, methods, software, experimental results, experimental techniques...?
 
-#### 7. [Future-Critiques](What are future directions for this research (author's and yours, perhaps driven by shortcomings or other critiques)?)
+### 7. Future-Critiques
++ What are future directions for this research (author's and yours, perhaps driven by shortcomings or other critiques)?
 
-#### 8. [Questions](What questions are you left with? What questions would you like to raise in an open discussion of the work (review interesting and controversial points, above)? What do you find difficult to under stand? List as many as you can.)
+### 8. Questions
++ What questions are you left with? 
++ What questions would you like to raise in an open discussion of the work (review interesting and controversial points, above)? + What do you find difficult to under stand? List as many as you can.
 
 
 ----
@@ -81,21 +98,20 @@
 + How to structure the journal paper: http://writingajournalarticle.wordpress.com/structure/structure-the-paper/
 + Some excellent advice on research writing by @mnielsen : https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md
 
-
 ## JOURNAL PAPER STRUCTURE
 
-#### ABSTRACT
+### ABSTRACT
 + Short 150 word abstract describing the paper.
 
-#### KEYWORDS
+### KEYWORDS
 + List a few for easy tagging.
 
-#### INTRODUCTION
+### INTRODUCTION
 + State why the problem you address is important
 + State what is lacking in the current knowledge
 + State the objectives of your study or the research question
 
-#### METHODS
+### METHODS
 + Describe the context and setting of the study
 + Specify the study design
 + Describe the sampling strategy
@@ -104,34 +120,34 @@
 + Describe data collection instruments and procedures
 + Outline analysis methods
 
-#### RESULTS
+### RESULTS
 + Report on data collection and recruitment (response rates, etc.)
 + Describe participants (demographic, research condition, etc.)
 + Present key findings with respect to the central research question.
 + Present secondary findings (secondary outcomes, subgroup analyses, etc.)
 
-#### DISCUSSION
+### DISCUSSION
 + State the main findings of the study
 + Discuss the main results with reference to previous research
 + Discuss policy and practice implications of the results.
 + Analyse the strengths and limitations of the study. 
 + Offer perspectives for future work
 
-#### CONCLUSIONS
+### CONCLUSIONS
 + Include major findings followed by brief discussion on future perspectives and/or application of present work to other disciplines. 
 + Important: Do not rewrite the abstract. Statements with “Investigated” or “Studied” are not conclusions!
 
-#### ACKNOWLEDGEMENTS 
+### ACKNOWLEDGEMENTS 
 + Remember to thank the funding agency if the research was supported by a grant, and the name of the funding body must be included.
 + Remember to thank colleagues/scientists/technicians who might have provided assistance and all important contributors should be acknowledged.
     + For example, persons who provided statistical or technical advice and assistance, incl. people who helped with the preparation of the manuscript.  
 
-#### CITATIONS-BIBLIOGRAPHY
+### CITATIONS-BIBLIOGRAPHY
 + State and cite whose work was referenced to.
 + The styles vary for different journals - some journals require complete titles of the cited references.
 + Please check for the accuracy of all citations.
 
-#### APPENDIX (optional)
+### APPENDIX (optional)
 + Extra Information
 
 ----
