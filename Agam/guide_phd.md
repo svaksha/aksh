@@ -84,49 +84,55 @@
 
 ## JOURNAL PAPER STRUCTURE
 
+#### ABSTRACT
++ Short 150 word abstract describing the paper.
+
+#### KEYWORDS
++ List a few for easy tagging.
+
 #### INTRODUCTION
-    + State why the problem you address is important
-	+ State what is lacking in the current knowledge
-    + State the objectives of your study or the research question
++ State why the problem you address is important
++ State what is lacking in the current knowledge
++ State the objectives of your study or the research question
 
 #### METHODS
-	+ Describe the context and setting of the study
-	+ Specify the study design
-	+ Describe the sampling strategy
-	+ Describe the intervention (if applicable)
-	+ Identify the main study variables
-	+ Describe data collection instruments and procedures
-	+ Outline analysis methods
++ Describe the context and setting of the study
++ Specify the study design
++ Describe the sampling strategy
++ Describe the intervention (if applicable)
++ Identify the main study variables
++ Describe data collection instruments and procedures
++ Outline analysis methods
 
 #### RESULTS
-	+ Report on data collection and recruitment (response rates, etc.)
-    + Describe participants (demographic, research condition, etc.)
-	+ Present key findings with respect to the central research question.
-	+ Present secondary findings (secondary outcomes, subgroup analyses, etc.)
++ Report on data collection and recruitment (response rates, etc.)
++ Describe participants (demographic, research condition, etc.)
++ Present key findings with respect to the central research question.
++ Present secondary findings (secondary outcomes, subgroup analyses, etc.)
 
 #### DISCUSSION
-	+ State the main findings of the study
-    + Discuss the main results with reference to previous research
-	+ Discuss policy and practice implications of the results.
-    + Analyse the strengths and limitations of the study. 
-    + Offer perspectives for future work
++ State the main findings of the study
++ Discuss the main results with reference to previous research
++ Discuss policy and practice implications of the results.
++ Analyse the strengths and limitations of the study. 
++ Offer perspectives for future work
 
 #### CONCLUSIONS
-    + Include major findings followed by brief discussion on future perspectives and/or application of present work to other disciplines. 
-    + Important: Do not rewrite the abstract. Statements with “Investigated” or “Studied” are not conclusions!
++ Include major findings followed by brief discussion on future perspectives and/or application of present work to other disciplines. 
++ Important: Do not rewrite the abstract. Statements with “Investigated” or “Studied” are not conclusions!
 
 #### ACKNOWLEDGEMENTS 
-    + Remember to thank the funding agency if the research was supported by a grant, and the name of the funding body must be included.
-    + Remember to thank colleagues/scientists/technicians who might have provided assistance and all important contributors should be acknowledged.
-        + For example, persons who provided statistical or technical advice and assistance, incl. people who helped with the preparation of the manuscript.  
++ Remember to thank the funding agency if the research was supported by a grant, and the name of the funding body must be included.
++ Remember to thank colleagues/scientists/technicians who might have provided assistance and all important contributors should be acknowledged.
+    + For example, persons who provided statistical or technical advice and assistance, incl. people who helped with the preparation of the manuscript.  
 
 #### CITATIONS-BIBLIOGRAPHY
-    + State and cite whose work was referenced to.
-    + The styles vary for different journals - some journals require complete titles of the cited references.
-    + Please check for the accuracy of all citations.
++ State and cite whose work was referenced to.
++ The styles vary for different journals - some journals require complete titles of the cited references.
++ Please check for the accuracy of all citations.
 
 #### APPENDIX (optional)
-    + Extra Information
++ Extra Information
 
 ----
 
@@ -140,11 +146,11 @@
 
 ## Quotes
 + Prof. Randy Pausch from the [Randy Pausch Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo): 
-	+ Experience is what you get when you didnt get what you wanted!
+    + Experience is what you get when you didnt get what you wanted!
     + Be prepared : __Luck__ is where __preparation__ meets __opportunity__.
 + “Let me tell you the secret that has led me to my goal. My strength lies solely in my tenacity.” - Louis Pasteur.
 + Focus on the results, and you'll never make progress. Focus on the progress, and you'll see results.
 + Learn what counts, and only do what counts (time management).
 + If you can dream it, you can do it!
++ Life is not perfect, so dont be a perfectionist! Perfect is the enemy of the good!
 + (not a quote): the result from: http://myidp.sciencecareers.org/ 
-+ Perfect is the enemy of the good!
