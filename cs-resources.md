@@ -12,7 +12,6 @@
 + [Podcasts](#podcasts)
    + [programming language](#programming language)
 + [Reading](#reading)
-+ [Presentations](#presentations)
 
 ----
 
@@ -175,11 +174,5 @@ Good online places to start:
 
 # Reading
 + http://worrydream.com/#!/ClimateChange => about computational climate change but Victor makes an interesting point about “Tools for scientists and engineers" : http://worrydream.com/ClimateChange/#tools
-
-----
-
-# Presentations
-+ http://www.treesmapsandtheorems.com/
-+ https://en.wikipedia.org/wiki/PechaKucha
 
 ----

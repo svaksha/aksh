@@ -82,14 +82,14 @@
 + Some excellent advice on research writing by @mnielsen : https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md
 
 
-## Journal Paper Structure
+## JOURNAL PAPER STRUCTURE
 
-#### Introduction
+#### INTRODUCTION
     + State why the problem you address is important
 	+ State what is lacking in the current knowledge
     + State the objectives of your study or the research question
 
-#### Methods
+#### METHODS
 	+ Describe the context and setting of the study
 	+ Specify the study design
 	+ Describe the sampling strategy
@@ -98,34 +98,34 @@
 	+ Describe data collection instruments and procedures
 	+ Outline analysis methods
 
-#### Results
+#### RESULTS
 	+ Report on data collection and recruitment (response rates, etc.)
     + Describe participants (demographic, research condition, etc.)
 	+ Present key findings with respect to the central research question.
 	+ Present secondary findings (secondary outcomes, subgroup analyses, etc.)
 
-#### Discussion
+#### DISCUSSION
 	+ State the main findings of the study
     + Discuss the main results with reference to previous research
 	+ Discuss policy and practice implications of the results.
     + Analyse the strengths and limitations of the study. 
     + Offer perspectives for future work
 
-#### Conclusions
+#### CONCLUSIONS
     + Include major findings followed by brief discussion on future perspectives and/or application of present work to other disciplines. 
     + Important: Do not rewrite the abstract. Statements with “Investigated” or “Studied” are not conclusions!
 
-#### Acknowledgements 
+#### ACKNOWLEDGEMENTS 
     + Remember to thank the funding agency if the research was supported by a grant, and the name of the funding body must be included.
     + Remember to thank colleagues/scientists/technicians who might have provided assistance and all important contributors should be acknowledged.
         + For example, persons who provided statistical or technical advice and assistance, incl. people who helped with the preparation of the manuscript.  
 
-#### Citations-Bibliography
+#### CITATIONS-BIBLIOGRAPHY
     + State and cite whose work was referenced to.
     + The styles vary for different journals - some journals require complete titles of the cited references.
     + Please check for the accuracy of all citations.
 
-#### Appendix (optional)
+#### APPENDIX (optional)
     + Extra Information
 
 ----
