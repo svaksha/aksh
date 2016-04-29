@@ -3,6 +3,8 @@
     + [Researcher Tasks](#researcher-tasks)
 + [Guide-READ-PAPERS](#guide-read-papers)
 + [Guide-WRITE-PAPERS](#guide-write-papers)
+    + [Paper Structure](#paper-structure)
++ [REVIEWER](#reviewer)
 + [TIME MANAGEMENT](#time-management)
     + [Quotes](#quotes)
 
@@ -32,7 +34,6 @@
 * Planning, designing, putting into practice and controlling all laboratory and experimental work.
 * Participation in curricular and extra-curricular activities, such as lectures, soft skills courses, methods courses, retreats, presentations, PhD committee, thesis committee.
 * Team working with other scientists and mutual support in experiments.
-
 
 ----
 
@@ -98,7 +99,7 @@
 + How to structure the journal paper: http://writingajournalarticle.wordpress.com/structure/structure-the-paper/
 + Some excellent advice on research writing by @mnielsen : https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md
 
-## JOURNAL PAPER STRUCTURE
+## Paper Structure
 
 ### ABSTRACT
 + Short 150 word abstract describing the paper.
@@ -149,6 +150,18 @@
 
 ### APPENDIX (optional)
 + Extra Information
+
+----
+
+# REVIEWER
++ 2009Mar, [How NOT to review a paper: the tools and techniques of the adversarial reviewer](http://dl.acm.org/citation.cfm?id=1519122), Graham Cormode, ACM SIGMOD Record.
++ 2008Mar, Mark Allman, “Thoughts on reviewing”, ACM SIGCOMM, Comput. Commun. Rev.
++ 2009Mar, Henning Schulzrinne, “Double-blind reviewing: more placebo than miracle cure?”, ACM SIGCOMM Comput. Commun.
++ 2009Apr, Thomas Anderson, “Conference reviewing considered harmful”, ACM SIGOPS Oper. Syst. Rev.
++ 2007Jul, Srinivasan Keshav, “How to read a paper”, ACM SIGCOMM Comput. Commun. Rev.
++ 1989Nov, Ian Parberry, “A guide for new referees in theoretical computer science”, ACM SIGACT News.
++ How2Review : http://web.mst.edu/~cetinkayae/htdpr_ekc.pdf
++ Reviewing Papers: http://eelcovisser.org/wiki/teaching/reviewing
 
 ----
 
