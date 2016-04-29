@@ -90,7 +90,11 @@
 ----
 
 # Research Data
-* [Registry of Research Data Repositories](http://www.re3data.org/) :: provides researchers, funding organisations, libraries and publishers with over 1,000 listed research data repositories from all over the world making it the largest and most comprehensive online catalog of research data repositories on the web.
++ [Registry of Research Data Repositories](http://www.re3data.org/) :: provides researchers, funding organisations, libraries and publishers with over 1,000 listed research data repositories from all over the world making it the largest and most comprehensive online catalog of research data repositories on the web.
++ https://schema.datacite.org/
++ http://www.researchobject.org/
++ http://wf4ever.github.io/ro-primer/
++ https://databasin.org/datasets/
 
 ----
 
