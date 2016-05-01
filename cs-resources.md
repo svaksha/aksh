@@ -32,6 +32,7 @@
 ----
 
 # Programming
++ [Ten Simple Rules for Robustifying Your Software](https://github.com/gvwilson/ten-rules-robustifying-software/blob/gh-pages/index.md).
 + Semantic Version scheme : http://semver.org
 + NoSpec, http://www.nospec.com/faq
    + https://medium.com/@sir_castiq/how-to-exploit-a-developer-a005306d5320
