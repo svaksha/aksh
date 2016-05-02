@@ -1,5 +1,15 @@
+
++ [Machine Translation](#machine-translation)
 + [RDF](#rdf)
 + [SPARQL](#sparql)
+
+----
+
+# Machine Translation
++ https://en.wikipedia.org/wiki/Statistical_machine_translation
++ https://en.wikipedia.org/wiki/Apertium
++ https://en.wikipedia.org/wiki/Anusaaraka
++ https://en.wikipedia.org/wiki/OpenLogos, http://logos-os.dfki.de/#mozTocId415559
 
 ----
 
@@ -29,3 +39,6 @@
 
 # SPARQL
 + https://en.wikipedia.org/wiki/SPARQL
+
+----
+
