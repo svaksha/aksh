@@ -21,3 +21,9 @@
 
 ### Business Analytics
 + [Predictive analytics: the next bigthing in BI?](http://www.rosebt.com/uploads/8/1/8/1/8181762/predictive_analytics_e_guide.pdf)
+
+----
+
+# Optimization
++ [Regression Models with Count Data](http://www.ats.ucla.edu/stat/stata/seminars/count_presentation/count.htm)
+
