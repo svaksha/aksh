@@ -1,6 +1,5 @@
 + [OpenData](#opendata)
 + [OpenPub](#openpub)
-+ [Semantic](#semantic)
 + [HELP](#help)
 
 ----
@@ -44,15 +43,6 @@
 + Stata and R have their own journals: [Stata Journal](http://www.stata-journal.com/) and [R Journal](https://journal.r-project.org/). 
 
 ----
-
-# Semantic
-+ https://explorable.com/research-paper-format  
-+ https://explorable.com/design-of-experiment
-+ 2014, [Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf), Marco Baroni, Georgiana Dinu, German Kruszewski, Center for Mind/Brain Sciences, University of Trento, Italy.
-+ http://www.aclweb.org/anthology/P/P14/P14-1023.pdf
-
-----
-
 
 # HELP
 + http://www.treesmapsandtheorems.com/

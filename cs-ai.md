@@ -5,7 +5,9 @@
 + [Graphs](#graphs)
 + [HMM](#hmm)
 + [Machine Learning](#machine-learning)
++ [Machine Translation](#machine-translation)
 + [NLP](#nlp)
++ [Statistical Modelling](#statistical-modelling)
 
 ----
 
@@ -78,6 +80,14 @@ Information Science and Statistics
 
 ----
 
+# Machine Translation
++ https://en.wikipedia.org/wiki/Statistical_machine_translation
++ https://en.wikipedia.org/wiki/Apertium
++ https://en.wikipedia.org/wiki/Anusaaraka
++ https://en.wikipedia.org/wiki/OpenLogos, http://logos-os.dfki.de/#mozTocId415559
+
+----
+
 # NLP
 
 ## Sentiment Analysis
@@ -112,3 +122,5 @@ Information Science and Statistics
 
 ----
 
+# Statistical Modelling
+https://en.wikipedia.org/wiki/Predictive_modelling
