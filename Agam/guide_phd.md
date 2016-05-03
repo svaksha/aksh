@@ -183,3 +183,5 @@
 + If you can dream it, you can do it!
 + Life is not perfect, so dont be a perfectionist! Perfect is the enemy of the good!
 + (not a quote): the result from: http://myidp.sciencecareers.org/ 
+
+----
