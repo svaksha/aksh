@@ -20,6 +20,7 @@
    + [Spreadsheets](#spreadsheets)
    + [Terminal Multiplexer](#terminal-multiplexer)
 + [Resources](#resources)
++ [systemd](#systemd)
 
 ----
 
@@ -248,3 +249,9 @@ __desktop timetracker__
 # Resources
 + https://help.ubuntu.com/community/SoftwareManagement
 + https://github.com/aleksandar-todorovic/awesome-linux/
+
+----
+
+# systemd
++ https://www.freedesktop.org/wiki/Software/systemd/
++ Python bindings: https://www.freedesktop.org/software/systemd/python-systemd/index.html

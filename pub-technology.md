@@ -26,14 +26,13 @@
 ### False data 
 + [Do That Again](http://www.the-scientist.com/?articles.view/articleNo/32486/title/Do-That-Again/): A new initiative offers gold stars to researchers willing to have their studies replicated by other labs, but will it fix science’s growing irreproducibility problem?
 + [A reproducibility crisis?](http://www.apa.org/monitor/2015/10/share-reproducibility.aspx), October 2015.
-+ [Estimating the reproducibility of psychological science](http://science.sciencemag.org/content/349/6251/aac4716.full?ijkey=1xgFoCnpLswpk&keytype=ref&siteid=sci), Science, 28 Aug 2015, DOI: 10.1126/science.aac4716
++ [Estimating the reproducibility of psychological science](http://science.sciencemag.org/content/349/6251/aac4716.full), Science, 28 Aug 2015, DOI: 10.1126/science.aac4716
 + Comment on [“Estimating the reproducibility of psychological science”](http://science.sciencemag.org/content/351/6277/1037.2?ijkey=53a3ef280e8e860dacda2f1eb83e165d80a41401&keytype2=tf_ipsecsha), by Daniel T. Gilbert1, Gary King, Stephen Pettigrew, Timothy D. Wilson, Science  04 Mar 2016, DOI: 10.1126/science.aad7243
 + Scandals, http://www.the-scientist.com/?articles.view/articleNo/33695/title/Top-Science-Scandals-of-2012/
 + Drug development: Raise standards for preclinical cancer research, http://www.nature.com/nature/journal/v483/n7391/full/483531a.html
 + Bayer paper: http://www.nature.com/nrd/journal/v10/n9/full/nrd3439-c1.html
 
 ----
-
 
 # OpenPub
 + A peer-reviewed publication path for software that is not necessarily scientifically novel. 
