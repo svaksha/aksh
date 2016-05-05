@@ -17,3 +17,6 @@
 + http://www-rohan.sdsu.edu/~aty/bibliog/latex/LaTeXtoPDF.html
 + http://askubuntu.com/questions/166679/how-can-i-convert-a-tex-file-to-pdf-on-via-the-command-line
 + http://tex.stackexchange.com/questions/21405/how-to-create-pdf-with-command-line-using-miktex
+
+### Indenting latex
++ https://github.com/cmhughes/latexindent.pl
