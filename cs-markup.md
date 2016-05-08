@@ -18,5 +18,9 @@
 + http://askubuntu.com/questions/166679/how-can-i-convert-a-tex-file-to-pdf-on-via-the-command-line
 + http://tex.stackexchange.com/questions/21405/how-to-create-pdf-with-command-line-using-miktex
 
-### Indenting latex
+### Automate LaTeX
++ [arara](https://github.com/cereda/arara) is a TeX automation tool based on rules and directives to help you enhance your TeX experience.
 + https://github.com/cmhughes/latexindent.pl
+
+### Paper Writing
++ https://github.com/sympy/sympy-paper
