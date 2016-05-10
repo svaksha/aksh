@@ -1,8 +1,26 @@
++ [NumFOCUS](#numfocus)
+    + [Software Carpentry](#software-carpentry)
+    + [Data Carpentry](#data-carpentry)
+    
+----
 
 + List of FOSS packages: https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages
 
 ----
 
+# [NumFOCUS](http://www.numfocus.org)
+## Software Carpentry
++ Lessons, http://software-carpentry.org/lessons/
++ Projects, http://software-carpentry.org/join/projects/
++ Blog:
+    + http://software-carpentry.org/blog/2016/04/questions-answers-and-lessons.html
+    
+
+
+## Data Carpentry
++ 
+
+----
 
 # Comparison of reference management software
 + https://en.wikipedia.org/wiki/Comparison_of_reference_management_software
