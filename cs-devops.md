@@ -255,6 +255,9 @@ in multivendor environments.__
 # SECURITY
 
 + credential leaks : https://github.com/ChALkeR/notes/blob/master/Do-not-underestimate-credentials-leaks.md
++ https://en.wikipedia.org/wiki/Operations_security
++ Use [OTR](https://otr.cypherpunks.ca/) for chatting, GnuPG for encrypted & verified data sharing, with EnigMail for emails and [TrueCrypt](https://truecrypt.ch/) for storage.
+
 
 ## Firewalls
 
