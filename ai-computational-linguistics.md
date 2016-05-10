@@ -39,6 +39,11 @@
 + [Grammar as a Foreign Language](https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf).
 + 2014, [Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf), Marco Baroni, Georgiana Dinu, German Kruszewski, Center for Mind/Brain Sciences, University of Trento, Italy.
 
+## Yolanda Gil
++ http://www.isi.edu/~gil/
++ http://semantic-cora.org
++ http://semantic-cora.org/index.php/Publications_and_Talks
+
 ----
 
 # Samskrit
