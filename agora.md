@@ -41,12 +41,25 @@ For BarCamps:
 
 # AGORA
 
-+ http://pydata.org/amsterdam2016/cfp/
-+ SAVE-SD 2016, https://lists.okfn.org/pipermail/open-science/2015-November/004048.html
-+ GOR [General Online Research](http://www.gor.de/). [CFP](http://www.gor.de/about/call-for-papers.html).
-+ IEEE Technically Sponsored [SAI Computing Conference 2016](http://www.SAIConference.com/Computing2016), 13-15 July 2016, London UK.
-+ 2016feb16 : http://www.pycon.se/
+### [PyData](http://pydata.org/)
++ __Info__:: http://pydata.org/amsterdam2016/cfp/
 
+### [SAVE-SD 2016](https://lists.okfn.org/pipermail/open-science/2015-November/004048.html)
+
+### [General Online Research](http://www.gor.de/)
++ [CFP](http://www.gor.de/about/call-for-papers.html).
+
+# [SAI Computing Conference 2016](http://www.SAIConference.com/Computing2016)
++ IEEE Technically Sponsored 
++ 13-15 July 2016, London UK.
+
+### [Pycon-SE](http://www.pycon.se/)
+
+### RepSc
++  __Info__:: First International Workshop on Reproducible Open Science (RepScience 2016) Co-sponsored by Research Data Alliance Europe and OpenAIRE2020 
++  __Dates & Venue__:: 09/Sept/2016, Hannover, Germany.
++  __CFP__:: http://repscience2016.research-infrastructures.eu/
+    + E-mail: repscience2016@isti.cnr.it
 
 ### CCC
 + https://events.ccc.de/congress/2015/wiki/Session:Open_Science_Workshop
@@ -55,7 +68,7 @@ For BarCamps:
 
 ### [FORCE11](http://www.force2016.org)
 + Force2016 Conference
-+ Dates: Preconference: April 17, 2016; Main conference: April 18-19, 2016
++ Dates: Preconference: 2016/Apr/17; Main conference: April 18-19, 2016
 + Venue: Portland, Oregon.
 + The FORCE2016 Research Communication and e-Scholarship Conference brings together a diverse group of people interested in changing the way scholarly and scientific information is communicated and shared. Who is it for? Scholars, researchers, librarians, data managers, grant administrators, funders, publishers, editors, societies and anyone else interested in scholarly communications.
 
@@ -64,8 +77,8 @@ For BarCamps:
 + Workshop on Teaching Computational Science 2016 (WTCS 2016) :: http://webs.wofford.edu/shifletab/iccs/ 
 
 
-### [SEMANTiCS 2016](http://2016.semantics.cc) - The Linked Data Conference
-+ __Info__:: 12th International Conference on Semantic Systems.
+### [SEMANTiCS 2016](http://2016.semantics.cc) 
++ __Info__:: 12th International Conference on Semantic Systems - The Linked Data Conference.
 + __Dates & Venue__:: 2016September12-15, Leipzig, Germany.
 + __CFP__:: 
     * Abstract Submission Deadline: 14April2016 (11:59 pm, Hawaii time)

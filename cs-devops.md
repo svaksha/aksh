@@ -271,8 +271,7 @@ tables, then display the full recipe with "iptables_save" and/or pipe via STOUT 
 Just pulling partial iptables out of your scripts tool bin for use, while replacing the complete startup UFW config firewall, might be a quick
 solution, however security threats today demand that you use a complete solution or build upon modern tools, like SHOREWALL: http://shorewall.net/bridge-Shorewall-perl.html
 
-Other appliance based SOHO firewalls include: SMOOTHWALL: http://www.smoothwall.org
-IPCOP: http://www.ipcop.org
+Other appliance based SOHO firewalls include: [SMOOTHWALL](http://www.smoothwall.org), [IPCOP](http://www.ipcop.org).
 
 + Firewalld, OpenWall, IPWire, MonoWall, & Untangle are compared here: https://en.m.wikipedia.org/wiki/Comparison_of_firewalls
 + Block and limit known attacks: http://www.cyberciti.biz/tips/linux-iptables-10-how-to-block-common-attack.html
