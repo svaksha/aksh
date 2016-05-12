@@ -60,6 +60,7 @@
 + https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast (feed here)
 + http://www.thetalkingmachines.com/ways-to-listen
 + http://www.partiallyderivative.com/
++ http://mathworld.wolfram.com/MaximumLikelihood.html
 
 ## Books
 Information Science and Statistics 
@@ -76,7 +77,12 @@ Information Science and Statistics
 + Rubinstein and Kroese: The Cross-Entropy Method:  A Unified Approach to Combinatorial Optimization, Monte Carlo Simulation, and Machine Learning. 
 + Studený: Probabilistic Conditional Independence Structures.
 + Vapnik: The Nature of Statistical Learning Theory, Second Edition.  
-+ Wallace: Statistical and Inductive Inference by Minimum Massage Length 
++ Wallace: Statistical and Inductive Inference by Minimum Massage Length.
+
+## Probability
++ http://mathworld.wolfram.com/MaximumLikelihood.html
++ https://en.wikipedia.org/wiki/Monty_Hall_problem
++ 
 
 ----
 
