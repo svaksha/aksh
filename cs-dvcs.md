@@ -16,6 +16,17 @@
 + https://www.atlassian.com/git/tutorials/git-hooks/
 + http://nuclearsquid.com/writings/git-tricks-tips-workflows/
 
+### GUI clients
++ http://stackoverflow.com/questions/1516720/git-gui-client-for-linux
++ http://askubuntu.com/questions/227554/what-are-some-gui-clients-for-git
+
+## Gollum wiki 
++ http://stackoverflow.com/questions/8407917/how-can-you-track-or-be-notified-of-changes-to-github-wikis
+
+#### Online Git
++ https://try.github.io
++ https://www.codeschool.com/
+
 #### cherry-pick commits
 + Cherry-pick a commit from another git repository : http://stackoverflow.com/questions/5120038/is-it-possible-to-cherry-pick-a-commit-from-another-git-repository
 

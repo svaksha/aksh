@@ -84,6 +84,11 @@ Information Science and Statistics
 + https://en.wikipedia.org/wiki/Monty_Hall_problem
 + 
 
+### [Cramer Rao](https://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound) Bounds
++ http://willett.ece.wisc.edu/wp-uploads/2016/01/16-CRLB.pdf
++ CHAPTER 2. Cramer-Rao lower bound: http//www.cs.tut.fi/~hehu/SSP/lecture2.pdf
++ https://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound
+
 ----
 
 # Machine Translation
