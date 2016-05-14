@@ -317,7 +317,7 @@ Keep in mind those tips are for  PRODUCTION SERVERS rather than Development mach
 
 ----
 
-# [Yaksha](http://svaksha.github.io/yaksha) ToDo
+# [Yaksha](http://svaksha.github.io/yaksha) Tasks.
 + Papertrail, CopperEgg, Skeddly, Monit, Jenkins.
 
 ### Cleanup my bash programs 
@@ -363,5 +363,6 @@ __basher__
 + https://github.com/ContinuumIO/docker-images : Repository of Docker images created by Continuum Analytics. 
     + See the Docker site:  https://registry.hub.docker.com/repos/continuumio/
 
-
+### DVCS
++ Safely store secrets in Git/Mercurial : https://github.com/StackExchange/blackbox
 

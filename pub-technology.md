@@ -22,6 +22,8 @@
 + Workshop on Research Data Management and Sharing, September 2014, ERC Executive Agency, Brussels, Abstracts of the presentations : https://erc.europa.eu/sites/default/files/content/pages/pdf/ERC_WS_on_RDMS_abstracts.pdf
 + DOI: 10.1056/NEJMe1516564, [Data Sharing](http://www.nejm.org/doi/full/10.1056/NEJMe1516564), Dan L. Longo, M.D., and Jeffrey M. Drazen, M.D., N Engl J Med 2016; 374:276-277, 2016-January-21.
 + Roger D. Peng, [Reproducible research and Biostatistics](http://biostatistics.oxfordjournals.org/content/10/3/405.full.pdf+html), 2009.
++ http://www.thelancet.com/series/research
++ http://www.nejm.org/doi/full/10.1056/NEJMe1515172
 
 ### False data 
 + [Do That Again](http://www.the-scientist.com/?articles.view/articleNo/32486/title/Do-That-Again/): A new initiative offers gold stars to researchers willing to have their studies replicated by other labs, but will it fix science’s growing irreproducibility problem?

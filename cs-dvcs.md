@@ -15,6 +15,7 @@
 + http://swcarpentry.github.io/git-novice/
 + https://www.atlassian.com/git/tutorials/git-hooks/
 + http://nuclearsquid.com/writings/git-tricks-tips-workflows/
++ http://imagej.net/Git_workshop
 
 ### GUI clients
 + http://stackoverflow.com/questions/1516720/git-gui-client-for-linux
