@@ -333,6 +333,7 @@ __Dotbot__
 + Shell script to initialize your dotfiles with `dotbot`: https://github.com/Vaelatern/init-dotfiles
 + https://github.com/szaghi/dotfiles
 + https://bitbucket.org/patrickdoane/dotfiles
++ https://github.com/drewfrank/dotfiles
 __homeshick__
 + [homeshick](https://github.com/andsens/homeshick) : git dotfiles synchronizer written in bash.
 + https://github.com/andsens/rc-files : homesick compatible bashrc and zshrc files.
