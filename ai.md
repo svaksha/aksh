@@ -53,6 +53,7 @@
 
 # Machine Learning
 + {Paper} : [Evaluation of Deep Learning Frameworks](https://github.com/zer0n/deepframeworks).
++ Setting up a [Deep Learning Machine from Scratch for Kubuntu](https://github.com/saiprashanths/dl-setup).
 + Julia Libraries, https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning
 + Python libraries, https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning
 + https://github.com/hangtwenty/dive-into-machine-learning
