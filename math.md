@@ -103,6 +103,11 @@
 + https://en.wikipedia.org/wiki/Matrix_%28mathematics%29
 + [Matrix and Linear Algebra](http://www.economics.soton.ac.uk/staff/aldrich/matrices.htm)
 
+## Vectors
++ https://www.mathsisfun.com/algebra/vectors.html
++ https://en.wikipedia.org/wiki/Euclidean_vector
++ https://en.wikipedia.org/wiki/Linear_algebra
+
 ----
 
 ### sparse distributed matrix
