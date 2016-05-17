@@ -22,6 +22,8 @@
 + http://askubuntu.com/questions/227554/what-are-some-gui-clients-for-git
 
 ## Gollum wiki 
++ https://github.com/datamachines/gitwatch
++ Gitlab ticket: https://gitlab.com/gitlab-org/gitlab-ce/issues/563
 + http://stackoverflow.com/questions/8407917/how-can-you-track-or-be-notified-of-changes-to-github-wikis
 
 #### Online Git

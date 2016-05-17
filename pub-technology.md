@@ -1,5 +1,6 @@
 + [OpenData](#opendata)
 + [OpenPub](#openpub)
++ [Scientific Research](#scientific-research)
 + [HELP](#help)
 
 ----
@@ -42,6 +43,13 @@
 + In neuroscience/imaging there are things like the Insight Journal and the "Frontiers in..." imprints which have software-specific tracks.
 + [Computer Physics Communications](http://www.journals.elsevier.com/computer-physics-communications/) publishes a lot of articles and papers that are more intended to document free/open-source implementations than they are to describe novel algorithms. This is quite useful as a way to give people something to cite when they use your code, and also to obtain more traditional academic credit for free-software work.
 + Stata and R have their own journals: [Stata Journal](http://www.stata-journal.com/) and [R Journal](https://journal.r-project.org/). 
+
+----
+
+# Scientific Research
+## Scientific Rules
++ Rules of good scientific practice, procedures, and penalties in the event of malpractice: https://www.humboldt-foundation.de/web/docs/F25752/rules_scientific_practice.pdf
++ https://www.google.de/search?q=Principles+of+good+Scientific+practice&ie=utf-8&oe=utf-8&gws_rd=cr&ei=KeM6V4zBJ6WfgAbu4LbQCQ
 
 ----
 

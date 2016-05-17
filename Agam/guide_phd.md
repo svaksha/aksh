@@ -1,6 +1,7 @@
 + [Guide-PHD](#guide-phd)
     + [Coursework-CS](#coursework-cs)
     + [Researcher Tasks](#researcher-tasks)
+    + [Scientific Procedures](#scientific-procedures)
 + [Guide-READ-PAPERS](#guide-read-papers)
 + [Guide-WRITE-PAPERS](#guide-write-papers)
     + [Paper Structure](#paper-structure)
@@ -34,6 +35,9 @@
 * Planning, designing, putting into practice and controlling all laboratory and experimental work.
 * Participation in curricular and extra-curricular activities, such as lectures, soft skills courses, methods courses, retreats, presentations, PhD committee, thesis committee.
 * Team working with other scientists and mutual support in experiments.
+
+## Scientific Procedures
++ Rules of good scientific practice, procedures, and penalties in the event of malpractice: https://www.humboldt-foundation.de/web/docs/F25752/rules_scientific_practice.pdf
 
 ----
 
