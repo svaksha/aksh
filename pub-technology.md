@@ -49,6 +49,7 @@
 # Scientific Research
 
 + http://www.isi.edu/~gil/
+    + http://www.isi.edu/~gil/publications.php
 + http://semantic-cora.org
 + http://semantic-cora.org/index.php/Publications_and_Talks
 
