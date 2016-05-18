@@ -47,6 +47,11 @@
 ----
 
 # Scientific Research
+
++ http://www.isi.edu/~gil/
++ http://semantic-cora.org
++ http://semantic-cora.org/index.php/Publications_and_Talks
+
 ## Scientific Rules
 + Rules of good scientific practice, procedures, and penalties in the event of malpractice: https://www.humboldt-foundation.de/web/docs/F25752/rules_scientific_practice.pdf
 + https://www.google.de/search?q=Principles+of+good+Scientific+practice&ie=utf-8&oe=utf-8&gws_rd=cr&ei=KeM6V4zBJ6WfgAbu4LbQCQ

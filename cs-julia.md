@@ -585,6 +585,10 @@ If you want to give up on 0.3 (which is fine, just make sure you update your REQ
 + https://gist.github.com/ohadle/11323991
 + https://github.com/JuliaLang/Graphs.jl/issues/171
 
+
+## Statistics
++ http://www.juliabloggers.com/tag/normal-distribution/
+
 #### etc..
 http://julia.readthedocs.org/en/latest/stdlib/
 http://bogumilkaminski.pl/files/julia_express.pdf

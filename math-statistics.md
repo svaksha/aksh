@@ -27,3 +27,11 @@
 # Optimization
 + [Regression Models with Count Data](http://www.ats.ucla.edu/stat/stata/seminars/count_presentation/count.htm)
 
+----
+
+# [Statistical Deviation](https://en.wikipedia.org/wiki/Category:Statistical_deviation_and_dispersion)
++ https://en.wikipedia.org/wiki/Standard_deviation
++ https://www.quora.com/What-are-some-examples-of-mistakes-caused-by-assuming-normally-distributed-data-in-real-world-applications
+
+## Normal Distribution
++ https://www.ma.utexas.edu/users/mks/CommonMistakes2014/WorkshopSlidesDay1_2014.pdf
