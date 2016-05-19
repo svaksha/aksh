@@ -1,7 +1,15 @@
++ [German Grammar](#german-grammar)
 + [RDF](#rdf)
 + [SPARQL](#sparql)
 + [Semantic](#semantic)
 + [Samskrit](#samskrit)
+
+----
+
+
+# German Grammar
++ https://en.wikibooks.org/wiki/German/Grammar/Prepositions_and_Postpositions
++ https://www.lsa.umich.edu/german/hmr/Grammatik/Praepositionen/Prepositions.html
 
 ----
 
