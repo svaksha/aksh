@@ -47,8 +47,11 @@
 ----
 
 # Scientific Research
-
-+ http://www.isi.edu/~gil/
++ 2014, Wilson et. al., [Best Practices for Scientific Computing](http://www.plosbiology.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pbio.1001745&representation=PDF).
++ https://pure.uvt.nl/portal/files/3053560/SP_Brandt_open_PoPS_2012.pdf
++ https://en.wikipedia.org/wiki/Reproducibility_Project
++ http://www.rug.nl/research/portal/files/13617856/derksenpresentation.pdf
++ Prof. Yolanda Gil, http://www.isi.edu/~gil/
     + http://www.isi.edu/~gil/publications.php
 + http://semantic-cora.org
 + http://semantic-cora.org/index.php/Publications_and_Talks
