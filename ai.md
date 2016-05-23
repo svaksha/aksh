@@ -63,6 +63,24 @@
 + http://www.partiallyderivative.com/
 + http://mathworld.wolfram.com/MaximumLikelihood.html
 
+## [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+### [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
++ https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software
++ https://en.wikipedia.org/wiki/Stochastic_gradient_descent
++ https://en.wikipedia.org/wiki/Long_short-term_memory
+    + Paper: http://bioinformatics.oxfordjournals.org/content/23/14/1728.full.pdf+html
+    + http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf
++ http://colah.github.io/posts/2015-08-Understanding-LSTMs/
++ http://deeplearning.net/tutorial/lstm.html
++ https://scholar.google.de/scholar?q=compositional+knowledge+based+application&hl=en&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwigqrC7qfDMAhWGXSwKHZ2bAQoQgQMIMjAA
+
+## Papers
++ 2015, [Grammar as a Foreign Language](https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf).
++ https://github.com/tensorflow/models/tree/master/syntaxnet
+    + https://spacy.io/blog/syntaxnet-in-context
+    + http://googleresearch.blogspot.de/2016/05/announcing-syntaxnet-worlds-most.html
++ http://swami.wustl.edu/epoxidation-paper
+
 ## Books
 Information Science and Statistics 
 + Bishop: Pattern Recognition and Machine Learning, Springer.
@@ -135,4 +153,4 @@ Information Science and Statistics
 ----
 
 # Statistical Modelling
-https://en.wikipedia.org/wiki/Predictive_modelling
++ https://en.wikipedia.org/wiki/Predictive_modelling
