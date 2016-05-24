@@ -75,6 +75,7 @@
 + https://scholar.google.de/scholar?q=compositional+knowledge+based+application&hl=en&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwigqrC7qfDMAhWGXSwKHZ2bAQoQgQMIMjAA
 
 ## Papers
++ http://www.aclweb.org/anthology/P15-1016
 + 2015, [Grammar as a Foreign Language](https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf).
 + https://github.com/tensorflow/models/tree/master/syntaxnet
     + https://spacy.io/blog/syntaxnet-in-context
@@ -82,7 +83,8 @@
 + http://swami.wustl.edu/epoxidation-paper
 
 ## Books
-Information Science and Statistics 
++ __Deep Learning__ : http://www.deeplearningbook.org/
+__Information Science and Statistics__
 + Bishop: Pattern Recognition and Machine Learning, Springer.
   + http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
   + http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf
