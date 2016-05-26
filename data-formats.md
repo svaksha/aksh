@@ -1,8 +1,11 @@
 + [LaTeX](#latex)
++ [XML](#xml)
 
 ----
 
++ https://en.wikipedia.org/wiki/Category:Open_formats
 + [Markup Languages](https://en.wikipedia.org/wiki/Category:Markup_languages)
++ DTD : A [document type definition](https://en.wikipedia.org/wiki/Document_type_definition) is a set of markup declarations that define a document type for an SGML-family markup language (SGML, XML, HTML).
 
 ----
 
@@ -27,3 +30,10 @@
 
 ### Paper Writing
 + https://github.com/sympy/sympy-paper
+
+----
+
+# [XML](https://en.wikipedia.org/wiki/XML)
++ Python docs: https://docs.python.org/3/library/xml.etree.elementtree.html
+
++ http://www.tutorialspoint.com/python/python_xml_processing.htm

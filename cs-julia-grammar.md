@@ -1,9 +1,25 @@
++ [Broadcast](#broadcast)
 + [Functions](#functions)
 + [Functional](#functional)
 + [Macros](#macros)
 + [MAP](#map)
 + [OOP](#oop)
 + [RANGES](#ranges)
+
+----
+
+# Broadcast
+
+Siyi Deng <mr.siyi.deng@gmail.com> wrote: Numpy arrays operate element-wise by default, and have broadcasting (binary singleton expansion) behaviors by default. in julia you have to do (.> , .<, .==) all the time.
+
++ https://github.com/JuliaLang/julia/pull/15032
++ https://github.com/JuliaLang/julia/issues/16285
++ Steven G. Johnson <stevenj.mit@gmail.com> replied: 
+  +  It's not just a question of syntactic convenience or brevity.  There is a huge semantic benefit to using dots for broadcasting operations: they explicitly inform the compiler, at the syntax level, that a broadcast is intended.   We aren't exploiting it yet, but soon I'm hoping to have automated loop fusion for dotted broadcasts.
+  +  In contrast, if you write "x ^ y", the compiler can't detect that you want a broadcast until quite late, if ever.  First, you have to know that x and y are vectors, which doesn't happen until compile-time after type-inference occurs (assuming the types are inferred correctly).   Second, ^(x::Vector, y::Vector) can literally be anything — the whole point of Julia's design is that functions like ^ are just ordinary functions implemented in Julia itself, with no special status in the compiler.   So, at compile time, once you figure out the types of x and y and know what ^ method to dispatch to, the compiler has to look "inside" the ^ function and figure out somehow that it is a broadcast.   The problem with that kind of compiler "magic" is that it tends to be quite brittle, and is easily confused by functions that aren't written in a very special style.
+  +  Whereas if you write sin.(x).^y, the compiler knows at parse time that broadcast is intended, and can transform it at parse time to broadcast((x,y) -> sin(x)^y, x, y), i.e. a single fused loop, without knowing anything about the types of x and y or the functions sin and ^.   Again, this doesn't happen yet, but I'm hoping it will happen soon.  (And since this becomes a parse-time guarantee, rather than a compiler optimization that may or may not occur, you don't have to worry about purity and side effects: an expression like sin.(x).^y will be defined as the fused loop, so we don't have to check whether it is equivalent to the unfused loop.)
+  + (The key feature that has opened up this possibility is that anonymous functions are now fast, so that broadcast(+, x, y) is now as fast as the specialized loop for .+ that we have now.)
+
 
 ----
 
