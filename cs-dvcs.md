@@ -17,6 +17,10 @@
 + http://nuclearsquid.com/writings/git-tricks-tips-workflows/
 + http://imagej.net/Git_workshop
 
+## gitup - gitnotes
++ git-notes: https://git-scm.com/docs/git-notes
++ http://alblue.bandlem.com/2011/11/git-tip-of-week-git-notes.html
+
 ### GUI clients
 + http://stackoverflow.com/questions/1516720/git-gui-client-for-linux
 + http://askubuntu.com/questions/227554/what-are-some-gui-clients-for-git

@@ -1,4 +1,5 @@
 + [Broadcast](#broadcast)
++ [Calling C](#calling-c)
 + [Functions](#functions)
 + [Functional](#functional)
 + [Macros](#macros)
@@ -20,6 +21,10 @@ Siyi Deng <mr.siyi.deng@gmail.com> wrote: Numpy arrays operate element-wise by d
   +  Whereas if you write sin.(x).^y, the compiler knows at parse time that broadcast is intended, and can transform it at parse time to broadcast((x,y) -> sin(x)^y, x, y), i.e. a single fused loop, without knowing anything about the types of x and y or the functions sin and ^.   Again, this doesn't happen yet, but I'm hoping it will happen soon.  (And since this becomes a parse-time guarantee, rather than a compiler optimization that may or may not occur, you don't have to worry about purity and side effects: an expression like sin.(x).^y will be defined as the fused loop, so we don't have to check whether it is equivalent to the unfused loop.)
   + (The key feature that has opened up this possibility is that anonymous functions are now fast, so that broadcast(+, x, y) is now as fast as the specialized loop for .+ that we have now.)
 
+----
+
+# Calling C
++ Steven G. Johnson writes about [Passing Julia Callback Functions to C](http://julialang.org/blog/2013/05/callback).
 
 ----
 

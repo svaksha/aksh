@@ -118,6 +118,9 @@ __Information Science and Statistics__
 + https://en.wikipedia.org/wiki/Anusaaraka
 + https://en.wikipedia.org/wiki/OpenLogos, http://logos-os.dfki.de/#mozTocId415559
 
+## Concept learning
++ https://en.wikipedia.org/wiki/Concept_learning
+
 ----
 
 # NLP
