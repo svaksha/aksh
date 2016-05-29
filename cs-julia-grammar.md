@@ -2,6 +2,7 @@
 + [Calling C](#calling-c)
 + [Functions](#functions)
 + [Functional](#functional)
++ [Loops](#loops)
 + [MACRO](#macro)
 + [MAP](#map)
 + [OOP](#oop)
@@ -87,6 +88,13 @@ this file in both files, that define your functions.
 
 # Functional
 + An intro to functional programming: http://www.bootstrapworld.org/materials/ 
+
+----
+
+
+# Loops
++  mini julep: [if x then y](https://github.com/JuliaLang/julia/issues/16389).
+
 
 ----
 
