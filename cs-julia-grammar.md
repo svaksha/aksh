@@ -2,7 +2,7 @@
 + [Calling C](#calling-c)
 + [Functions](#functions)
 + [Functional](#functional)
-+ [Macros](#macros)
++ [MACRO](#macro)
 + [MAP](#map)
 + [OOP](#oop)
 + [RANGES](#ranges)
@@ -90,7 +90,23 @@ this file in both files, that define your functions.
 
 ----
 
-# Macros
+# MACRO
+
+### A macro to avoid END
+Tom Short <tshort.rlists@gmail.com> wrote a quick macro for one-line if statements:
+```
+macro when(condition, expr)
+    esc(:( if $condition; $expr; end))
+end
+```
+
+```
+julia>@when 4 > pi  x = 2
+```
+
+For even more compact syntax, you can replace `when` with `?`.
+
+
 ### @everywhere
 @everywhere id = myid() 
 remotecall_fetch(2, ()->id)  # The @everywhere macro executes a statement on all running processes.

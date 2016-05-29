@@ -1,5 +1,14 @@
++ [Encoding](#encoding)
 + [LaTeX](#latex)
 + [XML](#xml)
+
+----
+
+# [Encoding](https://en.wikipedia.org/wiki/Character_encoding)
++ https://en.wikipedia.org/wiki/Category:Natural_language_and_computing
++ https://en.wikipedia.org/wiki/Category:Character_encoding
++ Ascii : https://en.wikipedia.org/wiki/ASCII
++ https://en.wikipedia.org/wiki/Glyph
 
 ----
 
@@ -35,5 +44,4 @@
 
 # [XML](https://en.wikipedia.org/wiki/XML)
 + Python docs: https://docs.python.org/3/library/xml.etree.elementtree.html
-
 + http://www.tutorialspoint.com/python/python_xml_processing.htm
