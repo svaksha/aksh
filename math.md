@@ -5,9 +5,10 @@
 + [Calculus-II](#calculus-ii)
 + [Combinatorics](#combinatorics)
    + [Julia Sets](#julia-sets)
-+ [Numerical Analysis](#numerical-analysis)
++ [ERRORS](#errors)
 + [Geometry](#geometry)
 + [Linear Algebra](#linear-algebra)
++ [Numerical Analysis](#numerical-analysis)
 + [Type Theory](#type-theory)
 
 ----
@@ -70,8 +71,13 @@
 
 ----
 
-# Numerical Analysis
-+ http://en.wikipedia.org/wiki/Category:Linux_numerical_analysis_software
+# ERRORS
++ https://en.wikipedia.org/wiki/Loss_of_significance
++ Rounding errors: https://en.wikipedia.org/wiki/Round-off_error
++ Truncation can also produce errors: https://en.wikipedia.org/wiki/Truncation
++ Precision error: https://en.wikipedia.org/wiki/Significant_figures
++ https://en.wikipedia.org/wiki/False_precision
++ Standard error: https://en.wikipedia.org/wiki/Standard_error
 
 ----
 
@@ -114,6 +120,11 @@
 + https://en.wikipedia.org/wiki/Array_data_type
 + https://ch.mathworks.com/help/distcomp/sparse.html
 + https://ch.mathworks.com/help/distcomp/distributed.spalloc.html
+
+----
+
+# Numerical Analysis
++ http://en.wikipedia.org/wiki/Category:Linux_numerical_analysis_software
 
 ----
 

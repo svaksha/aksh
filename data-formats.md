@@ -45,3 +45,4 @@
 # [XML](https://en.wikipedia.org/wiki/XML)
 + Python docs: https://docs.python.org/3/library/xml.etree.elementtree.html
 + http://www.tutorialspoint.com/python/python_xml_processing.htm
++ http://stackoverflow.com/questions/12322345/python-lxml-how-to-validate-file-using-xml-schema-file-defined-in-the-xml-file?rq=1

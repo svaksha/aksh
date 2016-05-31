@@ -1,6 +1,7 @@
 
 
 + https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software
++ System architecture: http://stackoverflow.com/questions/755540/enterprise-systems-and-application-architecture-best-practise/760643#760643
 
 ----
 

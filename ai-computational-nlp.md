@@ -1,60 +1,20 @@
-+ [German Grammar](#german-grammar)
++ [Grammar-German](#grammar-german)
++ [Grammar-Samskrit](#grammar-samskrit)
 + [RDF](#rdf)
++ [Pub-NLP](#pub-nlp)
++ [Pub-Semantic](#semantic)
 + [SPARQL](#sparql)
-+ [Semantic](#semantic)
-+ [Samskrit](#samskrit)
 
 
 ----
 
-# German Grammar
+# Grammar-German
 + https://en.wikibooks.org/wiki/German/Grammar/Prepositions_and_Postpositions
 + https://www.lsa.umich.edu/german/hmr/Grammatik/Praepositionen/Prepositions.html
 
 ----
 
-# RDF
-+ https://news.ycombinator.com/item?id=7946024
-+ https://en.wikipedia.org/wiki/Semantic_data_model
-+ RDF, https://en.wikipedia.org/wiki/Resource_Description_Framework
-
-## Ontology
-+ http://fileinfo.com/extension/rdf
-+ http://www.file-extensions.org/rdf-file-extension
-+ http://hatis.techtarget.com/fileformat/RDF-Compiled-UIC-source-code-Geoworks-UI-Compiler
-+ http://wiki.opensemanticframework.org/index.php/Ontology_Tools  #<-----  about free software
-+ https://en.wikipedia.org/wiki/Ontology_%28information_science%29   #Published_examples
-+ http://www.obitko.com/tutorials/ontologies-semantic-web/            #<------- imp  good reading material
-+ https://en.wikipedia.org/wiki/Problem_solving
-+ https://en.wikipedia.org/wiki/Ontology_%28information_science%29   #Published_examples
-
-----
-
-# SPARQL
-+ https://en.wikipedia.org/wiki/SPARQL
-
-----
-
-# Semantic
-+ https://en.wikipedia.org/wiki/Semantic_query
-+ https://en.wikipedia.org/wiki/Semantic_Web
-+ MWE-aware English Dependency Corpus :: https://github.com/naist-cl-parsing/mwe-aware-dependency
-+ https://explorable.com/research-paper-format  
-+ https://explorable.com/design-of-experiment
-+ http://www.aclweb.org/anthology/P/P14/P14-1023.pdf
-
-## Papers
-+ 2015, [Grammar as a Foreign Language](https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf).
-+ 2014, [Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf), Marco Baroni, Georgiana Dinu, German Kruszewski, Center for Mind/Brain Sciences, University of Trento, Italy.
-
-## Yolanda Gil
-+ http://www.isi.edu/~gil/
-+ http://semantic-cora.org
-+ http://semantic-cora.org/index.php/Publications_and_Talks
-
-----
-
-# Samskrit
+# Grammar-Samskrit
 + [Unicode equivalence](http://en.wikipedia.org/wiki/Unicode_equivalence)
 + http://en.wikipedia.org/wiki/Sanskrit#Phonology
 + http://en.wikipedia.org/wiki/Unicode_equivalence
@@ -86,5 +46,53 @@
 + [A Deterministic Dependency Parser with Dynamic Programming for Sanskrit](http://www.aclweb.org/anthology/W13-3718), Amba Kulkarni, Department of Sanskrit Studies, University of Hyderabad, <apksh@uohyd.ernet.in>. Proceedings of the Second International Conference on Dependency Linguistics (DepLing 2013), pages 157–166, Prague, August 27–30, 2013; Charles University in Prague, Matfyzpress, Prague, Czech Republic.
 + [Parsing Sanskrit texts: Some relation speciﬁcissues](http://www.academia.edu/2683988/Parsing_Sanskrit_texts_Some_relation_specific_issues)
 + [ANALYSIS OF SANSKRIT TEXT : PARSING AND SEMANTIC RELATIONS](http://sanskrit.inria.fr/Symposium/DOC/Behera.pdf)
+
+
+----
+
+# RDF
++ https://news.ycombinator.com/item?id=7946024
++ https://en.wikipedia.org/wiki/Semantic_data_model
++ RDF, https://en.wikipedia.org/wiki/Resource_Description_Framework
+
+## Ontology
++ http://fileinfo.com/extension/rdf
++ http://www.file-extensions.org/rdf-file-extension
++ http://hatis.techtarget.com/fileformat/RDF-Compiled-UIC-source-code-Geoworks-UI-Compiler
++ http://wiki.opensemanticframework.org/index.php/Ontology_Tools  #<-----  about free software
++ https://en.wikipedia.org/wiki/Ontology_%28information_science%29   #Published_examples
++ http://www.obitko.com/tutorials/ontologies-semantic-web/            #<------- imp  good reading material
++ https://en.wikipedia.org/wiki/Problem_solving
++ https://en.wikipedia.org/wiki/Ontology_%28information_science%29   #Published_examples
+
+----
+
+# Pub-Semantic
++ https://en.wikipedia.org/wiki/Semantic_query
++ https://en.wikipedia.org/wiki/Semantic_Web
++ MWE-aware English Dependency Corpus :: https://github.com/naist-cl-parsing/mwe-aware-dependency
++ https://explorable.com/research-paper-format  
++ https://explorable.com/design-of-experiment
+
+----
+
+# Pub-NLP
++ https://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/viewFile/3659/3898
++ Graph Embeddings: https://www.utc.fr/~bordesan/dokuwiki/_media/en/transe_nips13.pdf
++ Lessons Learned from Word Embeddings : https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf
++ 2015, [Compositional Vector Space Models for Knowledge Base Completion](http://www.aclweb.org/anthology/P15-1016).
++ 2015, [Grammar as a Foreign Language](https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf).
++ 2014, [Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf), Marco Baroni, Georgiana Dinu, German Kruszewski, Center for Mind/Brain Sciences, University of Trento, Italy.
++ http://www.aclweb.org/anthology/P/P14/P14-1023.pdf
+    
+## Yolanda Gil
++ http://www.isi.edu/~gil/
++ http://semantic-cora.org
++ http://semantic-cora.org/index.php/Publications_and_Talks
+
+----
+
+# SPARQL
++ https://en.wikipedia.org/wiki/SPARQL
 
 ----
