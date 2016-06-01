@@ -1,6 +1,7 @@
 + [Algorithms](#algorithms)
 + [3D Libs](#3d-libs)
 + [File Formats](#file-formats)
++ [UML Tools](#uml-tools)
 + [Visualization](#visualization)
 
 ----
@@ -40,6 +41,11 @@
 + True color, https://en.wikipedia.org/wiki/Color_depth#True_color_.2824-bit.29
 + https://helpx.adobe.com/photoshop/using/file-formats.html
 
+----
+
+# UML Tools
++ http://askubuntu.com/questions/9405/what-uml-unified-modelling-language-tools-are-available
++ Dia
 
 ----
 

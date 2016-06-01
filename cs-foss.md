@@ -13,12 +13,12 @@
 + Lessons: http://software-carpentry.org/lessons/
 + Projects: http://software-carpentry.org/join/projects/
 + FAQ: http://software-carpentry.org/faq/
++ https://swcarpentry.github.io/good-enough-practices-in-scientific-computing/ and https://github.com/swcarpentry/good-enough-practices-in-scientific-computing
 + Blog:
     + http://software-carpentry.org/blog/2016/04/questions-answers-and-lessons.html
     + {Paper} Lessons learned: http://f1000researchdata.s3.amazonaws.com/manuscripts/8410/5737ea9c-756a-4815-8966-d80d292de846_3536_-_greg_wilson_v2.pdf
 
 ## Data Carpentry
-+ 
 
 ----
 
