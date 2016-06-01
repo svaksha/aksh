@@ -19,14 +19,17 @@
 ----
 
 # [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
++ http://robjhyndman.com/hyndsight/latex/
 + Prof. Edward R. Scheinerman's resources to "[Learn LaTeX](http://www.ams.jhu.edu/~ers/learn-latex/)".
 + http://tex.stackexchange.com/questions/8374/the-key-to-understanding-the-latex-syntax
 + latex for MATH: http://en.wikibooks.org/wiki/LaTeX/Mathematics
 + LaTeX tutorial : http://www.pages.drexel.edu/~pyo22/students/latexRelated/latexTutorial.html
 + http://latex-project.org/intro.html
 + https://github.com/higham/latex-tips
++ Tables in LaTeX: http://robjhyndman.com/hyndsight/tables-in-latex/
 
 ### LaTex2PDF
++ http://robjhyndman.com/hyndsight/xelatex/
 + http://www.latex-community.org/forum/viewtopic.php?f=5&t=22560
 + https://math.berkeley.edu/~vojta/tex/pdf.html
 + http://www-rohan.sdsu.edu/~aty/bibliog/latex/LaTeXtoPDF.html

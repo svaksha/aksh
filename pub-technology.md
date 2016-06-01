@@ -56,6 +56,7 @@
     + http://www.isi.edu/~gil/publications.php
 + http://semantic-cora.org
 + http://semantic-cora.org/index.php/Publications_and_Talks
++ https://people.stanford.edu/gentzkow/sites/default/files/codeanddata.pdf
 
 ## Scientific Rules
 + Rules of good scientific practice, procedures, and penalties in the event of malpractice: https://www.humboldt-foundation.de/web/docs/F25752/rules_scientific_practice.pdf
