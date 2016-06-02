@@ -25,6 +25,7 @@
 + Roger D. Peng, [Reproducible research and Biostatistics](http://biostatistics.oxfordjournals.org/content/10/3/405.full.pdf+html), 2009.
 + http://www.thelancet.com/series/research
 + http://www.nejm.org/doi/full/10.1056/NEJMe1515172
++ Reproducible Workflow: http://datasci.kitzes.com/lessons/python/reproducible_workflow.html
 
 ### False data 
 + [Do That Again](http://www.the-scientist.com/?articles.view/articleNo/32486/title/Do-That-Again/): A new initiative offers gold stars to researchers willing to have their studies replicated by other labs, but will it fix science’s growing irreproducibility problem?
@@ -43,6 +44,7 @@
 + In neuroscience/imaging there are things like the Insight Journal and the "Frontiers in..." imprints which have software-specific tracks.
 + [Computer Physics Communications](http://www.journals.elsevier.com/computer-physics-communications/) publishes a lot of articles and papers that are more intended to document free/open-source implementations than they are to describe novel algorithms. This is quite useful as a way to give people something to cite when they use your code, and also to obtain more traditional academic credit for free-software work.
 + Stata and R have their own journals: [Stata Journal](http://www.stata-journal.com/) and [R Journal](https://journal.r-project.org/). 
++ The ActivePapers project (http://www.activepapers.org/) and paper: http://f1000research.com/articles/3-289/v3
 
 ----
 
