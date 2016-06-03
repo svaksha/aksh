@@ -2,10 +2,10 @@
     + [Regression](#regression)
 + [Statistical Modelling](#statistical-modelling)
 
-
 ----
 
 # [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
++ Java code: http://aispace.org/dTree/
 + {Paper} : [Evaluation of Deep Learning Frameworks](https://github.com/zer0n/deepframeworks).
 + Setting up a [Deep Learning Machine from Scratch for Kubuntu](https://github.com/saiprashanths/dl-setup).
 + Julia Libraries, https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning
@@ -40,6 +40,8 @@
 + http://swami.wustl.edu/epoxidation-paper
 
 ## Books
++ Mitchell: http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf
+    + Tom Mitchell book on ML: http://www.cs.cmu.edu/~tom/mlbook-chapter-slides.html
 + __Deep Learning__ : http://www.deeplearningbook.org/
 __Information Science and Statistics__
 + Bishop: Pattern Recognition and Machine Learning, Springer.

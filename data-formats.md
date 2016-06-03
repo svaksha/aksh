@@ -32,6 +32,7 @@
 + http://robjhyndman.com/hyndsight/xelatex/
 + http://www.latex-community.org/forum/viewtopic.php?f=5&t=22560
 + https://math.berkeley.edu/~vojta/tex/pdf.html
++ http://www.mathstat.dal.ca/~selinger/pdfa/
 + http://www-rohan.sdsu.edu/~aty/bibliog/latex/LaTeXtoPDF.html
 + http://askubuntu.com/questions/166679/how-can-i-convert-a-tex-file-to-pdf-on-via-the-command-line
 + http://tex.stackexchange.com/questions/21405/how-to-create-pdf-with-command-line-using-miktex
