@@ -27,7 +27,8 @@
 + http://www.nejm.org/doi/full/10.1056/NEJMe1515172
 + Reproducible Workflow: http://datasci.kitzes.com/lessons/python/reproducible_workflow.html
 
-### False data 
+### Bad Science
++ The natural selection of bad science, https://arxiv.org/pdf/1605.09511v1.pdf
 + [Do That Again](http://www.the-scientist.com/?articles.view/articleNo/32486/title/Do-That-Again/): A new initiative offers gold stars to researchers willing to have their studies replicated by other labs, but will it fix science’s growing irreproducibility problem?
 + [A reproducibility crisis?](http://www.apa.org/monitor/2015/10/share-reproducibility.aspx), October 2015.
 + [Estimating the reproducibility of psychological science](http://science.sciencemag.org/content/349/6251/aac4716.full), Science, 28 Aug 2015, DOI: 10.1126/science.aac4716
