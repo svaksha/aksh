@@ -26,6 +26,7 @@
 
 # Optimization
 + [Regression Models with Count Data](http://www.ats.ucla.edu/stat/stata/seminars/count_presentation/count.htm)
++ https://en.wikipedia.org/wiki/Overfitting
 
 ----
 

@@ -1,5 +1,6 @@
 + [GIT](#git)
     + [GitPython](#gitpython)
+    + [BiGit](#bigit)
 + [GitLab](#gitlab)
 + [SVN](#svn)
     + [git-svn](#git-svn)
@@ -52,6 +53,9 @@
 + http://www.systutorials.com/1473/setting-up-git-commit-email-notification/
 + http://stackoverflow.com/questions/552360/git-hook-to-send-email-notification-on-repo-changes
 + https://bdhacker.wordpress.com/2012/01/16/send-commit-emails-after-users-push-in-remote-git-repositoryserver/
+
+## BiGit
++ [Handling large media files in Git](https://github.com/alebedev/git-media).
 
 ----
 

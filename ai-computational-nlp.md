@@ -79,7 +79,7 @@
 # Pub-NLP
 + https://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/viewFile/3659/3898
 + Graph Embeddings: https://www.utc.fr/~bordesan/dokuwiki/_media/en/transe_nips13.pdf
-+ Lessons Learned from Word Embeddings : https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf
++ 2015, Improving Distributional Similarity with Lessons Learned from Word Embeddings: https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf
 + 2015, [Compositional Vector Space Models for Knowledge Base Completion](http://www.aclweb.org/anthology/P15-1016).
 + 2015, [Grammar as a Foreign Language](https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf).
 + 2014, [Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf), Marco Baroni, Georgiana Dinu, German Kruszewski, Center for Mind/Brain Sciences, University of Trento, Italy.
