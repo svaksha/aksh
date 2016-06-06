@@ -1,6 +1,5 @@
 + [Business Analytics](#business-analytics)
 + [DataScientist](#datascientist)
-+ [FOSS License](#foss-license)
 + [Organizations](#organizations)
 + [LINKS](#links)
    + [How2HireDataScientists](#how2hiredatascientists)
@@ -11,13 +10,6 @@
 
 # Business Analytics
 + [Predictive analytics: the next bigthing in BI?](http://www.rosebt.com/uploads/8/1/8/1/8181762/predictive_analytics_e_guide.pdf)
-
-----
-
-# FOSS License
-+ Github repos that have no license are : http://choosealicense.com/no-license/
-+ http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses
-+ [Copyright](https://en.wikipedia.org/wiki/Clean_room_design)
 
 ----
 
