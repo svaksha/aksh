@@ -102,6 +102,7 @@ something.
 + Zed on why he uses the AGPL; https://zedshaw.com/archive/why-i-algpl/
 + Sublicense the MIT to AGPL, http://programmers.stackexchange.com/questions/105912/can-you-change-code-distributed-under-the-mit-license-and-re-distribute-it-unde
    + http://programmers.stackexchange.com/questions/189633/what-sublicense-actually-means?lq=1
++ Library for machine readable OSI license information: https://github.com/OpenSourceOrg/licenses
 
 ----
 
