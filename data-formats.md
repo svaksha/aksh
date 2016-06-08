@@ -50,3 +50,9 @@
 + Python docs: https://docs.python.org/3/library/xml.etree.elementtree.html
 + http://www.tutorialspoint.com/python/python_xml_processing.htm
 + http://stackoverflow.com/questions/12322345/python-lxml-how-to-validate-file-using-xml-schema-file-defined-in-the-xml-file?rq=1
++ https://www2.informatik.hu-berlin.de/~xing/Lib/Docs/jaxp/docs/tutorial/sax/1_write.html
++ http://www.yegor256.com/2015/11/16/json-vs-xml.html
+
+## Python with XML
++ https://docs.python.org/3/library/xml.etree.elementtree.html
++ https://www.google.de/#q=how+to+read+xml+file+in+python

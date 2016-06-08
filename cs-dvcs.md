@@ -17,6 +17,7 @@
 + https://www.atlassian.com/git/tutorials/git-hooks/
 + http://nuclearsquid.com/writings/git-tricks-tips-workflows/
 + http://imagej.net/Git_workshop
++ https://help.github.com/articles/good-resources-for-learning-git-and-github/
 
 ## gitup - gitnotes
 + git-notes: https://git-scm.com/docs/git-notes
