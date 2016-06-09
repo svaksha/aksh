@@ -1,6 +1,22 @@
 + [Encoding](#encoding)
++ [JSON](#json)
 + [LaTeX](#latex)
++ [Pandoc](#pandoc)
 + [XML](#xml)
+
+----
+
++ https://en.wikipedia.org/wiki/Category:Open_formats
++ [Markup Languages](https://en.wikipedia.org/wiki/Category:Markup_languages)
++ DTD : A [document type definition](https://en.wikipedia.org/wiki/Document_type_definition) is a set of markup declarations that define a document type for an SGML-family markup language (SGML, XML, HTML).
+
+#### Compare Data Formats
++ http://www.yegor256.com/2015/11/16/json-vs-xml.html
++ http://www.cs.tufts.edu/comp/150IDS/final_papers/tstras01.1/FinalReport/FinalReport.html
++ https://blog.udemy.com/json-vs-xml/
++ http://stackoverflow.com/questions/4862310/json-and-xml-comparison
++ http://programmers.stackexchange.com/questions/224929/is-csv-a-good-alternative-to-xml-and-json
++ http://stackoverflow.com/questions/1820129/when-and-why-is-xml-preferable-to-csv
 
 ----
 
@@ -12,9 +28,8 @@
 
 ----
 
-+ https://en.wikipedia.org/wiki/Category:Open_formats
-+ [Markup Languages](https://en.wikipedia.org/wiki/Category:Markup_languages)
-+ DTD : A [document type definition](https://en.wikipedia.org/wiki/Document_type_definition) is a set of markup declarations that define a document type for an SGML-family markup language (SGML, XML, HTML).
+# JSON
++ http://json-ld.org/
 
 ----
 
@@ -46,12 +61,18 @@
 
 ----
 
+# Pandoc 
++ http://pandoc.org/demos.html
++ http://pandoc.org/
++ http://writers.stackexchange.com/questions/9056/from-markdown-to-odt-and-vice-versa-a-possible-distraction-free-writing-workfl
+
+----
+
 # [XML](https://en.wikipedia.org/wiki/XML)
 + Python docs: https://docs.python.org/3/library/xml.etree.elementtree.html
 + http://www.tutorialspoint.com/python/python_xml_processing.htm
 + http://stackoverflow.com/questions/12322345/python-lxml-how-to-validate-file-using-xml-schema-file-defined-in-the-xml-file?rq=1
 + https://www2.informatik.hu-berlin.de/~xing/Lib/Docs/jaxp/docs/tutorial/sax/1_write.html
-+ http://www.yegor256.com/2015/11/16/json-vs-xml.html
 
 ## Python with XML
 + https://docs.python.org/3/library/xml.etree.elementtree.html
