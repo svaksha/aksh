@@ -6,9 +6,9 @@
 ----
 
 # BioMed
-* [Understanding the barriers to identifying carers of people with advanced illness in primary care: triangulating three data sources](http://europepmc.org/articles/PMC3992158). 
-* 10 Algorithms : http://healthsciences.utah.edu/innovation/tenalgorithms/index.php
-* The top 100 papers : http://www.nature.com/news/the-top-100-papers-1.16224?WT.mc_id=TWT_NatureNews#/b8
++ [Understanding the barriers to identifying carers of people with advanced illness in primary care: triangulating three data sources](http://europepmc.org/articles/PMC3992158). 
++ 10 Algorithms : http://healthsciences.utah.edu/innovation/tenalgorithms/index.php
++ The top 100 papers : http://www.nature.com/news/the-top-100-papers-1.16224?WT.mc_id=TWT_NatureNews#/b8
 
 ----
 
@@ -26,5 +26,3 @@
 + The [Discovery of tetrahydropyrazolopyrimidine carboxamide derivatives as potent and orally active antitubercular agents](http://europepmc.org/articles/PMC4027361/), ACS Med Chem Lett., 2013/May/09; Published online 2013/Apr/01; doi: 10.1021/ml400071a.
 
 ----
-
-

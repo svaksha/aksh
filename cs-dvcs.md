@@ -55,6 +55,10 @@
 + http://stackoverflow.com/questions/552360/git-hook-to-send-email-notification-on-repo-changes
 + https://bdhacker.wordpress.com/2012/01/16/send-commit-emails-after-users-push-in-remote-git-repositoryserver/
 
++ https://git-scm.com/docs/githooks 
++ https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
++ http://stackoverflow.com/questions/2141492/git-clone-and-post-checkout-hook
+
 ## BiGit
 + [Handling large media files in Git](https://github.com/alebedev/git-media).
 

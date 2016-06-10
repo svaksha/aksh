@@ -55,6 +55,8 @@
 + [Heterotopia](http://en.wikipedia.org/wiki/Heterotopia_%28medicine%29)
 + [Gray matter heterotopia](http://en.wikipedia.org/wiki/Gray_matter_heterotopia)
 
++ https://thinkprogress.org/health/2016/06/01/3783672/planned-parenthood-scientific-research/
+
 ----
 
 # Cerebral Palsy
@@ -119,5 +121,3 @@
 + Podcast: [The Mind's Hidden Switches](http://www.scientificamerican.com/podcast/episode/the-minds-hidden-switches-11-11-22/) by E.Nestler, 22/Nov/2011.
 
 ----
-
-
