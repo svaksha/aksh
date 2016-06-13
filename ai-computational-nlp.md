@@ -5,7 +5,6 @@
 + [Pub-Semantic](#semantic)
 + [SPARQL](#sparql)
 
-
 ----
 
 # Grammar-German
@@ -77,6 +76,7 @@
 ----
 
 # Pub-NLP
++ https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf
 + https://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/viewFile/3659/3898
 + Graph Embeddings: https://www.utc.fr/~bordesan/dokuwiki/_media/en/transe_nips13.pdf
 + 2015, Improving Distributional Similarity with Lessons Learned from Word Embeddings: https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf
