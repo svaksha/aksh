@@ -6,6 +6,7 @@
 
 ----
 
++ https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats
 + https://en.wikipedia.org/wiki/Category:Open_formats
 + [Markup Languages](https://en.wikipedia.org/wiki/Category:Markup_languages)
 + DTD : A [document type definition](https://en.wikipedia.org/wiki/Document_type_definition) is a set of markup declarations that define a document type for an SGML-family markup language (SGML, XML, HTML).
