@@ -1,6 +1,8 @@
++ [ELAN](#elan)
 + [Encoding](#encoding)
 + [JSON](#json)
 + [LaTeX](#latex)
++ [MAT](#mat)
 + [Pandoc](#pandoc)
 + [XML](#xml)
 
@@ -18,6 +20,11 @@
 + http://stackoverflow.com/questions/4862310/json-and-xml-comparison
 + http://programmers.stackexchange.com/questions/224929/is-csv-a-good-alternative-to-xml-and-json
 + http://stackoverflow.com/questions/1820129/when-and-why-is-xml-preferable-to-csv
+
+----
+
+# ELAN
++ https://tla.mpi.nl/tools/tla-tools/elan/
 
 ----
 
@@ -59,6 +66,12 @@
 
 ### Paper Writing
 + https://github.com/sympy/sympy-paper
+
+----
+
+# MAT
++ http://www.mathworks.com/help/pdf_doc/matlab/matfile_format.pdf
+
 
 ----
 
