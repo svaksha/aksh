@@ -62,7 +62,10 @@ __Information Science and Statistics__
 ## Concept learning
 + https://en.wikipedia.org/wiki/Concept_learning
 
+
 ## Regression
++ [Many Regression Algorithms, One Unifed Model](http://www.freekstulp.net/publications/pdfs/stulp15many.pdf)
++ http://www.freekstulp.net/publications/
 + https://en.wikipedia.org/wiki/Linear_regression
 + https://en.wikipedia.org/wiki/Regression_analysis
 + https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation
@@ -76,6 +79,9 @@ __Information Science and Statistics__
 + http://willett.ece.wisc.edu/wp-uploads/2016/01/16-CRLB.pdf
 + CHAPTER 2. Cramer-Rao lower bound: http//www.cs.tut.fi/~hehu/SSP/lecture2.pdf
 + https://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound
+
+### Bayes theorem
++ http://faculty.washington.edu/tamre/BayesTheorem.pdf
 
 
 ----

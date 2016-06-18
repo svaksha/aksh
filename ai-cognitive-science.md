@@ -6,6 +6,11 @@
 
 ----
 
+# Cognition
++ https://www.techfak.uni-bielefeld.de/ags/soa/publications/
+
+----
+
 # Neural Networks with ML - Syllabus
 Lecture 1: Introduction
 Lecture 2: The Perceptron learning procedure
