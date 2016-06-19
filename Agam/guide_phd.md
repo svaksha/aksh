@@ -12,6 +12,7 @@
 ----
 
 # Guide-PHD
++ How to write a Ph.D. thesis: https://www.uni-goettingen.de/en/138976.html
 + [Prof. Philip Guo](http://pgbovine.net/PhD-memoir.htm)'s very readable book on his personal Ph.D. school experience with other useful blog posts.
 + [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf).
 + [Advice on the PhD life](http://blog.vivekhaldar.com/post/29296581613/what-is-life-like-for-phds-in-computer-science-who).

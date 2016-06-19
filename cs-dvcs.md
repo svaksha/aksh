@@ -67,6 +67,10 @@
 # GitLab
 + https://about.gitlab.com/2016/01/15/making-gitlab-better-for-large-open-source-projects/
 
+## Mail
++ SMTP : https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
++ https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/doc/settings/smtp.md
+
 ## docker-gitlab
 + http://doc.gitlab.com/omnibus/docker/
 + https://github.com/sameersbn/docker-gitlab-ci
