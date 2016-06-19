@@ -84,6 +84,7 @@
 
 # DEVOPS
 + https://github.com/devopsbookmarks/devopsbookmarks.com
++ [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 ## Automation
 + https://github.com/NARKOZ/hacker-scripts :: git clone git@github.com:NARKOZ/hacker-scripts.git

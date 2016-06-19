@@ -160,6 +160,7 @@ $ sudo dpkg -i /var/tmp/firmware-realtek_0.43_all.deb  # update the firmware fro
 ----
 
 # BASH SHELL
++ [awesome-bash](https://github.com/awesome-lists/awesome-bash) :: A curated list of delightful Bash scripts and resources.
 + Shells compared: http://hyperpolyglot.org/unix-shells
 + https://en.wikipedia.org/wiki/List_of_Unix_commands
 + [ctypes.sh](https://github.com/taviso/ctypes.sh) :: A BASH plugin that provides a foreign function interface directly in your shell. In other words, it allows you to call routines in shared libraries from within bash.
@@ -198,6 +199,7 @@ $ sudo dpkg -i /var/tmp/firmware-realtek_0.43_all.deb  # update the firmware fro
 
 # REGEX
 + RegEX cheatsheet, https://remram44.github.io/regex-cheatsheet/regex.html
++ [awesome-regex](https://github.com/aloisdg/awesome-regex) :: A curated collection of Regular Expressions libraries, tools, frameworks and software. 
 + http://en.wikipedia.org/wiki/List_of_Unix_commands
 + http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux?rq=1
 + https://en.wikipedia.org/wiki/Regular_expression#Syntax
