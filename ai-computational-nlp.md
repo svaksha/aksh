@@ -1,9 +1,16 @@
++ [grammar-parser](#grammar-parser)
 + [Grammar-German](#grammar-german)
 + [Grammar-Samskrit](#grammar-samskrit)
 + [RDF](#rdf)
 + [Pub-NLP](#pub-nlp)
 + [Pub-Semantic](#semantic)
 + [SPARQL](#sparql)
+
+----
+
+# grammar-parser
++ https://news.ycombinator.com/item?id=11686029
++ Announcement : https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html?m=1
 
 ----
 
