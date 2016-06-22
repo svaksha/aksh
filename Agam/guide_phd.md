@@ -1,4 +1,5 @@
 + [Guide-PHD](#guide-phd)
+    + [Advice](#advice)
     + [Coursework-CS](#coursework-cs)
     + [Researcher Tasks](#researcher-tasks)
     + [Scientific Procedures](#scientific-procedures)
@@ -21,6 +22,8 @@
 + https://www.findaphd.com/
 + A website & forum for graduate students : http://thegradcafe.com 
 
+## Advice 
++ http://getalifephd.blogspot.de/
 
 ## Coursework - CS
 + https://www.cs.cornell.edu/phd/requirements         # Requirement of Cornell University

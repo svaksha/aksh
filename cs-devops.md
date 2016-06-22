@@ -71,7 +71,8 @@
 + http://en.wikipedia.org/wiki/Puppet_%28software%29
 
 ## Saltstack
-+ 
++ https://docs.saltstack.com/en/latest/topics/installation/index.html
++ http://bencane.com/2013/09/03/getting-started-with-saltstack-by-example-automatically-installing-nginx/
 
 #### blogs
 + http://jensrantil.github.io/salt-vs-ansible.html
