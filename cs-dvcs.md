@@ -23,6 +23,10 @@
 + git-notes: https://git-scm.com/docs/git-notes
 + http://alblue.bandlem.com/2011/11/git-tip-of-week-git-notes.html
 
+## git rebase
++ http://michaeldehaan.net/post/116465000577/understanding-when-to-use-git-rebase
+
+
 ### GUI clients
 + http://stackoverflow.com/questions/1516720/git-gui-client-for-linux
 + http://askubuntu.com/questions/227554/what-are-some-gui-clients-for-git
