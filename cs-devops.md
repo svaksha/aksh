@@ -1,4 +1,5 @@
 + [AMQP](#amqp)
++ [Automation](#automation)
 + [AWS](#aws)
 + [CONFIG](#config)
 + [DEVOPS](#devops)
@@ -58,6 +59,38 @@
 
 ----
 
+# Automation
+
+## Chef 
+(.rb)
++ https://github.com/chef/chef
++ http://stackful-dev.com/cuisine-the-lightweight-chefpuppet-alternative
+
+## Puppet 
+(.rb)
++ http://en.wikipedia.org/wiki/Puppet_%28software%29
+
+## Saltstack
++ 
+
+#### blogs
++ http://jensrantil.github.io/salt-vs-ansible.html
++ http://probably.co.uk/puppet-vs-chef-vs-ansible.html
++ http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/
++ https://github.com/NARKOZ/hacker-scripts :: git clone git@github.com:NARKOZ/hacker-scripts.git
+
+## [Vagrant](https://www.vagrantup.com/docs/)
+(.rb), If you mess-up the VM, blow it away with vagrant
++ https://en.wikipedia.org/wiki/Vagrant_%28software%29
+
+## Cobbler 
+(.py)
++ https://en.wikipedia.org/wiki/Cobbler_%28software%29
++ https://github.com/cobbler/cobbler
+
+   
+----
+
 # AWS
 + http://aws.amazon.com 
 + http://en.wikipedia.org/wiki/Amazon_Web_Services
@@ -85,9 +118,6 @@
 # DEVOPS
 + https://github.com/devopsbookmarks/devopsbookmarks.com
 + [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
-
-## Automation
-+ https://github.com/NARKOZ/hacker-scripts :: git clone git@github.com:NARKOZ/hacker-scripts.git
 
 ## Batch Jobs
 + [Luigi](https://github.com/spotify/luigi) :: A Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
@@ -190,24 +220,6 @@ in multivendor environments.__
 + https://en.wikipedia.org/wiki/Icinga
 + https://en.wikipedia.org/wiki/Nagios
 
-## Chef 
-(.rb)
-+ https://github.com/chef/chef
-+ http://stackful-dev.com/cuisine-the-lightweight-chefpuppet-alternative
-
-## Puppet 
-(.rb)
-+ http://en.wikipedia.org/wiki/Puppet_%28software%29
-
-## Vagrant 
-(.rb)
-+ https://en.wikipedia.org/wiki/Vagrant_%28software%29
-
-## Cobbler 
-(.py)
-+ https://en.wikipedia.org/wiki/Cobbler_%28software%29
-+ https://github.com/cobbler/cobbler
-
 ----
 
 # [OpenStack](http://openstack.org)
@@ -239,7 +251,6 @@ in multivendor environments.__
 + http://www.networkworld.com/article/2160016/cloud-computing/who-makes-up-openstack-.html
 + https://training.linuxfoundation.org/sysadmin-evolution
 + http://www.networkworld.com/article/2160163/cloud-computing/12-free-cloud-storage-options.html
-+ http://probably.co.uk/puppet-vs-chef-vs-ansible.html
 
 ## Random Papers
 + [Large-scale cluster management at Google with Borg](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf).
@@ -306,10 +317,6 @@ This is a pretty tight solution:  REDWALL, http://redwall.sourceforge.net/featur
 + Linux server hardening, http://www.tecmint.com/linux-server-hardening-security-tips/
 Keep in mind those tips are for  PRODUCTION SERVERS rather than Development machines or Workstations.  For example, it is best practices NOT to have GUI desktops on most Production Linux Servers (there are some exceptions), but for Workstations, most Developers would prefer to have a GUI development environment.
 
-----
-
-# Vagrant
-+ If you mess-up the VM, blow it away with vagrant, https://www.vagrantup.com/docs/
 
 ----
 
