@@ -19,6 +19,7 @@
 ----
 
 # LINKS
++ http://betterexplained.com/articles/the-rule-of-72/
 + http://thenextweb.com/dd/2015/06/11/8-barriers-to-overcome-when-learning-to-code/
 + http://yourstory.com/2015/04/doormint/
 

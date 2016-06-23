@@ -26,7 +26,7 @@
 ----
 
 # Resources
-
++ http://betterexplained.com/articles/the-rule-of-72/
 + https://github.com/rossant/awesome-math
 + http://www.youtube.com/watch?v=hE7l6Adoiiw
 + vihart.com/doodling , http://vihart.com/doodling/
