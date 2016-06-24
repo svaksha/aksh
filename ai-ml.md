@@ -62,6 +62,8 @@ __Information Science and Statistics__
 ## Concept learning
 + https://en.wikipedia.org/wiki/Concept_learning
 
+## Gaussian
++ https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean
 
 ## Regression
 + [Many Regression Algorithms, One Unifed Model](http://www.freekstulp.net/publications/pdfs/stulp15many.pdf)
