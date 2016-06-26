@@ -24,6 +24,7 @@
 
 ## Advice 
 + http://getalifephd.blogspot.de/
++ http://chronicle.com/article/A-Letter-to-Past/236870/
 
 ## Coursework - CS
 + https://www.cs.cornell.edu/phd/requirements         # Requirement of Cornell University
