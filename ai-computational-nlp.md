@@ -1,6 +1,7 @@
 + [grammar-parser](#grammar-parser)
 + [Grammar-German](#grammar-german)
 + [Grammar-Samskrit](#grammar-samskrit)
++ [NLP](#nlp)
 + [RDF](#rdf)
 + [Pub-NLP](#pub-nlp)
 + [Pub-Semantic](#semantic)
@@ -53,6 +54,11 @@
 + [Parsing Sanskrit texts: Some relation speciﬁcissues](http://www.academia.edu/2683988/Parsing_Sanskrit_texts_Some_relation_specific_issues)
 + [ANALYSIS OF SANSKRIT TEXT : PARSING AND SEMANTIC RELATIONS](http://sanskrit.inria.fr/Symposium/DOC/Behera.pdf)
 
+----
+
+# NLP 
+### Parsing
++ https://en.wikipedia.org/wiki/Shallow_parsing
 
 ----
 
