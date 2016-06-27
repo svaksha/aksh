@@ -11,7 +11,7 @@
 + [MOOC](#mooc)
 + [Podcasts](#podcasts)
    + [programming language](#programming language)
-+ [Reading](#reading)
++ [Blogs](#blogs)
 
 ----
 
@@ -39,14 +39,13 @@
 
 ## Books
 + Hal Abelson's, Jerry Sussman's and Julie Sussman's [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/) (MIT Press, 1984; ISBN 0-262-01077-1), an excellent computer science text used in introductory courses at MIT.
-   
+
 ## Code Exercises
 + http://synopsis.exercism.io/, https://github.com/exercism/cli, https://github.com/exercism
 + http://freecodecamp.com/
 
 ## Lists
 + https://github.com/NARKOZ/guides
-
 
 ## Advice
 ### Work on personal projects!
@@ -180,7 +179,8 @@ Good online places to start:
 
 ----
 
-# Reading
+# Blogs
 + http://worrydream.com/#!/ClimateChange => about computational climate change but Victor makes an interesting point about “Tools for scientists and engineers" : http://worrydream.com/ClimateChange/#tools
++ https://github.com/shekhargulati/52-technologies-in-2016
 
 ----

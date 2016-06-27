@@ -1,7 +1,9 @@
 + [Algorithms](#algorithms)
 + [3D Libs](#3d-libs)
 + [File Formats](#file-formats)
++ [Imaging](Imaging)
 + [UML Tools](#uml-tools)
++ [Video](#video)
 + [Visualization](#visualization)
 
 ----
@@ -21,6 +23,7 @@
 # Imaging
 + https://en.wikipedia.org/wiki/Integral_imaging
 + https://en.wikipedia.org/wiki/Category:3D_imaging
+
 
 ### Convert .jpg to .pdf
 + http://askubuntu.com/questions/246647/jpeg-files-to-pdf
@@ -49,5 +52,20 @@
 
 ----
 
+# Video
++ http://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
++ blurry youtube video converter: http://www.wikihow.com/Convert-YouTube-Videos
++ Split video into pictures: http://softwarerecs.stackexchange.com/questions/6783/split-video-into-pictures?rq=1
++ http://superuser.com/questions/135117/how-to-convert-video-to-images/729351#729351
++ http://superuser.com/questions/135117/how-to-convert-video-to-images/729351#729351
++ http://docs.opencv.org/2.4/doc/tutorials/imgproc/table_of_content_imgproc/table_of_content_imgproc.html#table-of-content-imgproc
+
+
+### Papers
++ http://optica.csic.es/papers/icpr2k.pdf
+
+----
+
 # Visualization
 + Bokeh for visualization - draw the brain : https://www.continuum.io/blog/developer-blog/drawing-brain-bokeh
+
