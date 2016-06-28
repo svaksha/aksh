@@ -71,6 +71,7 @@
 # RDM 
 + Christian T. Jacobs and Alexandros Avdis: Git-RDM: A research data management plugin for the Git version control system.
 http://joss.theoj.org/papers/10.21105/joss.00029
++ Contemporary Challenges for Data-Intensive Scientific Workflow Management Systems, http://www.switchproject.eu/wp-content/uploads/2016/04/uva-2.pdf
 
 ----
 
