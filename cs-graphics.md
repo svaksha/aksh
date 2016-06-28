@@ -60,6 +60,7 @@
 + http://superuser.com/questions/135117/how-to-convert-video-to-images/729351#729351
 + http://docs.opencv.org/2.4/doc/tutorials/imgproc/table_of_content_imgproc/table_of_content_imgproc.html#table-of-content-imgproc
 + http://scikit-image.org/
++ https://github.com/piratefsh/image-processing-101 :: Code examples on how to do things with OpenCV on Python
 
 ### Papers
 + http://optica.csic.es/papers/icpr2k.pdf
