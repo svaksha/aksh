@@ -1,3 +1,5 @@
++ [ETHICS](#ethics)
+    + [Academic Authorship](#academic-authorship)
 + [Guide-PHD](#guide-phd)
     + [Advice](#advice)
     + [Coursework-CS](#coursework-cs)
@@ -9,6 +11,17 @@
 + [REVIEWER](#reviewer)
 + [TIME MANAGEMENT](#time-management)
     + [Quotes](#quotes)
+
+----
+
+# ETHICS
+
+## [Academic Authorship](https://en.wikipedia.org/wiki/Academic_authorship)
++ https://www.elsevier.com/connect/co-authors-gone-bad-how-to-avoid-publishing-conflicts
++ http://www.nap.edu/read/4917/chapter/7#12
++ 2007 : http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2247376/
++ https://www.enago.com/blog/difference-between-lead-author-and-co-author/
++ http://pubs.acs.org/paragonplus/submission/jacsat/jacsat_authguide.pdf
 
 ----
 
@@ -102,11 +115,13 @@
 ----
 
 # Guide-WRITE-PAPERS
++ [GUIDELINES: HOW TO WRITE AN ACADEMIC PAPER](https://www.uni-marburg.de/fb10/iaa/institut/personal/birkle/MLA.pdf)
 + [Writing a research article: advice to beginners](http://intqhc.oxfordjournals.org/content/16/3/191).
 + [How to Write A Paper in Scientific Journal Style and Format](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTWtoc.html).
 + 10-tips for writing for an [academic journal](http://www.theguardian.com/higher-education-network/blog/2013/sep/06/academic-journal-writing-top-tips).
 + How to structure the journal paper: http://writingajournalarticle.wordpress.com/structure/structure-the-paper/
 + Some excellent advice on research writing by @mnielsen : https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md
++ http://academia.stackexchange.com/questions/71694/how-can-i-make-use-of-iterative-work-in-progress-versions-of-papers
 
 ## Paper Structure
 
