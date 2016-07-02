@@ -43,7 +43,7 @@ Python tools:
 
 ----
 
-# JSON
+# [JSON](https://en.wikipedia.org/wiki/JSON)
 + http://json-ld.org/
 
 ----

@@ -1,6 +1,7 @@
 + [Machine Learning](#machine-learning)
     + [Regression](#regression)
 + [Statistical Modelling](#statistical-modelling)
++ [Unsupervised Learning](#unsupervised-learning)
 
 ----
 
@@ -90,3 +91,19 @@ __Information Science and Statistics__
 
 # Statistical Modelling
 + https://en.wikipedia.org/wiki/Predictive_modelling
+
+----
+
+# Unsupervised Learning
++ https://en.wikipedia.org/wiki/Linde%E2%80%93Buzo%E2%80%93Gray_algorithm
++ http://www.data-compression.com/vq.shtml#animation
++ http://www.data-compression.com/vqanim.shtml
+
+## [k-means](https://en.wikipedia.org/wiki/K-means_clustering)
++ 
+
+## Gaussian Mixtures
++ https://en.wikipedia.org/wiki/Mixture_model#Gaussian_mixture_model
+
+## PAPERS
++ [Task-level ImitationLearning using Variance-based Movement Optimization](https://www.tu-ilmenau.de/fileadmin/media/neurob/publications/conferences_int/2009/Muehlig-ICRA-2009.pdf)

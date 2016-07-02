@@ -15,7 +15,11 @@
 ----
 
 # AI
-* https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors/
++ https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors/
+
+## DataScience
++ Chunking, https://en.wikipedia.org/wiki/Chunking_%28psychology%29
++ De-Chunking your brain to stop Companies Learning Your Secrets, http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=1\&\%20r=2\&hp&_r=0
 
 ----
 
