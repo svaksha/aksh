@@ -6,7 +6,6 @@
    + [Lists](#lists)
    + [Advice](#advice)
 + [FOSS-Community](#foss-community)
-+ [FOSS-License](#foss-license)
 + [Life](#life)
 + [MOOC](#mooc)
 + [Podcasts](#podcasts)
@@ -94,17 +93,6 @@ something.
 + Passive-Aggressive, http://www.forbes.com/sites/dailymuse/2015/10/02/3-times-you-think-youre-being-nice-but-you-actually-just-sound-passive-aggressive/
 + What makes a good Foss community: http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/
 + Why not to use slack and other non-foss'y IRC alternatives: https://drewdevault.com/2015/11/01/Please-stop-using-slack.html
-
-----
-
-# FOSS-License
-+ Zed on why he uses the AGPL: https://zedshaw.com/archive/why-i-algpl/
-+ Sublicense the MIT to AGPL, http://programmers.stackexchange.com/questions/105912/can-you-change-code-distributed-under-the-mit-license-and-re-distribute-it-unde
-   + http://programmers.stackexchange.com/questions/189633/what-sublicense-actually-means?lq=1
-+ Library for machine readable OSI license information: https://github.com/OpenSourceOrg/licenses
-+ Github repos that have no license are : http://choosealicense.com/no-license/
-+ http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses
-+ [Copyright](https://en.wikipedia.org/wiki/Clean_room_design)
 
 ----
 

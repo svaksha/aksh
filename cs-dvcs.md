@@ -2,6 +2,7 @@
     + [GitPython](#gitpython)
     + [BiGit](#bigit)
 + [GitLab](#gitlab)
+    + [Frontend](#frontend)
 + [SVN](#svn)
     + [git-svn](#git-svn)
 
@@ -71,6 +72,12 @@
 # GitLab
 + https://about.gitlab.com/2016/01/15/making-gitlab-better-for-large-open-source-projects/
 
+## Frontend
++ https://about.gitlab.com/applications/
++ https://about.gitlab.com/2016/01/25/future-front-end-development/
++ https://www.metod.io/en/blog/2016/02/09/using-gitlab-ci-build-javascript-frontend-application/
+
+
 ## Mail
 + SMTP : https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
 + https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/doc/settings/smtp.md
@@ -79,6 +86,7 @@
 + http://doc.gitlab.com/omnibus/docker/
 + https://github.com/sameersbn/docker-gitlab-ci
  
+
 ## CE
 + + Download the gitlab version for [Debian-8, Jessie](https://about.gitlab.com/downloads/#debian8).
 + Allow hierarchical ordering of Groups {Team-1::Project-1,Project-2} {Team-1::Project-1,Project-2} : https://gitlab.com/gitlab-org/gitlab-ce/issues/2772
