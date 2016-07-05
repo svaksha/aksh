@@ -15,9 +15,14 @@
 
 ----
 
-# Grammar-German
+# [Grammar-German](https://en.wikipedia.org/wiki/Category:German_grammar)
 + https://en.wikibooks.org/wiki/German/Grammar/Prepositions_and_Postpositions
 + https://www.lsa.umich.edu/german/hmr/Grammatik/Praepositionen/Prepositions.html
++ https://en.wikipedia.org/wiki/German_sentence_structure
++ https://en.wikipedia.org/wiki/German_modal_particle
++ http://www.dartmouth.edu/~deutsch/Grammatik/Grammatik.html
++ http://www.dartmouth.edu/~deutsch/Grammatik/perfect/Perfect.html
++ http://www.german-grammar.de/grammar/content/english_german_table_of_content.htm
 
 ----
 
@@ -89,6 +94,7 @@
 ----
 
 # Pub-NLP
++ 2015, [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://www.aclweb.org/anthology/P15-1150).
 + Neural Word Embedding as Implicit Matrix Factorization: https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf
 + https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf
 + https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf
