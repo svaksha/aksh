@@ -1,12 +1,25 @@
++ [ARR](#arr)
 + [OpenData](#opendata)
 + [OpenPub](#openpub)
 + [Scientific Research](#scientific-research)
++ [RDM](#rdm)
 + [HELP](#help)
 
 ----
 
 + https://erc.europa.eu/sites/default/files/content/pages/pdf/2.1%20Sabina%20Leonelli.pdf
 + statistical analysis, https://zedshaw.com/archive/a-rubric-for-it-analysis-papers/
+
+----
+
+# ARR
++ https://github.com/Reproducible-Science-Curriculum
++ A course on https://www.coursera.org/learn/reproducible-research
+
+## Papers
++ http://www.nature.com/news/reality-check-on-reproducibility-1.19961
++ http://www.nature.com/nature/journal/v532/n7598/full/532177d.html
++ http://www.nature.com/news/announcement-reducing-our-irreproducibility-1.12852
 
 ----
 
@@ -80,3 +93,10 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 + https://en.wikipedia.org/wiki/PechaKucha
 
 ----
+
+# Links
++ https://www.google.de/search?q=infrastructure+for+analytical+reproducibility&ie=utf-8&oe=utf-8&gws_rd=cr&ei=GNp6V7e-CKqWgAatkYXYCQ
++ http://www.kdd.org/exploration_files/p1V11n1.pdf
++ https://scholar.google.de/scholar?oe=utf-8&gws_rd=cr&um=1&ie=UTF-8&lr&cites=11895311725021913820
++ http://www.qualitynano.eu/home/about-qnano.html
++ http://www.nature.com/news/statisticians-issue-warning-over-misuse-of-p-values-1.19503
