@@ -64,6 +64,7 @@
 ----
 
 # Scientific Research
++ http://k4webcast.mediasite.com/Mediasite/Play/2bc15b283f324784a945d79d9a06c76c1d
 + 2016, Baker-Nature, http://doi.org/10.1038/533452a, http://www.nature.com/polopoly_fs/1.19970!/menu/main/topColumns/topLeftColumn/pdf/533452a.pdf
 + 2014, Wilson et. al., [Best Practices for Scientific Computing](http://www.plosbiology.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pbio.1001745&representation=PDF).
 + https://pure.uvt.nl/portal/files/3053560/SP_Brandt_open_PoPS_2012.pdf
