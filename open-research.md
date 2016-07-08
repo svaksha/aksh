@@ -15,6 +15,9 @@
 # ARR
 + https://github.com/Reproducible-Science-Curriculum
 + A course on https://www.coursera.org/learn/reproducible-research
++ Gael's blog posts : 
+    + 18 May 2015: http://gael-varoquaux.info/programming/software-for-reproducible-science-lets-not-have-a-misunderstanding.html
+    + 28 November 2015: http://gael-varoquaux.info/programming/mloss-2015-wising-up-to-building-open-source-machine-learning.html
 
 ## Papers
 + http://www.nature.com/news/reality-check-on-reproducibility-1.19961
