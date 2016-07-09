@@ -1,14 +1,21 @@
 + [ARR](#arr)
 + [OpenData](#opendata)
 + [OpenPub](#openpub)
-+ [Scientific Research](#scientific-research)
++ [Quality](#quality)
 + [RDM](#rdm)
-+ [HELP](#help)
++ [Scientific Research](#scientific-research)
 
 ----
 
 + https://erc.europa.eu/sites/default/files/content/pages/pdf/2.1%20Sabina%20Leonelli.pdf
 + statistical analysis, https://zedshaw.com/archive/a-rubric-for-it-analysis-papers/
++ https://www.google.de/search?q=infrastructure+for+analytical+reproducibility&ie=utf-8&oe=utf-8&gws_rd=cr&ei=GNp6V7e-CKqWgAatkYXYCQ
++ http://www.kdd.org/exploration_files/p1V11n1.pdf
++ https://scholar.google.de/scholar?oe=utf-8&gws_rd=cr&um=1&ie=UTF-8&lr&cites=11895311725021913820
++ http://www.qualitynano.eu/home/about-qnano.html
++ http://www.nature.com/news/statisticians-issue-warning-over-misuse-of-p-values-1.19503
++ http://www.treesmapsandtheorems.com/
++ https://en.wikipedia.org/wiki/PechaKucha
 
 ----
 
@@ -64,6 +71,19 @@
 + Stata and R have their own journals: [Stata Journal](http://www.stata-journal.com/) and [R Journal](https://journal.r-project.org/). 
 + The ActivePapers project (http://www.activepapers.org/) and paper: http://f1000research.com/articles/3-289/v3
 
+
+----
+
+# Quality
++ http://www.software.ac.uk/online-sustainability-evaluation
+
+----
+
+# RDM 
++ Christian T. Jacobs and Alexandros Avdis: Git-RDM: A research data management plugin for the Git version control system.
+http://joss.theoj.org/papers/10.21105/joss.00029
++ Contemporary Challenges for Data-Intensive Scientific Workflow Management Systems, http://www.switchproject.eu/wp-content/uploads/2016/04/uva-2.pdf
+
 ----
 
 # Scientific Research
@@ -83,24 +103,5 @@
 + Rules of good scientific practice, procedures, and penalties in the event of malpractice: https://www.humboldt-foundation.de/web/docs/F25752/rules_scientific_practice.pdf
 + https://www.google.de/search?q=Principles+of+good+Scientific+practice&ie=utf-8&oe=utf-8&gws_rd=cr&ei=KeM6V4zBJ6WfgAbu4LbQCQ
 
-----
 
-# RDM 
-+ Christian T. Jacobs and Alexandros Avdis: Git-RDM: A research data management plugin for the Git version control system.
-http://joss.theoj.org/papers/10.21105/joss.00029
-+ Contemporary Challenges for Data-Intensive Scientific Workflow Management Systems, http://www.switchproject.eu/wp-content/uploads/2016/04/uva-2.pdf
 
-----
-
-# HELP
-+ http://www.treesmapsandtheorems.com/
-+ https://en.wikipedia.org/wiki/PechaKucha
-
-----
-
-# Links
-+ https://www.google.de/search?q=infrastructure+for+analytical+reproducibility&ie=utf-8&oe=utf-8&gws_rd=cr&ei=GNp6V7e-CKqWgAatkYXYCQ
-+ http://www.kdd.org/exploration_files/p1V11n1.pdf
-+ https://scholar.google.de/scholar?oe=utf-8&gws_rd=cr&um=1&ie=UTF-8&lr&cites=11895311725021913820
-+ http://www.qualitynano.eu/home/about-qnano.html
-+ http://www.nature.com/news/statisticians-issue-warning-over-misuse-of-p-values-1.19503
