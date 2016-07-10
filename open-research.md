@@ -12,7 +12,6 @@
 + https://www.google.de/search?q=infrastructure+for+analytical+reproducibility&ie=utf-8&oe=utf-8&gws_rd=cr&ei=GNp6V7e-CKqWgAatkYXYCQ
 + http://www.kdd.org/exploration_files/p1V11n1.pdf
 + https://scholar.google.de/scholar?oe=utf-8&gws_rd=cr&um=1&ie=UTF-8&lr&cites=11895311725021913820
-+ http://www.qualitynano.eu/home/about-qnano.html
 + http://www.nature.com/news/statisticians-issue-warning-over-misuse-of-p-values-1.19503
 + http://www.treesmapsandtheorems.com/
 + https://en.wikipedia.org/wiki/PechaKucha
@@ -25,6 +24,8 @@
 + Gael's blog posts : 
     + 18 May 2015: http://gael-varoquaux.info/programming/software-for-reproducible-science-lets-not-have-a-misunderstanding.html
     + 28 November 2015: http://gael-varoquaux.info/programming/mloss-2015-wising-up-to-building-open-source-machine-learning.html
++ https://danielskatzblog.wordpress.com/2015/04/20/scientific-software-quality-versus-purpose/
++ http://www.qualitynano.eu/home/about-qnano.html
 
 ## Papers
 + http://www.nature.com/news/reality-check-on-reproducibility-1.19961
@@ -102,6 +103,3 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 ## Scientific Rules
 + Rules of good scientific practice, procedures, and penalties in the event of malpractice: https://www.humboldt-foundation.de/web/docs/F25752/rules_scientific_practice.pdf
 + https://www.google.de/search?q=Principles+of+good+Scientific+practice&ie=utf-8&oe=utf-8&gws_rd=cr&ei=KeM6V4zBJ6WfgAbu4LbQCQ
-
-
-

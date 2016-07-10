@@ -18,7 +18,8 @@
 + http://www.partiallyderivative.com/
 + http://mathworld.wolfram.com/MaximumLikelihood.html
 
-###### NEWS
+##### NEWS
++ http://gael-varoquaux.info/programming/mloss-2015-wising-up-to-building-open-source-machine-learning.html
 + http://techcrunch.com/2016/04/02/how-to-approach-machine-learning-as-a-non-technical-person/
 
 ## [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
