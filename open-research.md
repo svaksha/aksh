@@ -24,6 +24,8 @@
 + Gael's blog posts : 
     + 18 May 2015: http://gael-varoquaux.info/programming/software-for-reproducible-science-lets-not-have-a-misunderstanding.html
     + 28 November 2015: http://gael-varoquaux.info/programming/mloss-2015-wising-up-to-building-open-source-machine-learning.html
++ Prof. (Dr.) Titus Brown:
+    + http://ivory.idyll.org/blog/2015-how-should-we-think-about-research-software.html
 + https://danielskatzblog.wordpress.com/2015/04/20/scientific-software-quality-versus-purpose/
 + http://www.qualitynano.eu/home/about-qnano.html
 
