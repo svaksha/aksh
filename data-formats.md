@@ -2,6 +2,7 @@
 + [Encoding](#encoding)
 + [JSON](#json)
 + [LaTeX](#latex)
++ [Markdown](#markdown)
 + [MAT](#mat)
 + [Pandoc](#pandoc)
 + [XML](#xml)
@@ -79,6 +80,10 @@ Python tools:
 # MAT
 + http://www.mathworks.com/help/pdf_doc/matlab/matfile_format.pdf
 
+----
+
+# Markdown
++ http://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/
 
 ----
 
