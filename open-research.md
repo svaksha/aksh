@@ -37,7 +37,7 @@
 ----
 
 # OpenData
-
++ https://www.liberquarterly.eu/articles/10.18352/lq.10137/
 + [What Drives Academic Data Sharing?](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118053), Benedikt Fecher, Sascha Friesike, Marcel Hebing, PLOS. Published: February 25, 2015. DOI: 10.1371/journal.pone.0118053
 + http://www.nature.com/sdata/
 + Feb.2015, A Reputation Economy: Results from an Empirical Survey on Academic Data Sharing : http://www.ratswd.de/dl/RatSWD_WP_246.pdf

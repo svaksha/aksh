@@ -34,6 +34,7 @@
 + The computer science graduate school PhD survival guide "[The 4th guide in the Hitchhiker’s guide trilogy](http://www.cs.unc.edu/~azuma/hitch4.html)" by Dr. Azuma.
 + https://www.findaphd.com/
 + A website & forum for graduate students : http://thegradcafe.com 
++ https://www.timeshighereducation.com/features/10-truths-a-phd-supervisor-will-never-tell-you/2005513.article
 
 ## Advice 
 + http://getalifephd.blogspot.de/

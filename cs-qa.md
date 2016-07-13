@@ -6,10 +6,11 @@
 ----
 
 # DOCUMENTATION
++ http://asciidoctor.org/
 + https://github.com/GitbookIO/gitbook
 + Sphinx
 + Pandoc
-
++ http://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/
 
 ----
 
