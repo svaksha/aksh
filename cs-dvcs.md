@@ -31,6 +31,8 @@
 ### GUI clients
 + http://stackoverflow.com/questions/1516720/git-gui-client-for-linux
 + http://askubuntu.com/questions/227554/what-are-some-gui-clients-for-git
++ https://git-scm.com/download/gui/linux
++ https://git.wiki.kernel.org/index.php/InterfacesFrontendsAndTools
 
 ## Gollum wiki 
 + https://github.com/datamachines/gitwatch
