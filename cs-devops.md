@@ -372,6 +372,7 @@ __basher__
 ### Docker
 + https://github.com/ContinuumIO/docker-images : Repository of Docker images created by Continuum Analytics. 
     + See the Docker site:  https://registry.hub.docker.com/repos/continuumio/
++ https://github.com/massie/dockerfiles
 
 ### DVCS
 + Safely store secrets in Git/Mercurial : https://github.com/StackExchange/blackbox
