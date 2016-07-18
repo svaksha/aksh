@@ -19,6 +19,7 @@
 ----
 
 # ARR
++ http://www.nature.com/nature/journal/v534/n7607/full/534326d.html
 + https://github.com/Reproducible-Science-Curriculum
 + A course on https://www.coursera.org/learn/reproducible-research
 + Gael's blog posts : 
