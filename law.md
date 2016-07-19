@@ -17,6 +17,7 @@
 ----
 
 # License - Software
++ Why not to obfuscate: http://stackoverflow.com/questions/261638/how-do-i-protect-python-code
 + Zed on why he uses the AGPL: https://zedshaw.com/archive/why-i-algpl/
 + Sublicense the MIT to AGPL, http://programmers.stackexchange.com/questions/105912/can-you-change-code-distributed-under-the-mit-license-and-re-distribute-it-unde
    + http://programmers.stackexchange.com/questions/189633/what-sublicense-actually-means?lq=1

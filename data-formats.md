@@ -1,3 +1,4 @@
++ [CSV](#csv)
 + [ELAN](#elan)
 + [Encoding](#encoding)
 + [JSON](#json)
@@ -21,6 +22,20 @@
 + http://stackoverflow.com/questions/4862310/json-and-xml-comparison
 + http://programmers.stackexchange.com/questions/224929/is-csv-a-good-alternative-to-xml-and-json
 + http://stackoverflow.com/questions/1820129/when-and-why-is-xml-preferable-to-csv
+
+----
+
+# CSV
++ http://petl.readthedocs.io/en/latest/
++ http://stackoverflow.com/questions/34338693/how-to-parse-csv-file-and-compute-stats-based-on-that-data/34339089
+
+### NaN / NA 
++ http://pandas.pydata.org/pandas-docs/stable/missing_data.html
++ http://stackoverflow.com/questions/29530232/python-pandas-check-if-any-value-is-nan-in-dataframe
+
+### statistics on tabular data (CSV)
++ https://docs.python.org/3/library/statistics.html
++ http://docs.scipy.org/doc/numpy/reference/generated/numpy.nanmin.html#numpy.nanmin
 
 ----
 
