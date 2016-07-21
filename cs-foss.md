@@ -96,9 +96,13 @@ Create an umbrella list
 ----
 
 # MOOC-LMS software
-+ XBlock: https://en.wikipedia.org/wiki/XBlock from [EdX](https://en.wikipedia.org/wiki/EdX).
++ XBlock: https://en.wikipedia.org/wiki/XBlock 
 + https://en.wikipedia.org/wiki/SlideWiki, http://slidewiki.org/
 + Moodle
+
+## [EdX](https://en.wikipedia.org/wiki/EdX)
++ https://www.edx.org/about-us
++ Code: https://github.com/edx/
 
 ----
 

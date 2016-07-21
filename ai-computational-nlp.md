@@ -94,6 +94,7 @@
 ----
 
 # Pub-NLP
++ Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks : http://www.aclweb.org/anthology/P15-1150
 + 2015, [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://www.aclweb.org/anthology/P15-1150).
 + Neural Word Embedding as Implicit Matrix Factorization: https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf
 + https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf
