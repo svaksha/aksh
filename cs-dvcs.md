@@ -3,6 +3,7 @@
     + [BiGit](#bigit)
 + [GitLab](#gitlab)
     + [Frontend](#frontend)
++ [Rhodecode](#rhodecode)
 + [SVN](#svn)
     + [git-svn](#git-svn)
 
@@ -71,8 +72,19 @@
 
 ----
 
+# [Rhodecode](https://rhodecode.com)
+__AGPL Licence__
++ https://rhodecode.com/open-source
++ Code: https://code.rhodecode.com/
+
+----
+
 # GitLab
+__CE: MIT Licence__
++ https://about.gitlab.com/handbook/
 + https://about.gitlab.com/2016/01/15/making-gitlab-better-for-large-open-source-projects/
++ NEWS: 
+    + [Building an Open Core Company: Interview with GitLab's CEO](https://news.ycombinator.com/item?id=12128546)
 
 ## Frontend
 + https://about.gitlab.com/applications/
