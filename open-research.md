@@ -3,6 +3,7 @@
 + [OpenPub](#openpub)
 + [Quality](#quality)
 + [RDM](#rdm)
+    + [DMP](#dmp)
 + [Scientific Research](#scientific-research)
 
 ----
@@ -19,6 +20,7 @@
 ----
 
 # ARR
++ http://www.nature.com/news/dutch-agency-launches-first-grants-programme-dedicated-to-replication-1.20287
 + http://www.nature.com/nature/journal/v534/n7607/full/534326d.html
 + https://github.com/Reproducible-Science-Curriculum
 + A course on https://www.coursera.org/learn/reproducible-research
@@ -88,6 +90,10 @@
 + Christian T. Jacobs and Alexandros Avdis: Git-RDM: A research data management plugin for the Git version control system.
 http://joss.theoj.org/papers/10.21105/joss.00029
 + Contemporary Challenges for Data-Intensive Scientific Workflow Management Systems, http://www.switchproject.eu/wp-content/uploads/2016/04/uva-2.pdf
+
+## DMP
++ https://en.wikipedia.org/wiki/Data_management_plan
+
 
 ----
 

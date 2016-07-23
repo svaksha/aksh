@@ -76,6 +76,7 @@
 __AGPL Licence__
 + https://rhodecode.com/open-source
 + Code: https://code.rhodecode.com/
++ https://rhodecode.com/blog/113/rhodecode-goes-open-source-unified-security-for-git-svn-mercurial
 
 ----
 
@@ -85,6 +86,8 @@ __CE: MIT Licence__
 + https://about.gitlab.com/2016/01/15/making-gitlab-better-for-large-open-source-projects/
 + NEWS: 
     + [Building an Open Core Company: Interview with GitLab's CEO](https://news.ycombinator.com/item?id=12128546)
+    + https://news.ycombinator.com/item?id=12145350
+
 
 ## Frontend
 + https://about.gitlab.com/applications/
