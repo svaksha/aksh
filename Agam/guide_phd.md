@@ -26,6 +26,7 @@
 ----
 
 # Guide-PHD
++ [The Dissertation or Thesis Writer’s Toolkit](http://academicladder.com/toolkit/download).
 + How to write a Ph.D. thesis: https://www.uni-goettingen.de/en/138976.html
 + [Prof. Philip Guo](http://pgbovine.net/PhD-memoir.htm)'s very readable book on his personal Ph.D. school experience with other useful blog posts.
 + [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf).
@@ -123,6 +124,7 @@
 + How to structure the journal paper: http://writingajournalarticle.wordpress.com/structure/structure-the-paper/
 + Some excellent advice on research writing by @mnielsen : https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md
 + http://academia.stackexchange.com/questions/71694/how-can-i-make-use-of-iterative-work-in-progress-versions-of-papers
++ How to Write Dissertation Proposals : http://writingcenter.tamu.edu/Students/Handouts-Guides/Media-Complete-A-V-Library/Guides-%28What-Are-You-Writing-%29/Video/Dissertation-Proposals
 
 ## Paper Structure
 

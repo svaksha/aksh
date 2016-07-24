@@ -7,6 +7,7 @@
 
 
 # Zypper
++ zypper cheatsheet: https://en.opensuse.org/images/1/17/Zypper-cheat-sheet-1.pdf
 + http://www.thegeekstuff.com/category/bash-2/
 + http://www.thegeekstuff.com/2015/04/zypper-examples/
 + https://en.opensuse.org/Portal:Zypper

@@ -21,6 +21,9 @@
 ----
 
 # Imaging
++ Dreambit: 
+    + http://www.dailymail.co.uk/sciencetech/article-3702341/The-ultimate-face-swap-New-search-engine-face-hairstyle-reveal-ll-age.html
+    + http://www.washington.edu/news/2016/07/21/imaging-software-predicts-how-you-look-with-different-hair-styles-colors-appearances/
 + https://en.wikipedia.org/wiki/Integral_imaging
 + https://en.wikipedia.org/wiki/Category:3D_imaging
 

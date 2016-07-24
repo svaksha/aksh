@@ -20,6 +20,7 @@
 ----
 
 # ARR
++ Blockchain : http://blogs.lse.ac.uk/impactofsocialsciences/2016/07/21/could-blockchain-provide-the-technical-fix-to-solve-sciences-reproducibility-crisis/
 + http://www.nature.com/news/dutch-agency-launches-first-grants-programme-dedicated-to-replication-1.20287
 + http://www.nature.com/nature/journal/v534/n7607/full/534326d.html
 + https://github.com/Reproducible-Science-Curriculum
