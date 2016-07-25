@@ -41,6 +41,15 @@ For BarCamps:
 
 # AGORA
 
+### open-science-conference
++ http://www.open-science-conference.eu/
+
+### RepScience 2016
++  __Info__:: First International Workshop on Reproducible Open Science (RepScience 2016) Co-sponsored by Research Data Alliance Europe and OpenAIRE2020 
++  __Dates & Venue__:: 09/Sept/2016, Hannover, Germany.
++  __CFP__:: http://repscience2016.research-infrastructures.eu/
+    + E-mail: repscience2016@isti.cnr.it
+
 ### [PyData](http://pydata.org/)
 + __Info__:: http://pydata.org/amsterdam2016/cfp/
 
@@ -49,17 +58,11 @@ For BarCamps:
 ### [General Online Research](http://www.gor.de/)
 + [CFP](http://www.gor.de/about/call-for-papers.html).
 
-# [SAI Computing Conference 2016](http://www.SAIConference.com/Computing2016)
+### [SAI Computing Conference 2016](http://www.SAIConference.com/Computing2016)
 + IEEE Technically Sponsored 
 + 13-15 July 2016, London UK.
 
 ### [Pycon-SE](http://www.pycon.se/)
-
-### RepSc
-+  __Info__:: First International Workshop on Reproducible Open Science (RepScience 2016) Co-sponsored by Research Data Alliance Europe and OpenAIRE2020 
-+  __Dates & Venue__:: 09/Sept/2016, Hannover, Germany.
-+  __CFP__:: http://repscience2016.research-infrastructures.eu/
-    + E-mail: repscience2016@isti.cnr.it
 
 ### CCC
 + https://events.ccc.de/congress/2015/wiki/Session:Open_Science_Workshop
