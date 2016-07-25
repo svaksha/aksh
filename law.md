@@ -1,3 +1,4 @@
++ [Law - Copyright](#law-copyright)
 + [License - OpenData](#license-opendata)
 + [License - Software](#license-software)
     + [Violations](#violations)
@@ -5,6 +6,10 @@
 
 ----
 
+# Law - Copyright
++ https://www.theguardian.com/technology/2016/jul/21/digital-millennium-copyright-act-eff-supreme-court
+
+----
 
 # License - OpenData
 + http://opendatacommons.org/faq/licenses/

@@ -91,6 +91,10 @@
 + https://explorable.com/research-paper-format  
 + https://explorable.com/design-of-experiment
 
+## Metadata
++ https://www.google.de/search?q=provenance+metadata&ie=utf-8&oe=utf-8&gws_rd=cr&ei=iwuWV8evJsn5UKb9h-gO
++ https://www.w3.org/2005/Incubator/prov/wiki/What_Is_Provenance
+
 ----
 
 # Pub-NLP

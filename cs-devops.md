@@ -22,6 +22,7 @@
 + [VM](#vm)
 + [Yaksha ToDo](#yaksha-todo)
    + [Automation](#automation)
++ [Xample-Tech-Stack](#xample-tech-stack)
 
 ----
 
@@ -119,6 +120,9 @@
 # DEVOPS
 + https://github.com/devopsbookmarks/devopsbookmarks.com
 + [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+
+## Terraform
++ https://www.terraform.io/
 
 ## Batch Jobs
 + [Luigi](https://github.com/spotify/luigi) :: A Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
@@ -376,3 +380,7 @@ __basher__
 ### DVCS
 + Safely store secrets in Git/Mercurial : https://github.com/StackExchange/blackbox
 
+---- 
+
+# Xample-Tech-Stack
++ Uber tech stack: https://eng.uber.com/tech-stack-part-one/

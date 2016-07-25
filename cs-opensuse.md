@@ -19,3 +19,11 @@
 + http://opensuse-guide.org/codecs.php
 + http://unix.stackexchange.com/questions/82016/how-to-use-zypper-in-bash-scripts-for-someone-coming-from-apt-get
 + http://unix.stackexchange.com/questions/101534/using-zypper-how-can-i-remove-all-packages-installed-from-a-specific-repository?rq=1
+
+----
+
+# GUI - Qt errors
++ Unable to create io-slave: klauncher said: Error loading 'kio_file'.
+  + https://forums.opensuse.org/showthread.php/510850-Unable-to-create-io-slave-klauncher-said-Error-loading-kio_file
+  + https://forums.opensuse.org/showthread.php/510850-Unable-to-create-io-slave-klauncher-said-Error-loading-kio_file/page2
++ https://forums.opensuse.org/showthread.php/509200-Can-t-select-files-in-KF5  
