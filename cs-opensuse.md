@@ -1,12 +1,15 @@
-
+# [OpenSUSE](https://en.wikipedia.org/wiki/OpenSUSE)
 
 + https://www.suse.com/documentation/sles11/book_sle_admin/data/sec_netz_xntp_yast.html
 + https://forums.opensuse.org/showthread.php/487122-Use-zypper-as-sudoer-configuration
 + https://github.com/alfem/softwarechannels/blob/master/softwarechannels.conf
 + https://www.novell.com/documentation/opensuse110/opensuse110_reference/data/sec_zypper.html
 
+----
 
-# Zypper
+# [OBS](https://en.wikipedia.org/wiki/Open_Build_Service)
+
+## Zypper
 + zypper cheatsheet: https://en.opensuse.org/images/1/17/Zypper-cheat-sheet-1.pdf
 + http://www.thegeekstuff.com/category/bash-2/
 + http://www.thegeekstuff.com/2015/04/zypper-examples/

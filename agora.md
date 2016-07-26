@@ -1,9 +1,67 @@
-[Agora](https://en.wikipedia.org/wiki/Agora) is an Ancient Greek word for "gathering place" or "assembly", which exactly represents modern-day conferences and Foss events.
+[Agora](https://en.wikipedia.org/wiki/Agora) is an ancient Greek word for "gathering place" or "assembly", which exactly represents modern-day (un)conferences, meetings and Foss events.
 
++ [AGORA](#agora)
 + [Event Management](#event-management)
    + [ConfTools](#conftools)
 + [OpenHardware](#openhardware)
-+ [AGORA](#agora)
+
+----
+
+# AGORA
+
+### [Open Science Conference (OSC)](http://www.open-science-conference.eu/)
++  __Info__:: Open Science Conference 2017
++  __Dates & Venue__:: 2017March21-22, Berlin, Germany
++  __CFP__:: Please send your submission, (by September 30th, 2016), preferably as PDF document to the following email-address: <osc2017@zbw.eu>
+    + Important dates
+        · Abstract submission deadline: 2016Sept30
+        · Notification of acceptance / rejection: 2016Nov15
+        · Final abstract and poster submission: 2017Feb15
+        · Conference dates: Berlin (Germany), 2017Mar21–22
+
+### RepScience 2016
++  __Info__:: First International Workshop on Reproducible Open Science (RepScience 2016) Co-sponsored by Research Data Alliance Europe and OpenAIRE2020 
++  __Dates & Venue__:: 2016Sept09, Hannover, Germany.
++  __CFP__:: http://repscience2016.research-infrastructures.eu/
+    + E-mail: <repscience2016@isti.cnr.it>
+
+### [SEMANTiCS 2016](http://2016.semantics.cc) 
++ __Info__:: 12th International Conference on Semantic Systems - The Linked Data Conference.
++ __Dates & Venue__:: 2016September12-15, Leipzig, Germany.
++ __CFP__:: 
+    * Abstract Submission Deadline: 14April2016 (11:59 pm, Hawaii time)
+    * Paper Submission Deadline: 21April2016 (11:59 pm, Hawaii time)
+    * Notification of Acceptance: 26May2016 (11:59 pm, Hawaii time)
+    * Camera-Ready Paper: 16June2016 (11:59 pm, Hawaiitime)
+
+### [PyData](http://pydata.org/)
++ __Info__:: http://pydata.org/amsterdam2016/cfp/
+
+### [SAVE-SD 2016](https://lists.okfn.org/pipermail/open-science/2015-November/004048.html)
+
+### [General Online Research](http://www.gor.de/)
++ [CFP](http://www.gor.de/about/call-for-papers.html).
+
+### [SAI Computing Conference 2016](http://www.SAIConference.com/Computing2016)
++ IEEE Technically Sponsored 
++ 13-15 July 2016, London UK.
+
+### [Pycon-SE](http://www.pycon.se/)
+
+### CCC
++ https://events.ccc.de/congress/2015/wiki/Session:Open_Science_Workshop
++ https://events.ccc.de/congress/2015/wiki/Main_Page
++ https://events.ccc.de/2015/12/07/32c3-ticket-status/
+
+### [FORCE11](http://www.force2016.org)
++ Force2016 Conference
++ Dates: Preconference: 2016/Apr/17; Main conference: April 18-19, 2016
++ Venue: Portland, Oregon.
++ The FORCE2016 Research Communication and e-Scholarship Conference brings together a diverse group of people interested in changing the way scholarly and scientific information is communicated and shared. Who is it for? Scholars, researchers, librarians, data managers, grant administrators, funders, publishers, editors, societies and anyone else interested in scholarly communications.
+
+### ICCS
++ INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE :: http://www.iccs-meeting.org/iccs2016/ 
++ Workshop on Teaching Computational Science 2016 (WTCS 2016) :: http://webs.wofford.edu/shifletab/iccs/ 
 
 ----
 
@@ -36,58 +94,6 @@ For BarCamps:
 
 # OpenHardware
 + http://openhardware.science/
-
-----
-
-# AGORA
-
-### open-science-conference
-+ http://www.open-science-conference.eu/
-
-### RepScience 2016
-+  __Info__:: First International Workshop on Reproducible Open Science (RepScience 2016) Co-sponsored by Research Data Alliance Europe and OpenAIRE2020 
-+  __Dates & Venue__:: 09/Sept/2016, Hannover, Germany.
-+  __CFP__:: http://repscience2016.research-infrastructures.eu/
-    + E-mail: repscience2016@isti.cnr.it
-
-### [PyData](http://pydata.org/)
-+ __Info__:: http://pydata.org/amsterdam2016/cfp/
-
-### [SAVE-SD 2016](https://lists.okfn.org/pipermail/open-science/2015-November/004048.html)
-
-### [General Online Research](http://www.gor.de/)
-+ [CFP](http://www.gor.de/about/call-for-papers.html).
-
-### [SAI Computing Conference 2016](http://www.SAIConference.com/Computing2016)
-+ IEEE Technically Sponsored 
-+ 13-15 July 2016, London UK.
-
-### [Pycon-SE](http://www.pycon.se/)
-
-### CCC
-+ https://events.ccc.de/congress/2015/wiki/Session:Open_Science_Workshop
-+ https://events.ccc.de/congress/2015/wiki/Main_Page
-+ https://events.ccc.de/2015/12/07/32c3-ticket-status/
-
-### [FORCE11](http://www.force2016.org)
-+ Force2016 Conference
-+ Dates: Preconference: 2016/Apr/17; Main conference: April 18-19, 2016
-+ Venue: Portland, Oregon.
-+ The FORCE2016 Research Communication and e-Scholarship Conference brings together a diverse group of people interested in changing the way scholarly and scientific information is communicated and shared. Who is it for? Scholars, researchers, librarians, data managers, grant administrators, funders, publishers, editors, societies and anyone else interested in scholarly communications.
-
-### ICCS
-+ INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE :: http://www.iccs-meeting.org/iccs2016/ 
-+ Workshop on Teaching Computational Science 2016 (WTCS 2016) :: http://webs.wofford.edu/shifletab/iccs/ 
-
-
-### [SEMANTiCS 2016](http://2016.semantics.cc) 
-+ __Info__:: 12th International Conference on Semantic Systems - The Linked Data Conference.
-+ __Dates & Venue__:: 2016September12-15, Leipzig, Germany.
-+ __CFP__:: 
-    * Abstract Submission Deadline: 14April2016 (11:59 pm, Hawaii time)
-    * Paper Submission Deadline: 21April2016 (11:59 pm, Hawaii time)
-    * Notification of Acceptance: 26May2016 (11:59 pm, Hawaii time)
-    * Camera-Ready Paper: 16June2016 (11:59 pm, Hawaiitime)
 
 ----
 

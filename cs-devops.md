@@ -117,12 +117,15 @@
 
 ----
 
-# DEVOPS
-+ https://github.com/devopsbookmarks/devopsbookmarks.com
-+ [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+## INFRA
++ https://en.wikipedia.org/wiki/Open_Build_Service
 
 ## Terraform
 + https://www.terraform.io/
+
+## DevOps
++ https://github.com/devopsbookmarks/devopsbookmarks.com
++ [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 ## Batch Jobs
 + [Luigi](https://github.com/spotify/luigi) :: A Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
@@ -274,9 +277,16 @@ in multivendor environments.__
 + https://en.wikipedia.org/wiki/Operations_security
 + Use [OTR](https://otr.cypherpunks.ca/) for chatting, GnuPG for encrypted & verified data sharing, with EnigMail for emails and [TrueCrypt](https://truecrypt.ch/) for storage.
 + Encrypt your Flash Drives with Linux: https://www.linux.com/learn/easily-encrypt-your-flash-drives-linux
++ Discover subdomains with automated tools: 
+    * Subbrute
+    * Virustotal.com
+    * Dnsdumster.com
+    * Dnsdb.org
+    * [Censys.io](https://censys.io/about)
+    * CSP headers
 
+    
 ## Firewalls
-
 Each line should start with $ipt (which is your variable that points to the iptables binary with complete path).  This shows your second line starting with "ESTABLISHED" & third line with "$WAN_IFACE".
 
 Did you check your linefeeds and command formatting?

@@ -6,7 +6,9 @@
 + [Markdown](#markdown)
 + [MAT](#mat)
 + [Pandoc](#pandoc)
++ [RDF](#rdf)
 + [XML](#xml)
++ [Standards](#standards)
 
 ----
 
@@ -109,6 +111,12 @@ Python tools:
 
 ----
 
+# RDF 
+RDF == Resource Description Framework
++ How do I create a RDF database? https://www.quora.com/How-do-I-create-a-RDF-database
+
+----
+
 # [XML](https://en.wikipedia.org/wiki/XML)
 + Python docs: https://docs.python.org/3/library/xml.etree.elementtree.html
 + http://www.tutorialspoint.com/python/python_xml_processing.htm
@@ -118,3 +126,10 @@ Python tools:
 ## Python with XML
 + https://docs.python.org/3/library/xml.etree.elementtree.html
 + https://www.google.de/#q=how+to+read+xml+file+in+python
+
+----
+
+# Standards
++ https://en.wikipedia.org/wiki/Category:Metadata_standards
++ https://en.wikipedia.org/wiki/Metadata_standard
++ https://en.wikipedia.org/wiki/Preservation_metadata        
