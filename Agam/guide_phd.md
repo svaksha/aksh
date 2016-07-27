@@ -117,6 +117,7 @@
 ----
 
 # Guide-WRITE-PAPERS
++ https://twitter.com/WriteThatPhD
 + [GUIDELINES: HOW TO WRITE AN ACADEMIC PAPER](https://www.uni-marburg.de/fb10/iaa/institut/personal/birkle/MLA.pdf)
 + [Writing a research article: advice to beginners](http://intqhc.oxfordjournals.org/content/16/3/191).
 + [How to Write A Paper in Scientific Journal Style and Format](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTWtoc.html).
@@ -125,6 +126,10 @@
 + Some excellent advice on research writing by @mnielsen : https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md
 + http://academia.stackexchange.com/questions/71694/how-can-i-make-use-of-iterative-work-in-progress-versions-of-papers
 + How to Write Dissertation Proposals : http://writingcenter.tamu.edu/Students/Handouts-Guides/Media-Complete-A-V-Library/Guides-%28What-Are-You-Writing-%29/Video/Dissertation-Proposals
++ A Pragmatic Approach to Getting Published: 35 Tips for Early Career Researchers, http://journal.frontiersin.org/article/10.3389/fpls.2016.00610/full
++ Research Writing, Univ. of Sydney, http://www.lib.uts.edu.au/sites/default/files/attachments/page/Academic%20Writing%20Guide%20Part%204%20-%20Research%20Writing.pdf
++ http://www.gla.ac.uk/media/media_41223_en.pdf
++ http://graduateresearcher.space/degree-milestones/developing-the-research-proposal/
 
 ## Paper Structure
 
