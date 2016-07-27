@@ -130,6 +130,8 @@
 + Research Writing, Univ. of Sydney, http://www.lib.uts.edu.au/sites/default/files/attachments/page/Academic%20Writing%20Guide%20Part%204%20-%20Research%20Writing.pdf
 + http://www.gla.ac.uk/media/media_41223_en.pdf
 + http://graduateresearcher.space/degree-milestones/developing-the-research-proposal/
++ http://graduateresearcher.space/writing/writing-the-literature-review
+
 
 ## Paper Structure
 
