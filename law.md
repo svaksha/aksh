@@ -14,6 +14,9 @@
 # License - OpenData
 + http://opendatacommons.org/faq/licenses/
 
+## [CC license](https://en.wikipedia.org/wiki/Creative_Commons_license)
++ https://meta.wikimedia.org/wiki/Open_Content_-_A_Practical_Guide_to_Using_Creative_Commons_Licences/The_Creative_Commons_licencing_scheme
+
 ----
 
 # License - Software

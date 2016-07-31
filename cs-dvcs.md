@@ -1,4 +1,5 @@
 + [GIT](#git)
+    + [Git Libraries](#git-libraries)
     + [GitPython](#gitpython)
     + [BiGit](#bigit)
 + [GitLab](#gitlab)
@@ -21,6 +22,22 @@
 + http://imagej.net/Git_workshop
 + https://help.github.com/articles/good-resources-for-learning-git-and-github/
 
+
+## Git Libraries
+
+### LibGit2
++ https://github.com/libgit2/libgit2
++ https://github.com/libgit2/pygit2
+
+### GitPython
++ http://gitpython.readthedocs.org/en/stable/tutorial.html
++ python code to check git for all commits, https://www.google.de/search?q=python+code+to+check+git+for+all+commits&ie=utf-8&oe=utf-8&gws_rd=cr&ei=YmvMVr2cKoixadGxu-AK
++ https://github.com/gitpython-developers/GitPython/issues/240
+    + http://gitpython.readthedocs.org/en/stable/tutorial.html
+
+## git branching
++ http://nvie.com/posts/a-successful-git-branching-model/
+
 ## gitup - gitnotes
 + git-notes: https://git-scm.com/docs/git-notes
 + http://alblue.bandlem.com/2011/11/git-tip-of-week-git-notes.html
@@ -34,6 +51,16 @@
 + http://askubuntu.com/questions/227554/what-are-some-gui-clients-for-git
 + https://git-scm.com/download/gui/linux
 + https://git.wiki.kernel.org/index.php/InterfacesFrontendsAndTools
+
+## Git on Windows
++ https://git-for-windows.github.io
++ https://git-scm.com/download/win
+
+#### SSH for Windows
++ http://serverfault.com/questions/194567/how-do-i-tell-git-for-windows-where-to-find-my-private-rsa-key
++ http://guides.beanstalkapp.com/version-control/git-on-windows.html#installing-ssh-keys
++ http://www.htpcbeginner.com/best-ssh-clients-windows-putty-alternatives/2/
+
 
 ## Gollum wiki 
 + https://github.com/datamachines/gitwatch
@@ -51,11 +78,9 @@
 + Basic git comands, http://doc.gitlab.com/ce/gitlab-basics/basic-git-commands.html
 + A list of cool features of [Git and GitHub](http://git.io/sheet), source for the [git cheatsheet](https://github.com/tiimgreen/github-cheat-sheet).
 
-## GitPython
-+ http://gitpython.readthedocs.org/en/stable/tutorial.html
-+ python code to check git for all commits, https://www.google.de/search?q=python+code+to+check+git+for+all+commits&ie=utf-8&oe=utf-8&gws_rd=cr&ei=YmvMVr2cKoixadGxu-AK
-+ https://github.com/gitpython-developers/GitPython/issues/240
-    + http://gitpython.readthedocs.org/en/stable/tutorial.html
+#### Tasks
++ http://jnthn.net/training/git/exercises.pdf
++ http://www.tkt.cs.tut.fi/training/git-opetus/web/git-exercise.htm
 
 ### Git-Hooks
 + https://www.atlassian.com/git/tutorials/git-hooks

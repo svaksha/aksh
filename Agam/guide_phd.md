@@ -9,6 +9,7 @@
 + [Guide-WRITE-PAPERS](#guide-write-papers)
     + [Paper Structure](#paper-structure)
 + [REVIEWER](#reviewer)
++ [Retractions](#retractions)
 + [TIME MANAGEMENT](#time-management)
     + [Quotes](#quotes)
 
@@ -131,7 +132,8 @@
 + http://www.gla.ac.uk/media/media_41223_en.pdf
 + http://graduateresearcher.space/degree-milestones/developing-the-research-proposal/
 + http://graduateresearcher.space/writing/writing-the-literature-review
-
++ How to turn real-world problems into researchable questions & why you must: https://au.sagepub.com/sites/default/files/upm-binaries/9806_039449ch02.pdf, from https://twitter.com/WriteThatPhD/status/759676731817164800
++ Writing the methodology/methods section: http://graduateresearcher.space/writing/writing-the-methodologymethods-section/
 
 ## Paper Structure
 
@@ -185,6 +187,12 @@
 ### APPENDIX (optional)
 + Extra Information
 
+
+----
+
+# Retractions
++ http://retractionwatch.com/help-us-heres-some-of-what-were-working-on/
+
 ----
 
 # REVIEWER
@@ -197,6 +205,8 @@
 + 1989Nov, Ian Parberry, “A guide for new referees in theoretical computer science”, ACM SIGACT News.
 + How2Review : http://web.mst.edu/~cetinkayae/htdpr_ekc.pdf
 + Reviewing Papers: http://eelcovisser.org/wiki/teaching/reviewing
++ http://retractionwatch.com/2016/07/25/from-annoying-to-bitter-here-are-the-six-types-of-peer-reviewers/
+    + Full paper:  http://www.tandfonline.com/doi/full/10.1080/02723638.2016.1190559
 
 ----
 
@@ -218,5 +228,3 @@
 + If you can dream it, you can do it!
 + Life is not perfect, so dont be a perfectionist! Perfect is the enemy of the good!
 + (not a quote): the result from: http://myidp.sciencecareers.org/ 
-
-----
