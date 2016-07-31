@@ -37,6 +37,9 @@
 ### [PyData](http://pydata.org/)
 + __Info__:: http://pydata.org/amsterdam2016/cfp/
 
+### [EuroSciPy](https://www.euroscipy.org)
++ https://www.euroscipy.org/2016/
+
 ### [SAVE-SD 2016](https://lists.okfn.org/pipermail/open-science/2015-November/004048.html)
 
 ### [General Online Research](http://www.gor.de/)

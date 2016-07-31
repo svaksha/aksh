@@ -1,5 +1,5 @@
 + [GIT](#git)
-    + [Git Libraries](#git-libraries)
+    + [Git Libraries](#goit-libraries)
     + [GitPython](#gitpython)
     + [BiGit](#bigit)
 + [GitLab](#gitlab)
