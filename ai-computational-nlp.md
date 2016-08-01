@@ -24,6 +24,10 @@
 + http://www.dartmouth.edu/~deutsch/Grammatik/perfect/Perfect.html
 + http://www.german-grammar.de/grammar/content/english_german_table_of_content.htm
 
++ http://www.verbix.com/languages/german.shtml
++ http://www.germanplurals.com/index.php
++ https://deutsch.lingolia.com/en/
+
 ----
 
 # Grammar-Samskrit

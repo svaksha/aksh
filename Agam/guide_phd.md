@@ -121,6 +121,7 @@
 ----
 
 # Guide-WRITE-PAPERS
++ http://chronicle.com/article/My-Writing-Productivity/236712
 + https://twitter.com/WriteThatPhD
 + [GUIDELINES: HOW TO WRITE AN ACADEMIC PAPER](https://www.uni-marburg.de/fb10/iaa/institut/personal/birkle/MLA.pdf)
 + [Writing a research article: advice to beginners](http://intqhc.oxfordjournals.org/content/16/3/191).
