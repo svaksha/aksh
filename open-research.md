@@ -84,6 +84,7 @@
 
 # Quality
 + http://www.software.ac.uk/online-sustainability-evaluation
++ On the Failings of Qualitative Inquiry: https://au.sagepub.com/sites/default/files/upm-binaries/24799_02_Hammersley_Ch_01.pdf
 
 ----
 
