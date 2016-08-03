@@ -16,6 +16,7 @@
 ----
 
 # [Grammar-German](https://en.wikipedia.org/wiki/Category:German_grammar)
++ Dict: http://quickdic.org/index_e.html
 + https://en.wikibooks.org/wiki/German/Grammar/Prepositions_and_Postpositions
 + https://www.lsa.umich.edu/german/hmr/Grammatik/Praepositionen/Prepositions.html
 + https://en.wikipedia.org/wiki/German_sentence_structure
@@ -27,6 +28,7 @@
 + http://www.verbix.com/languages/german.shtml
 + http://www.germanplurals.com/index.php
 + https://deutsch.lingolia.com/en/
++ http://www.lsa.umich.edu/german/hmr/Grammatik/Gender/Gender.html
 
 ----
 
