@@ -1,5 +1,21 @@
++ [EMail](#email)
++ [IRC](#irc)
++ [Mobile](#mobile)
++ [VOIP](#voip)
 
-# IRC User Commands
+----
+
+# [EMail](https://en.wikipedia.org/wiki/Comparison_of_webmail_providers)
++ https://en.wikipedia.org/wiki/Bitmessage
+
+
+----
+
+
+# IRC 
+
+## IRSSI User Commands
++ Jump windows (in irssi) :: /ws NUMBER
 + register nick         :: /msg NickServ REGISTER password email
 + ID myself             :: /msg NickServ IDENTIFY password
                         :: /msg nickserv set accountname NICK 
@@ -11,7 +27,7 @@ GHOST Reclaims use of a nickname.
   REGAIN (moznet)       :: /msg NickServ REGAIN NICK password
   RECLAIM (OFTC)        :: /msg NickServ RECLAIM NICK password
 
-### 
+### commands 
 + ID others             :: /msg NickServ IDENTIFY NICK password
 + NO PM's               :: /umode +g (`/accept nick` whitelists individual nicks)
 + List members in chan  :: /quote names #channel or `/names #channel`
@@ -20,9 +36,7 @@ GHOST Reclaims use of a nickname.
                            /msg socinfo factoids search #women * 
                            /query socinfo on #women
 
-----
-
-# OP commands
+## ChanOP commands
 + register IRC channel  :: /cs REGISTER #Channel
 
 ### [Access](https://toxin.jottit.com/freenode_nickserv_commands#ns18)
@@ -58,10 +72,19 @@ GHOST Reclaims use of a nickname.
                            3. /ns identify originalnick originalpassword
                            4. /ns group originalpassword
                            
----- 
-
-# IRSSI
-+ Jump windows (in irssi) :: /ws NUMBER
+ 
 
 ----
 
+# Mobile
++ https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones
+
+----
+
+# VOIP
++ https://en.wikipedia.org/wiki/Comparison_of_VoIP_software 
+
++ https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications
++ https://en.wikipedia.org/wiki/Signal_%28software%29
+
+----
