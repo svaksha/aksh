@@ -5,6 +5,7 @@
 + [RDF](#rdf)
 + [Pub-NLP](#pub-nlp)
 + [Pub-Semantic](#semantic)
++ [Search Engine](#search-engine)
 + [SPARQL](#sparql)
 
 ----
@@ -122,6 +123,12 @@
 + http://www.isi.edu/~gil/
 + http://semantic-cora.org
 + http://semantic-cora.org/index.php/Publications_and_Talks
+
+----
+
+# [Search Engine](https://en.wikipedia.org/wiki/Category:Free_search_engine_software)
++ https://en.wikipedia.org/wiki/List_of_search_engines
+
 
 ----
 

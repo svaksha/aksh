@@ -1,5 +1,6 @@
 + [EMail](#email)
 + [IRC](#irc)
++ [Mailing List](#mailing-list)
 + [Mobile](#mobile)
 + [VOIP](#voip)
 
@@ -7,7 +8,6 @@
 
 # [EMail](https://en.wikipedia.org/wiki/Comparison_of_webmail_providers)
 + https://en.wikipedia.org/wiki/Bitmessage
-
 
 ----
 
@@ -73,6 +73,12 @@ GHOST Reclaims use of a nickname.
                            4. /ns group originalpassword
                            
  
+
+----
+
+# [Mailing List](https://en.wikipedia.org/wiki/Category:Free_mailing_list_software)
+
+## [Discourse](https://en.wikipedia.org/wiki/Discourse_%28software%29)
 
 ----
 
