@@ -41,6 +41,7 @@
 ----
 
 # OpenData
++ Research impact of paywalled versus open access papers :: http://www.1science.com/oanumbr.html
 + Hetionet in Neo4j, https://neo4j.het.io/browser/
 + http://www.pasteur4oa.eu/sites/pasteur4oa/files/resource/Scholarly%20Platforms%20Briefing%20Paper_FINAL.pdf
 + https://www.liberquarterly.eu/articles/10.18352/lq.10137/

@@ -139,6 +139,9 @@
 + http://graduateresearcher.space/writing/writing-the-literature-review
 + How to turn real-world problems into researchable questions & why you must: https://au.sagepub.com/sites/default/files/upm-binaries/9806_039449ch02.pdf, from https://twitter.com/WriteThatPhD/status/759676731817164800
 + Writing the methodology/methods section: http://graduateresearcher.space/writing/writing-the-methodologymethods-section/
++ Top 10 hints for PhD Students or ECRs Publishing for the 1st Time:: http://www.itsnotyouitsyourdata.com/stuck-in-the-middle/top-10-hints-for-phd-students-or-ecrs-publishing-for-the-1st-time/
++ http://graduateresearcher.space/writing/writing-the-introduction-and-conclusion/
+
 
 ## Paper Structure
 
@@ -197,6 +200,7 @@
 
 # Retractions
 + http://retractionwatch.com/help-us-heres-some-of-what-were-working-on/
++ http://retractionwatch.com/2016/08/06/weekend-reads-research-parasite-doubling-down-racism-in-the-lab-clinical-trial-insider-trading/
 
 ----
 
