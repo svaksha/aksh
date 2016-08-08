@@ -17,6 +17,7 @@
 + [UTILITIES](#utilities)
    + [ARBTT](#arbtt)
    + [Backups](#backups)
+   + [Calendar](#calendar)
    + [Spreadsheets](#spreadsheets)
    + [Terminal Multiplexer](#terminal-multiplexer)
 + [Resources](#resources)
@@ -237,6 +238,12 @@ __desktop timetracker__
 + http://stackoverflow.com/questions/123198/how-do-i-copy-a-file-in-python
 + http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python
 + http://codereview.stackexchange.com/questions/49351/python-back-up-script
+
+## Calendar
++ https://github.com/search?utf8=%E2%9C%93&q=calendar, in [Ruby](https://github.com/search?l=Ruby&q=calendar&type=Repositories&utf8=%E2%9C%93) and [Python](https://github.com/search?l=Python&q=calendar&type=Repositories&utf8=%E2%9C%93).
++ https://www.linux.com/learn/five-best-open-source-calendar-servers-linux
++ https://sourceforge.net/directory/business-enterprise/scheduling/calendar/language%3Ajava/os%3Alinux/
++ http://www.techsupportalert.com/best-free-reminder-to-do-program.htm
 
 ## Spreadsheets
 + [roo](https://github.com/roo-rb/roo) :: An interface to spreadsheets of several sorts. 

@@ -32,6 +32,7 @@
     + http://ivory.idyll.org/blog/2015-how-should-we-think-about-research-software.html
 + https://danielskatzblog.wordpress.com/2015/04/20/scientific-software-quality-versus-purpose/
 + http://www.qualitynano.eu/home/about-qnano.html
++ Running an open experiment - transparency and reproducibility in soil and ecosystem science :: http://iopscience.iop.org/article/10.1088/1748-9326/11/8/084004/meta
 
 ## Papers
 + http://www.nature.com/news/reality-check-on-reproducibility-1.19961
