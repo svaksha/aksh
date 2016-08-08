@@ -1,3 +1,4 @@
++ [LMS](#lms)
 + [NumFOCUS](#numfocus)
     + [Software Carpentry](#software-carpentry)
     + [Data Carpentry](#data-carpentry)
@@ -5,6 +6,12 @@
 ----
 
 + List of FOSS packages: https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages
+
+----
+
+# [LMS](https://en.wikipedia.org/wiki/Integrated_library_system)
++ https://en.wikipedia.org/wiki/List_of_next-generation_library_catalogs
++ 
 
 ----
 
