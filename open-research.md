@@ -33,6 +33,7 @@
 + https://danielskatzblog.wordpress.com/2015/04/20/scientific-software-quality-versus-purpose/
 + http://www.qualitynano.eu/home/about-qnano.html
 + Running an open experiment - transparency and reproducibility in soil and ecosystem science :: http://iopscience.iop.org/article/10.1088/1748-9326/11/8/084004/meta
++ Research integrity: Don't let transparency damage science :: http://www.nature.com/news/research-integrity-don-t-let-transparency-damage-science-1.19219
 
 ## Papers
 + http://www.nature.com/news/reality-check-on-reproducibility-1.19961

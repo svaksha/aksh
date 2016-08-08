@@ -3,6 +3,7 @@
    + [Docker](#docker)
    + [Reprozip](#reprozip)
    + [Care](#care)
+   + [Kepler-Taverna](#kepler-taverna)
 + [Continuous Integration](#continuous-integration)        
    + [Configuration Management](#configuration-management)
    + [TDD](#tdd)
@@ -64,6 +65,14 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
 ## Care
 + [Care](http://reproducible.io/) (based on PRoot, http://proot.me/) is another interesting option that can be used to pack up a complete Julia installation (including packages and required system libraries) on Ubuntu 14.04, then run on Scientific Linux 6. 
 + Care and PRoot are available as simple static binaries and give you a simulated chroot environment (via ptrace).
+
+## Kepler-Taverna
+There are two main differences between Kepler and Taverna: (1) the models of computation they use and (2) the user communities being served. 
+(1) the models of computation they use:
+    Kepler works based on the concept of “directors”, which dictate the models of execution used within a workflow. Taverna uses one particular model of computation, based on the lambda calculus, whereas in Kepler users have a range of models of computation available.
+(2) the user communities being served    
+    The Taverna team has primarily focused on supporting the Life Sciences community (biology, chemistry and medical imaging), whereas in Kepler the emphasis so far has been on ecology and geology.
+
 
 ----
 
