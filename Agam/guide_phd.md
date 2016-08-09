@@ -141,6 +141,8 @@
 + Writing the methodology/methods section: http://graduateresearcher.space/writing/writing-the-methodologymethods-section/
 + Top 10 hints for PhD Students or ECRs Publishing for the 1st Time:: http://www.itsnotyouitsyourdata.com/stuck-in-the-middle/top-10-hints-for-phd-students-or-ecrs-publishing-for-the-1st-time/
 + http://graduateresearcher.space/writing/writing-the-introduction-and-conclusion/
++ 9 + 1 hints for publishing a quantitative journal paper : http://www.itsnotyouitsyourdata.com/the-final-years/9-1-hints-for-publishing-a-quantitative-journal-paper/
++ http://www.fasttrackimpact.com/#!Who-will-benefit-from-your-research-and-who-will-block-it-How-to-identify-stakeholders-so-you-can-work-together-for-impact/hmlp3/56916c100cf2165f764377e7
 
 
 ## Paper Structure

@@ -1,29 +1,30 @@
 + [TECHNOLOGY OBJECTIVES](#technology-objectives)
 + [Computational Reproducibility](#computational-reproducibility)
-   + [Docker](#docker)
-   + [Reprozip](#reprozip)
-   + [Care](#care)
+    + [Docker](#docker)
+    + [Reprozip](#reprozip)
+    + [Care](#care)
 + [Scientific Workflow](#scientific-workflow)
-   + [Kepler-Taverna](#kepler-taverna)
+    + [Kepler-Taverna](#kepler-taverna)
 + [Continuous Integration](#continuous-integration)        
-   + [Configuration Management](#configuration-management)
-   + [TDD](#tdd)
+    + [Travis-CI](#travis-ci)
+    + [Configuration Management](#configuration-management)
+    + [TDD](#tdd)
 + [Database](#database)
 + [Framework - Data Quality Assesment](#framework-data-quality-assesment)
-   + [Bubbles](#bubbles)
+    + [Bubbles](#bubbles)
 + [Framework - online IDE](#framework-online-ide)
 + [Framework - Web](#framework-web)
 + [Infrastructure](#infrastructure)
-   + [Communication - Internal](#communication-internal)
-   + [Messaging Lib](#messaging-lib)
+    + [Communication - Internal](#communication-internal)
+    + [Messaging Lib](#messaging-lib)
 + [Project Management](#project-management)
-   + [DVCS - GitLab](#dvcs-gitlab)
-   + [Software Review](#software-review)
+    + [DVCS - GitLab](#dvcs-gitlab)
+    + [Software Review](#software-review)
 + [Visualization](#visualization)
 + [Bibliography ](#bibliography)
-   + [Papers](#papers)
-   + [References](#references)
-   + [Guidelines](#guidelines)
+    + [Papers](#papers)
+    + [References](#references)
+    + [Guidelines](#guidelines)
 
 ----
 
@@ -93,8 +94,9 @@ There are two main differences between [Kepler]() and [Taverna](http://www.taver
 + [Tox](http://tox.readthedocs.org/en/latest/), an automation tool providing packaging, testing and deployment of Python software.
 + [Rake](https://en.wikipedia.org/wiki/Rake_%28software%29), a Ruby tool for software task management and build automation.
 + [Capistrano](https://en.wikipedia.org/wiki/Capistrano_%28software%29), an open source Ruby tool for running scripts on multiple servers to deploy web applications.
-+ _NON-FOSS_:
-   + [Travis-CI](https://travis-ci.org/), free only for open source projects - integrates with github, but gitlab status is not known.
+
+## [Travis-CI](https://en.wikipedia.org/wiki/Travis_CI)
++ [Travis-CI](https://travis-ci.org/) : integrates with github, but gitlab status is not known.
 
 ## Configuration Management
 + Ansible (.py)
@@ -211,6 +213,10 @@ Options for internal communication/ help channel:
    + https://notabug.org
    + https://gitlab.com
 + For advanced features of git, non-CS researchers would need to be provided with help and documentation to enable them to use the tools smoothly. 
++ [Rhodecode](https://rhodecode.com), __AGPL Licence__
+    + https://rhodecode.com/open-source
+    + Code: https://code.rhodecode.com/
+    + https://rhodecode.com/blog/113/rhodecode-goes-open-source-unified-security-for-git-svn-mercurial
 
 ## Software Review
 + [Kallithea ](https://en.wikipedia.org/wiki/Kallithea_(software)) is a cross-platform free software source code management system : https://kallithea-scm.org/

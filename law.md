@@ -8,6 +8,7 @@
 
 # Law - Copyright
 + https://www.theguardian.com/technology/2016/jul/21/digital-millennium-copyright-act-eff-supreme-court
++ Copyright Law and Open Access in Academia: International Survey Results - First Preliminary Draft :: http://aslea.org/program2016/5D_Eger.pdf
 
 ----
 
