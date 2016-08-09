@@ -81,8 +81,9 @@
 + In neuroscience/imaging there are things like the Insight Journal and the "Frontiers in..." imprints which have software-specific tracks.
 + [Computer Physics Communications](http://www.journals.elsevier.com/computer-physics-communications/) publishes a lot of articles and papers that are more intended to document free/open-source implementations than they are to describe novel algorithms. This is quite useful as a way to give people something to cite when they use your code, and also to obtain more traditional academic credit for free-software work.
 + Stata and R have their own journals: [Stata Journal](http://www.stata-journal.com/) and [R Journal](https://journal.r-project.org/). 
-+ The ActivePapers project (http://www.activepapers.org/) and paper: http://f1000research.com/articles/3-289/v3
-
++ The [ActivePapers project](http://www.activepapers.org/) and paper: http://f1000research.com/articles/3-289/v3
++ For-Profit Journals Must End :: http://read.hipporeads.com/for-profit-journals-must-end/
++ Easy steps towards open scholarship :: http://blogs.lse.ac.uk/impactofsocialsciences/2013/05/24/easy-steps-towards-open-scholarship 
 
 ----
 

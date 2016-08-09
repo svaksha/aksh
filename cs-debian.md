@@ -258,6 +258,7 @@ __desktop timetracker__
 # Resources
 + https://help.ubuntu.com/community/SoftwareManagement
 + https://github.com/aleksandar-todorovic/awesome-linux/
++ Scrapers: https://github.com/cassidoo/scrapers
 
 ----
 
