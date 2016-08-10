@@ -143,7 +143,7 @@
 + http://graduateresearcher.space/writing/writing-the-introduction-and-conclusion/
 + 9 + 1 hints for publishing a quantitative journal paper : http://www.itsnotyouitsyourdata.com/the-final-years/9-1-hints-for-publishing-a-quantitative-journal-paper/
 + http://www.fasttrackimpact.com/#!Who-will-benefit-from-your-research-and-who-will-block-it-How-to-identify-stakeholders-so-you-can-work-together-for-impact/hmlp3/56916c100cf2165f764377e7
-
++ Paragraph replanning: https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/what-is-paragraph-re-planning-c9a7e694d4ec#.pnvcfbxtl
 
 ## Paper Structure
 

@@ -71,5 +71,6 @@
 ----
 
 # Visualization
++ Vega :: https://twitter.com/svaksha/status/763038732945678337
 + Bokeh for visualization - draw the brain : https://www.continuum.io/blog/developer-blog/drawing-brain-bokeh
 

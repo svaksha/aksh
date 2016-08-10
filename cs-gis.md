@@ -8,6 +8,8 @@
 
 # GIS
 + https://github.com/johnjohndoe/Styrax :: A RESTful JSON-API to access geospatial tree data stored in a PostgreSQL/PostGIS database. 
++ Bike share mapping creates beautiful portraits of London, NYC and Berlin : https://uclab.fh-potsdam.de/cf/
+    + https://www.theguardian.com/cities/2016/aug/09/bike-share-mapping-gps-data-interactive-london-nyc-berlin-cf-city-flows
 
 ----
 
