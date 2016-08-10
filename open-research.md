@@ -1,4 +1,6 @@
++ [Resources](#resources)
 + [ARR](#arr)
++ [OpenAire](#openaire)
 + [OpenData](#opendata)
 + [OpenPub](#openpub)
 + [Quality](#quality)
@@ -8,6 +10,8 @@
 
 ----
 
+# Resources
++ https://github.com/firaswehbe/data-programming-resources/blob/master/openscience.md
 + https://erc.europa.eu/sites/default/files/content/pages/pdf/2.1%20Sabina%20Leonelli.pdf
 + statistical analysis, https://zedshaw.com/archive/a-rubric-for-it-analysis-papers/
 + https://www.google.de/search?q=infrastructure+for+analytical+reproducibility&ie=utf-8&oe=utf-8&gws_rd=cr&ei=GNp6V7e-CKqWgAatkYXYCQ
@@ -39,6 +43,11 @@
 + http://www.nature.com/news/reality-check-on-reproducibility-1.19961
 + http://www.nature.com/nature/journal/v532/n7598/full/532177d.html
 + http://www.nature.com/news/announcement-reducing-our-irreproducibility-1.12852
+
+----
+
+# OpenAire
++ Guidelines on FAIR Data Management in Horizon 2020 : http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf
 
 ----
 
@@ -120,3 +129,6 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 ## Scientific Rules
 + Rules of good scientific practice, procedures, and penalties in the event of malpractice: https://www.humboldt-foundation.de/web/docs/F25752/rules_scientific_practice.pdf
 + https://www.google.de/search?q=Principles+of+good+Scientific+practice&ie=utf-8&oe=utf-8&gws_rd=cr&ei=KeM6V4zBJ6WfgAbu4LbQCQ
+
+## SWMS - Scientific Workflow Management Systems
++ https://github.com/svaksha/aksh/blob/master/pub-o3srd/2015-mork-acm.pdf

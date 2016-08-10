@@ -1,8 +1,14 @@
++ [Resources](#resources)
 + [Anaconda](#anaconda)
 + [NLP](#nlp)
 + [HDF5](#hdf5)
 + [MOOC](#mooc)
 + [NEWS](#news)
+
+----
+
+# Resources
++ https://github.com/firaswehbe/data-programming-resources/blob/master/python.md
 
 ----
 
