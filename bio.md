@@ -10,18 +10,18 @@
 ----
 
 # BOOKS
-* Free [Biology textbook](http://openstaxcollege.org/textbooks/biology/resources).
++ Free [Biology textbook](http://openstaxcollege.org/textbooks/biology/resources).
 
 ----
 
 # BIOINFORMATICS
-* https://en.wikipedia.org/wiki/Bioinformatics
-* https://en.wikipedia.org/wiki/Category:Genetics 
-* https://en.wikipedia.org/wiki/Genetics
-* https://en.wikipedia.org/wiki/Recombinant_DNA
-- http://en.wikipedia.org/wiki/Category:Molecular_biology
-- http://en.wikipedia.org/wiki/Category:Biochemistry 
-- http://en.wikipedia.org/wiki/Category:Genetics
++ https://en.wikipedia.org/wiki/Bioinformatics
++ https://en.wikipedia.org/wiki/Category:Genetics 
++ https://en.wikipedia.org/wiki/Genetics
++ https://en.wikipedia.org/wiki/Recombinant_DNA
++ http://en.wikipedia.org/wiki/Category:Molecular_biology
++ http://en.wikipedia.org/wiki/Category:Biochemistry 
++ http://en.wikipedia.org/wiki/Category:Genetics
 
 ----
 
@@ -30,7 +30,6 @@
 * https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology
 * https://en.wikipedia.org/wiki/BBGKY_hierarchy
 * [HN thread on Bayesian Statistics](https://news.ycombinator.com/item?id=4030061) and the article: [Understand the Math Behind it All: Bayesian Statistics](http://blogs.adobe.com/digitalmarketing/personalization/conversion-optimization/understand-the-math-behind-it-all-bayesian-statistics/)
-
 + http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/MethodsInBiostatisticsI/coursePage/index/
 + Lecture notes, http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/MethodsInBiostatisticsI/coursePage/lectureNotes/
 + http://www.smart-stats.org/
@@ -70,5 +69,3 @@
 # NEWS
 + http://www.ozy.com/rising-stars-and-provocateurs/the-crusade-of-marcela-uliano-da-silva/32937
 + Next generation sequencing services: http://www.biotech.cornell.edu/brc/genomics-facility/services/next-generation-sequencing
-
-

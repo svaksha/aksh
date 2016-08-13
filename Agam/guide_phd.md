@@ -142,6 +142,7 @@
 + 9 + 1 hints for publishing a quantitative journal paper : http://www.itsnotyouitsyourdata.com/the-final-years/9-1-hints-for-publishing-a-quantitative-journal-paper/
 + http://www.fasttrackimpact.com/#!Who-will-benefit-from-your-research-and-who-will-block-it-How-to-identify-stakeholders-so-you-can-work-together-for-impact/hmlp3/56916c100cf2165f764377e7
 + Paragraph replanning: https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/what-is-paragraph-re-planning-c9a7e694d4ec#.pnvcfbxtl
++ Writers block, https://www.theguardian.com/higher-education-network/2014/dec/22/overcoming-writers-block-three-top-tips
 
 ## THESIS
 + Connecting the dots: writing a doctoral thesis by publication, https://digital.library.adelaide.edu.au/dspace/bitstream/2440/96163/2/hdl_96163.pdf
@@ -149,7 +150,7 @@
 + How to write a research proposal: http://newt.phys.unsw.edu.au/~jw/thesis.html
 + [The Dissertation or Thesis Writer’s Toolkit](http://academicladder.com/toolkit/download).
 + How to write a Ph.D. thesis: https://www.uni-goettingen.de/en/138976.html
-
++ The key to a successful PhD thesis? Write in your own voice, https://www.theguardian.com/higher-education-network/blog/2014/aug/20/write-in-your-own-voice-key-to-successful-phd-thesis
 
 ## Paper Structure
 ### ABSTRACT

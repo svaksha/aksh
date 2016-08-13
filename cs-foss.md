@@ -2,6 +2,9 @@
 + [NumFOCUS](#numfocus)
     + [Software Carpentry](#software-carpentry)
     + [Data Carpentry](#data-carpentry)
++ [MOZILLA](#mozilla)
++ [Project Management](#project-management)    
++ [Social Media and SNS](#social-media-and-sns)
 
 ----
 
@@ -10,8 +13,19 @@
 ----
 
 # [LMS](https://en.wikipedia.org/wiki/Integrated_library_system)
+__Library Management__
 + https://en.wikipedia.org/wiki/List_of_next-generation_library_catalogs
-+ 
+
+## MOOC-LMS software
++ XBlock: https://en.wikipedia.org/wiki/XBlock 
++ https://en.wikipedia.org/wiki/SlideWiki, http://slidewiki.org/
++ Moodle
++ https://github.com/projecthydra
+
+## [EdX](https://en.wikipedia.org/wiki/EdX)
++ https://www.edx.org/about-us
++ Code: https://github.com/edx/
+
 
 ----
 
@@ -29,7 +43,7 @@
 
 ----
 
-# Comparison of reference management software
+# Reference Management Software
 + https://en.wikipedia.org/wiki/Comparison_of_reference_management_software
 + https://en.wikipedia.org/wiki/Category:Reference_management_software
 
@@ -97,21 +111,12 @@ Create an umbrella list
 
 ----
 
-# Library management
-+ https://github.com/projecthydra
-
-----
-
-# MOOC-LMS software
-+ XBlock: https://en.wikipedia.org/wiki/XBlock 
-+ https://en.wikipedia.org/wiki/SlideWiki, http://slidewiki.org/
-+ Moodle
-
-## [EdX](https://en.wikipedia.org/wiki/EdX)
-+ https://www.edx.org/about-us
-+ Code: https://github.com/edx/
-
-----
-
 # Project Management
 + https://github.com/opf/openproject
+
+----
+
+# [Social Media](https://en.wikipedia.org/wiki/Social_media) and [SNS](https://en.wikipedia.org/wiki/Social_networking_service)
++ https://en.wikipedia.org/wiki/Diaspora_%28software%29
+    + https://en.wikipedia.org/wiki/Diaspora_%28social_network%29 
+    + https://en.wikipedia.org/wiki/Loomio
