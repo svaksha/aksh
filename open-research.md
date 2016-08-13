@@ -1,6 +1,6 @@
 + [Resources](#resources)
 + [ARR](#arr)
-+ [OpenAire](#openaire)
++ [OpenAccess](#openaccess)
 + [OpenData](#opendata)
 + [OpenPub](#openpub)
 + [Quality](#quality)
@@ -46,12 +46,20 @@
 
 ----
 
-# OpenAire
+# OpenAccess
 + Guidelines on FAIR Data Management in Horizon 2020 : http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf
++ https://mitpress.mit.edu/sites/default/files/titles/content/openaccess/Suber_08_chap1.html
++ Publisher copyright policies & self-archiving : http://www.sherpa.ac.uk/romeo/index.php
+
+
+### Papers
++ A study of institutional spending on open access publication fees in Germany: https://peerj.com/articles/2323/
+
 
 ----
 
 # OpenData
++ http://www.opendatainception.io/
 + Research impact of paywalled versus open access papers :: http://www.1science.com/oanumbr.html
 + Hetionet in Neo4j, https://neo4j.het.io/browser/
 + http://www.pasteur4oa.eu/sites/pasteur4oa/files/resource/Scholarly%20Platforms%20Briefing%20Paper_FINAL.pdf

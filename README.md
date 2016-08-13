@@ -1,6 +1,6 @@
 # aksh
 
-My personal reference bibliography of STEM resources, books, technical notes, conference/ workshop jottings, [scientific](https://en.wikipedia.org/wiki/Outline_of_science) research papers and [grey literature](https://en.wikipedia.org/wiki/Grey_literature) that makes an interesting read. 
+My personal reference bibliography of STEM resources, books, technical notes, conference/ workshop jottings, [scientific](https://en.wikipedia.org/wiki/Outline_of_science) research papers and [grey literature](https://en.wikipedia.org/wiki/Grey_literature) and just about anything that makes an interesting read. Since this is a personal dumpspace for bookmarks, expect it to perpetually be in a state of randomly ordered chaos.
 
 ----
 

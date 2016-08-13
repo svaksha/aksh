@@ -7,6 +7,7 @@
     + [Scientific Procedures](#scientific-procedures)
 + [Guide-READ-PAPERS](#guide-read-papers)
 + [Guide-WRITE-PAPERS](#guide-write-papers)
+    + [THESIS](#thesis)
     + [Paper Structure](#paper-structure)
 + [REVIEWER](#reviewer)
 + [Retractions](#retractions)
@@ -27,8 +28,6 @@
 ----
 
 # Guide-PHD
-+ [The Dissertation or Thesis Writer’s Toolkit](http://academicladder.com/toolkit/download).
-+ How to write a Ph.D. thesis: https://www.uni-goettingen.de/en/138976.html
 + [Prof. Philip Guo](http://pgbovine.net/PhD-memoir.htm)'s very readable book on his personal Ph.D. school experience with other useful blog posts.
 + [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf).
 + [Advice on the PhD life](http://blog.vivekhaldar.com/post/29296581613/what-is-life-like-for-phds-in-computer-science-who).
@@ -72,7 +71,6 @@
 + http://openscienceasap.org/stream/2014/11/27/how-i-set-up-my-scientific-work-environment/#comment-946
 + [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)?
 + [Jason Hong's collection of advice links](http://www.cs.cmu.edu/~jasonh/advice.html)
-+ How to write a research proposal: http://newt.phys.unsw.edu.au/~jw/thesis.html
 + [Should I Read Papers](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)?
 + [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 
@@ -145,8 +143,15 @@
 + http://www.fasttrackimpact.com/#!Who-will-benefit-from-your-research-and-who-will-block-it-How-to-identify-stakeholders-so-you-can-work-together-for-impact/hmlp3/56916c100cf2165f764377e7
 + Paragraph replanning: https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/what-is-paragraph-re-planning-c9a7e694d4ec#.pnvcfbxtl
 
-## Paper Structure
+## THESIS
++ Connecting the dots: writing a doctoral thesis by publication, https://digital.library.adelaide.edu.au/dspace/bitstream/2440/96163/2/hdl_96163.pdf
++ How not to write a PhD thesis : https://www.timeshighereducation.com/news/how-not-to-write-a-phd-thesis/410208.article
++ How to write a research proposal: http://newt.phys.unsw.edu.au/~jw/thesis.html
++ [The Dissertation or Thesis Writer’s Toolkit](http://academicladder.com/toolkit/download).
++ How to write a Ph.D. thesis: https://www.uni-goettingen.de/en/138976.html
 
+
+## Paper Structure
 ### ABSTRACT
 + Short 150 word abstract describing the paper.
 

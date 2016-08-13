@@ -36,6 +36,7 @@
     + http://gitpython.readthedocs.org/en/stable/tutorial.html
 
 ## git branching
++ http://learngitbranching.js.org/
 + http://nvie.com/posts/a-successful-git-branching-model/
 
 ## gitup - gitnotes
@@ -44,6 +45,12 @@
 
 ## git rebase
 + http://michaeldehaan.net/post/116465000577/understanding-when-to-use-git-rebase
+
+## git [fetch](https://git-scm.com/docs/fetch-options) -prune
++ http://longair.net/blog/2009/04/16/git-fetch-and-merge/
++ http://stackoverflow.com/questions/20106712/what-are-the-differences-between-git-remote-prune-git-prune-git-fetch-prune
++ http://stackoverflow.com/questions/18308535/automatic-prune-with-git-fetch-or-pull
++ http://stackoverflow.com/tags/git-fetch/info
 
 
 ### GUI clients

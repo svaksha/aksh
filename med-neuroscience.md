@@ -3,6 +3,7 @@
 + [Cerebral Palsy](#cerebral-palsy)
 + [Congenital Disorders](#congenital-disorders)
 + [General](#general)
++ [Nerves](#nerves)
 + [NeuroEthics](#neuroethics)
 + [Neurological Disorders](#neurological-disorders)
 + [NeuroSurgery](#neurosurgery)
@@ -72,8 +73,8 @@
 
 ----
 
-# NEWS
-+ [Activity in Dendrites is Critical in Memory Formation](http://neurosciencenews.com/neuroscience-dendrite-memory-formation-1477/). 
+# Nerves
++ Impact of prion proteins on the nerves revealed for the first time : http://www.media.uzh.ch/en/Press-Releases/2016/Prion-Proteine.html
 
 ----
 
@@ -91,6 +92,11 @@
 # NeuroSurgery
 + http://www.medicaldaily.com/battle-waterloo-might-not-have-happened-if-it-wasnt-neurosurgeon-jean-massot-how-345600
 + [Two bullets to the head and an early winter: fate permits Kutuzov to defeat Napoleon at Moscow], Kushchayev SV, Belykh E, Fishchenko Y, et al., Journal of Neurosurgery ; 2015.
+
+----
+
+# NEWS
++ [Activity in Dendrites is Critical in Memory Formation](http://neurosciencenews.com/neuroscience-dendrite-memory-formation-1477/). 
 
 ----
 
