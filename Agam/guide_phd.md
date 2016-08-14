@@ -143,8 +143,10 @@
 + http://www.fasttrackimpact.com/#!Who-will-benefit-from-your-research-and-who-will-block-it-How-to-identify-stakeholders-so-you-can-work-together-for-impact/hmlp3/56916c100cf2165f764377e7
 + Paragraph replanning: https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/what-is-paragraph-re-planning-c9a7e694d4ec#.pnvcfbxtl
 + Writers block, https://www.theguardian.com/higher-education-network/2014/dec/22/overcoming-writers-block-three-top-tips
++ https://core.ac.uk/download/files/343/11233054.pdf
 
 ## THESIS
++ http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf
 + Connecting the dots: writing a doctoral thesis by publication, https://digital.library.adelaide.edu.au/dspace/bitstream/2440/96163/2/hdl_96163.pdf
 + How not to write a PhD thesis : https://www.timeshighereducation.com/news/how-not-to-write-a-phd-thesis/410208.article
 + How to write a research proposal: http://newt.phys.unsw.edu.au/~jw/thesis.html
