@@ -3,6 +3,8 @@
 ----
 
 # Resources
++ https://github.com/dreikanter/ruby-bookmarks
++ https://github.com/markets/awesome-ruby
 + http://RubyKoans.com
 + RailsBridge: free courses and meet-ups to teach Rails to women: http://www.meetup.com/SeattleRailsBridge/
 + RailsMentors: http://www.railsmentors.org/
