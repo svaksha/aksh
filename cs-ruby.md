@@ -1,4 +1,5 @@
 + [Resources](#resources)
++ [RoR](#ror)
 
 ----
 
@@ -19,4 +20,9 @@
 + Sinatra micro-framework : http://www.sinatrarb.com/
    - http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/
 
+## Cheatsheet
++ http://www.pragtob.info/rails-beginner-cheatsheet/
 
+----
+
+# RoR

@@ -346,6 +346,7 @@ Keep in mind those tips are for  PRODUCTION SERVERS rather than Development mach
 + [BASH best practices](https://github.com/progrium/bashstyle).
 
 ### Automation
++ https://github.com/SUSE-Cloud/automation
 __Dotbot__
 + https://github.com/webpro/awesome-dotfiles
 + https://github.com/cypher/dotfiles
@@ -368,8 +369,9 @@ __AWS__
 + https://github.com/colinbjohnson/aws-missing-tools :: tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
 + https://github.com/colinbjohnson/snippets
 + https://github.com/colinbjohnson/awstraining
-__basher__
+__BASH__
 + [basher](https://github.com/basherpm/basher) :: A package manager for shell scripts. 
++ [Bash8](https://pypi.python.org/pypi/bash8) :: A pep8 equivalent for bash scripts.
 
 ### Auto-Alias
 + [HuffShell](https://github.com/paulmars/huffshell) :: A gem for suggesting and optimizing your shell aliases, programtically. 

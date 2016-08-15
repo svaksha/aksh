@@ -1,12 +1,41 @@
++ [API](#api)
+    + [Git](#git)
+        + [GitPython](#gitpython)
+    + [GitHub](#github)
+    + [GitLab](#gitlab)
 + [GIT](#git)
-    + [Git Libraries](#goit-libraries)
-    + [GitPython](#gitpython)
     + [BiGit](#bigit)
 + [GitLab](#gitlab)
     + [Frontend](#frontend)
 + [Rhodecode](#rhodecode)
 + [SVN](#svn)
     + [git-svn](#git-svn)
+
+----
+
+# API
+
+##__Julia__
++ https://github.com/svaksha/Julia.jl/blob/master/API.md#git
+
+## Git 
++ https://github.com/libgit2/libgit2
++ https://github.com/libgit2/pygit2
+
+### GitPython
++ http://gitpython.readthedocs.org/en/stable/tutorial.html
++ python code to check git for all commits, https://www.google.de/search?q=python+code+to+check+git+for+all+commits&ie=utf-8&oe=utf-8&gws_rd=cr&ei=YmvMVr2cKoixadGxu-AK
++ https://github.com/gitpython-developers/GitPython/issues/240
+    + http://gitpython.readthedocs.org/en/stable/tutorial.html
+
+## GitHub 
++ https://github.com/PyGithub/PyGithub
+
+## GitLab 
+__Python__
++ https://github.com/gpocentek/python-gitlab
+__Ruby__
++ https://github.com/NARKOZ/gitlab ::  Ruby wrapper and CLI for GitLab REST API http://narkoz.github.io/gitlab 
 
 ----
 
@@ -21,19 +50,6 @@
 + http://nuclearsquid.com/writings/git-tricks-tips-workflows/
 + http://imagej.net/Git_workshop
 + https://help.github.com/articles/good-resources-for-learning-git-and-github/
-
-
-## Git Libraries
-
-### LibGit2
-+ https://github.com/libgit2/libgit2
-+ https://github.com/libgit2/pygit2
-
-### GitPython
-+ http://gitpython.readthedocs.org/en/stable/tutorial.html
-+ python code to check git for all commits, https://www.google.de/search?q=python+code+to+check+git+for+all+commits&ie=utf-8&oe=utf-8&gws_rd=cr&ei=YmvMVr2cKoixadGxu-AK
-+ https://github.com/gitpython-developers/GitPython/issues/240
-    + http://gitpython.readthedocs.org/en/stable/tutorial.html
 
 ## git branching
 + http://learngitbranching.js.org/
@@ -159,3 +175,6 @@ __CE: MIT Licence__
 ## git-svn
 + http://git.or.cz/course/svn.html
 + https://help.github.com/articles/importing-from-subversion/
+
+
+
