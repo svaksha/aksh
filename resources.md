@@ -43,6 +43,10 @@
 + http://synopsis.exercism.io/, https://github.com/exercism/cli, https://github.com/exercism
 + http://freecodecamp.com/
 
+## Language Wars
++ Python Vs. Perl Vs. Ruby: http://blog.slickedit.com/2007/09/comparing-python-to-perl-and-ruby/
++ From Perl to Ruby: https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-perl/
+
 ## Lists
 + https://github.com/NARKOZ/guides
 

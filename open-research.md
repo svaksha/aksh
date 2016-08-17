@@ -47,7 +47,6 @@
 ----
 
 # OpenAccess
-+ Guidelines on FAIR Data Management in Horizon 2020 : http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf
 + https://mitpress.mit.edu/sites/default/files/titles/content/openaccess/Suber_08_chap1.html
 + Publisher copyright policies & self-archiving : http://www.sherpa.ac.uk/romeo/index.php
 
@@ -117,6 +116,7 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 
 ## DMP
 + https://en.wikipedia.org/wiki/Data_management_plan
++ Guidelines on FAIR Data Management in Horizon 2020 : http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf
 
 
 ----
