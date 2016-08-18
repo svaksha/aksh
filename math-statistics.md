@@ -2,6 +2,7 @@
 + [Statistics](#statistics)
    + [Research Papers](#research-papers)
    + [Business Analytics](#business-analytics)
++ [TimeSeries](#timeseries)
 
 ----
 
@@ -36,3 +37,8 @@
 
 ## Normal Distribution
 + https://www.ma.utexas.edu/users/mks/CommonMistakes2014/WorkshopSlidesDay1_2014.pdf
+
+----
+
+# TimeSeries
++ Calculate time series in a spreadsheet: http://www.excelforum.com/excel-general/471757-calculating-time-difference-over-midnight.html
