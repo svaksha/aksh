@@ -1,5 +1,6 @@
 + [BCI](#bci)
 + [Brain](#brain)
++ [Brain Cancer](#brain-cancer)
 + [Cerebral Palsy](#cerebral-palsy)
 + [Congenital Disorders](#congenital-disorders)
 + [General](#general)
@@ -48,6 +49,11 @@
 
 ## Brain + Sleep
 + [How to Get Better Sleep: The Beginner’s Guide to Overcoming Sleep Deprivation](http://jamesclear.com/better-sleep).
+
+----
+
+# Brain Cancer
++ New hope for treating brain cancer :: http://cordis.europa.eu/result/rcn/183223_en.html
 
 ----
 

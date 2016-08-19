@@ -1,8 +1,9 @@
 + [Magic Commands](#magic-commands)
 + [NB Extensions](#nb-extensions)
 + [Julia Bugs](#julia-bugs)
++ [Resources](#resources)
 
-====
+----
 
 # Magic Commands
 + [Advanced Jupyter Notebook Tricks — Part I](http://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/)
@@ -44,3 +45,7 @@ After installation go to `http://localhost:8888/nbextensions` and activate the e
 + IJulia / IPython / Jupyter combination not working #289: https://github.com/JuliaLang/IJulia.jl/issues/289
 + http://stackoverflow.com/questions/24091373/best-way-to-run-julia-code-in-an-ipython-notebook-or-python-code-in-an-ijulia-n
 
+----
+
+# [Resources](https://github.com/svaksha/pythonidae/blob/master/Utilities.md#jupyter)
++ [Running Jupyter with multiple Python and iPython paths](http://stackoverflow.com/questions/39007571/running-jupyter-with-multiple-python-and-ipython-paths/).

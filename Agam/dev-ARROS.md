@@ -41,6 +41,11 @@ The Hardware infrastructure & servers for the FOSS stack will run on private ser
 
 # Computational Reproducibility 
 
+## [EaaS](http://bw-fla.uni-freiburg.de/)
++ Blog: http://bw-fla.uni-freiburg.de/wordpress/
+
+Emulation as a Service as a strategy for digital preservation is about to become an accepted technology for memory institutions as a method for coping a large variety of complex digital objects. Hence, the demand for ready-made and especially easy-to-use emulation services will grow. In order to provide user-friendly emulation services a scalable, distributed system model is required to be run on heterogeneous Grid or Cluster infrastructure.
+
 ## [Docker](https://docker.com)
 VM's are memory-intensive and harder to setup besides varying across distros. Hence, docker containers are a safer method to ensure easy reproducability without massive system or data changes.
 + Containerize the research data that is syntactically well-formed, has __meta tags__, is __cleaned up__ and __ready for reuse__ or for __testing and revalidating__ already published research. 
