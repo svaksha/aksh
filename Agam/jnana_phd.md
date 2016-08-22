@@ -221,12 +221,15 @@
 + 2008Mar, Mark Allman, “Thoughts on reviewing”, ACM SIGCOMM, Comput. Commun. Rev.
 + 2009Mar, Henning Schulzrinne, “Double-blind reviewing: more placebo than miracle cure?”, ACM SIGCOMM Comput. Commun.
 + 2009Apr, Thomas Anderson, “Conference reviewing considered harmful”, ACM SIGOPS Oper. Syst. Rev.
-+ 2007Jul, Srinivasan Keshav, “How to read a paper”, ACM SIGCOMM Comput. Commun. Rev.
++ 2007Jul, Srinivasan Keshav, “How to read a paper”, CAM SIGCOMM Comput. Commun. Rev.
 + 1989Nov, Ian Parberry, “A guide for new referees in theoretical computer science”, ACM SIGACT News.
 + How2Review : http://web.mst.edu/~cetinkayae/htdpr_ekc.pdf
 + Reviewing Papers: http://eelcovisser.org/wiki/teaching/reviewing
 + http://retractionwatch.com/2016/07/25/from-annoying-to-bitter-here-are-the-six-types-of-peer-reviewers/
     + Full paper:  http://www.tandfonline.com/doi/full/10.1080/02723638.2016.1190559
+
+### Respond to Reviewers
++ [How not to respond to reviewers: Eight simple tips](http://blogs.nature.com/naturejobs/2016/08/19/how-not-to-respond-to-reviewers-eight-simple-tips/)
 
 ----
 

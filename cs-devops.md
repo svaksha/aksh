@@ -20,8 +20,8 @@
 + [SECURITY](#security)
 + [Vagrant](#vagrant)
 + [VM](#vm)
-+ [Yaksha ToDo](#yaksha-todo)
-   + [Automation](#automation)
++ [Yaksha](#yaksha)
+   + [Automate](#automate)
 + [Xample-Tech-Stack](#xample-tech-stack)
 
 ----
@@ -339,13 +339,13 @@ Keep in mind those tips are for  PRODUCTION SERVERS rather than Development mach
 
 ----
 
-# [Yaksha](http://svaksha.github.io/yaksha) Tasks.
+# [Yaksha](http://svaksha.github.io/yaksha)
 + Papertrail, CopperEgg, Skeddly, Monit, Jenkins.
 
 ### Cleanup my bash programs 
 + [BASH best practices](https://github.com/progrium/bashstyle).
 
-### Automation
+### Automate
 + https://github.com/SUSE-Cloud/automation
 __Dotbot__
 + https://github.com/webpro/awesome-dotfiles
