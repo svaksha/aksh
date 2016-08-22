@@ -43,6 +43,7 @@
 ## Advice 
 + http://getalifephd.blogspot.de/
 + http://chronicle.com/article/A-Letter-to-Past/236870/
++ [Your science career: making a strategic plan](https://womeninscienceaust.org/2016/08/21/your-science-career-making-a-strategic-plan/)
 
 ## Coursework - CS
 + https://www.cs.cornell.edu/phd/requirements         # Requirement of Cornell University
