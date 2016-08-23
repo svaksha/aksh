@@ -35,7 +35,7 @@
 __Python__
 + https://github.com/gpocentek/python-gitlab
 __Ruby__
-+ https://github.com/NARKOZ/gitlab ::  Ruby wrapper and CLI for GitLab REST API http://narkoz.github.io/gitlab 
++ https://github.com/NARKOZ/gitlab :: Ruby wrapper and CLI for GitLab REST API http://narkoz.github.io/gitlab 
 
 ----
 
@@ -100,6 +100,8 @@ __Ruby__
 #### Cheatsheet
 + Basic git comands, http://doc.gitlab.com/ce/gitlab-basics/basic-git-commands.html
 + A list of cool features of [Git and GitHub](http://git.io/sheet), source for the [git cheatsheet](https://github.com/tiimgreen/github-cheat-sheet).
++ https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md
+
 
 #### Tasks
 + http://jnthn.net/training/git/exercises.pdf

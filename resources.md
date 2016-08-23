@@ -40,6 +40,7 @@
 + Hal Abelson's, Jerry Sussman's and Julie Sussman's [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/) (MIT Press, 1984; ISBN 0-262-01077-1), an excellent computer science text used in introductory courses at MIT.
 
 ## Code Exercises
++ Learn to program: https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md
 + http://synopsis.exercism.io/, https://github.com/exercism/cli, https://github.com/exercism
 + http://freecodecamp.com/
 
