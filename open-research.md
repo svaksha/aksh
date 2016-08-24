@@ -5,6 +5,7 @@
     + [DataScience](#datascience)
 + [OpenPub](#openpub)
 + [Quality](#quality)
+    + [Data Quality](#data-quality)
 + [RDM](#rdm)
     + [DMP](#dmp)
 + [Scientific Research](#scientific-research)
@@ -109,6 +110,9 @@
 # Quality
 + http://www.software.ac.uk/online-sustainability-evaluation
 + On the Failings of Qualitative Inquiry: https://au.sagepub.com/sites/default/files/upm-binaries/24799_02_Hammersley_Ch_01.pdf
+
+## Data Quality
++ Gene name errors are widespread in the scientific literature : http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1044-7
 
 ----
 
