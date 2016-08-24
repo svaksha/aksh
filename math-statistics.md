@@ -1,4 +1,5 @@
 + [NOTES](#notes)
++ [Bayesian](#bayesian)
 + [Statistics](#statistics)
    + [Research Papers](#research-papers)
    + [Business Analytics](#business-analytics)
@@ -8,6 +9,11 @@
 
 # NOTES
 + The independent variable is placed on the horizontal (x) axis. The dependent variable is placed on the vertical (y) axis. 
+
+----
+
+# Bayesian
++ Bayesian Statistics explained to Beginners: https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english
 
 ----
 
