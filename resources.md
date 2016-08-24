@@ -45,6 +45,7 @@
 + http://freecodecamp.com/
 
 ## Language Wars
++ Why are there so many programming languages? http://cs.stackexchange.com/questions/451/why-are-there-so-many-programming-languages
 + Python Vs. Perl Vs. Ruby: http://blog.slickedit.com/2007/09/comparing-python-to-perl-and-ruby/
 + From Perl to Ruby: https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-perl/
 
