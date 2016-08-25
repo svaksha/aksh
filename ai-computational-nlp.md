@@ -1,3 +1,5 @@
++ [DATA](#data)
+    + [German](#german)
 + [grammar-parser](#grammar-parser)
 + [Grammar-German](#grammar-german)
 + [Grammar-Samskrit](#grammar-samskrit)
@@ -7,6 +9,13 @@
 + [Pub-Semantic](#semantic)
 + [Search Engine](#search-engine)
 + [SPARQL](#sparql)
+
+----
+
+# DATA 
+## German 
++ https://sourceforge.net/projects/germandict/files/
++ http://german.stackexchange.com/questions/491/where-can-i-find-a-parsable-list-of-german-words
 
 ----
 
