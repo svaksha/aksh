@@ -44,6 +44,7 @@
 + High-impact journals: where newsworthiness trumps methodology, '__Sexy Science Vs. Reproducibility__' http://blogs.lse.ac.uk/impactofsocialsciences/2013/03/15/high-impact-journals-where-newsworthiness-trumps-methodology/
 
 ## Papers
++ Reproducibility in Chemical Research : http://onlinelibrary.wiley.com/doi/10.1002/anie.201606591/pdf
 + http://www.nature.com/news/reality-check-on-reproducibility-1.19961
 + http://www.nature.com/nature/journal/v532/n7598/full/532177d.html
 + http://www.nature.com/news/announcement-reducing-our-irreproducibility-1.12852
