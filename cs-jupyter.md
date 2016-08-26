@@ -5,6 +5,11 @@
 
 ----
 
++ jakevdp blogs about [Conda: Myths and Misconceptions](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/).
+
+
+----
+
 # Magic Commands
 + [Advanced Jupyter Notebook Tricks — Part I](http://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/)
 + [Cell-magic](https://ipython.readthedocs.org/en/stable/interactive/magics.html#cell-magics) and [Built-in magic commands](https://ipython.readthedocs.org/en/stable/interactive/magics.html).
