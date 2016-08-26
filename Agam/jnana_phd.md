@@ -5,6 +5,7 @@
     + [Coursework-CS](#coursework-cs)
     + [Researcher Tasks](#researcher-tasks)
     + [Scientific Procedures](#scientific-procedures)
++ [Guide-PostDoc](#guide-postdoc)
 + [Guide-READ-PAPERS](#guide-read-papers)
 + [Guide-WRITE-PAPERS](#guide-write-papers)
     + [THESIS](#thesis)
@@ -62,6 +63,12 @@
 
 ## Scientific Procedures
 + Rules of good scientific practice, procedures, and penalties in the event of malpractice: https://www.humboldt-foundation.de/web/docs/F25752/rules_scientific_practice.pdf
+
+----
+
+# Guide-PostDoc
++ Alternatives to professorships in academia : http://www.sciencemag.org/careers/features/2016/08/alternatives-professorships-academia
+
 
 ----
 
