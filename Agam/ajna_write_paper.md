@@ -1,78 +1,20 @@
-+ [ETHICS](#ethics)
-    + [Academic Authorship](#academic-authorship)
-+ [Guide-PHD](#guide-phd)
-    + [Advice](#advice)
-    + [Coursework-CS](#coursework-cs)
-    + [Researcher Tasks](#researcher-tasks)
-    + [Scientific Procedures](#scientific-procedures)
-+ [Guide-PostDoc](#guide-postdoc)
-+ [Guide-READ-PAPERS](#guide-read-papers)
-+ [Guide-WRITE-PAPERS](#guide-write-papers)
-    + [THESIS](#thesis)
++ [FORMAT](#format)
++ [Write-PAPERS](#write-papers)
     + [Paper Structure](#paper-structure)
++ [Write-THESIS](#write-thesis)
++ [Read-PAPERS](#read-papers)
++ [RETRACTIONS](#retractions)
 + [REVIEWER](#reviewer)
-+ [Retractions](#retractions)
-+ [TIME MANAGEMENT](#time-management)
-    + [Quotes](#quotes)
 
 ----
 
-# ETHICS
-
-## [Academic Authorship](https://en.wikipedia.org/wiki/Academic_authorship)
-+ https://www.elsevier.com/connect/co-authors-gone-bad-how-to-avoid-publishing-conflicts
-+ http://www.nap.edu/read/4917/chapter/7#12
-+ 2007 : http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2247376/
-+ https://www.enago.com/blog/difference-between-lead-author-and-co-author/
-+ http://pubs.acs.org/paragonplus/submission/jacsat/jacsat_authguide.pdf
+# FORMAT
++ How to Format Your Research Paper : http://www.sciencebuddies.org/science-fair-projects/project_research_paper_format.shtml
++ GUIDELINES FOR AUTHORS OF SCIENTIFIC PAPERS: https://www.iccat.int/Documents/SCRS/Other/Guide_ColVol_ENG_2009.pdf
 
 ----
 
-# Guide-PHD
-+ [Prof. Philip Guo](http://pgbovine.net/PhD-memoir.htm)'s very readable book on his personal Ph.D. school experience with other useful blog posts.
-+ [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf).
-+ [Advice on the PhD life](http://blog.vivekhaldar.com/post/29296581613/what-is-life-like-for-phds-in-computer-science-who).
-+ [9 things you should consider before embarking on a PhD](https://www.elsevier.com/connect/9-things-you-should-consider-before-embarking-on-a-phd).
-+ The computer science graduate school PhD survival guide "[The 4th guide in the Hitchhiker’s guide trilogy](http://www.cs.unc.edu/~azuma/hitch4.html)" by Dr. Azuma.
-+ https://www.findaphd.com/
-+ A website & forum for graduate students : http://thegradcafe.com 
-+ https://www.timeshighereducation.com/features/10-truths-a-phd-supervisor-will-never-tell-you/2005513.article
-+ Why Do So Many Graduate Students Quit? Universities themselves may be contributing to burnout.
-    - http://www.theatlantic.com/education/archive/2016/07/why-do-so-many-graduate-students-quit/490094/
-
-
-## Advice 
-+ http://getalifephd.blogspot.de/
-+ http://chronicle.com/article/A-Letter-to-Past/236870/
-+ [Your science career: making a strategic plan](https://womeninscienceaust.org/2016/08/21/your-science-career-making-a-strategic-plan/)
-
-## Coursework - CS
-+ https://www.cs.cornell.edu/phd/requirements         # Requirement of Cornell University
-+ http://www.cse.ucsd.edu/node/1963              # Requirement of UCSan Diego University
-+ https://www.cs.rutgers.edu/graduate/phd_program.html  # Requirement for admission and Credits for teaching and research
-
-
-## Researcher Tasks
-* Authentic desire and drive to commit to the research program.
-* Willingness to develop further and learn in a multidisciplinary environment of talented people and high-end facilities.
-* Enjoy solving problems, carrying out analysis and working with attention to detail.
-* Independently manage a project, conduct and document a research project.
-* Planning, designing, putting into practice and controlling all laboratory and experimental work.
-* Participation in curricular and extra-curricular activities, such as lectures, soft skills courses, methods courses, retreats, presentations, PhD committee, thesis committee.
-* Team working with other scientists and mutual support in experiments.
-
-## Scientific Procedures
-+ Rules of good scientific practice, procedures, and penalties in the event of malpractice: https://www.humboldt-foundation.de/web/docs/F25752/rules_scientific_practice.pdf
-
-----
-
-# Guide-PostDoc
-+ Alternatives to professorships in academia : http://www.sciencemag.org/careers/features/2016/08/alternatives-professorships-academia
-
-
-----
-
-# Guide-READ-PAPERS
+# Read-PAPERS
 + [How to read a research paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html).
 + [Advice on reading academic papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 + [Some Thoughts on What it Takes to Produce a Good Ph.D. Thesis](https://engineering.purdue.edu/kak/HowToPhD.pdf).
@@ -126,7 +68,7 @@
 
 ----
 
-# Guide-WRITE-PAPERS
+# Write-PAPERS
 + http://graduateresearcher.space/writing/writing-the-analysisdiscussion/
 + http://chronicle.com/article/My-Writing-Productivity/236712
 + https://twitter.com/WriteThatPhD
@@ -152,15 +94,8 @@
 + Paragraph replanning: https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/what-is-paragraph-re-planning-c9a7e694d4ec#.pnvcfbxtl
 + Writers block, https://www.theguardian.com/higher-education-network/2014/dec/22/overcoming-writers-block-three-top-tips
 + https://core.ac.uk/download/files/343/11233054.pdf
++ Paper Sections : http://writers.stackexchange.com/questions/14516/can-section-headings-in-a-paper-be-questions
 
-## THESIS
-+ http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf
-+ Connecting the dots: writing a doctoral thesis by publication, https://digital.library.adelaide.edu.au/dspace/bitstream/2440/96163/2/hdl_96163.pdf
-+ How not to write a PhD thesis : https://www.timeshighereducation.com/news/how-not-to-write-a-phd-thesis/410208.article
-+ How to write a research proposal: http://newt.phys.unsw.edu.au/~jw/thesis.html
-+ [The Dissertation or Thesis Writer’s Toolkit](http://academicladder.com/toolkit/download).
-+ How to write a Ph.D. thesis: https://www.uni-goettingen.de/en/138976.html
-+ The key to a successful PhD thesis? Write in your own voice, https://www.theguardian.com/higher-education-network/blog/2014/aug/20/write-in-your-own-voice-key-to-successful-phd-thesis
 
 ## Paper Structure
 ### ABSTRACT
@@ -214,9 +149,20 @@
 + Extra Information
 
 
+---- 
+
+# Write-THESIS
++ http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf
++ Connecting the dots: writing a doctoral thesis by publication, https://digital.library.adelaide.edu.au/dspace/bitstream/2440/96163/2/hdl_96163.pdf
++ How not to write a PhD thesis : https://www.timeshighereducation.com/news/how-not-to-write-a-phd-thesis/410208.article
++ How to write a research proposal: http://newt.phys.unsw.edu.au/~jw/thesis.html
++ [The Dissertation or Thesis Writer’s Toolkit](http://academicladder.com/toolkit/download).
++ How to write a Ph.D. thesis: https://www.uni-goettingen.de/en/138976.html
++ The key to a successful PhD thesis? Write in your own voice, https://www.theguardian.com/higher-education-network/blog/2014/aug/20/write-in-your-own-voice-key-to-successful-phd-thesis
+
 ----
 
-# Retractions
+# RETRACTIONS
 + http://retractionwatch.com/help-us-heres-some-of-what-were-working-on/
 + http://retractionwatch.com/2016/08/06/weekend-reads-research-parasite-doubling-down-racism-in-the-lab-clinical-trial-insider-trading/
 
@@ -239,22 +185,3 @@
 + [How not to respond to reviewers: Eight simple tips](http://blogs.nature.com/naturejobs/2016/08/19/how-not-to-respond-to-reviewers-eight-simple-tips/)
 
 ----
-
-# TIME MANAGEMENT
-+ http://www.phdcompletion.com/phd-completion-why-create-a-writing-schedule/
-+ Some excellent advice on Time Management as a [Video](https://www.youtube.com/watch?v=oTugjssqOT0&ebc=ANyPxKqznHPt8tH-h6nssbneWEMegl11qJ51FGN7Wdtu9gad2SkIF1qSE-F6--s5EI_O4uzwT0TL) and as [written slides](http://www.cs.virginia.edu/helpnet/Time/time.html) by the Late. Prof. Randy Pausch.
-    + Procrastination is the thief of time. 
-    + Computers are faster, they just take longer.
-+ James Lipscomb, son of the Nobel Prize-winning chemist [William Nunn Lipscomb, Jr.](https://en.wikipedia.org/wiki/William_Lipscomb), writes about '[Scientific Aggression as a Way of Life](http://wlipscomb.tripod.com/wnl_life.html)'.
-
-
-## Quotes
-+ Prof. Randy Pausch from the [Randy Pausch Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo): 
-    + Experience is what you get when you didnt get what you wanted!
-    + Be prepared : __Luck__ is where __preparation__ meets __opportunity__.
-+ “Let me tell you the secret that has led me to my goal. My strength lies solely in my tenacity.” - Louis Pasteur.
-+ Focus on the results, and you'll never make progress. Focus on the progress, and you'll see results.
-+ Learn what counts, and only do what counts (time management).
-+ If you can dream it, you can do it!
-+ Life is not perfect, so dont be a perfectionist! Perfect is the enemy of the good!
-+ (not a quote): the result from: http://myidp.sciencecareers.org/ 
