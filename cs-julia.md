@@ -533,7 +533,7 @@ If you want to give up on 0.3 (which is fine, just make sure you update your REQ
 ----
 
 # MATH
-
++ Math with Julia: https://www.reddit.com/r/Julia/comments/4zv7m1/what_is_a_learning_project/
 + mathematical abbreviations, https://en.wikipedia.org/wiki/List_of_mathematical_abbreviations
 + Numerical Analysis & Statistics: MATLAB, R, NumPy, Julia : http://hyperpolyglot.org/numerical-analysis
 
