@@ -13,6 +13,7 @@
 ----
 
 # Resources
++ http://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read
 + https://github.com/firaswehbe/data-programming-resources/blob/master/openscience.md
 + https://erc.europa.eu/sites/default/files/content/pages/pdf/2.1%20Sabina%20Leonelli.pdf
 + statistical analysis, https://zedshaw.com/archive/a-rubric-for-it-analysis-papers/
@@ -42,6 +43,8 @@
 + Running an open experiment - transparency and reproducibility in soil and ecosystem science :: http://iopscience.iop.org/article/10.1088/1748-9326/11/8/084004/meta
 + Research integrity: Don't let transparency damage science :: http://www.nature.com/news/research-integrity-don-t-let-transparency-damage-science-1.19219
 + High-impact journals: where newsworthiness trumps methodology, '__Sexy Science Vs. Reproducibility__' http://blogs.lse.ac.uk/impactofsocialsciences/2013/03/15/high-impact-journals-where-newsworthiness-trumps-methodology/
++ Title: [A statistical definition for reproducibility and replicability](http://biorxiv.org/content/biorxiv/early/2016/07/29/066803.full.pdf), Authors: Prasad Patil, Roger D. Peng, Jeffrey T. Leek, 
+
 
 ## Papers
 + Reproducibility in Chemical Research : http://onlinelibrary.wiley.com/doi/10.1002/anie.201606591/pdf

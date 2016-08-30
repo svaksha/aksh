@@ -184,8 +184,8 @@ in multivendor environments.__
 #### Docker Demo
 + https://github.com/bizmate/docker_lemp_php7_mysql
 
-
-#### Press
+##### Press
++ http://thenewstack.io/docker-fork-talk-split-now-table/
 + http://www.zdnet.com/article/red-hat-ubuntu-and-docker-container-virtualization-goes-mainstream/
 + http://www.infoworld.com/article/2609888/virtualization/docker-challenges-virtualization-market-with-containers.html
 + http://www.techrepublic.com/article/containers-replacements-or-alternatives-to-virtual-machines/

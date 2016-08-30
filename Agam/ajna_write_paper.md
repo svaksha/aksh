@@ -125,6 +125,7 @@ __MLA or APA style?__
 + Describe participants (demographic, research condition, etc.)
 + Present key findings with respect to the central research question.
 + Present secondary findings (secondary outcomes, subgroup analyses, etc.)
++ [Twelve Steps to Writing an Effective Results Section](http://www.sfedit.net/results.pdf)
 
 ### DISCUSSION
 + State the main findings of the study
