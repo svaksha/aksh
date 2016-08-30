@@ -183,6 +183,7 @@ in multivendor environments.__
 + http://www.computerweekly.com/feature/Docker-storage-101-How-storage-works-in-Docker
 + http://stackoverflow.com/questions/18496940/how-to-deal-with-persistent-storage-e-g-databases-in-docker
 + [Docker - Persistence](http://www.alexecollins.com/docker-persistence/)
++ [Dockerized Postgresql Development Environment](http://ryaneschinger.com/blog/dockerized-postgresql-development-environment/)
 
 #### Docker Demo
 + https://github.com/bizmate/docker_lemp_php7_mysql
