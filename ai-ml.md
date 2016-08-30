@@ -2,6 +2,7 @@
     + [Regression](#regression)
 + [Statistical Modelling](#statistical-modelling)
 + [Unsupervised Learning](#unsupervised-learning)
++ [Reinforcement Learning](#reinforcement-learning)
 
 ----
 
@@ -108,3 +109,8 @@ __Information Science and Statistics__
 
 ## PAPERS
 + [Task-level ImitationLearning using Variance-based Movement Optimization](https://www.tu-ilmenau.de/fileadmin/media/neurob/publications/conferences_int/2009/Muehlig-ICRA-2009.pdf)
+
+----
+ 
+# Reinforcement Learning
++ http://karpathy.github.io/2016/05/31/rl/
