@@ -178,8 +178,11 @@ in multivendor environments.__
 + https://quay.io/user/svaksha
 
 ## docker-persistent-Storage
++ Docs for managing data in containers: https://docs.docker.com/engine/tutorials/dockervolumes/
++ [WHITE PAPER : Understanding Docker Data Storage and Persistence](https://www.docker.com/sites/default/files/Understanding-Docker-Data-Storage-WP-rev3.pdf)
 + http://www.computerweekly.com/feature/Docker-storage-101-How-storage-works-in-Docker
 + http://stackoverflow.com/questions/18496940/how-to-deal-with-persistent-storage-e-g-databases-in-docker
++ [Docker - Persistence](http://www.alexecollins.com/docker-persistence/)
 
 #### Docker Demo
 + https://github.com/bizmate/docker_lemp_php7_mysql
