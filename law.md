@@ -10,6 +10,11 @@
 + https://www.theguardian.com/technology/2016/jul/21/digital-millennium-copyright-act-eff-supreme-court
 + Copyright Law and Open Access in Academia: International Survey Results - First Preliminary Draft :: http://aslea.org/program2016/5D_Eger.pdf
 
+## Licensing Ethics
++ http://programmers.stackexchange.com/questions/208776/would-copyrights-drop-if-i-re-write-open-source-project-into-another-language?noredirect=1&lq=1
++ http://programmers.stackexchange.com/questions/189099/what-is-proper-etiquette-for-releasing-a-complete-rewrite-of-an-existing-project?noredirect=1&lq=1
++ http://programmers.stackexchange.com/questions/86754/is-it-possible-to-rewrite-every-line-of-an-open-source-project-in-a-slightly-dif
+
 ----
 
 # License - OpenData

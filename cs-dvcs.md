@@ -90,14 +90,17 @@ __Ruby__
 + Gitlab ticket: https://gitlab.com/gitlab-org/gitlab-ce/issues/563
 + http://stackoverflow.com/questions/8407917/how-can-you-track-or-be-notified-of-changes-to-github-wikis
 
-#### Online Git
+#### Teaching Git
 + https://try.github.io
 + https://www.codeschool.com/
++ https://recompilermag.com/issues/issue-1/how-to-teach-git/
+
 
 #### cherry-pick commits
 + Cherry-pick a commit from another git repository : http://stackoverflow.com/questions/5120038/is-it-possible-to-cherry-pick-a-commit-from-another-git-repository
 
 #### Cheatsheet
++ https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf
 + Basic git comands, http://doc.gitlab.com/ce/gitlab-basics/basic-git-commands.html
 + A list of cool features of [Git and GitHub](http://git.io/sheet), source for the [git cheatsheet](https://github.com/tiimgreen/github-cheat-sheet).
 + https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md

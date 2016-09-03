@@ -31,6 +31,10 @@
 + http://petl.readthedocs.io/en/latest/
 + http://stackoverflow.com/questions/34338693/how-to-parse-csv-file-and-compute-stats-based-on-that-data/34339089
 
+### Schema
++ http://fileformats.archiveteam.org/wiki/CSV_Schema 
++ http://digital-preservation.github.io/csv-validator/
+
 ### NaN / NA 
 + http://pandas.pydata.org/pandas-docs/stable/missing_data.html
 + http://stackoverflow.com/questions/29530232/python-pandas-check-if-any-value-is-nan-in-dataframe
