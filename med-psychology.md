@@ -1,9 +1,9 @@
-+ [Behavioural Psychology](#behavioural-psychology)
++ [Cognitive Psychology](#cognitive-psychology)
++ [PRODUCTIVITY](#productivity)    
++ [Psychopathy](#psychopathy)
     + [Bullying](#bullying)
     + [Passive-Aggressive](#passive-aggressive)
     + [Narcissism](#narcissism)
-+ [Cognitive Psychology](#cognitive-psychology)
-+ [PRODUCTIVITY](#productivity)    
 
 ----
 
@@ -19,9 +19,18 @@
 + [Do You Work With A Procrastinator?](http://workplacediva.blogspot.de/2011/12/do-you-work-with-procrastinator.html)
 + http://teamworks-works.com/winning-over-workplace-procrastination/
 
+
 ----
 
-+ Behavioural Psychology
+# Cognitive Psychology
++ https://en.wikipedia.org/wiki/List_of_cognitive_biases
++ Are you positive about life? Thank your brain first, http://www.freepressjournal.in/are-you-positive-about-life-thank-your-brain-first/
+
+----
+
+# [Psychopathy](https://en.wikipedia.org/wiki/Category:Psychopathy)
+
++ https://en.wikipedia.org/wiki/Psychopathy_in_the_workplace 
 
 ## Bullying
 + https://en.wikipedia.org/wiki/Narcissism_in_the_workplace
@@ -55,11 +64,5 @@
 + https://www.quora.com/Can-one-be-passive-aggressive-with-certain-people-only/
 + https://www.quora.com/What-can-I-do-about-passive-aggressive-stalking-or-harassment-online
 
-
 ----
 
-# Cognitive Psychology
-+ https://en.wikipedia.org/wiki/List_of_cognitive_biases
-+ Are you positive about life? Thank your brain first, http://www.freepressjournal.in/are-you-positive-about-life-thank-your-brain-first/
-
-----
