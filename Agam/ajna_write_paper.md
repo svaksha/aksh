@@ -25,6 +25,7 @@ __MLA or APA style?__
 + [Jason Hong's collection of advice links](http://www.cs.cmu.edu/~jasonh/advice.html)
 + [Should I Read Papers](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)?
 + [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
++ Getting started on your research reading : http://www.lib.uts.edu.au/sites/default/files/attachments/blog/Terry%20Royce%20Research%20Reading%20Presentation%20slides%20RW%202015.pdf
 
 ## Engineering Research Paper - Question–Answer Form
 
@@ -183,7 +184,8 @@ __MLA or APA style?__
 + Reviewing Papers: http://eelcovisser.org/wiki/teaching/reviewing
 + http://retractionwatch.com/2016/07/25/from-annoying-to-bitter-here-are-the-six-types-of-peer-reviewers/
     + Full paper:  http://www.tandfonline.com/doi/full/10.1080/02723638.2016.1190559
-
++ Literature Review: A Guide for Researchers, http://uws.au.libanswers.com/loader.php?fid=1332&type=1&key=3d48313481c8c29c97e3cdecba596d05
+    
 ### Respond to Reviewers
 + [How not to respond to reviewers: Eight simple tips](http://blogs.nature.com/naturejobs/2016/08/19/how-not-to-respond-to-reviewers-eight-simple-tips/)
 
