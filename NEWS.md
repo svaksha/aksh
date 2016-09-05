@@ -1,8 +1,7 @@
 + [Business Analytics](#business-analytics)
-+ [DataScientist](#datascientist)
++ [ML-DataScientist](#ml-datascientist)
 + [Organizations](#organizations)
 + [LINKS](#links)
-   + [How2HireDataScientists](#how2hiredatascientists)
 + [Software Engineering](#software-engineering)
 + [Software Management](#software-management)
 
@@ -10,6 +9,21 @@
 
 # Business Analytics
 + [Predictive analytics: the next bigthing in BI?](http://www.rosebt.com/uploads/8/1/8/1/8181762/predictive_analytics_e_guide.pdf)
+
+----
+
+# ML-DataScientist
++ https://www.opendatascience.com/blog/how-to-hire-machine-learning-consultants/
+
+## DataScientist (Vs. DataAnalyst) Vs. DataEngineer Vs. Statistician 
++ http://varianceexplained.org/r/year_data_scientist/
++ http://www.analyticsvidhya.com/blog/2015/10/job-comparison-data-scientist-data-engineer-statistician/
++ http://blog.udacity.com/2014/12/data-analyst-vs-data-scientist-vs-data-engineer.html
++ What Data Skills do hiring companies look for in a [DataScientist](http://t.dripemail2.org/c/eyJhY2NvdW50X2lkIjoiOTc2NjA4MCIsImRlbGl2ZXJ5X2lkIjoiODM2NjcyNTMiLCJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVliSFhIZFgxVmNFXHUwMDI2X19zPXR4enBvZm50OG51OGJjNHRmenp3In0)
++ Book, http://www.librarything.com/work/15575877
++ http://www.datasciencemasters.org
++ Advice: http://datascienceresume.com/advice/5-reasons-why-doing-kaggle-projects-won-t-help-you-create-a-stand-out-data-science-resume
++ How 2 Hire Data Scientists, http://firstround.com/review/how-to-consistently-hire-remarkable-data-scientists/
 
 ----
 
@@ -40,15 +54,3 @@
 + Info Sc. ontology, http://en.wikipedia.org/wiki/Ontology_%28information_science%29
 + Formal concept analysis: http://en.wikipedia.org/wiki/Formal_concept_analysis
 
-----
-
-# DataScientist
-## DataScientist (Vs. DataAnalyst) Vs. DataEngineer Vs. Statistician 
-+ http://varianceexplained.org/r/year_data_scientist/
-+ http://www.analyticsvidhya.com/blog/2015/10/job-comparison-data-scientist-data-engineer-statistician/
-+ http://blog.udacity.com/2014/12/data-analyst-vs-data-scientist-vs-data-engineer.html
-+ What Data Skills do hiring companies look for in a [DataScientist](http://t.dripemail2.org/c/eyJhY2NvdW50X2lkIjoiOTc2NjA4MCIsImRlbGl2ZXJ5X2lkIjoiODM2NjcyNTMiLCJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVliSFhIZFgxVmNFXHUwMDI2X19zPXR4enBvZm50OG51OGJjNHRmenp3In0)
-+ Book, http://www.librarything.com/work/15575877
-+ http://www.datasciencemasters.org
-+ Advice: http://datascienceresume.com/advice/5-reasons-why-doing-kaggle-projects-won-t-help-you-create-a-stand-out-data-science-resume
-+ How 2 Hire Data Scientists, http://firstround.com/review/how-to-consistently-hire-remarkable-data-scientists/

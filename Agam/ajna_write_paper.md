@@ -1,6 +1,7 @@
 + [FORMAT](#format)
 + [Write-PAPERS](#write-papers)
     + [Paper Structure](#paper-structure)
++ [Write-POSTER](#write-poster)    
 + [Write-THESIS](#write-thesis)
 + [Read-PAPERS](#read-papers)
 + [RETRACTIONS](#retractions)
@@ -67,7 +68,6 @@ __MLA or APA style?__
 ### 8. Questions
 + What questions are you left with? 
 + What questions would you like to raise in an open discussion of the work (review interesting and controversial points, above)? + What do you find difficult to under stand? List as many as you can.
-
 
 ----
 
@@ -152,10 +152,15 @@ __MLA or APA style?__
 ### APPENDIX (optional)
 + Extra Information
 
+----
+
+# Write-POSTER
++ DESIGNING RESEARCH POSTERS : [How to make a clear and successful scientific poster](https://www.cmu.edu/gcc/handouts/Scientific Posters v2.pdf).
+
 
 ---- 
 
-# Write-THESIS
+# Write-[THESIS](https://en.wikipedia.org/wiki/Thesis)
 + http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf
 + Connecting the dots: writing a doctoral thesis by publication, https://digital.library.adelaide.edu.au/dspace/bitstream/2440/96163/2/hdl_96163.pdf
 + How not to write a PhD thesis : https://www.timeshighereducation.com/news/how-not-to-write-a-phd-thesis/410208.article
