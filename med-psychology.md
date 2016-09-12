@@ -4,6 +4,7 @@
     + [Bullying](#bullying)
     + [Passive-Aggressive](#passive-aggressive)
     + [Narcissism](#narcissism)
++ [Sexual Harassment](#sexual-harassment)
 
 ----
 
@@ -66,3 +67,5 @@
 
 ----
 
+# Sexual Harassment
++ Scientific societies speak out against sexual harassment : http://www.eurekalert.org/pub_releases/2016-09/agu-sss090916.php
