@@ -164,6 +164,7 @@ __MLA or APA style?__
 ---- 
 
 # Write-[THESIS](https://en.wikipedia.org/wiki/Thesis)
++ https://www.theguardian.com/higher-education-network/blog/2014/aug/27/finishing-phd-thesis-top-tips-experts-advice
 + http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf
 + Connecting the dots: writing a doctoral thesis by publication, https://digital.library.adelaide.edu.au/dspace/bitstream/2440/96163/2/hdl_96163.pdf
 + How not to write a PhD thesis : https://www.timeshighereducation.com/news/how-not-to-write-a-phd-thesis/410208.article

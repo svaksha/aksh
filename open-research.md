@@ -44,7 +44,7 @@
 + Research integrity: Don't let transparency damage science :: http://www.nature.com/news/research-integrity-don-t-let-transparency-damage-science-1.19219
 + High-impact journals: where newsworthiness trumps methodology, '__Sexy Science Vs. Reproducibility__' http://blogs.lse.ac.uk/impactofsocialsciences/2013/03/15/high-impact-journals-where-newsworthiness-trumps-methodology/
 + Title: [A statistical definition for reproducibility and replicability](http://biorxiv.org/content/biorxiv/early/2016/07/29/066803.full.pdf), Authors: Prasad Patil, Roger D. Peng, Jeffrey T. Leek, 
-
++ The TOMS Initiative and Policies for Replicated Computational Results (RCR): http://toms.acm.org/replicated-computational-results.cfm
 
 ## Papers
 + Reproducibility in Chemical Research : http://onlinelibrary.wiley.com/doi/10.1002/anie.201606591/pdf
