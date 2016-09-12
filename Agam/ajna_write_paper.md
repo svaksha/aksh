@@ -14,6 +14,8 @@ __MLA or APA style?__
 + How to Format Your Research Paper : http://www.sciencebuddies.org/science-fair-projects/project_research_paper_format.shtml
 + GUIDELINES FOR AUTHORS OF SCIENTIFIC PAPERS: https://www.iccat.int/Documents/SCRS/Other/Guide_ColVol_ENG_2009.pdf
 + APA Writing Format: https://explorable.com/apa-writing-format
++ https://www.elen.ucl.ac.be/esann/index.php?pg=guidelines
++ 
 
 ----
 
@@ -98,6 +100,7 @@ __MLA or APA style?__
 + Writers block, https://www.theguardian.com/higher-education-network/2014/dec/22/overcoming-writers-block-three-top-tips
 + https://core.ac.uk/download/files/343/11233054.pdf
 + Paper Sections : http://writers.stackexchange.com/questions/14516/can-section-headings-in-a-paper-be-questions
++ How to get your journal article to a publishable standard http://buff.ly/2cMq2Xy  (page 21) : http://www.drsq.org/issues/drq1-1.pdf 
 
 
 ## Paper Structure
