@@ -11,6 +11,7 @@
 + [Podcasts](#podcasts)
    + [programming language](#programming language)
 + [Blogs](#blogs)
++ [Random](#random)
 
 ----
 
@@ -179,3 +180,6 @@ Good online places to start:
 + https://github.com/shekhargulati/52-technologies-in-2016
 
 ----
+
+# Random
++ https://usersearch.org/

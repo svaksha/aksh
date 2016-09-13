@@ -23,6 +23,7 @@
 + http://www.nature.com/news/statisticians-issue-warning-over-misuse-of-p-values-1.19503
 + http://www.treesmapsandtheorems.com/
 + https://en.wikipedia.org/wiki/PechaKucha
++ http://blogs.lse.ac.uk/impactofsocialsciences/2016/09/12/how-proximity-and-trust-are-key-factors-in-getting-research-to-feed-into-policymaking/
 
 ----
 
@@ -73,6 +74,7 @@ Rule 10: Provide Public Access to Scripts, Runs, and Results
 + https://home.scienceopen.com/
 + https://mitpress.mit.edu/sites/default/files/titles/content/openaccess/Suber_08_chap1.html
 + Publisher copyright policies & self-archiving : http://www.sherpa.ac.uk/romeo/index.php
++ [Why scientists must share their research code](http://www.nature.com/news/why-scientists-must-share-their-research-code-1.20504): 'Reproducibility editor' Victoria Stodden explains the growing movement to make code and data available to others.
 
 
 ### Papers
