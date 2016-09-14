@@ -46,6 +46,7 @@
 + High-impact journals: where newsworthiness trumps methodology, '__Sexy Science Vs. Reproducibility__' http://blogs.lse.ac.uk/impactofsocialsciences/2013/03/15/high-impact-journals-where-newsworthiness-trumps-methodology/
 + Title: [A statistical definition for reproducibility and replicability](http://biorxiv.org/content/biorxiv/early/2016/07/29/066803.full.pdf), Authors: Prasad Patil, Roger D. Peng, Jeffrey T. Leek, 
 + The TOMS Initiative and Policies for Replicated Computational Results (RCR): http://toms.acm.org/replicated-computational-results.cfm
++ Muddled meanings hamper efforts to fix reproducibility crisis: http://www.nature.com/news/muddled-meanings-hamper-efforts-to-fix-reproducibility-crisis-1.20076
 
 ## Papers
 + Reproducibility in Chemical Research : http://onlinelibrary.wiley.com/doi/10.1002/anie.201606591/pdf
@@ -79,7 +80,6 @@ Rule 10: Provide Public Access to Scripts, Runs, and Results
 
 ### Papers
 + A study of institutional spending on open access publication fees in Germany: https://peerj.com/articles/2323/
-
 
 ----
 

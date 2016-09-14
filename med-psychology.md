@@ -32,6 +32,7 @@
 # [Psychopathy](https://en.wikipedia.org/wiki/Category:Psychopathy)
 
 + https://en.wikipedia.org/wiki/Psychopathy_in_the_workplace 
++ https://en.wikipedia.org/wiki/Psychological_manipulation#According_to_Simon
 
 ## Bullying
 + https://en.wikipedia.org/wiki/Narcissism_in_the_workplace
@@ -45,6 +46,7 @@
 + https://en.wikipedia.org/wiki/Narcissism_in_the_workplace
 + https://en.wikipedia.org/wiki/Narcissistic_personality_disorder
 + https://en.wikipedia.org/wiki/Narcissism#Narcissism_in_the_workplace
++ Minimisation : https://en.wikipedia.org/wiki/Minimisation_(psychology)
 + https://groups.yahoo.com/neo/groups/narcissisticabuse/conversations/topics/4938
 + http://samvak.tripod.com/mask.html
 + http://samvak.tripod.com/faq75.html
