@@ -77,7 +77,6 @@ Rule 10: Provide Public Access to Scripts, Runs, and Results
 + Publisher copyright policies & self-archiving : http://www.sherpa.ac.uk/romeo/index.php
 + [Why scientists must share their research code](http://www.nature.com/news/why-scientists-must-share-their-research-code-1.20504): 'Reproducibility editor' Victoria Stodden explains the growing movement to make code and data available to others.
 
-
 ### Papers
 + A study of institutional spending on open access publication fees in Germany: https://peerj.com/articles/2323/
 

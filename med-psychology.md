@@ -4,6 +4,7 @@
     + [Bullying](#bullying)
     + [Passive-Aggressive](#passive-aggressive)
     + [Narcissism](#narcissism)
+    + [Social](#social)
 + [Sexual Harassment](#sexual-harassment)
 
 ----
@@ -66,6 +67,9 @@
 + https://www.quora.com/What-are-some-examples-of-passive-aggressive-behavior/
 + https://www.quora.com/Can-one-be-passive-aggressive-with-certain-people-only/
 + https://www.quora.com/What-can-I-do-about-passive-aggressive-stalking-or-harassment-online
+
+## Social
++ https://en.wikipedia.org/wiki/Proxemics
 
 ----
 
