@@ -15,9 +15,8 @@
 + [REGEX](#regex)
 + [General](#general)
 + [UTILITIES](#utilities)
-   + [ARBTT](#arbtt)
    + [Backups](#backups)
-   + [Calendar](#calendar)
+   + [Calendar Time Tracker](#calendar-time-tracker)
    + [Spreadsheets](#spreadsheets)
    + [Terminal Multiplexer](#terminal-multiplexer)
 + [Resources](#resources)
@@ -218,16 +217,6 @@ $ sudo dpkg -i /var/tmp/firmware-realtek_0.43_all.deb  # update the firmware fro
 
 # UTILITIES
 
-## Arbtt
-__desktop timetracker__
-+ https://www.joachim-breitner.de/blog/336-The_Automatic_Rule-Based_Time_Tracker
-+ http://arbtt.nomeata.de/#how
-+ Install : http://arbtt.nomeata.de/#install
-+ Sample Categorize :: http://darcs.nomeata.de/arbtt/categorize.cfg
-+ http://stackoverflow.com/questions/20973590/arbtt-nested-if-then-else-in-categorize-cfg/20973950#20973950
-+ https://wiki.haskell.org/Unicode-symbols
-+ http://darcs.nomeata.de/arbtt/doc/users_guide/arbtt-stats.html#idp213048
-
 ## Backups
 + [attic](https://github.com/jborg/attic) :: Deduplicating backup program. [Docs](https://attic-backup.org/).
 + https://github.com/xolox/python-rotate-backups
@@ -239,11 +228,23 @@ __desktop timetracker__
 + http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python
 + http://codereview.stackexchange.com/questions/49351/python-back-up-script
 
-## Calendar
+## Calendar Time Tracker 
 + https://github.com/search?utf8=%E2%9C%93&q=calendar, in [Ruby](https://github.com/search?l=Ruby&q=calendar&type=Repositories&utf8=%E2%9C%93) and [Python](https://github.com/search?l=Python&q=calendar&type=Repositories&utf8=%E2%9C%93).
 + https://www.linux.com/learn/five-best-open-source-calendar-servers-linux
 + https://sourceforge.net/directory/business-enterprise/scheduling/calendar/language%3Ajava/os%3Alinux/
 + http://www.techsupportalert.com/best-free-reminder-to-do-program.htm
+
+#### Arbtt desktop timetracker
++ https://www.joachim-breitner.de/blog/336-The_Automatic_Rule-Based_Time_Tracker
++ http://arbtt.nomeata.de/#how
++ Install : http://arbtt.nomeata.de/#install
++ Sample Categorize :: http://darcs.nomeata.de/arbtt/categorize.cfg
++ http://stackoverflow.com/questions/20973590/arbtt-nested-if-then-else-in-categorize-cfg/20973950#20973950
++ https://wiki.haskell.org/Unicode-symbols
++ http://darcs.nomeata.de/arbtt/doc/users_guide/arbtt-stats.html#idp213048
+
+#### OrangeScrum
++ http://www.orangescrum.org/
 
 ## Spreadsheets
 + [roo](https://github.com/roo-rb/roo) :: An interface to spreadsheets of several sorts. 
