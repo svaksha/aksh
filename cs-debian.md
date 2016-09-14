@@ -243,8 +243,9 @@ $ sudo dpkg -i /var/tmp/firmware-realtek_0.43_all.deb  # update the firmware fro
 + https://wiki.haskell.org/Unicode-symbols
 + http://darcs.nomeata.de/arbtt/doc/users_guide/arbtt-stats.html#idp213048
 
-#### OrangeScrum
-+ http://www.orangescrum.org/
+#### [OrangeScrum](http://www.orangescrum.org/)
++ Download source code: https://github.com/Orangescrum/orangescrum
+
 
 ## Spreadsheets
 + [roo](https://github.com/roo-rb/roo) :: An interface to spreadsheets of several sorts. 
