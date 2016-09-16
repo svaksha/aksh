@@ -102,6 +102,7 @@ Rule 10: Provide Public Access to Scripts, Runs, and Results
 + http://www.thelancet.com/series/research
 + http://www.nejm.org/doi/full/10.1056/NEJMe1515172
 + Reproducible Workflow: http://datasci.kitzes.com/lessons/python/reproducible_workflow.html
++ The Harvard Dataverse Network: http://library.harvard.edu/gdc
 
 ### Bad Science
 + The natural selection of bad science, https://arxiv.org/pdf/1605.09511v1.pdf

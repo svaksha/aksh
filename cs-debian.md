@@ -229,6 +229,7 @@ $ sudo dpkg -i /var/tmp/firmware-realtek_0.43_all.deb  # update the firmware fro
 + http://codereview.stackexchange.com/questions/49351/python-back-up-script
 
 ## Calendar Time Tracker 
++ Toggl: https://github.com/toggl/ and https://github.com/toggl/toggldesktop
 + https://github.com/search?utf8=%E2%9C%93&q=calendar, in [Ruby](https://github.com/search?l=Ruby&q=calendar&type=Repositories&utf8=%E2%9C%93) and [Python](https://github.com/search?l=Python&q=calendar&type=Repositories&utf8=%E2%9C%93).
 + https://www.linux.com/learn/five-best-open-source-calendar-servers-linux
 + https://sourceforge.net/directory/business-enterprise/scheduling/calendar/language%3Ajava/os%3Alinux/
