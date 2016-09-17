@@ -55,6 +55,9 @@ __Ruby__
 + http://learngitbranching.js.org/
 + http://nvie.com/posts/a-successful-git-branching-model/
 
+## difference between a Bare and non-Bare repository
++ http://stackoverflow.com/questions/5540883/whats-the-practical-difference-between-a-bare-and-non-bare-repository
+
 ## gitup - gitnotes
 + git-notes: https://git-scm.com/docs/git-notes
 + http://alblue.bandlem.com/2011/11/git-tip-of-week-git-notes.html

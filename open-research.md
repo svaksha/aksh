@@ -9,6 +9,8 @@
 + [RDM](#rdm)
     + [DMP](#dmp)
 + [Scientific Research](#scientific-research)
++ [ORG](#org)
+    + [DB](#db)
 
 ----
 
@@ -47,6 +49,7 @@
 + Title: [A statistical definition for reproducibility and replicability](http://biorxiv.org/content/biorxiv/early/2016/07/29/066803.full.pdf), Authors: Prasad Patil, Roger D. Peng, Jeffrey T. Leek, 
 + The TOMS Initiative and Policies for Replicated Computational Results (RCR): http://toms.acm.org/replicated-computational-results.cfm
 + Muddled meanings hamper efforts to fix reproducibility crisis: http://www.nature.com/news/muddled-meanings-hamper-efforts-to-fix-reproducibility-crisis-1.20076
++ https://news.ycombinator.com/item?id=12185964
 
 ## Papers
 + Reproducibility in Chemical Research : http://onlinelibrary.wiley.com/doi/10.1002/anie.201606591/pdf
@@ -57,17 +60,16 @@
 
 ## Ten Simple Rules for Reproducible Computational Research
 + http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285
-
-Rule 1: For Every Result, Keep Track of How It Was Produced
-Rule 2: Avoid Manual Data Manipulation Steps
-Rule 3: Archive the Exact Versions of All External Programs Used
-Rule 4: Version Control All Custom Scripts
-Rule 5: Record All Intermediate Results, When Possible in Standardized Formats
-Rule 6: For Analyses That Include Randomness, Note Underlying Random Seeds
-Rule 7: Always Store Raw Data behind Plots
-Rule 8: Generate Hierarchical Analysis Output, Allowing Layers of Increasing Detail to Be Inspected
-Rule 9: Connect Textual Statements to Underlying Results
-Rule 10: Provide Public Access to Scripts, Runs, and Results
+    * Rule 1: For Every Result, Keep Track of How It Was Produced
+    * Rule 2: Avoid Manual Data Manipulation Steps
+    * Rule 3: Archive the Exact Versions of All External Programs Used
+    * Rule 4: Version Control All Custom Scripts
+    * Rule 5: Record All Intermediate Results, When Possible in Standardized Formats
+    * Rule 6: For Analyses That Include Randomness, Note Underlying Random Seeds
+    * Rule 7: Always Store Raw Data behind Plots
+    * Rule 8: Generate Hierarchical Analysis Output, Allowing Layers of Increasing Detail to Be Inspected
+    * Rule 9: Connect Textual Statements to Underlying Results
+    * Rule 10: Provide Public Access to Scripts, Runs, and Results
 
 ----
 
@@ -171,3 +173,11 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 
 ## SWMS - Scientific Workflow Management Systems
 + https://github.com/svaksha/aksh/blob/master/pub-o3srd/2015-mork-acm.pdf
+
+----
+
+# ORG
++ http://metrics.stanford.edu/research/reproducibility
+
+### DB
++ http://db-reproducibility.seas.harvard.edu/papers/#SIGMOD2015
