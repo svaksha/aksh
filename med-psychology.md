@@ -70,6 +70,11 @@
 
 ## Social
 + https://en.wikipedia.org/wiki/Proxemics
++ Humans display a reduced set of consistent behavioral phenotypes in dyadic games: http://advances.sciencemag.org/content/2/8/e1600451
+    + http://indianexpress.com/article/lifestyle/feelings/envy-most-common-personality-trait-among-humans-study-3035762/
+    + http://tecake.in/news/science/pessimistic-optimistic-envious-trusting-four-basic-traits-human-says-study-23567.html
+    + Study identifies four basic personality types in humans: http://www.dnaindia.com/scitech/report-study-identifies-four-basic-personality-types-in-humans-2256541
+    
 
 ----
 
