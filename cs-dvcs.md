@@ -125,6 +125,8 @@ __Ruby__
 
 ## BiGit
 + [Handling large media files in Git](https://github.com/alebedev/git-media).
++ [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
+    + http://stackoverflow.com/questions/18850860/how-do-i-clone-a-git-repo-that-has-become-too-large?noredirect=1&lq=1
 
 ----
 
