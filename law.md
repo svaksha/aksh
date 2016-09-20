@@ -27,6 +27,7 @@
 ----
 
 # License - Software
++ FOSS License comparision: https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses
 + 7 myths: https://knowledge.kaltura.com/sites/default/files/7_Myths_IP_Risk_UL.pdf
 + [FOSS A General Introduction/Intellectual Property Rights and Licensing](https://en.wikibooks.org/wiki/FOSS_A_General_Introduction/Intellectual_Property_Rights_and_Licensing)
 + Zed on why he uses the AGPL: https://zedshaw.com/archive/why-i-algpl/
