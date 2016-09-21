@@ -1,6 +1,7 @@
 + [Analytics](#analytics)
 + [Art](#art)
 + [Citation Software](#citation-software)
++ [Documentation](#documentation)
 + [Programming](#programming)
    + [Code Exercises](#code-exercises)
    + [Lists](#lists)
@@ -28,6 +29,11 @@
 
 # Citation Software
 + https://www.mediawiki.org/wiki/Citoid
+
+----
+
+# Documentation
++ An introduction to Sphinx and Read the Docs for Technical Writers : http://ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/
 
 ----
 
