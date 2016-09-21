@@ -173,6 +173,47 @@ __MLA or APA style?__
 + How to write a Ph.D. thesis: https://www.uni-goettingen.de/en/138976.html
 + The key to a successful PhD thesis? Write in your own voice, https://www.theguardian.com/higher-education-network/blog/2014/aug/20/write-in-your-own-voice-key-to-successful-phd-thesis
 
+### [starting the PhD – write and write regularly](https://patthomson.net/2016/09/19/starting-the-phd-write-and-write-regularly/)
+
+The PhD is not only about the actual research that you do. It is also about your capacity to:
+
++    explain why your research is necessary
++    show how your inquiry fits with and builds on existing research
++    clearly state and justify what you did, when, with whom or what, in what order, how long it took and what happened as a result
++    say what your results mean, and how they add to what we already know, or challenge it, and what should happen as a result.
+
+So you need to be able to adequately deal with other people’s work as well as the big ideas that are pertinent to your particular topic. You need to be able to make your own argument in a persuasive way. Dealing with these requirements means that you need to be, at the very least, a competent writer. 
+
+People may say to you when they know you’re doing a PhD, “It’s never too soon to start to write”. Do listen – it’s absolutely good advice. You see, in order to write well, you need to practice. Writing is something that you now need to do regularly, and often. 
+
+And by writing I don’t just mean taking notes of your reading – although you will of course need to make summaries and put together pieces of text synthesising your reading.  I mean writing regularly, each day, about something strongly related to your research.
+
+This could be for example:
+
++    writing about something that puzzles you
++    writing about how a particular reading relates to your topic
++    responding to a small quotation – writing about what it made you think about
++    exploring a particular possible idea for a research design
++    developing an argument about an aspect of your research – the choice of method for example, writing about why it is a good choice and/or why it might not be
++    writing about a talk that you’ve heard
++    recording a research related conversation you’ve had with a peer
++    thinking/writing about what you might want to talk to your supervisor about
++    experimenting with different writing ‘voices’ and styles
++    trying out draft paragraphs, introductions, abstracts
++    writing descriptive pieces, where you work on the ways in which you might provide rich detail about your work
++    practising how to incorporate dialogue into an argumentative text
++    writing to learn to craft anecdotes and vignettes.
+
+__This writing is not intended initially for anyone but you. There is no pressure on you to make it perfect. The idea is simply to write and think about your topic, and also to write and think about the craft of writing itself.__
+
+Setting up a regular pattern of writing, for about thirty minutes or so, is a good idea – the time can of course be longer.  It may vary in duration depending on what else is going on and what the task demands. Write as often as you can at the same time and in the same place each day. You might like to set yourself a timer or a word target – these are support mechanisms designed to help you stick to writing, not the end point. 
+
+Just sitting down each day will get you a writing habit that will help you enormously throughout the PhD.
+
+You can do this kind of writing on screen or in a notebook, or a combination of the two, whatever works for you. You might even blog. But a key to sustaining your writing habit is to vary the focus of the writing, but keeping the regular time devoted to research-focussed writing sacrosanct.
+
+Practice makes practice, as we say in teaching, and this is the case for writing too.
+
 ----
 
 # RETRACTIONS
