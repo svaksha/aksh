@@ -1,4 +1,4 @@
-+ [FORMAT](#format)
++ [GUIDELINES](#guidelines)
 + [Write-PAPERS](#write-papers)
     + [Paper Structure](#paper-structure)
 + [Write-POSTER](#write-poster)    
@@ -9,13 +9,13 @@
 
 ----
 
-# FORMAT
+# GUIDELINES
 __MLA or APA style?__
 + How to Format Your Research Paper : http://www.sciencebuddies.org/science-fair-projects/project_research_paper_format.shtml
 + GUIDELINES FOR AUTHORS OF SCIENTIFIC PAPERS: https://www.iccat.int/Documents/SCRS/Other/Guide_ColVol_ENG_2009.pdf
 + APA Writing Format: https://explorable.com/apa-writing-format
 + https://www.elen.ucl.ac.be/esann/index.php?pg=guidelines
-+ 
++ DLIB guidelines, http://www.dlib.org/dlib/author-guidelines.html
 
 ----
 
