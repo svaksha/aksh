@@ -52,6 +52,7 @@
 + https://news.ycombinator.com/item?id=12185964
 
 ## Papers
++ Psychology: http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/
 + Reproducibility in Chemical Research : http://onlinelibrary.wiley.com/doi/10.1002/anie.201606591/pdf
 + http://www.nature.com/news/reality-check-on-reproducibility-1.19961
 + http://www.nature.com/nature/journal/v532/n7598/full/532177d.html
