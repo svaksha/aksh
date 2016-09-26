@@ -43,6 +43,31 @@
 + https://docs.python.org/3/library/statistics.html
 + http://docs.scipy.org/doc/numpy/reference/generated/numpy.nanmin.html#numpy.nanmin
 
+### Diff Binary files: Libreoffice and DVCS 
++ http://www-verimag.imag.fr/~moy/opendocument/
++ http://blog.riemann.cc/2013/04/23/versioning-of-openoffice-libreoffice-documents-using-git/
++ http://stackoverflow.com/questions/8795538/how-to-share-odt-doc-documents-over-git
++ http://stackoverflow.com/questions/8795538/how-to-share-odt-doc-documents-over-git
+
+##### http://locallost.net/?p=278 
+
+To resolve conflits on binary files, you can checkout the remote version and your version with the `–theirs’ and `–ours’ checkout flags. This allows you to inspect both version, then write back the correct resulting file.
+
+```
+$ git checkout --theirs -- doc/manual.odt
+$ mv doc/manual.odt doc/theirs.manual.odt
+
+$ git checkout --ours -- doc/manual.odt
+$ mv doc/manual.odt doc/ours.manual.odt
+```
+
+Open and compare `theirs.manual.odt’ with `ours.manual.odt’, and save back the result into `manual.odt’.
+```
+$ git add doc/manual.odt
+$ git commit
+```
+
+
 ----
 
 # ELAN

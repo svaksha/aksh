@@ -1,12 +1,12 @@
-+ [Law - Copyright](#law-copyright)
-+ [License - OpenData](#license-opendata)
-+ [License - Software](#license-software)
++ [Law-Copyright](#law-copyright)
++ [License-OpenData](#license-opendata)
++ [License-Software](#license-software)
     + [Violations](#violations)
 + [Privacy](#privacy)
 
 ----
 
-# Law - Copyright
+# Law-Copyright
 + https://www.theguardian.com/technology/2016/jul/21/digital-millennium-copyright-act-eff-supreme-court
 + Copyright Law and Open Access in Academia: International Survey Results - First Preliminary Draft :: http://aslea.org/program2016/5D_Eger.pdf
 
@@ -17,8 +17,9 @@
 
 ----
 
-# License - OpenData
+# License-OpenData
 + http://opendatacommons.org/faq/licenses/
++ How to License Research Data, http://www.dcc.ac.uk/resources/how-guides/license-research-data
 + Legal confusion threatens to slow data science : http://www.nature.com/news/legal-confusion-threatens-to-slow-data-science-1.20359
 
 ## [CC license](https://en.wikipedia.org/wiki/Creative_Commons_license)
@@ -28,7 +29,7 @@
 
 ----
 
-# License - Software
+# License-Software
 + FOSS License comparision: https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses
 + 7 myths: https://knowledge.kaltura.com/sites/default/files/7_Myths_IP_Risk_UL.pdf
 + [FOSS A General Introduction/Intellectual Property Rights and Licensing](https://en.wikibooks.org/wiki/FOSS_A_General_Introduction/Intellectual_Property_Rights_and_Licensing)
@@ -54,7 +55,6 @@
 + EU laws on data collection : http://ec.europa.eu/justice/data-protection/data-collection/obligations/index_en.htm
 + Obligations : http://ec.europa.eu/justice/data-protection/data-collection/obligations/index_en.htm
 
-----
-
+#### Other
 + https://www.uni-due.de/imperia/md/content/e_comp/ratgeber_multimediarecht.pdf
 + http://security.stackexchange.com/questions/137418/how-does-google-know-where-i-am

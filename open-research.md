@@ -150,6 +150,7 @@
 + Christian T. Jacobs and Alexandros Avdis: Git-RDM: A research data management plugin for the Git version control system.
 http://joss.theoj.org/papers/10.21105/joss.00029
 + Contemporary Challenges for Data-Intensive Scientific Workflow Management Systems, http://www.switchproject.eu/wp-content/uploads/2016/04/uva-2.pdf
++ Five Things You Need to Know About RDM and the Law: [DCC Checklist on Legal Aspects of RDM](http://www.dcc.ac.uk/resources/how-guides/rdm-law).
 
 ## DMP
 + https://en.wikipedia.org/wiki/Data_management_plan
@@ -170,6 +171,7 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 + http://semantic-cora.org
 + http://semantic-cora.org/index.php/Publications_and_Talks
 + https://people.stanford.edu/gentzkow/sites/default/files/codeanddata.pdf
++ 2016, Marc A. Edwards and Siddhartha Roy, Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition, http://online.liebertpub.com/doi/pdf/10.1089/ees.2016.0223
 
 ## Scientific Rules
 + Rules of good scientific practice, procedures, and penalties in the event of malpractice: https://www.humboldt-foundation.de/web/docs/F25752/rules_scientific_practice.pdf
