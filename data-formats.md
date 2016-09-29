@@ -9,6 +9,7 @@
 + [RDF](#rdf)
 + [XML](#xml)
 + [Standards](#standards)
+    + [MetaData](#metadata)
 
 ----
 
@@ -159,6 +160,9 @@ RDF == Resource Description Framework
 ----
 
 # Standards
+
+## MetaData
 + https://en.wikipedia.org/wiki/Category:Metadata_standards
 + https://en.wikipedia.org/wiki/Metadata_standard
-+ https://en.wikipedia.org/wiki/Preservation_metadata        
++ https://en.wikipedia.org/wiki/Preservation_metadata  
++ http://pkiraly.github.io/metadata-quality-project-plan.pdf

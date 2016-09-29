@@ -108,6 +108,9 @@
 + https://explorable.com/research-paper-format  
 + https://explorable.com/design-of-experiment
 
+## Concept Graphs
++ Microsoft [Research Concept Graph](https://concept.research.microsoft.com/Home/Download) taxonomy from their ProBase project. This [data contains 5,376,526 unique concepts](https://concept.research.microsoft.com/Home/Introduction), 12,501,527 unique instances, and 85,101,174 IsA relations for entity disambiguation.
+
 ## Metadata
 + https://www.google.de/search?q=provenance+metadata&ie=utf-8&oe=utf-8&gws_rd=cr&ei=iwuWV8evJsn5UKb9h-gO
 + https://www.w3.org/2005/Incubator/prov/wiki/What_Is_Provenance
