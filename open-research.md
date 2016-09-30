@@ -50,6 +50,7 @@
 + The TOMS Initiative and Policies for Replicated Computational Results (RCR): http://toms.acm.org/replicated-computational-results.cfm
 + Muddled meanings hamper efforts to fix reproducibility crisis: http://www.nature.com/news/muddled-meanings-hamper-efforts-to-fix-reproducibility-crisis-1.20076
 + https://news.ycombinator.com/item?id=12185964
++ https://lwn.net/Articles/674573/
 
 ## Papers
 + Psychology: http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/

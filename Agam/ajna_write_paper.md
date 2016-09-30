@@ -1,11 +1,11 @@
 + [GUIDELINES](#guidelines)
++ [Read-PAPERS](#read-papers)
++ [RETRACTIONS](#retractions)
++ [REVIEWER](#reviewer)
 + [Write-PAPERS](#write-papers)
     + [Paper Structure](#paper-structure)
 + [Write-POSTER](#write-poster)    
 + [Write-THESIS](#write-thesis)
-+ [Read-PAPERS](#read-papers)
-+ [RETRACTIONS](#retractions)
-+ [REVIEWER](#reviewer)
 
 ----
 
@@ -73,6 +73,32 @@ __MLA or APA style?__
 
 ----
 
+
+# RETRACTIONS
++ http://retractionwatch.com/help-us-heres-some-of-what-were-working-on/
++ http://retractionwatch.com/2016/08/06/weekend-reads-research-parasite-doubling-down-racism-in-the-lab-clinical-trial-insider-trading/
+
+----
+
+# REVIEWER
++ https://github.com/jtleek/reviews
++ 2009Mar, [How NOT to review a paper: the tools and techniques of the adversarial reviewer](http://dl.acm.org/citation.cfm?id=1519122), Graham Cormode, ACM SIGMOD Record.
++ 2008Mar, Mark Allman, “Thoughts on reviewing”, ACM SIGCOMM, Comput. Commun. Rev.
++ 2009Mar, Henning Schulzrinne, “Double-blind reviewing: more placebo than miracle cure?”, ACM SIGCOMM Comput. Commun.
++ 2009Apr, Thomas Anderson, “Conference reviewing considered harmful”, ACM SIGOPS Oper. Syst. Rev.
++ 2007Jul, Srinivasan Keshav, “How to read a paper”, CAM SIGCOMM Comput. Commun. Rev.
++ 1989Nov, Ian Parberry, “A guide for new referees in theoretical computer science”, ACM SIGACT News.
++ How2Review : http://web.mst.edu/~cetinkayae/htdpr_ekc.pdf
++ Reviewing Papers: http://eelcovisser.org/wiki/teaching/reviewing
++ http://retractionwatch.com/2016/07/25/from-annoying-to-bitter-here-are-the-six-types-of-peer-reviewers/
+    + Full paper:  http://www.tandfonline.com/doi/full/10.1080/02723638.2016.1190559
++ Literature Review: A Guide for Researchers, http://uws.au.libanswers.com/loader.php?fid=1332&type=1&key=3d48313481c8c29c97e3cdecba596d05
+    
+### Respond to Reviewers
++ [How not to respond to reviewers: Eight simple tips](http://blogs.nature.com/naturejobs/2016/08/19/how-not-to-respond-to-reviewers-eight-simple-tips/)
+
+----
+
 # Write-PAPERS
 + http://graduateresearcher.space/writing/writing-the-analysisdiscussion/
 + http://chronicle.com/article/My-Writing-Productivity/236712
@@ -101,7 +127,7 @@ __MLA or APA style?__
 + https://core.ac.uk/download/files/343/11233054.pdf
 + Paper Sections : http://writers.stackexchange.com/questions/14516/can-section-headings-in-a-paper-be-questions
 + How to get your journal article to a publishable standard http://buff.ly/2cMq2Xy  (page 21) : http://www.drsq.org/issues/drq1-1.pdf 
-
++ Guidelines for writing a research paper for publication: https://www.liebertpub.com/media/pdf/English-Research-Article-Writing-Guide.pdf
 
 ## Paper Structure
 ### ABSTRACT
@@ -174,6 +200,7 @@ __MLA or APA style?__
 + The key to a successful PhD thesis? Write in your own voice, https://www.theguardian.com/higher-education-network/blog/2014/aug/20/write-in-your-own-voice-key-to-successful-phd-thesis
 + Guidelines for Writing Your Dissertation: http://visual-memory.co.uk/daniel/Modules/dissertation.html
 
+
 ### [starting the PhD – write and write regularly](https://patthomson.net/2016/09/19/starting-the-phd-write-and-write-regularly/)
 
 The PhD is not only about the actual research that you do. It is also about your capacity to:
@@ -214,30 +241,5 @@ Just sitting down each day will get you a writing habit that will help you enorm
 You can do this kind of writing on screen or in a notebook, or a combination of the two, whatever works for you. You might even blog. But a key to sustaining your writing habit is to vary the focus of the writing, but keeping the regular time devoted to research-focussed writing sacrosanct.
 
 Practice makes practice, as we say in teaching, and this is the case for writing too.
-
-----
-
-# RETRACTIONS
-+ http://retractionwatch.com/help-us-heres-some-of-what-were-working-on/
-+ http://retractionwatch.com/2016/08/06/weekend-reads-research-parasite-doubling-down-racism-in-the-lab-clinical-trial-insider-trading/
-
-----
-
-# REVIEWER
-+ https://github.com/jtleek/reviews
-+ 2009Mar, [How NOT to review a paper: the tools and techniques of the adversarial reviewer](http://dl.acm.org/citation.cfm?id=1519122), Graham Cormode, ACM SIGMOD Record.
-+ 2008Mar, Mark Allman, “Thoughts on reviewing”, ACM SIGCOMM, Comput. Commun. Rev.
-+ 2009Mar, Henning Schulzrinne, “Double-blind reviewing: more placebo than miracle cure?”, ACM SIGCOMM Comput. Commun.
-+ 2009Apr, Thomas Anderson, “Conference reviewing considered harmful”, ACM SIGOPS Oper. Syst. Rev.
-+ 2007Jul, Srinivasan Keshav, “How to read a paper”, CAM SIGCOMM Comput. Commun. Rev.
-+ 1989Nov, Ian Parberry, “A guide for new referees in theoretical computer science”, ACM SIGACT News.
-+ How2Review : http://web.mst.edu/~cetinkayae/htdpr_ekc.pdf
-+ Reviewing Papers: http://eelcovisser.org/wiki/teaching/reviewing
-+ http://retractionwatch.com/2016/07/25/from-annoying-to-bitter-here-are-the-six-types-of-peer-reviewers/
-    + Full paper:  http://www.tandfonline.com/doi/full/10.1080/02723638.2016.1190559
-+ Literature Review: A Guide for Researchers, http://uws.au.libanswers.com/loader.php?fid=1332&type=1&key=3d48313481c8c29c97e3cdecba596d05
-    
-### Respond to Reviewers
-+ [How not to respond to reviewers: Eight simple tips](http://blogs.nature.com/naturejobs/2016/08/19/how-not-to-respond-to-reviewers-eight-simple-tips/)
 
 ----
