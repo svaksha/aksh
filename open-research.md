@@ -1,5 +1,6 @@
 + [Resources](#resources)
 + [ARR](#arr)
++ [Artifacts](#artifacts)
 + [OpenScience](#openscience)
 + [OpenData](#opendata)
     + [DataScience](#datascience)
@@ -30,7 +31,8 @@
 ----
 
 # ARR
-+ Reproducibility Project: Cancer Biology seeks participants to help evaluate #reproducibility: http://blogs.biomedcentral.com/bmcblog/2016/06/03/recruiting-participants-evaluate-reproducibility/
++ Repeatability in Computer Science: http://reproducibility.cs.arizona.edu/
++ Reproducibility Project: Cancer Biology seeks participants to help evaluate reproducibility: http://blogs.biomedcentral.com/bmcblog/2016/06/03/recruiting-participants-evaluate-reproducibility/
 + Blockchain : http://blogs.lse.ac.uk/impactofsocialsciences/2016/07/21/could-blockchain-provide-the-technical-fix-to-solve-sciences-reproducibility-crisis/
 + http://www.nature.com/news/dutch-agency-launches-first-grants-programme-dedicated-to-replication-1.20287
 + http://www.nature.com/nature/journal/v534/n7607/full/534326d.html
@@ -52,12 +54,15 @@
 + https://news.ycombinator.com/item?id=12185964
 + https://lwn.net/Articles/674573/
 
-## Papers
+
+## Papers & Presentations
 + Psychology: http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/
 + Reproducibility in Chemical Research : http://onlinelibrary.wiley.com/doi/10.1002/anie.201606591/pdf
 + http://www.nature.com/news/reality-check-on-reproducibility-1.19961
 + http://www.nature.com/nature/journal/v532/n7598/full/532177d.html
 + http://www.nature.com/news/announcement-reducing-our-irreproducibility-1.12852
++ https://systems.soe.ucsc.edu/sites/default/files/images/jimenez-srls15-presentation.pdf
++ Chris Drummond, Replicability is not Reproducibility: Nor is it Good Science, 2009, http://cogprints.org/7691/7/ICMLws09.pdf
 
 
 ## Ten Simple Rules for Reproducible Computational Research
@@ -72,6 +77,11 @@
     * Rule 8: Generate Hierarchical Analysis Output, Allowing Layers of Increasing Detail to Be Inspected
     * Rule 9: Connect Textual Statements to Underlying Results
     * Rule 10: Provide Public Access to Scripts, Runs, and Results
+
+----
+
+# Artifacts
++ http://i-cav.org/2015/evaluation/
 
 ----
 

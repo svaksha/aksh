@@ -12,6 +12,13 @@
 
 ----
 
+# ANOVA
++ http://www.statmethods.net/stats/anova.html
++ http://www.scipy-lectures.org/_downloads/PythonScientific.pdf 
++ http://www.scipy-lectures.org/packages/statistics/index.html
+
+----
+
 # Bayesian
 + Bayesian Statistics explained to Beginners: https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english
 
