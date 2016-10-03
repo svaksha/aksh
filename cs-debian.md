@@ -49,6 +49,8 @@ dpkg -S /sbin/ippool
 ----
 
 # UBUNTU
++ Ubuntu LTS Flavors Comparison: Ubuntu 16.04 vs Kubuntu 16.04 vs Ubuntu GNOME 16.04: http://www.hecticgeek.com/2016/05/ubuntu-16-04-flavors-comparison/
++ http://www.psychocats.net/ubuntu/whichbuntu
 
 ## PPA
 #### Adding PPA's

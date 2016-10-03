@@ -93,13 +93,14 @@ __MLA or APA style?__
 + http://retractionwatch.com/2016/07/25/from-annoying-to-bitter-here-are-the-six-types-of-peer-reviewers/
     + Full paper:  http://www.tandfonline.com/doi/full/10.1080/02723638.2016.1190559
 + Literature Review: A Guide for Researchers, http://uws.au.libanswers.com/loader.php?fid=1332&type=1&key=3d48313481c8c29c97e3cdecba596d05
-    
+
 ### Respond to Reviewers
 + [How not to respond to reviewers: Eight simple tips](http://blogs.nature.com/naturejobs/2016/08/19/how-not-to-respond-to-reviewers-eight-simple-tips/)
 
 ----
 
 # Write-PAPERS
++ Hengl, T. and Gould, M., 2002. Rules of thumb for writing research articles, https://www.itc.nl/library/papers/hengl_rules.pdf
 + http://graduateresearcher.space/writing/writing-the-analysisdiscussion/
 + http://chronicle.com/article/My-Writing-Productivity/236712
 + https://twitter.com/WriteThatPhD
