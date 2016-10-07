@@ -48,7 +48,7 @@
 + Running an open experiment - transparency and reproducibility in soil and ecosystem science :: http://iopscience.iop.org/article/10.1088/1748-9326/11/8/084004/meta
 + Research integrity: Don't let transparency damage science :: http://www.nature.com/news/research-integrity-don-t-let-transparency-damage-science-1.19219
 + High-impact journals: where newsworthiness trumps methodology, '__Sexy Science Vs. Reproducibility__' http://blogs.lse.ac.uk/impactofsocialsciences/2013/03/15/high-impact-journals-where-newsworthiness-trumps-methodology/
-+ Title: [A statistical definition for reproducibility and replicability](http://biorxiv.org/content/biorxiv/early/2016/07/29/066803.full.pdf), Authors: Prasad Patil, Roger D. Peng, Jeffrey T. Leek, 
++ 2016, Prasad Patil, Roger D. Peng, Jeffrey T. Leek, [A statistical definition for reproducibility and replicability](http://biorxiv.org/content/biorxiv/early/2016/07/29/066803.full.pdf) 
 + The TOMS Initiative and Policies for Replicated Computational Results (RCR): http://toms.acm.org/replicated-computational-results.cfm
 + Muddled meanings hamper efforts to fix reproducibility crisis: http://www.nature.com/news/muddled-meanings-hamper-efforts-to-fix-reproducibility-crisis-1.20076
 + https://news.ycombinator.com/item?id=12185964
@@ -56,6 +56,7 @@
 
 
 ## Papers & Presentations
++ Ronald F. Boisvert, ACM, Incentivizing Reproducibility : http://cacm.acm.org/magazines/2016/10/207757-incentivizing-reproducibility/fulltext
 + Psychology: http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/
 + Reproducibility in Chemical Research : http://onlinelibrary.wiley.com/doi/10.1002/anie.201606591/pdf
 + http://www.nature.com/news/reality-check-on-reproducibility-1.19961

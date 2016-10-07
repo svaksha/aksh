@@ -200,7 +200,7 @@ __MLA or APA style?__
 + How to write a Ph.D. thesis: https://www.uni-goettingen.de/en/138976.html
 + The key to a successful PhD thesis? Write in your own voice, https://www.theguardian.com/higher-education-network/blog/2014/aug/20/write-in-your-own-voice-key-to-successful-phd-thesis
 + Guidelines for Writing Your Dissertation: http://visual-memory.co.uk/daniel/Modules/dissertation.html
-
++ Gavin Moodie, RMIT, Surviving your PhD: http://www.academia.edu/359676/Surviving_your_PhD (Needs login for download)
 
 ### [starting the PhD – write and write regularly](https://patthomson.net/2016/09/19/starting-the-phd-write-and-write-regularly/)
 
