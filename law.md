@@ -1,7 +1,8 @@
 + [Law-Copyright](#law-copyright)
 + [License-OpenData](#license-opendata)
 + [License-Software](#license-software)
-    + [Violations](#violations)
+    + [C4](#c4)
+    + [Violations](#violations)    
 + [Privacy](#privacy)
 
 ----
@@ -43,6 +44,10 @@
 + Discussions : 
     + Why not to obfuscate: http://stackoverflow.com/questions/261638/how-do-i-protect-python-code
 
+
+## C4 
++ ZeroMQ's Collective Code Construction Contract, https://rfc.zeromq.org/spec:42/C4/
+
 ## Violations
 + http://ebb.org/bkuhn/blog/2009/11/08/gpl-enforcement.html
 + https://sfconservancy.org/blog/2016/feb/25/zfs-and-linux/
@@ -58,3 +63,4 @@
 #### Other
 + https://www.uni-due.de/imperia/md/content/e_comp/ratgeber_multimediarecht.pdf
 + http://security.stackexchange.com/questions/137418/how-does-google-know-where-i-am
+

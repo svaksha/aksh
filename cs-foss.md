@@ -6,7 +6,6 @@
 + [ORG](#org)
 + [Project Management](#project-management)    
 + [Social Media and SNS](#social-media-and-sns)
-+ [TechKultur](#techkultur)
 
 ----
 
@@ -123,9 +122,4 @@ Create an umbrella list
 + https://en.wikipedia.org/wiki/Diaspora_%28software%29
     + https://en.wikipedia.org/wiki/Diaspora_%28social_network%29 
     + https://en.wikipedia.org/wiki/Loomio
-
-----
-
-# TechKultur
-+ https://modelviewculture.com/pieces/re-recruit-from-the-leaky-pipeline
 

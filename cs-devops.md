@@ -110,6 +110,10 @@
 ----
 
 # CONFIG
+
+### Alias
++ https://www.digitalocean.com/community/questions/what-are-your-favorite-bash-aliases
+
 ### how to create a config file
 + http://stackoverflow.com/questions/18700295/standard-way-of-creating-config-file-suitable-for-python-and-java-together
 + https://wiki.python.org/moin/ConfigParserExamples
@@ -117,7 +121,7 @@
 
 ----
 
-## INFRA
+# INFRA
 + https://en.wikipedia.org/wiki/Open_Build_Service
 
 ## Terraform

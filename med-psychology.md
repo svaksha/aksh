@@ -1,11 +1,14 @@
-+ [Cognitive Psychology](#cognitive-psychology)
++ [COGNITIVE PSYCHOLOGY](#cognitive-psychology)
++ [DIVERSITY](#diversity)
+    + [Kultur](#kultur)
+    + [Harassment](#harassment)
 + [PRODUCTIVITY](#productivity)    
-+ [Psychopathy](#psychopathy)
++ [PSYCHOPATHY](#psychopathy)
     + [Bullying](#bullying)
     + [Passive-Aggressive](#passive-aggressive)
     + [Narcissism](#narcissism)
+    + [Procrastination](#procrastination)
     + [Social](#social)
-+ [Sexual Harassment](#sexual-harassment)
 
 ----
 
@@ -16,21 +19,26 @@
 + https://hbr.org/2013/08/why-do-so-many-incompetent-men
 + There are chemical reasons why men are more self-confident: http://www.sciencedaily.com/releases/2012/03/120327215556.htm
 
-## Procrastination
-+ Procrastination: [How to deal with it in the workplace](http://www.irishtimes.com/business/work/procrastination-how-to-deal-with-it-in-the-workplace-1.2374380).
-+ [Do You Work With A Procrastinator?](http://workplacediva.blogspot.de/2011/12/do-you-work-with-procrastinator.html)
-+ http://teamworks-works.com/winning-over-workplace-procrastination/
-
-
 ----
 
-# Cognitive Psychology
+# COGNITIVE PSYCHOLOGY
 + https://en.wikipedia.org/wiki/List_of_cognitive_biases
 + Are you positive about life? Thank your brain first, http://www.freepressjournal.in/are-you-positive-about-life-thank-your-brain-first/
 
 ----
 
-# [Psychopathy](https://en.wikipedia.org/wiki/Category:Psychopathy)
+# DIVERSITY
+
+## Kultur
++ https://modelviewculture.com/pieces/re-recruit-from-the-leaky-pipeline
+
+## Harassment
++ http://www.forbes.com/sites/janetstemwedel/2016/01/29/what-can-be-done-to-address-harassment-in-science/#24a984f07e87
++ Scientific societies speak out against sexual harassment : http://www.eurekalert.org/pub_releases/2016-09/agu-sss090916.php
+
+----
+
+# [PSYCHOPATHY](https://en.wikipedia.org/wiki/Category:Psychopathy)
 
 + https://en.wikipedia.org/wiki/Psychopathy_in_the_workplace 
 + https://en.wikipedia.org/wiki/Psychological_manipulation#According_to_Simon
@@ -68,15 +76,15 @@
 + https://www.quora.com/Can-one-be-passive-aggressive-with-certain-people-only/
 + https://www.quora.com/What-can-I-do-about-passive-aggressive-stalking-or-harassment-online
 
+## Procrastination
++ Procrastination: [How to deal with it in the workplace](http://www.irishtimes.com/business/work/procrastination-how-to-deal-with-it-in-the-workplace-1.2374380).
++ [Do You Work With A Procrastinator?](http://workplacediva.blogspot.de/2011/12/do-you-work-with-procrastinator.html)
++ http://teamworks-works.com/winning-over-workplace-procrastination/
+
 ## Social
-+ https://en.wikipedia.org/wiki/Proxemics
++ Physical distance, https://en.wikipedia.org/wiki/Proxemics
 + Humans display a reduced set of consistent behavioral phenotypes in dyadic games: http://advances.sciencemag.org/content/2/8/e1600451
     + http://indianexpress.com/article/lifestyle/feelings/envy-most-common-personality-trait-among-humans-study-3035762/
     + http://tecake.in/news/science/pessimistic-optimistic-envious-trusting-four-basic-traits-human-says-study-23567.html
     + Study identifies four basic personality types in humans: http://www.dnaindia.com/scitech/report-study-identifies-four-basic-personality-types-in-humans-2256541
     
-
-----
-
-# Sexual Harassment
-+ Scientific societies speak out against sexual harassment : http://www.eurekalert.org/pub_releases/2016-09/agu-sss090916.php
