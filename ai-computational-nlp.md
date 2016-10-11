@@ -4,9 +4,11 @@
 + [Grammar-German](#grammar-german)
 + [Grammar-Samskrit](#grammar-samskrit)
 + [NLP](#nlp)
-+ [RDF](#rdf)
 + [Pub-NLP](#pub-nlp)
 + [Pub-Semantic](#semantic)
++ [RDF](#rdf)
+    + [Ontology](#ontology)
+    + [Ontology Editor](#ontology-editor)
 + [Search Engine](#search-engine)
 + [SPARQL](#sparql)
 
@@ -84,39 +86,6 @@
 
 ----
 
-# RDF
-+ https://news.ycombinator.com/item?id=7946024
-+ https://en.wikipedia.org/wiki/Semantic_data_model
-+ RDF, https://en.wikipedia.org/wiki/Resource_Description_Framework
-
-## Ontology
-+ http://fileinfo.com/extension/rdf
-+ http://www.file-extensions.org/rdf-file-extension
-+ http://hatis.techtarget.com/fileformat/RDF-Compiled-UIC-source-code-Geoworks-UI-Compiler
-+ http://wiki.opensemanticframework.org/index.php/Ontology_Tools  #<-----  about free software
-+ https://en.wikipedia.org/wiki/Ontology_%28information_science%29   #Published_examples
-+ http://www.obitko.com/tutorials/ontologies-semantic-web/            #<------- imp  good reading material
-+ https://en.wikipedia.org/wiki/Problem_solving
-+ https://en.wikipedia.org/wiki/Ontology_%28information_science%29   #Published_examples
-
-----
-
-# Pub-Semantic
-+ https://en.wikipedia.org/wiki/Semantic_query
-+ https://en.wikipedia.org/wiki/Semantic_Web
-+ MWE-aware English Dependency Corpus :: https://github.com/naist-cl-parsing/mwe-aware-dependency
-+ https://explorable.com/research-paper-format  
-+ https://explorable.com/design-of-experiment
-
-## Concept Graphs
-+ Microsoft [Research Concept Graph](https://concept.research.microsoft.com/Home/Download) taxonomy from their ProBase project. This [data contains 5,376,526 unique concepts](https://concept.research.microsoft.com/Home/Introduction), 12,501,527 unique instances, and 85,101,174 IsA relations for entity disambiguation.
-
-## Metadata
-+ https://www.google.de/search?q=provenance+metadata&ie=utf-8&oe=utf-8&gws_rd=cr&ei=iwuWV8evJsn5UKb9h-gO
-+ https://www.w3.org/2005/Incubator/prov/wiki/What_Is_Provenance
-
-----
-
 # Pub-NLP
 + Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks : http://www.aclweb.org/anthology/P15-1150
 + 2015, [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://www.aclweb.org/anthology/P15-1150).
@@ -138,6 +107,47 @@
 + http://semantic-cora.org/index.php/Publications_and_Talks
 
 ----
+
+
+# Pub-Semantic
++ https://en.wikipedia.org/wiki/Semantic_query
++ https://en.wikipedia.org/wiki/Semantic_Web
++ MWE-aware English Dependency Corpus :: https://github.com/naist-cl-parsing/mwe-aware-dependency
++ https://explorable.com/research-paper-format  
++ https://explorable.com/design-of-experiment
+
+## Concept Graphs
++ Microsoft [Research Concept Graph](https://concept.research.microsoft.com/Home/Download) taxonomy from their ProBase project. This [data contains 5,376,526 unique concepts](https://concept.research.microsoft.com/Home/Introduction), 12,501,527 unique instances, and 85,101,174 IsA relations for entity disambiguation.
+
+## Metadata
++ https://www.google.de/search?q=provenance+metadata&ie=utf-8&oe=utf-8&gws_rd=cr&ei=iwuWV8evJsn5UKb9h-gO
++ https://www.w3.org/2005/Incubator/prov/wiki/What_Is_Provenance
+
+----
+
+# RDF
++ https://news.ycombinator.com/item?id=7946024
++ https://en.wikipedia.org/wiki/Semantic_data_model
++ RDF, https://en.wikipedia.org/wiki/Resource_Description_Framework
+
+## Ontology
++ http://fileinfo.com/extension/rdf
++ http://www.file-extensions.org/rdf-file-extension
++ http://hatis.techtarget.com/fileformat/RDF-Compiled-UIC-source-code-Geoworks-UI-Compiler
++ http://wiki.opensemanticframework.org/index.php/Ontology_Tools  #<-----  about free software
++ https://en.wikipedia.org/wiki/Ontology_%28information_science%29   #Published_examples
++ http://www.obitko.com/tutorials/ontologies-semantic-web/            #<------- imp  good reading material
++ https://en.wikipedia.org/wiki/Problem_solving
++ https://en.wikipedia.org/wiki/Ontology_%28information_science%29   #Published_examples
+
+## [Ontology Editor](https://en.wikipedia.org/wiki/Category:Ontology_editors)
+
+#### [Protégé](https://en.wikipedia.org/wiki/Protégé_(software) (Java)
++ http://protege.stanford.edu :: A free, open-source ontology editor and framework for building intelligent systems.
++ Source on Github: https://github.com/protegeproject/protege
+
+----
+
 
 # [Search Engine](https://en.wikipedia.org/wiki/Category:Free_search_engine_software)
 + https://en.wikipedia.org/wiki/List_of_search_engines
