@@ -19,7 +19,9 @@
 
 ## DataScience
 + Chunking, https://en.wikipedia.org/wiki/Chunking_%28psychology%29
-+ De-Chunking your brain to stop Companies Learning Your Secrets, http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=1\&\%20r=2\&hp&_r=0
++ De-Chunking your brain to stop Companies Learning Your Secrets, http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html
++ Shiva Bhaskar on [Algorithms, Big Data And Accountability](https://medium.com/@shivagbhaskar/algorithms-big-data-and-accountability-8924bf9e2b24#).
+
 
 ----
 

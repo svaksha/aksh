@@ -1,5 +1,6 @@
 + [NOTES](#notes)
 + [Bayesian](#bayesian)
++ [P-Values](#p-values)
 + [Statistics](#statistics)
    + [Research Papers](#research-papers)
    + [Business Analytics](#business-analytics)
@@ -21,6 +22,11 @@
 
 # Bayesian
 + Bayesian Statistics explained to Beginners: https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english
+
+----
+
+# P-Values
++ The problem with p-values, https://aeon.co/essays/it-s-time-for-science-to-abandon-the-term-statistically-significant
 
 ----
 
