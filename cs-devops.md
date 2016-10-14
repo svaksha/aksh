@@ -1,9 +1,9 @@
 + [AMQP](#amqp)
 + [Automation](#automation)
+    + [Makefile](#makefile)
 + [AWS](#aws)
 + [CONFIG](#config)
-+ [DEVOPS](#devops)
-   + [Automation](#automation)
++ [INFRA](#infra)
    + [Batch Jobs](#batch-jobs)
    + [CI](#ci)
    + [LibCloud](#libcloud)
@@ -61,6 +61,10 @@
 ----
 
 # Automation
+
+## Makefile
+Makefile samples
++ https://github.com/tlnagy/dotfiles/blob/master/Makefile
 
 ## Chef 
 (.rb)

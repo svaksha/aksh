@@ -15,12 +15,13 @@
 
 # API
 
-##__Julia__
+## Julia
 + https://github.com/svaksha/Julia.jl/blob/master/API.md#git
 
 ## Git 
 + https://github.com/libgit2/libgit2
 + https://github.com/libgit2/pygit2
++ https://github.com/nevik/gitwatch
 
 ### GitPython
 + http://gitpython.readthedocs.org/en/stable/tutorial.html
