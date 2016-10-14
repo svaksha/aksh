@@ -9,6 +9,7 @@
 
 # Resources
 + https://github.com/firaswehbe/data-programming-resources/blob/master/python.md
++ Python for DataScience cheatsheet, https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf
 
 ----
 
