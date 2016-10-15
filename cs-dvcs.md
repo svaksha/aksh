@@ -51,6 +51,7 @@ __Ruby__
 + http://nuclearsquid.com/writings/git-tricks-tips-workflows/
 + http://imagej.net/Git_workshop
 + https://help.github.com/articles/good-resources-for-learning-git-and-github/
++ Git Intro for Librarians, http://data-lessons.github.io/library-git/
 
 ## git branching
 + http://learngitbranching.js.org/

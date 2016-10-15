@@ -129,6 +129,8 @@ __MLA or APA style?__
 + Paper Sections : http://writers.stackexchange.com/questions/14516/can-section-headings-in-a-paper-be-questions
 + How to get your journal article to a publishable standard http://buff.ly/2cMq2Xy  (page 21) : http://www.drsq.org/issues/drq1-1.pdf 
 + Guidelines for writing a research paper for publication: https://www.liebertpub.com/media/pdf/English-Research-Article-Writing-Guide.pdf
++ How to write well & get published: tips for early career academics, http://mams.rmit.edu.au/ryl0wql50c8q.pdf
+
 
 ## Paper Structure
 ### ABSTRACT
