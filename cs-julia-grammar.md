@@ -30,6 +30,8 @@ Siyi Deng <mr.siyi.deng@gmail.com> wrote: Numpy arrays operate element-wise by d
 ----
 
 # Functions
++ The Julian way to validate function arguments? https://www.reddit.com/r/Julia/comments/57e2gk/julian_way_of_validating_function_arguments/
+
 one thing to note about julia is that you can put multiple functions in one file:
 
     square_and_mult_by_c(x, c) = c*x*x
