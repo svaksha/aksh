@@ -53,6 +53,9 @@
 + Muddled meanings hamper efforts to fix reproducibility crisis: http://www.nature.com/news/muddled-meanings-hamper-efforts-to-fix-reproducibility-crisis-1.20076
 + https://news.ycombinator.com/item?id=12185964
 + https://lwn.net/Articles/674573/
++ A [report](https://lifewithscience.net/2016/10/14/research-publish-do-not-repeat/) states that __F1000Research__ launched [Faculty of 1000](http://f1000.com) for “Preclinical Reproducibility and Robustness”. 
+    + Amgen researchers on [Drug development: Raise standards for preclinical cancer research](http://www.nature.com/nature/journal/v483/n7391/full/483531a.html).
+    + Contra view: If a study fails to be replicated it does not automatically mean that its results are to be considered false, http://www.nature.com/news/biotech-giant-publishes-failures-to-confirm-high-profile-science-1.19269
 
 
 ## Papers & Presentations
