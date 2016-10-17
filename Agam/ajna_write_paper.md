@@ -193,6 +193,7 @@ __MLA or APA style?__
 ---- 
 
 # Write-[THESIS](https://en.wikipedia.org/wiki/Thesis)
++ Brian Martin: Want to publish more? Then train like an athlete. Perfectionism is a deadly enemy of good performance. http://www.bmartin.cc/pubs/12tp.html   
 + https://www.theguardian.com/higher-education-network/blog/2014/aug/27/finishing-phd-thesis-top-tips-experts-advice
 + http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf
 + Connecting the dots: writing a doctoral thesis by publication, https://digital.library.adelaide.edu.au/dspace/bitstream/2440/96163/2/hdl_96163.pdf
@@ -203,6 +204,9 @@ __MLA or APA style?__
 + The key to a successful PhD thesis? Write in your own voice, https://www.theguardian.com/higher-education-network/blog/2014/aug/20/write-in-your-own-voice-key-to-successful-phd-thesis
 + Guidelines for Writing Your Dissertation: http://visual-memory.co.uk/daniel/Modules/dissertation.html
 + Gavin Moodie, RMIT, Surviving your PhD: http://www.academia.edu/359676/Surviving_your_PhD (Needs login for download)
++ 2013Jan, [Angus Morrison](http://profiles.murdoch.edu.au/myprofile/angus), [WRITING ABOUT WRITING: Ideas for Short Report and Journal Article Composition](researchrepository.murdoch.edu.au/12601/1/Writing_About_Writing_3rdEd_4Jan2013.pdf).
+
+
 
 ### [starting the PhD – write and write regularly](https://patthomson.net/2016/09/19/starting-the-phd-write-and-write-regularly/)
 
