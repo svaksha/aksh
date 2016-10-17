@@ -53,6 +53,8 @@
 + Muddled meanings hamper efforts to fix reproducibility crisis: http://www.nature.com/news/muddled-meanings-hamper-efforts-to-fix-reproducibility-crisis-1.20076
 + https://news.ycombinator.com/item?id=12185964
 + https://lwn.net/Articles/674573/
++ Monya Baker: http://www.nature.com/search?journal=am%2Capp_notes%2Cavianflu%2Cclimate%2Cnature%2Cnaturejobs%2Cnbt%2Cncb%2Cnchem%2Cnchembio%2Cnchina%2Cnclimate%2Cncomms%2Cneuro%2Cng%2Cngeo%2Cni%2Cnindia%2Cnm%2Cnmat%2Cnmeth%2Cnmiddleeast%2Cnnano%2Cnphoton%2Cnphys%2Cnprot%2Cnsmb%2Cscientificamerican%2Cscientificamericanmind%2Csrep%2Cstemcells%2Cblogs&order=date_desc&pag-start=1&q=%22Monya%20Baker%22&q_match=all&sp-m=1
++ 2016Sep28: Monya Baker, [Reproducibility: Seek out stronger science](http://www.nature.com/naturejobs/science/articles/10.1038/nj7622-703a), Nature, 537, 703-704 (2016), DOI:10.1038/nj7622-703a. Talks about statistics.
 + A [report](https://lifewithscience.net/2016/10/14/research-publish-do-not-repeat/) states that __F1000Research__ launched [Faculty of 1000](http://f1000.com) for “Preclinical Reproducibility and Robustness”. 
     + Amgen researchers on [Drug development: Raise standards for preclinical cancer research](http://www.nature.com/nature/journal/v483/n7391/full/483531a.html).
     + Contra view: If a study fails to be replicated it does not automatically mean that its results are to be considered false, http://www.nature.com/news/biotech-giant-publishes-failures-to-confirm-high-profile-science-1.19269
@@ -158,6 +160,7 @@
 
 ## Data Quality
 + Gene name errors are widespread in the scientific literature : http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1044-7
++ The image detective who roots out manuscript flaws. Jana Christopher discusses her job as a data integrity analyst at EMBO Press: http://www.nature.com/news/the-image-detective-who-roots-out-manuscript-flaws-1.17749
 
 ----
 
