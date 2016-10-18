@@ -22,7 +22,17 @@
 
 ----
 
+# ObGyn
+
+## IVF
++ IVF not proven to cut birth defect risk in babies with older mothers: http://www.nhs.uk/news/2016/10October/Pages/IVF-not-proven-to-cut-birth-defect-risk-in-babies-with-older-mothers.aspx
++ IVF babies born to women over 40 may have lesser birth defects: http://indianexpress.com/article/lifestyle/health/ivf-babies-born-to-women-over-40-may-have-lesser-birth-defects-3087860/
++ 
+
+----
+
 # MedChem
 + The [Discovery of tetrahydropyrazolopyrimidine carboxamide derivatives as potent and orally active antitubercular agents](http://europepmc.org/articles/PMC4027361/), ACS Med Chem Lett., 2013/May/09; Published online 2013/Apr/01; doi: 10.1021/ml400071a.
 
 ----
+
