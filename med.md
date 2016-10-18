@@ -27,7 +27,6 @@
 ## IVF
 + IVF not proven to cut birth defect risk in babies with older mothers: http://www.nhs.uk/news/2016/10October/Pages/IVF-not-proven-to-cut-birth-defect-risk-in-babies-with-older-mothers.aspx
 + IVF babies born to women over 40 may have lesser birth defects: http://indianexpress.com/article/lifestyle/health/ivf-babies-born-to-women-over-40-may-have-lesser-birth-defects-3087860/
-+ 
 
 ----
 

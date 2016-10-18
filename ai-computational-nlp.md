@@ -15,6 +15,11 @@
 ----
 
 # DATA 
+
+## Dictionary
++ [GoldenDict](http://goldendict.org) :: dictionary lookup program
++ http://softwarerecs.stackexchange.com/questions/19693/offline-english-german-dictionary-for-gnu-linux
+
 ## German 
 + https://sourceforge.net/projects/germandict/files/
 + http://german.stackexchange.com/questions/491/where-can-i-find-a-parsable-list-of-german-words

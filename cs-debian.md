@@ -1,4 +1,6 @@
 + [DEBIAN Packages](#debian-packages)
+   + [APT](#apt)
+       + [Apt-Pinning](#apt-pinning)
 + [UBUNTU](#ubuntu)
    + [PPA](#ppa)
 + [ISO](#iso)
@@ -43,8 +45,12 @@ dpkg -S /sbin/ippool
 + dpkg -p {package} 	Display details about package package group, version, maintainer, Architecture, display depends packages, description etc 	dpkg -p lsof
 + dpkg -s {package} | grep Status 	Find out if Debian package is installed or not (status) 	dpkg -s lsof | grep Status
 
-### APT
+## APT
 + http://www.tecmint.com/useful-basic-commands-of-apt-get-and-apt-cache-for-package-management/
+
+#### Apt-Pinning
++ http://wiki.debian.org/AptPinning
++ http://jaqque.sbih.org/kplug/apt-pinning.html
 
 ----
 
