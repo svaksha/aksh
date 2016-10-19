@@ -4,6 +4,7 @@
     + [Reprozip](#reprozip)
     + [Care](#care)
 + [Scientific Workflow](#scientific-workflow)
+    + [Incubator-Airflow](#incubator-airflow)
     + [Kepler-Taverna](#kepler-taverna)
 + [Continuous Integration](#continuous-integration)        
     + [Travis-CI](#travis-ci)
@@ -77,6 +78,9 @@ VM's are memory-intensive and harder to setup besides varying across distros. He
 
 # [Scientific Workflow](https://en.wikipedia.org/wiki/Scientific_workflow_system)
 
+## Incubator-Airflow 
++ https://github.com/apache/incubator-airflow :: Airflow is a platform to programmatically author, schedule and monitor workflows.
+
 ## [Kepler](https://en.wikipedia.org/wiki/Kepler_scientific_workflow_system)-[Taverna](https://en.wikipedia.org/wiki/Apache_Taverna)
 
 There are two main differences between [Kepler]() and [Taverna](http://www.taverna.org.uk/): (1) the models of computation they use and (2) the user communities being served. 
@@ -86,8 +90,6 @@ There are two main differences between [Kepler]() and [Taverna](http://www.taver
 (2) the user communities being served    
     + The Taverna team has primarily focused on supporting the Life Sciences community (biology, chemistry and medical imaging), whereas in Kepler the emphasis so far has been on ecology and geology.
 
-    
-    
 ----
 
 # [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)

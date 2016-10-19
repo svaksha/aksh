@@ -12,6 +12,7 @@
 + [BASH SHELL](#bash-shell)
    + [Bash Scripting](#bash-scripting)
    + [Julia](#julia)
+   + [Zsh](#zsh)
 + [Kernel-HDD](#kernel-hdd)
    + [ISO](#iso)
 + [REGEX](#regex)
@@ -27,6 +28,9 @@
 ----
 
 + https://www.debian.org/doc/manuals/debian-faq/ch-choosing.en.html
++ http://wiki.debian.org 
++ http://debian-administration.org 
+ 
 
 # DEBIAN Packages
 + DPKG cheat sheet: http://www.cyberciti.biz/howto/question/linux/dpkg-cheat-sheet.php
