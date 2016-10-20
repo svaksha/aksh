@@ -82,6 +82,8 @@
     + Computers are faster, they just take longer.
 + James Lipscomb, son of the Nobel Prize-winning chemist [William Nunn Lipscomb, Jr.](https://en.wikipedia.org/wiki/William_Lipscomb), writes about '[Scientific Aggression as a Way of Life](http://wlipscomb.tripod.com/wnl_life.html)'.
 + Time Management Tips for Dissertation Writing : http://thesawh.org/wp-content/uploads/2012/06/Gritter_Revised_Time_Management_Tips_SAWH_Toolkit_Submission.pdf
++ Franklin Covey’s Time Management Matrix : http://www.hopkinsmedicine.org/fac_development/researchers/getting%20that%20paper%20out%20the%20door_111815.pdf
+
 
 ## Quotes
 + Prof. Randy Pausch from the [Randy Pausch Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo): 

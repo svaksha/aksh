@@ -20,6 +20,7 @@
 + [UTILITIES](#utilities)
    + [Backups](#backups)
    + [Calendar Time Tracker](#calendar-time-tracker)
+   + [Editor](#editor)
    + [Spreadsheets](#spreadsheets)
    + [Terminal Multiplexer](#terminal-multiplexer)
 + [Resources](#resources)
@@ -225,6 +226,7 @@ $ sudo dpkg -i /var/tmp/firmware-realtek_0.43_all.deb  # update the firmware fro
 + [Installing Image Magick on Ubuntu 14.04](https://gist.github.com/rodleviton/74e22e952bd6e7e5bee1)
 + https://github.com/ewiger/findtools
 
+
 ----
 
 # UTILITIES
@@ -259,12 +261,19 @@ $ sudo dpkg -i /var/tmp/firmware-realtek_0.43_all.deb  # update the firmware fro
 #### [OrangeScrum](http://www.orangescrum.org/)
 + Download source code: https://github.com/Orangescrum/orangescrum
 
+## Editor
+
+#### Edit PDF
++ http://askubuntu.com/questions/16652/which-programs-can-i-use-to-edit-pdf-files
++ http://askubuntu.com/questions/162037/how-to-edit-pdfs
 
 ## Spreadsheets
 + [roo](https://github.com/roo-rb/roo) :: An interface to spreadsheets of several sorts. 
 
 ## Terminal Multiplexer
+
 ### [Screen](https://en.wikipedia.org/wiki/GNU_Screen)
+
 ### [Tmux](https://en.wikipedia.org/wiki/Tmux)
 + Rik's conf: http://www.rikrose.net/tmux.conf
 
