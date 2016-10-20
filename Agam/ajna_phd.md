@@ -188,6 +188,7 @@ __MLA or APA style?__
 + DLIB guidelines, http://www.dlib.org/dlib/author-guidelines.html
 
 ## PAPERS
++ The Secret to Writing Your Dissertation, http://scienceblogs.com/startswithabang/2012/10/20/the-secret-to-writing-your-dissertation/
 + Hengl, T. and Gould, M., 2002. Rules of thumb for writing research articles, https://www.itc.nl/library/papers/hengl_rules.pdf
 + http://graduateresearcher.space/writing/writing-the-analysisdiscussion/
 + http://chronicle.com/article/My-Writing-Productivity/236712

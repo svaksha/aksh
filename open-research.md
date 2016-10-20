@@ -128,6 +128,8 @@
 + Reproducible Workflow: http://datasci.kitzes.com/lessons/python/reproducible_workflow.html
 + The Harvard Dataverse Network: http://library.harvard.edu/gdc
 + The Importance and the Complexities of Data Sharing, http://www.nejm.org/doi/full/10.1056/NEJMe1611027#pq=v6nEwl
++ European countries are reaping the benefits of Open Data : https://ec.europa.eu/digital-single-market/en/blog/european-countries-are-reaping-benefits-open-data 
+
 
 ### Bad Science
 + The natural selection of bad science, https://arxiv.org/pdf/1605.09511v1.pdf
