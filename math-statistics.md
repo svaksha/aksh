@@ -1,5 +1,6 @@
 + [NOTES](#notes)
 + [Bayesian](#bayesian)
++ [Descriptive Statistics](#descriptive-statistics)
 + [P-Values](#p-values)
 + [Statistics](#statistics)
    + [Research Papers](#research-papers)
@@ -22,10 +23,17 @@
 + http://www.scipy-lectures.org/_downloads/PythonScientific.pdf 
 + http://www.scipy-lectures.org/packages/statistics/index.html
 
+## [MANOVA](https://en.wikipedia.org/wiki/Multivariate_analysis_of_variance)
+
 ----
 
 # Bayesian
 + Bayesian Statistics explained to Beginners: https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english
+
+----
+
+# [Descriptive Statistics](https://en.wikipedia.org/wiki/Category:Descriptive_statistics)
++ Quartile: https://en.wikipedia.org/wiki/Quartile
 
 ----
 
@@ -70,15 +78,18 @@
 
 ----
 
-# SPSS-GNU-PSPP
+# SPSS-[GNU-PSPP](https://en.wikipedia.org/wiki/PSPP)
++ https://www.gnu.org/software/pspp/faq.html
 + GNU PSPP Statistical Analysis Software Users’ Guide, Release 0.10.2: http://www.gnu.org/software/pspp/manual/pspp.pdf
-
++ PSPP-convert, https://www.gnu.org/software/pspp/manual/html_node/Invoking-pspp_002dconvert.html
 
 ## METHOD=EXACT TIMER 
 + https://www.ibm.com/support/knowledgecenter/SSLVMB_20.0.0/com.ibm.spss.statistics.help/syn_crosstabs_method.htm
 
 ## MANOVA-GLM
 + http://www.ats.ucla.edu/stat/spss/library/sp_glm.htm
++ WSFACTORS, http://www.ats.ucla.edu/stat/spss/examples/da/daspss18.htm
+
 
 ## Trend Analysis
 + http://jonathantemplin.com/files/anova/ersh8310f07/ersh8310f07_07.pdf
