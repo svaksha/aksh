@@ -292,7 +292,7 @@ __MLA or APA style?__
 + Guidelines for Writing Your Dissertation: http://visual-memory.co.uk/daniel/Modules/dissertation.html
 + Gavin Moodie, RMIT, Surviving your PhD: http://www.academia.edu/359676/Surviving_your_PhD (Needs login for download)
 + 2013Jan, [Angus Morrison](http://profiles.murdoch.edu.au/myprofile/angus), [WRITING ABOUT WRITING: Ideas for Short Report and Journal Article Composition](researchrepository.murdoch.edu.au/12601/1/Writing_About_Writing_3rdEd_4Jan2013.pdf).
-
++ http://owll.massey.ac.nz/pdf/Drafting and Writing the Thesis.pdf
 
 ### [starting the PhD – write and write regularly](https://patthomson.net/2016/09/19/starting-the-phd-write-and-write-regularly/)
 

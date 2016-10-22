@@ -18,12 +18,17 @@
 
 ----
 
-# ANOVA
+# [ANOVA](https://en.wikipedia.org/wiki/Analysis_of_variance)
 + http://www.statmethods.net/stats/anova.html
 + http://www.scipy-lectures.org/_downloads/PythonScientific.pdf 
 + http://www.scipy-lectures.org/packages/statistics/index.html
 
+## ANOVA Trend Analysis
++ http://jonathantemplin.com/files/anova/ersh8310f07/ersh8310f07_07.pdf
+
 ## [MANOVA](https://en.wikipedia.org/wiki/Multivariate_analysis_of_variance)
+
+## UNIANOVA
 
 ----
 
@@ -34,6 +39,14 @@
 
 # [Descriptive Statistics](https://en.wikipedia.org/wiki/Category:Descriptive_statistics)
 + Quartile: https://en.wikipedia.org/wiki/Quartile
+
+----
+
+# [GLM](https://en.wikipedia.org/wiki/Generalized_linear_model) 
+
+## MANOVA-GLM in SPSS-PSPP
++ http://www.ats.ucla.edu/stat/spss/library/sp_glm.htm
++ WSFACTORS, http://www.ats.ucla.edu/stat/spss/examples/da/daspss18.htm
 
 ----
 
@@ -82,14 +95,8 @@
 + https://www.gnu.org/software/pspp/faq.html
 + GNU PSPP Statistical Analysis Software Users’ Guide, Release 0.10.2: http://www.gnu.org/software/pspp/manual/pspp.pdf
 + PSPP-convert, https://www.gnu.org/software/pspp/manual/html_node/Invoking-pspp_002dconvert.html
++ NOT implemented: https://www.gnu.org/software/pspp/manual/html_node/Not-Implemented.html
 
 ## METHOD=EXACT TIMER 
 + https://www.ibm.com/support/knowledgecenter/SSLVMB_20.0.0/com.ibm.spss.statistics.help/syn_crosstabs_method.htm
 
-## MANOVA-GLM
-+ http://www.ats.ucla.edu/stat/spss/library/sp_glm.htm
-+ WSFACTORS, http://www.ats.ucla.edu/stat/spss/examples/da/daspss18.htm
-
-
-## Trend Analysis
-+ http://jonathantemplin.com/files/anova/ersh8310f07/ersh8310f07_07.pdf
