@@ -1,5 +1,6 @@
 + [COGNITIVE PSYCHOLOGY](#cognitive-psychology)
 + [DIVERSITY](#diversity)
+    + [Crimes](#crimes)
     + [Kultur](#kultur)
     + [Harassment](#harassment)
 + [PRODUCTIVITY](#productivity)    
@@ -28,6 +29,9 @@
 ----
 
 # DIVERSITY
+
+## Crimes
++ http://www.police.nsw.gov.au/community_issues/bias_crimes
 
 ## Kultur
 + https://modelviewculture.com/pieces/re-recruit-from-the-leaky-pipeline
@@ -75,6 +79,7 @@
 + https://www.quora.com/What-are-some-examples-of-passive-aggressive-behavior/
 + https://www.quora.com/Can-one-be-passive-aggressive-with-certain-people-only/
 + https://www.quora.com/What-can-I-do-about-passive-aggressive-stalking-or-harassment-online
++ http://www.police.nsw.gov.au/community_issues/domestic__and__family_violence/what_is_stalking
 
 ## Procrastination
 + Procrastination: [How to deal with it in the workplace](http://www.irishtimes.com/business/work/procrastination-how-to-deal-with-it-in-the-workplace-1.2374380).
