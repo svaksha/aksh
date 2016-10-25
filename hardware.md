@@ -21,3 +21,11 @@
 
 # ROS
 + http://wiki.ros.org/ROS/Installation
++ https://github.com/veger/ros-builder
+
+## Papers
++ RoboBench: Towards sustainable robotics system benchmarking, http://ieeexplore.ieee.org/document/7487514/, https://pub.uni-bielefeld.de/publication/2901240
++ https://pub.uni-bielefeld.de/publication/2904605
++ https://pub.uni-bielefeld.de/publication/2685091
++ https://pub.uni-bielefeld.de/publication/2645922
++ https://pub.uni-bielefeld.de/publication/2705677
