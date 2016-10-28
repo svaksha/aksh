@@ -96,6 +96,9 @@
 + GNU PSPP Statistical Analysis Software Users’ Guide, Release 0.10.2: http://www.gnu.org/software/pspp/manual/pspp.pdf
 + PSPP-convert, https://www.gnu.org/software/pspp/manual/html_node/Invoking-pspp_002dconvert.html
 + NOT implemented: https://www.gnu.org/software/pspp/manual/html_node/Not-Implemented.html
++ Converting SPSS Syntax Files into SPSS Data Files: http://wiki.q-researchsoftware.com/wiki/Converting_SPSS_Syntax_Files_into_SPSS_Data_Files
++ SPSS basics: http://ssc.wisc.edu/sscc/pubs/spss/classintro/spss_students1.html
++ Import data into SPSS: http://libguides.library.kent.edu/SPSS/ImportData
 
 ## METHOD=EXACT TIMER 
 + https://www.ibm.com/support/knowledgecenter/SSLVMB_20.0.0/com.ibm.spss.statistics.help/syn_crosstabs_method.htm

@@ -42,12 +42,13 @@
 + https://www.timeshighereducation.com/features/10-truths-a-phd-supervisor-will-never-tell-you/2005513.article
 + Why Do So Many Graduate Students Quit? Universities themselves may be contributing to burnout.
     - http://www.theatlantic.com/education/archive/2016/07/why-do-so-many-graduate-students-quit/490094/
-
++  Dr. Karen, http://theprofessorisin.com/
 
 ## Advice 
 + http://getalifephd.blogspot.de/
 + http://chronicle.com/article/A-Letter-to-Past/236870/
 + [Your science career: making a strategic plan](https://womeninscienceaust.org/2016/08/21/your-science-career-making-a-strategic-plan/)
++ The One Thing That PhDs Would Do Differently in Graduate School, https://finishyourthesis.com/graduate-school/
 
 ## Coursework - CS
 + https://www.cs.cornell.edu/phd/requirements         # Requirement of Cornell University
