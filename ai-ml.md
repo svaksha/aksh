@@ -7,6 +7,7 @@
 ----
 
 # [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
++ An Introduction to Machine Learning in Julia: http://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html
 + Java code: http://aispace.org/dTree/
 + {Paper} : [Evaluation of Deep Learning Frameworks](https://github.com/zer0n/deepframeworks).
 + Setting up a [Deep Learning Machine from Scratch for Kubuntu](https://github.com/saiprashanths/dl-setup).
