@@ -5,7 +5,7 @@
 
 # Packages
 + https://en.wikipedia.org/wiki/Knitr
-
++ https://www.digitalocean.com/community/tutorials/how-to-install-r-packages-using-devtools-on-ubuntu-16-04
 
 # Regression
 + Probit Regression: http://www.ats.ucla.edu/stat/r/dae/probit.htm
