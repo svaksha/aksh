@@ -104,6 +104,15 @@
 + 2015, [Grammar as a Foreign Language](https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf).
 + 2014, [Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf), Marco Baroni, Georgiana Dinu, German Kruszewski, Center for Mind/Brain Sciences, University of Trento, Italy.
 + http://www.aclweb.org/anthology/P/P14/P14-1023.pdf
++ John D. Lafferty, Andrew McCallum, Fernando C. N. Pereira: Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data. ICML 2001: 282-289
++ Charles A. Sutton, Andrew McCallum: Piecewise pseudolikelihood for efficient training of conditional random fields. ICML 2007: 863-870
++ Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling Jenny Rose Finkel, Trond Grenager, and Christopher Manning
++ Semi-Markov Conditional Random Fields for Information Extraction, Sunita Sarawagi and William W. Cohen
++ Joint Named Entity Recognition and Disambiguation Gang Luo, Xiaojiang Huang, Chin-Yew Lin, Zaiqing Nie
++ J-NERD: Joint Named Entity Recognition and Disambiguation with Rich Linguistic Features, Dat Ba Nguyen, Martin Theobald, Gerhard Weikum
++ Neural CRF Parsing, Greg Durrett and Dan Klein
++ Learning to Compose Neural Networks for Question Answering, Jacob Andreas, Marcus Rohrbach, Trevor Darrell and Dan Klein
++ David Belanger, Andrew McCallum: Structured Prediction Energy Networks
     
 
 ## Yolanda Gil
