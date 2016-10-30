@@ -231,13 +231,13 @@ __MLA or APA style?__
 ##### KEYWORDS
 + List a few for easy tagging.
 
-##### INTRODUCTION
+##### [INTRODUCTION](https://lo.unisa.edu.au/mod/page/view.php?id=489383)
 + State why the problem you address is important
 + State what is lacking in the current knowledge
 + State the objectives of your study or the research question
 
 ##### METHODS
-+ Describe the context and setting of the study
++ Describe the [context and setting of the study](https://lo.unisa.edu.au/mod/page/view.php?id=489388).
 + Specify the study design
 + Describe the sampling strategy
 + Describe the intervention (if applicable)
