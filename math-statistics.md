@@ -92,6 +92,7 @@
 ----
 
 # SPSS-[GNU-PSPP](https://en.wikipedia.org/wiki/PSPP)
++ https://mikebyrnehfhci.wordpress.com/2015/08/03/translating-spss-to-r-mixed-repeated-measures-anova/
 + https://www.gnu.org/software/pspp/faq.html
 + GNU PSPP Statistical Analysis Software Users’ Guide, Release 0.10.2: http://www.gnu.org/software/pspp/manual/pspp.pdf
 + PSPP-convert, https://www.gnu.org/software/pspp/manual/html_node/Invoking-pspp_002dconvert.html
