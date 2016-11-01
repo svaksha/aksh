@@ -21,7 +21,7 @@
 + Chunking, https://en.wikipedia.org/wiki/Chunking_%28psychology%29
 + De-Chunking your brain to stop Companies Learning Your Secrets, http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html
 + Shiva Bhaskar on [Algorithms, Big Data And Accountability](https://medium.com/@shivagbhaskar/algorithms-big-data-and-accountability-8924bf9e2b24#).
-
++ With new algorithms, data scientists could accomplish in days what once took month: http://phys.org/news/2016-10-algorithms-scientists-days-months.html
 
 ----
 

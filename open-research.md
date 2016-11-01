@@ -32,6 +32,7 @@
 ----
 
 # ARR
++ Barbagroup Reproducibility Syllabus/, http://lorenabarba.com/blog/barbagroup-reproducibility-syllabus/
 + https://twitter.com/search?q=%23reproducibility&src=typd
 + Repeatability in Computer Science: http://reproducibility.cs.arizona.edu/
 + Reproducibility Project: Cancer Biology seeks participants to help evaluate reproducibility: http://blogs.biomedcentral.com/bmcblog/2016/06/03/recruiting-participants-evaluate-reproducibility/

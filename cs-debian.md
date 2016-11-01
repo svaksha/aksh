@@ -5,6 +5,7 @@
    + [PPA](#ppa)
 + [ISO](#iso)
 + [SUDO](#sudo)
++ [Devices](#devices)
 + [WiFi](#wifi)
 + [DNS](#dns)
 + [GRUB](#grub)
@@ -97,10 +98,6 @@ dpkg -S /sbin/ippool
 + https://ubuntuforums.org/showthread.php?t=1071869
 
 
-### delete contents of USB
-$ fdisk -l
-$ dd if=debian.iso of=/dev/sdX   # X is replaced by `sda`
-
 ----
 
 # SUDO
@@ -109,6 +106,16 @@ $ groups        # check if the user is in the sudoers file
 $ less /etc/passwd    # check if the user is in the sudoers file 
 $ sudo visudo       # visudo tool can also check the sudoer group
 $ nano /etc/group   # now add the user to the sudoer file with nano.
+
+----
+
+#Devices
++ KDE Partition Manager , https://www.kde.org/applications/system/kdepartitionmanager/
++ How to force format a USB device?, https://ubuntuforums.org/showthread.php?t=2030703&page=2 
+
+### delete contents of USB
+$ fdisk -l
+$ dd if=debian.iso of=/dev/sdX   # X is replaced by `sda`
 
 ----
 
