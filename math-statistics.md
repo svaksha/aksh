@@ -95,6 +95,7 @@
 + https://mikebyrnehfhci.wordpress.com/2015/08/03/translating-spss-to-r-mixed-repeated-measures-anova/
 + https://www.gnu.org/software/pspp/faq.html
 + GNU PSPP Statistical Analysis Software Users’ Guide, Release 0.10.2: http://www.gnu.org/software/pspp/manual/pspp.pdf
++ https://mikebyrnehfhci.wordpress.com/2015/08/03/translating-spss-to-r-mixed-repeated-measures-anova/
 + PSPP-convert, https://www.gnu.org/software/pspp/manual/html_node/Invoking-pspp_002dconvert.html
 + NOT implemented: https://www.gnu.org/software/pspp/manual/html_node/Not-Implemented.html
 + Converting SPSS Syntax Files into SPSS Data Files: http://wiki.q-researchsoftware.com/wiki/Converting_SPSS_Syntax_Files_into_SPSS_Data_Files
