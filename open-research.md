@@ -71,6 +71,7 @@
     + Amgen researchers on [Drug development: Raise standards for preclinical cancer research](http://www.nature.com/nature/journal/v483/n7391/full/483531a.html).
     + Contra view: If a study fails to be replicated it does not automatically mean that its results are to be considered false, http://www.nature.com/news/biotech-giant-publishes-failures-to-confirm-high-profile-science-1.19269
 + 2015, Florian Markowetz, [Five selfish reasons to work reproducibly](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7), DOI: 10.1186/s13059-015-0850-7
++ 2016Oct28, Bertram Ludaescher, Kyle Chard, Niall Gaffney, Matthew B. Jones, Jaroslaw Nabrzyski, Victoria Stodden, Matthew Turk, Capturing the "Whole Tale" of Computational Research: Reproducibility in Computing Environments, https://arxiv.org/abs/1610.09958
 
 
 ## Ten Simple Rules for Reproducible Computational Research
