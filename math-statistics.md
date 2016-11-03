@@ -1,5 +1,6 @@
 + [NOTES](#notes)
 + [Bayesian](#bayesian)
++ [Data Science](#data-science)
 + [Descriptive Statistics](#descriptive-statistics)
 + [P-Values](#p-values)
 + [Statistics](#statistics)
@@ -30,6 +31,7 @@
 
 ## UNIANOVA
 
+
 ----
 
 # Bayesian
@@ -42,7 +44,13 @@
 
 ----
 
+# Data Science
++ https://en.wikipedia.org/wiki/Data_binning
+
+----
+
 # [GLM](https://en.wikipedia.org/wiki/Generalized_linear_model) 
++ https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics)
 
 ## MANOVA-GLM in SPSS-PSPP
 + http://www.ats.ucla.edu/stat/spss/library/sp_glm.htm
