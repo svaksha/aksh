@@ -53,6 +53,10 @@ __Ruby__
 + https://help.github.com/articles/good-resources-for-learning-git-and-github/
 + Git Intro for Librarians, http://data-lessons.github.io/library-git/
 
+## Hooks
+* https://www.atlassian.com/git/tutorials/git-hooks/conceptual-overview
+
+
 ## git branching
 + http://learngitbranching.js.org/
 + http://nvie.com/posts/a-successful-git-branching-model/
