@@ -52,6 +52,7 @@ __Ruby__
 + http://imagej.net/Git_workshop
 + https://help.github.com/articles/good-resources-for-learning-git-and-github/
 + Git Intro for Librarians, http://data-lessons.github.io/library-git/
++ https://github.com/numpy/numpy/blob/master/setup.py
 
 ## Hooks
 * https://www.atlassian.com/git/tutorials/git-hooks/conceptual-overview
