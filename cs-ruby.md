@@ -1,5 +1,12 @@
++ [GEM](#gem)
 + [Resources](#resources)
 + [RoR](#ror)
+
+----
+
+# GEM
++ Guide to naming a ruby gem (packages): http://guides.rubygems.org/name-your-gem/
++ Naming patterns: http://guides.rubygems.org/patterns/
 
 ----
 
