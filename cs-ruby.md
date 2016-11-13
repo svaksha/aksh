@@ -5,6 +5,8 @@
 ----
 
 # GEM
++ Gem basics: http://guides.rubygems.org/rubygems-basics/
++ Write your Gem: http://guides.rubygems.org/make-your-own-gem/
 + Guide to naming a ruby gem (packages): http://guides.rubygems.org/name-your-gem/
 + Naming patterns: http://guides.rubygems.org/patterns/
 
