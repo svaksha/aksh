@@ -1,9 +1,16 @@
++ [Packaging](#packaging)
 + [Resources](#resources)
 + [Anaconda](#anaconda)
 + [NLP](#nlp)
 + [HDF5](#hdf5)
 + [MOOC](#mooc)
 + [NEWS](#news)
+
+----
+
+# Packaging
++ PEP423- Package naming conventions: https://www.python.org/dev/peps/pep-0423/
++ http://stackoverflow.com/questions/13254047/module-name-different-than-directory-name
 
 ----
 
