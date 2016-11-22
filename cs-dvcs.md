@@ -24,10 +24,9 @@
 + https://github.com/nevik/gitwatch
 
 ### GitPython
-+ http://gitpython.readthedocs.org/en/stable/tutorial.html
++ http://gitpython.readthedocs.io/en/stable/tutorial.html
 + python code to check git for all commits, https://www.google.de/search?q=python+code+to+check+git+for+all+commits&ie=utf-8&oe=utf-8&gws_rd=cr&ei=YmvMVr2cKoixadGxu-AK
 + https://github.com/gitpython-developers/GitPython/issues/240
-    + http://gitpython.readthedocs.org/en/stable/tutorial.html
 
 ## GitHub 
 + https://github.com/PyGithub/PyGithub
@@ -55,7 +54,8 @@ __Ruby__
 + https://github.com/numpy/numpy/blob/master/setup.py
 
 ## Hooks
-* https://www.atlassian.com/git/tutorials/git-hooks/conceptual-overview
++ https://www.atlassian.com/git/tutorials/git-hooks
++ https://www.atlassian.com/git/tutorials/git-hooks/conceptual-overview
 
 
 ## git branching
