@@ -11,6 +11,7 @@
 # Packaging
 + PEP423- Package naming conventions: https://www.python.org/dev/peps/pep-0423/
 + http://stackoverflow.com/questions/13254047/module-name-different-than-directory-name
++ https://learnpythonthehardway.org/book/ex46.html
 
 ----
 
