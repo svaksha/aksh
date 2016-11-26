@@ -16,6 +16,8 @@
 # [LMS](https://en.wikipedia.org/wiki/Integrated_library_system)
 __Library Management__
 + https://en.wikipedia.org/wiki/List_of_next-generation_library_catalogs
++ [library-python](https://github.com/data-lessons/library-python) :: Library Carpentry is a software skills training programme aimed at library and information professions, building on the work of Software Carpentry and Data Carpentry.
+
 
 ## MOOC-LMS software
 + XBlock: https://en.wikipedia.org/wiki/XBlock 
