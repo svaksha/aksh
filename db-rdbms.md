@@ -1,4 +1,5 @@
 + [Data Types](#data-types)
++ [SQL](#sql)
 + [Postgres-XC](#postgres-xc)
 + [SQL Temporal Data](#sql-temporal-data)
 
@@ -9,6 +10,10 @@
 + https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats
 + https://en.wikipedia.org/wiki/S-expression
 
+----
+
+# SQL
++ SQLite lesson for librarians: http://data-lessons.github.io/library-sql/
 
 ----
 
