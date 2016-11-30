@@ -176,5 +176,4 @@ http://books.google.ch/books/about/Introduction_to_Algorithms.html?id=VK9hPgAACA
 
 # Salary
 + Salary: https://docs.google.com/spreadsheets/u/1/d/1UnLz40Our1Ids-O0sz26uPNCF6cQjwosrZQY4VLdflU/htmlview?pli=1&sle=true#
-
-----
++ https://www.thebalance.com/how-does-a-salary-range-work-1918256
