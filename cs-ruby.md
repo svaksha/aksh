@@ -15,6 +15,7 @@
 ----
 
 # Resources
++ http://railsapps.github.io/
 + https://github.com/dreikanter/ruby-bookmarks
 + https://github.com/markets/awesome-ruby
 + http://RubyKoans.com
