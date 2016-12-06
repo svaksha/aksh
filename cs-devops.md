@@ -12,6 +12,8 @@
 + [DELL](#dell)
 + [DOCKER](#docker)
 + [Monitoring](#monitoring)
++ [Operating System](#operating-system)
+    + [Persistence](#persistence)
 + [OpenStack](#openstack)
 + [Rackspace](#rackspace)
 + [HEROKU](#heroku)
@@ -239,6 +241,13 @@ in multivendor environments.__
 + https://en.wikipedia.org/wiki/Ganglia_%28software%29
 + https://en.wikipedia.org/wiki/Icinga
 + https://en.wikipedia.org/wiki/Nagios
+
+----
+
+# Operating System
+## Persistence
++ CapROS : https://en.wikipedia.org/wiki/CapROS
++ Google Fuchsia : https://en.wikipedia.org/wiki/Google_Fuchsia
 
 ----
 

@@ -92,6 +92,7 @@
 ----
 
 # Pub-NLP
++ 2016, Yoav Goldberg, "A Primer on Neural Network Models for Natural Language Processing", Volume 57, pages 345-420, http://www.jair.org/papers/paper4992.html
 + Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks : http://www.aclweb.org/anthology/P15-1150
 + 2015, [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://www.aclweb.org/anthology/P15-1150).
 + Neural Word Embedding as Implicit Matrix Factorization: https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf
