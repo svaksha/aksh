@@ -40,6 +40,7 @@ __Ruby__
 ----
 
 # GIT
++ https://www.sbf5.com/~cduan/technical/git/
 + Git tools: https://git.wiki.kernel.org/index.php/Interfaces,_frontends,_and_tools
 + Git for CS: http://eagain.net/articles/git-for-computer-scientists/
 + https://help.github.com/articles/good-resources-for-learning-git-and-github/
