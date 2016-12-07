@@ -46,6 +46,7 @@
 + http://www.germanplurals.com/index.php
 + https://deutsch.lingolia.com/en/
 + http://www.lsa.umich.edu/german/hmr/Grammatik/Gender/Gender.html
++ Passive-perfekt, http://www.nthuleen.com/teach/grammar/passiv2.html
 
 ----
 
