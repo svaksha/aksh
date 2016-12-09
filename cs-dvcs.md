@@ -21,6 +21,7 @@
 ## Git 
 + https://github.com/libgit2/libgit2
 + https://github.com/libgit2/pygit2
+    + http://www.pygit2.org/objects.html
 + https://github.com/nevik/gitwatch
 
 ### GitPython
