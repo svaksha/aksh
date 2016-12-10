@@ -49,11 +49,12 @@
 + http://chronicle.com/article/A-Letter-to-Past/236870/
 + [Your science career: making a strategic plan](https://womeninscienceaust.org/2016/08/21/your-science-career-making-a-strategic-plan/)
 + The One Thing That PhDs Would Do Differently in Graduate School, https://finishyourthesis.com/graduate-school/
++ Write a blog post of the journal article: https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/how-to-write-a-blogpost-from-your-journal-article-6511a3837caa#.ll715cc8u
 
 ## Coursework - CS
-+ https://www.cs.cornell.edu/phd/requirements         # Requirement of Cornell University
-+ http://www.cse.ucsd.edu/node/1963              # Requirement of UCSan Diego University
-+ https://www.cs.rutgers.edu/graduate/phd_program.html  # Requirement for admission and Credits for teaching and research
++ Requirement of Cornell University: https://www.cs.cornell.edu/phd/requirements
++ Requirement of UCSan Diego University: http://www.cse.ucsd.edu/node/1963
++ Requirement for admission and Credits for teaching and research: https://www.cs.rutgers.edu/graduate/phd_program.html
 
 
 ## Researcher Tasks
@@ -281,7 +282,7 @@ __MLA or APA style?__
 + DESIGNING RESEARCH POSTERS : [How to make a clear and successful scientific poster](https://www.cmu.edu/gcc/handouts/Scientific Posters v2.pdf).
 
 ## [THESIS](https://en.wikipedia.org/wiki/Thesis)
-+ Brian Martin: Want to publish more? Then train like an athlete. Perfectionism is a deadly enemy of good performance. http://www.bmartin.cc/pubs/12tp.html   
++ Brian Martin: Want to publish more? Then train like an athlete. Perfectionism is a deadly enemy of good performance: http://www.bmartin.cc/pubs/12tp.html   
 + https://www.theguardian.com/higher-education-network/blog/2014/aug/27/finishing-phd-thesis-top-tips-experts-advice
 + http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf
 + Connecting the dots: writing a doctoral thesis by publication, https://digital.library.adelaide.edu.au/dspace/bitstream/2440/96163/2/hdl_96163.pdf
