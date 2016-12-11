@@ -192,6 +192,8 @@ __MLA or APA style?__
 + DLIB guidelines, http://www.dlib.org/dlib/author-guidelines.html
 
 ## PAPERS
++ Michael Watts, THE HOLY GRAIL: IN PURSUIT OF THE DISSERTATION PROPOSAL, http://iis.berkeley.edu/sites/default/files/pdf/inpursuitofphd.pdf
++ Konrad P Kording & Brett Mensh, Ten simple rules for structuring papers, http://biorxiv.org/content/early/2016/11/28/088278.full.pdf+html, DOI: http://dx.doi.org/10.1101/088278, Full: http://biorxiv.org/content/biorxiv/early/2016/11/28/088278.full.pdf
 + The Secret to Writing Your Dissertation, http://scienceblogs.com/startswithabang/2012/10/20/the-secret-to-writing-your-dissertation/
 + Hengl, T. and Gould, M., 2002. Rules of thumb for writing research articles, https://www.itc.nl/library/papers/hengl_rules.pdf
 + http://graduateresearcher.space/writing/writing-the-analysisdiscussion/

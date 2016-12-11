@@ -119,6 +119,8 @@
 ---- 
 
 # Papers
++ Gamma frequency entrainment attenuates 
+amyloid load and modifies microglia, http://www.nature.com/articles/nature20587.epdf
 + [Imaging Study Shows the Spinal Cord Learns On Its Own](http://www.itnonline.com/article/imaging-study-shows-spinal-cord-learns-its-own)
 + The Telltale Hand: [How Writing Reveals the Damaged Brain](http://www.dana.org/Cerebrum/Default.aspx?id=39304) By: Marc J. Seifer Ph.D.
 + [Left Hand, Left Brain: The Plot Thickens](http://www.dana.org/Cerebrum/2005/Left_Hand,_Left_Brain__The_Plot_Thickens/) By: Carolyn Asbury Ph.D. 
