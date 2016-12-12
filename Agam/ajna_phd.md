@@ -225,7 +225,7 @@ __MLA or APA style?__
 + How to get your journal article to a publishable standard http://buff.ly/2cMq2Xy  (page 21) : http://www.drsq.org/issues/drq1-1.pdf 
 + Guidelines for writing a research paper for publication: https://www.liebertpub.com/media/pdf/English-Research-Article-Writing-Guide.pdf
 + How to write well & get published: tips for early career academics, http://mams.rmit.edu.au/ryl0wql50c8q.pdf
-
++ Workshop on Writing Competetive Dissertation Grants: https://education.msu.edu/irtl/grad/pdf/IRTL_GrantWritingWorkshopSlides.pdf
 
 ### Paper Structure
 ##### ABSTRACT

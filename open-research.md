@@ -111,6 +111,7 @@
 ----
 
 # OpenData
++ Defining Open Data: http://blog.okfn.org/2013/10/03/defining-open-data/
 + http://www.opendatainception.io/
 + Research impact of paywalled versus open access papers :: http://www.1science.com/oanumbr.html
 + Hetionet in Neo4j, https://neo4j.het.io/browser/
