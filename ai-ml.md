@@ -7,6 +7,7 @@
 ----
 
 # [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
++ The 10 Algorithms Machine Learning Engineers Need to Know, https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.fcs1pf3la
 + An Introduction to Machine Learning in Julia: http://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html
 + Java code: http://aispace.org/dTree/
 + {Paper} : [Evaluation of Deep Learning Frameworks](https://github.com/zer0n/deepframeworks).
