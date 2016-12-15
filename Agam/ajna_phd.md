@@ -226,6 +226,7 @@ __MLA or APA style?__
 + Guidelines for writing a research paper for publication: https://www.liebertpub.com/media/pdf/English-Research-Article-Writing-Guide.pdf
 + How to write well & get published: tips for early career academics, http://mams.rmit.edu.au/ryl0wql50c8q.pdf
 + Workshop on Writing Competetive Dissertation Grants: https://education.msu.edu/irtl/grad/pdf/IRTL_GrantWritingWorkshopSlides.pdf
++ [Professional Writing in Political Science](https://dl.dropboxusercontent.com/u/14523416/Writing.pdf): A Highly opinionated Essay, James A. Stimson, UNC at Chapel Hill.
 
 ### Paper Structure
 ##### ABSTRACT
@@ -284,6 +285,7 @@ __MLA or APA style?__
 + DESIGNING RESEARCH POSTERS : [How to make a clear and successful scientific poster](https://www.cmu.edu/gcc/handouts/Scientific Posters v2.pdf).
 
 ## [THESIS](https://en.wikipedia.org/wiki/Thesis)
++ Writing a Thesis: https://www.monash.edu/__data/assets/pdf_file/0007/145816/booklet-writing-a-thesis-in-education.pdf
 + Brian Martin: Want to publish more? Then train like an athlete. Perfectionism is a deadly enemy of good performance: http://www.bmartin.cc/pubs/12tp.html   
 + https://www.theguardian.com/higher-education-network/blog/2014/aug/27/finishing-phd-thesis-top-tips-experts-advice
 + http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf
