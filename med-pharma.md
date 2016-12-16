@@ -13,3 +13,4 @@
 + https://en.wikipedia.org/wiki/Paracetamol
 + https://en.wikipedia.org/wiki/Ibuprofen
 + https://en.wikipedia.org/wiki/Metamizole
+
