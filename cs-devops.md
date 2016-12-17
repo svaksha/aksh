@@ -358,6 +358,7 @@ Keep in mind those tips are for  PRODUCTION SERVERS rather than Development mach
 
 # VM
 + setting up a Debian VM step by step instructions: https://jtreminio.com/2012/07/setting-up-a-debian-vm-step-by-step/
++ [gitian-builder](https://github.com/devrandom/gitian-builder) :: Build packages in a secure deterministic fashion inside a VM. https://gitian.org/
 
 ----
 
