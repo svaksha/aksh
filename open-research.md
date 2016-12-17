@@ -179,6 +179,7 @@
 http://joss.theoj.org/papers/10.21105/joss.00029
 + Contemporary Challenges for Data-Intensive Scientific Workflow Management Systems, http://www.switchproject.eu/wp-content/uploads/2016/04/uva-2.pdf
 + Five Things You Need to Know About RDM and the Law: [DCC Checklist on Legal Aspects of RDM](http://www.dcc.ac.uk/resources/how-guides/rdm-law).
++ #scidata16 keynote highlights: “Research data management for early career researchers”, http://blogs.nature.com/naturejobs/2016/12/01/scidata16-keynote-highlights-research-data-management-for-early-career-researchers/
 
 ## DMP
 + https://en.wikipedia.org/wiki/Data_management_plan
