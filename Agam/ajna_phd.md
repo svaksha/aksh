@@ -50,6 +50,7 @@
 + [Your science career: making a strategic plan](https://womeninscienceaust.org/2016/08/21/your-science-career-making-a-strategic-plan/)
 + The One Thing That PhDs Would Do Differently in Graduate School, https://finishyourthesis.com/graduate-school/
 + Write a blog post of the journal article: https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/how-to-write-a-blogpost-from-your-journal-article-6511a3837caa#.ll715cc8u
++ Suggested reading for rethinking your writing practices: https://www.insidehighered.com/blogs/gradhacker/three-books-changed-my-dissertation
 
 ## Coursework - CS
 + Requirement of Cornell University: https://www.cs.cornell.edu/phd/requirements
@@ -73,7 +74,7 @@
 
 # Guide-PostDoc
 + Alternatives to professorships in academia : http://www.sciencemag.org/careers/features/2016/08/alternatives-professorships-academia
-
++ Research Supervision Toolkit: http://api.ning.com/files/WJJnmMrgUIpJJG4tmZIJqEhXdJ9nxsFh6b7ZeBToBZiYZtgfuy9biquIsmCJtQDfY3QV7Jh04qCFAKqevk2aQk-MJQqQ*7wB/ResearchSupervisionToolkit_eBook.pdf
 
 ----
 
@@ -154,7 +155,6 @@
 + What questions would you like to raise in an open discussion of the work (review interesting and controversial points, above)? + What do you find difficult to under stand? List as many as you can.
 
 ----
-
 
 # RETRACTIONS
 + http://retractionwatch.com/help-us-heres-some-of-what-were-working-on/
