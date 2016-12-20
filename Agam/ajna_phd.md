@@ -33,6 +33,7 @@
 
 # Guide-PHD
 + [Prof. Philip Guo](http://pgbovine.net/PhD-memoir.htm)'s very readable book on his personal Ph.D. school experience with other useful blog posts.
++ [Andrej Karapathy](http://karpathy.github.io/2016/09/07/phd/), Machine Learning PhD student at Stanford, writes his PhD survival guide: https://www.opendatascience.com/blog/a-survival-guide-to-a-phd/
 + [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf).
 + [Advice on the PhD life](http://blog.vivekhaldar.com/post/29296581613/what-is-life-like-for-phds-in-computer-science-who).
 + [9 things you should consider before embarking on a PhD](https://www.elsevier.com/connect/9-things-you-should-consider-before-embarking-on-a-phd).
