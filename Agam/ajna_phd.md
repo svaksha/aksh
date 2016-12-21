@@ -2,10 +2,11 @@
     + [Academic Authorship](#academic-authorship)
 + [Guide-PHD](#guide-phd)
     + [Advice](#advice)
-    + [Coursework-CS](#coursework-cs)
+    + [Coursework - CS](#coursework-cs)
     + [Researcher Tasks](#researcher-tasks)
     + [Scientific Procedures](#scientific-procedures)
-+ [Guide-PostDoc](#guide-postdoc)
++ [Guide-POSTDOC](#guide-postdoc)
+    + [Grant Writing](#grant-writing)
 + [TIME MANAGEMENT](#time-management)
     + [Quotes](#quotes)
 + [READING](#reading)
@@ -70,12 +71,16 @@
 
 ## Scientific Procedures
 + Rules of good scientific practice, procedures, and penalties in the event of malpractice: https://www.humboldt-foundation.de/web/docs/F25752/rules_scientific_practice.pdf
++ Research Methodologies, http://onlineqda.hud.ac.uk/methodologies.php
 
 ----
 
-# Guide-PostDoc
+# Guide-POSTDOC
 + Alternatives to professorships in academia : http://www.sciencemag.org/careers/features/2016/08/alternatives-professorships-academia
 + Research Supervision Toolkit: http://api.ning.com/files/WJJnmMrgUIpJJG4tmZIJqEhXdJ9nxsFh6b7ZeBToBZiYZtgfuy9biquIsmCJtQDfY3QV7Jh04qCFAKqevk2aQk-MJQqQ*7wB/ResearchSupervisionToolkit_eBook.pdf
+
+## Grant Writing
++ Grant Writing Advice, http://phdtalk.blogspot.de/2016/12/grant-writing-advice.html
 
 ----
 
@@ -301,6 +306,7 @@ __MLA or APA style?__
 + Gavin Moodie, RMIT, Surviving your PhD: http://www.academia.edu/359676/Surviving_your_PhD (Needs login for download)
 + 2013Jan, [Angus Morrison](http://profiles.murdoch.edu.au/myprofile/angus), [WRITING ABOUT WRITING: Ideas for Short Report and Journal Article Composition](researchrepository.murdoch.edu.au/12601/1/Writing_About_Writing_3rdEd_4Jan2013.pdf).
 + http://owll.massey.ac.nz/pdf/Drafting and Writing the Thesis.pdf
++ Structure of a Scholarly Manuscript: 66 Tips for What Goes Where, Kenneth L. Knight, PhD, ATC: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1318504/pdf/jathtrain00019-0011.pdf
 
 ### [starting the PhD – write and write regularly](https://patthomson.net/2016/09/19/starting-the-phd-write-and-write-regularly/)
 
