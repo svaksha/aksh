@@ -33,6 +33,7 @@
 
 
 # ARR
++ “It’s not reproducible if it only runs on your laptop”: [Jon Zelner’s tips for a reproducible workflow in R and Stan](http://andrewgelman.com/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/)
 + Barbagroup Reproducibility Syllabus/, http://lorenabarba.com/blog/barbagroup-reproducibility-syllabus/
 + https://twitter.com/search?q=%23reproducibility&src=typd
 + Repeatability in Computer Science: http://reproducibility.cs.arizona.edu/
