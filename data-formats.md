@@ -13,6 +13,7 @@
 
 ----
 
++ Research paper: Against a universal definition of ‘#type', http://tomasp.net/academic/papers/against-types/against-types.pdf
 + https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats
 + https://en.wikipedia.org/wiki/Category:Open_formats
 + [Markup Languages](https://en.wikipedia.org/wiki/Category:Markup_languages)
