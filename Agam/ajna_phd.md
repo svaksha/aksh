@@ -47,6 +47,7 @@
 +  Dr. Karen, http://theprofessorisin.com/
 
 ## Advice 
++ "So long, and thanks for the Ph.D.!”, by Ronald T. Azuma : https://www.cs.unc.edu/~azuma/hitch4.html
 + http://getalifephd.blogspot.de/
 + http://chronicle.com/article/A-Letter-to-Past/236870/
 + [Your science career: making a strategic plan](https://womeninscienceaust.org/2016/08/21/your-science-career-making-a-strategic-plan/)
