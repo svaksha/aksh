@@ -99,6 +99,7 @@ something.
 ----
 
 # FOSS-Community
++ Research paper on "Gender Differences and Bias in Open Source: Pull Request Acceptance of Women Versus Men", https://peerj.com/preprints/1733/
 + Roads and Bridges - The Unseen Labor Behind Our Digital nIfrastructure :: https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
 + A project for discussing ways to fund open source development :: https://github.com/pybee/paying-the-piper
 + MOSS: https://blog.lizardwrangler.com/2015/10/23/mozilla-launches-open-source-support-program/

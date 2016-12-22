@@ -53,6 +53,7 @@
 + The One Thing That PhDs Would Do Differently in Graduate School, https://finishyourthesis.com/graduate-school/
 + Write a blog post of the journal article: https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/how-to-write-a-blogpost-from-your-journal-article-6511a3837caa#.ll715cc8u
 + Suggested reading for rethinking your writing practices: https://www.insidehighered.com/blogs/gradhacker/three-books-changed-my-dissertation
++ Secrets to thriving in graduate school: http://www.sciencemag.org/careers/2015/01/secrets-thriving-graduate-school
 
 ## Coursework - CS
 + Requirement of Cornell University: https://www.cs.cornell.edu/phd/requirements
@@ -78,6 +79,7 @@
 # Guide-POSTDOC
 + Alternatives to professorships in academia : http://www.sciencemag.org/careers/features/2016/08/alternatives-professorships-academia
 + Research Supervision Toolkit: http://api.ning.com/files/WJJnmMrgUIpJJG4tmZIJqEhXdJ9nxsFh6b7ZeBToBZiYZtgfuy9biquIsmCJtQDfY3QV7Jh04qCFAKqevk2aQk-MJQqQ*7wB/ResearchSupervisionToolkit_eBook.pdf
++ How to stand out in academic scientific research :: http://www.opiniomics.org/how-to-stand-out-in-academic-scientific-research/
 
 ## Grant Writing
 + Grant Writing Advice, http://phdtalk.blogspot.de/2016/12/grant-writing-advice.html
