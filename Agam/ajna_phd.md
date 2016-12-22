@@ -236,6 +236,7 @@ __MLA or APA style?__
 + How to write well & get published: tips for early career academics, http://mams.rmit.edu.au/ryl0wql50c8q.pdf
 + Workshop on Writing Competetive Dissertation Grants: https://education.msu.edu/irtl/grad/pdf/IRTL_GrantWritingWorkshopSlides.pdf
 + [Professional Writing in Political Science](https://dl.dropboxusercontent.com/u/14523416/Writing.pdf): A Highly opinionated Essay, James A. Stimson, UNC at Chapel Hill.
++ [Publishing as a Graduate Student](http://www.timothysrich.com/documents/Rich_Publishing_as_a_Grad_Student.pdf)
 
 ### Paper Structure
 ##### ABSTRACT
