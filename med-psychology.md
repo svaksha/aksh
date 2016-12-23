@@ -2,10 +2,10 @@
 + [DIVERSITY](#diversity)
     + [Crimes](#crimes)
     + [Kultur](#kultur)
-    + [Harassment](#harassment)
 + [PRODUCTIVITY](#productivity)    
 + [PSYCHOPATHY](#psychopathy)
     + [Bullying](#bullying)
+    + [Harassment](#harassment)
     + [Passive-Aggressive](#passive-aggressive)
     + [Narcissism](#narcissism)
     + [Procrastination](#procrastination)
@@ -36,10 +36,6 @@
 ## Kultur
 + https://modelviewculture.com/pieces/re-recruit-from-the-leaky-pipeline
 
-## Harassment
-+ http://www.forbes.com/sites/janetstemwedel/2016/01/29/what-can-be-done-to-address-harassment-in-science/#24a984f07e87
-+ Scientific societies speak out against sexual harassment : http://www.eurekalert.org/pub_releases/2016-09/agu-sss090916.php
-
 ----
 
 # [PSYCHOPATHY](https://en.wikipedia.org/wiki/Category:Psychopathy)
@@ -54,6 +50,12 @@
 + https://en.wikipedia.org/wiki/Workplace_bullying_in_academia
 + https://en.wikipedia.org/wiki/Workplace_deviance#Coworker_backstabbing
 + https://en.wikipedia.org/wiki/Workplace_deviance
++ https://en.wikipedia.org/wiki/Master_suppression_techniques
+    + https://organizingforpower.files.wordpress.com/2009/03/forms-of-domination.pdf
+
+## Harassment
++ http://www.forbes.com/sites/janetstemwedel/2016/01/29/what-can-be-done-to-address-harassment-in-science/#24a984f07e87
++ Scientific societies speak out against sexual harassment : http://www.eurekalert.org/pub_releases/2016-09/agu-sss090916.php
 
 ## Narcissism
 + https://en.wikipedia.org/wiki/Narcissism_in_the_workplace
