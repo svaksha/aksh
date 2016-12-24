@@ -54,6 +54,8 @@ __Ruby__
 + https://help.github.com/articles/good-resources-for-learning-git-and-github/
 + Git Intro for Librarians, http://data-lessons.github.io/library-git/
 + https://github.com/numpy/numpy/blob/master/setup.py
++ undo last commit in git: http://stackoverflow.com/questions/927358/how-to-undo-last-commits-in-git
+
 
 ## Hooks
 + https://www.atlassian.com/git/tutorials/git-hooks
