@@ -1,3 +1,4 @@
++ [Python3](#python3)
 + [Packaging](#packaging)
 + [Resources](#resources)
 + [Anaconda](#anaconda)
@@ -12,10 +13,18 @@
 + PEP423- Package naming conventions: https://www.python.org/dev/peps/pep-0423/
 + http://stackoverflow.com/questions/13254047/module-name-different-than-directory-name
 + https://learnpythonthehardway.org/book/ex46.html
++ https://pypi.python.org/pypi
+
+----
+
+# Python3
+## Classes
++ https://docs.python.org/3/tutorial/classes.html
 
 ----
 
 # Resources
++ A collection of python "must reads": http://jessenoller.com/good-to-great-python-reads/
 + https://github.com/firaswehbe/data-programming-resources/blob/master/python.md
 + Python for DataScience cheatsheet, https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf
 

@@ -1,4 +1,4 @@
-[Agora](https://en.wikipedia.org/wiki/Agora) is an ancient Greek word for "gathering place" or "assembly", which exactly represents modern-day (un)conferences, meetings and Foss events.
+[Agora](https://en.wikipedia.org/wiki/Agora) is an ancient Greek word for "gathering place" or "assembly", which exactly represents modern-day (un)conferences, meetings and FOSS events.
 
 + [AGORA](#agora)
 + [Event Management](#event-management)
@@ -18,6 +18,7 @@
         · Notification of acceptance / rejection: 2016Nov15
         · Final abstract and poster submission: 2017Feb15
         · Conference dates: Berlin (Germany), 2017Mar21–22
++ barcamp: http://www.open-science-conference.eu/barcamp/
 
 ### RepScience 2016
 +  __Info__:: First International Workshop on Reproducible Open Science (RepScience 2016) Co-sponsored by Research Data Alliance Europe and OpenAIRE2020 
@@ -43,7 +44,7 @@
 ### [SAVE-SD 2016](https://lists.okfn.org/pipermail/open-science/2015-November/004048.html)
 
 ### [General Online Research](http://www.gor.de/)
-+ [CFP](http://www.gor.de/about/call-for-papers.html).
++ [CFP](http://www.gor.de/about/call-for-papers.html)
 
 ### [SAI Computing Conference 2016](http://www.SAIConference.com/Computing2016)
 + IEEE Technically Sponsored 
@@ -52,8 +53,8 @@
 ### [Pycon-SE](http://www.pycon.se/)
 
 ### CCC
-+ https://events.ccc.de/congress/2015/wiki/Session:Open_Science_Workshop
-+ https://events.ccc.de/congress/2015/wiki/Main_Page
++ https://events.ccc.de/congress/2016/wiki/Session:Open_Science_Workshop
++ https://events.ccc.de/congress/2016/wiki/Main_Page
 + https://events.ccc.de/2015/12/07/32c3-ticket-status/
 
 ### [FORCE11](http://www.force2016.org)
