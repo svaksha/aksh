@@ -87,7 +87,7 @@
 ----
 
 # NLP 
-+ [An Introduction to Natural Language Processing](https://www.opendatascience.com/blog/an-introduction-to-natural-language-processing/) will focus on text based machine learning techniques (ex. N-grams, corpus,..) and learn how to make use of these techniques to do text classification and analysis.
++ [An Introduction to Natural Language Processing](https://www.opendatascience.com/blog/an-introduction-to-natural-language-processing/) that introduces text based machine learning techniques (ex. N-grams, corpus,..) inorder to do text classification and analysis.
 
 ### Parsing
 + https://en.wikipedia.org/wiki/Shallow_parsing

@@ -114,6 +114,7 @@
 
 # OpenData
 + Defining Open Data: http://blog.okfn.org/2013/10/03/defining-open-data/
+* EU [Legal study on ownership and access to data](https://bookshop.europa.eu/en/legal-study-on-ownership-and-access-to-data-pbKK0416812/)
 + http://www.opendatainception.io/
 + Research impact of paywalled versus open access papers :: http://www.1science.com/oanumbr.html
 + Hetionet in Neo4j, https://neo4j.het.io/browser/
