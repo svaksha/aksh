@@ -12,6 +12,8 @@
 
 
 # CI
++ https://nigelb.me/2016-12-02-test-automation-on-centos-ci-with-ansible.html
+
 1. In the BugTicket system, start listing known problems.
 2. Prioritize what needs to be fixed
 3. Make a fix, test the fix.
