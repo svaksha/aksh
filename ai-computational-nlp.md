@@ -98,25 +98,26 @@
 + 2016, Yoav Goldberg, "A Primer on Neural Network Models for Natural Language Processing", Volume 57, pages 345-420, http://www.jair.org/papers/paper4992.html
 + Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks : http://www.aclweb.org/anthology/P15-1150
 + 2015, [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://www.aclweb.org/anthology/P15-1150).
-+ Neural Word Embedding as Implicit Matrix Factorization: https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf
-+ https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf
-+ https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf
-+ https://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/viewFile/3659/3898
-+ Graph Embeddings: https://www.utc.fr/~bordesan/dokuwiki/_media/en/transe_nips13.pdf
 + 2015, Improving Distributional Similarity with Lessons Learned from Word Embeddings: https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf
 + 2015, [Compositional Vector Space Models for Knowledge Base Completion](http://www.aclweb.org/anthology/P15-1016).
 + 2015, [Grammar as a Foreign Language](https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf).
 + 2014, [Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf), Marco Baroni, Georgiana Dinu, German Kruszewski, Center for Mind/Brain Sciences, University of Trento, Italy.
++ 2014, Neural Word Embedding as Implicit Matrix Factorization: https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf
++ https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf
++ https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf
++ https://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/viewFile/3659/3898
++ Graph Embeddings: https://www.utc.fr/~bordesan/dokuwiki/_media/en/transe_nips13.pdf
 + http://www.aclweb.org/anthology/P/P14/P14-1023.pdf
-+ John D. Lafferty, Andrew McCallum, Fernando C. N. Pereira: Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data. ICML 2001: 282-289
-+ Charles A. Sutton, Andrew McCallum: Piecewise pseudolikelihood for efficient training of conditional random fields. ICML 2007: 863-870
++ 2007, Charles A. Sutton, Andrew McCallum: Piecewise pseudolikelihood for efficient training of conditional random fields. ICML 2007: 863-870
 + Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling Jenny Rose Finkel, Trond Grenager, and Christopher Manning
-+ Semi-Markov Conditional Random Fields for Information Extraction, Sunita Sarawagi and William W. Cohen
-+ Joint Named Entity Recognition and Disambiguation Gang Luo, Xiaojiang Huang, Chin-Yew Lin, Zaiqing Nie
++ Sunita Sarawagi and William W. Cohen: Semi-Markov Conditional Random Fields for Information Extraction
++ Gang Luo, Xiaojiang Huang, Chin-Yew Lin, Zaiqing Nie: Joint Named Entity Recognition and Disambiguation
 + J-NERD: Joint Named Entity Recognition and Disambiguation with Rich Linguistic Features, Dat Ba Nguyen, Martin Theobald, Gerhard Weikum
 + Neural CRF Parsing, Greg Durrett and Dan Klein
 + Learning to Compose Neural Networks for Question Answering, Jacob Andreas, Marcus Rohrbach, Trevor Darrell and Dan Klein
 + David Belanger, Andrew McCallum: Structured Prediction Energy Networks
++ 2008, Zhifei Li and Sanjeev Khudanpur, Large-scale Discriminative n-gram Language Models for Statistical Machine Translation: http://www.cs.jhu.edu/~zfli/pubs/discriminative_lm_for_smt_zhifei_amta_08.pdf
++ 2001, John D. Lafferty, Andrew McCallum, Fernando C. N. Pereira: Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data. ICML 2001: 282-289
     
 
 ## Yolanda Gil
@@ -152,11 +153,10 @@
 + http://fileinfo.com/extension/rdf
 + http://www.file-extensions.org/rdf-file-extension
 + http://hatis.techtarget.com/fileformat/RDF-Compiled-UIC-source-code-Geoworks-UI-Compiler
-+ http://wiki.opensemanticframework.org/index.php/Ontology_Tools  #<-----  about free software
-+ https://en.wikipedia.org/wiki/Ontology_%28information_science%29   #Published_examples
-+ http://www.obitko.com/tutorials/ontologies-semantic-web/            #<------- imp  good reading material
-+ https://en.wikipedia.org/wiki/Problem_solving
-+ https://en.wikipedia.org/wiki/Ontology_%28information_science%29   #Published_examples
++ http://wiki.opensemanticframework.org/index.php/Ontology_Tools
++ https://en.wikipedia.org/wiki/Ontology_%28information_science%29
++ http://www.obitko.com/tutorials/ontologies-semantic-web/            + https://en.wikipedia.org/wiki/Problem_solving
++ https://en.wikipedia.org/wiki/Ontology_%28information_science%29
 
 ## [Ontology Editor](https://en.wikipedia.org/wiki/Category:Ontology_editors)
 

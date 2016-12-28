@@ -106,6 +106,7 @@
 + [Why scientists must share their research code](http://www.nature.com/news/why-scientists-must-share-their-research-code-1.20504): 'Reproducibility editor' Victoria Stodden explains the growing movement to make code and data available to others.
 + http://retractionwatch.com/2016/09/24/weekend-reads-worlds-most-prolific-peer-reviewer-replication-backlash-carries-on-controversial-pace-study-re-analyzed/
 + A [counterview](http://neuroanatody.com/2016/09/weapons-of-math-destruction/) to Prof. Susan T. Fiske post about attacks on OpenScience/OpenData/OpenAccess sans peer-review: https://www.dropbox.com/s/9zubbn9fyi1xjcu/Fiske%20presidential%20guest%20column_APS%20Observer_copy-edited.pdf
++ Why scientists must share their research code, https://cyberlaw.stanford.edu/press/why-scientists-must-share-their-research-code
 
 ### Papers
 + A study of institutional spending on open access publication fees in Germany: https://peerj.com/articles/2323/
