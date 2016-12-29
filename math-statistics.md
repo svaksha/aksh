@@ -69,6 +69,7 @@
 + [Cohort Analysis with Python](http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/).
 + [Why a Mathematician, Statistician, & Machine Learner Solve the Same Problem Differently](http://www.galvanize.com/blog/2015/08/26/why-a-mathematician-statistician-machine-learner-solve-the-same-problem-differently-2/#.Vd807FLLdOo).
 + Using Statistical Regression : http://www.restore.ac.uk/srme/www/fac/soc/wie/research-new/srme/index.html
++ Introduction to (Linear Regression](https://github.com/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb)
 
 ### Research Papers
 + [ICRA 2014 paper on crfs for semantic segmenation on the nyu dataset](https://github.com/amueller/icra_2014_crf_nyu). 
