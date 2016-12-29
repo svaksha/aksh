@@ -1,13 +1,21 @@
++ [Cognition](#cognition)
 + [Neural Networks](#neural-networks)
-
-----
-
-+ https://en.wikipedia.org/wiki/Cognitive_science
++ [Recurrent Neural Networks](#recurrent-neural-networks)
 
 ----
 
 # Cognition
 + https://www.techfak.uni-bielefeld.de/ags/soa/publications/
+
+----
+
+# Neural Networks
++ https://en.wikipedia.org/wiki/Cognitive_science
+
+----
+
+# Recurrent Neural Networks
++ An introduction to [Recurrent Neural Networks](https://www.opendatascience.com/blog/intro-to-recurrent-neural-networks-1/).
 
 ----
 
