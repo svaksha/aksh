@@ -34,6 +34,7 @@
 
 # ARR
 + “It’s not reproducible if it only runs on your laptop”: [Jon Zelner’s tips for a reproducible workflow in R and Stan](http://andrewgelman.com/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/)
++ Advancing Open Research: [Q&A with Bastian Greshake](http://blog.scholasticahq.com/post/advancing-open-research-interview-with-bastian-greshake/)    
 + Video-1 (6-part series): Improving the Reproducibility of Our Research Practices Using Open Science Framework, https://www.youtube.com/watch?list=PLMOU-iLiJIc0amNVabGXJ0liKwIwxqkO8&v=kzUtpDBo8wk
 + Barbagroup Reproducibility Syllabus/, http://lorenabarba.com/blog/barbagroup-reproducibility-syllabus/
 + https://twitter.com/search?q=%23reproducibility&src=typd
