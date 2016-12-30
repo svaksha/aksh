@@ -325,7 +325,7 @@ So you need to be able to adequately deal with other people’s work as well as 
 
 People may say to you when they know you’re doing a PhD, “It’s never too soon to start to write”. Do listen – it’s absolutely good advice. You see, in order to write well, you need to practice. Writing is something that you now need to do regularly, and often. 
 
-And by writing I don’t just mean taking notes of your reading – although you will of course need to make summaries and put together pieces of text synthesising your reading.  I mean writing regularly, each day, about something strongly related to your research.
+And by writing I don’t just mean taking notes of your reading – although you will of course need to make summaries and put together pieces of text synthesising your reading. I mean [writing regularly, each day](https://www.garybridgeman.me/2016/09/05/how-to-become-a-more-productive-and-better-horizon-2020-proposal-writer/), about something strongly related to your research.
 
 This could be for example:
 
