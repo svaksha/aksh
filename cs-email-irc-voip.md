@@ -8,6 +8,7 @@
 
 # [EMail](https://en.wikipedia.org/wiki/Comparison_of_webmail_providers)
 + https://en.wikipedia.org/wiki/Bitmessage
++ [MJML](https://github.com/mjmlio/mjml) :: A framework that makes responsive-email easy.
 + Building an Email Server on Ubuntu Linux, Part-3 ::https://www.linux.com/learn/sysadmin/building-email-server-ubuntu-linux-part-3
 
 ----
