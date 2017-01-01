@@ -1,7 +1,6 @@
 + [Resources](#resources)
 + [ARR](#arr)
     + [Papers](#papers)
-+ [Artifacts](#artifacts)
 + [OpenScience](#openscience)
 + [OpenData](#opendata)
     + [DataScience](#datascience)
@@ -9,6 +8,7 @@
 + [Quality](#quality)
     + [Data Quality](#data-quality)
 + [RDM](#rdm)
+    + [Data Artifacts](#data-artifacts)
     + [DMP](#dmp)
 + [Scientific Research](#scientific-research)
 + [ORG](#org)
@@ -92,11 +92,6 @@
     * Rule 8: Generate Hierarchical Analysis Output, Allowing Layers of Increasing Detail to Be Inspected
     * Rule 9: Connect Textual Statements to Underlying Results
     * Rule 10: Provide Public Access to Scripts, Runs, and Results
-
-----
-
-# Artifacts
-+ http://i-cav.org/2015/evaluation/
 
 ----
 
@@ -185,6 +180,11 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 + Contemporary Challenges for Data-Intensive Scientific Workflow Management Systems, http://www.switchproject.eu/wp-content/uploads/2016/04/uva-2.pdf
 + Five Things You Need to Know About RDM and the Law: [DCC Checklist on Legal Aspects of RDM](http://www.dcc.ac.uk/resources/how-guides/rdm-law).
 + #scidata16 keynote highlights: “Research data management for early career researchers”, http://blogs.nature.com/naturejobs/2016/12/01/scidata16-keynote-highlights-research-data-management-for-early-career-researchers/
++ Data Re-purpose toolkit: http://www.ands.org.au/partners-and-communities/23-research-data-things/toolkit
+
+## Data Artifacts
++ http://i-cav.org/2015/evaluation/
++ [Data Things 1 to 23](http://www.ands.org.au/partners-and-communities/23-research-data-things/all23)
 
 ## DMP
 + https://en.wikipedia.org/wiki/Data_management_plan

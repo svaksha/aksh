@@ -2,10 +2,6 @@
 + [Art](#art)
 + [Citation Software](#citation-software)
 + [Documentation](#documentation)
-+ [Programming](#programming)
-   + [Code Exercises](#code-exercises)
-   + [Lists](#lists)
-   + [Advice](#advice)
 + [FOSS-Community](#foss-community)
 + [Life](#life)
 + [MOOC](#mooc)
@@ -13,11 +9,36 @@
    + [programming language](#programming language)
 + [Blogs](#blogs)
 + [Random](#random)
++ [Software Engineering](#software-engineering)
+   + [Software Design](#software-design)
+   + [Software Management](#software-management)
++ [Software Programming](#software-programming)
+   + [Code Exercises](#code-exercises)
+   + [Lists](#lists)
+   + [Advice](#advice)
+* [Journals](#journals)
+* [NEWS](#news)
+
+----
+
+# Journals
+* [Society for Neuroscience](http://eneuro.sfn.org/types.html) OpenAccess Journal.
+* [Europe PubMed Central](http://europepmc.org/).
+
+----
+
+# NEWS
+* [France Prefers to Pay (twice) for Papers by Its Researchers](http://blog.okfn.org/2014/11/11/france-prefers-to-pay-twice-for-papers-by-its-researchers/).
+* [Brace Yourself for Large-Scale Whole Genome Sequencing](http://massgenomics.org/2014/11/brace-yourself-for-large-scale-whole-genome-sequencing.html)
+* [Trialling a pragmatic approach to clinical data disclosure](http://blogs.nature.com/scientificdata/2014/11/27/trialling-a-pragmatic-approach-to-clinical-data-disclosure/)
+
 
 ----
 
 # Analytics
-+ [Predictive analytics: the next big thing in BI?](http://www.rosebt.com/uploads/8/1/8/1/8181762/predictive_analytics_e_guide.pdf)
+# Business Analytics
++ Ev Williams: [The Forrest Gump of the Internet](http://www.theatlantic.com/technology/archive/2016/06/ev-williams-is-the-forrest-gump-of-the-internet/486899/).
++ [Predictive analytics: the next bigthing in BI?](http://www.rosebt.com/uploads/8/1/8/1/8181762/predictive_analytics_e_guide.pdf)
 
 ----
 
@@ -35,66 +56,7 @@
 # Documentation
 + An introduction to Sphinx and Read the Docs for Technical Writers : http://ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/
 
-----
 
-# Programming
-+ [Ten Simple Rules for Robustifying Your Software](https://github.com/gvwilson/ten-rules-robustifying-software/blob/gh-pages/index.md).
-+ Semantic Version scheme : http://semver.org
-+ NoSpec, http://www.nospec.com/faq
-   + https://medium.com/@sir_castiq/how-to-exploit-a-developer-a005306d5320
-
-## Books
-+ Hal Abelson's, Jerry Sussman's and Julie Sussman's [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/) (MIT Press, 1984; ISBN 0-262-01077-1), an excellent computer science text used in introductory courses at MIT.
-
-## Code Exercises
-+ Learn to program: https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md
-+ http://synopsis.exercism.io/, https://github.com/exercism/cli, https://github.com/exercism
-+ http://freecodecamp.com/
-
-## Language Wars
-+ Why are there so many programming languages? http://cs.stackexchange.com/questions/451/why-are-there-so-many-programming-languages
-+ Python Vs. Perl Vs. Ruby: http://blog.slickedit.com/2007/09/comparing-python-to-perl-and-ruby/
-+ From Perl to Ruby: https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-perl/
-
-## Lists
-+ https://github.com/NARKOZ/guides
-
-## Advice
-### Work on personal projects!
-+ It is the best way to learn new technologies that you may not have a chance to try out at work. When the time comes to use it, you'll be the smarty-pants who already knows all about it. 
-+ Or it will be another item for your resume, the next time you go looking for a new job.  Bonus: This will also give you code samples that won't belong to your previous employer. 
-+ Planning and executing a personal project will also make you a more confident programmer, because you know that you can build 
-something.
-
-### Know the code.
-+ Never cut-and-paste anything you don't understand. If you're borrowing somebody else's code, you better damn well study it and learn how it works. 
-+ You are responsible for ALL the code you contribute to a project -- even if it was originally somebody else's code.  If there's a bug in there, you better find it and fix it.  If there's a security flaw, you need to fix that, too.
-+ Many code samples online do NOT represent production code.  They exhibit irresponsible error handling, insufficient security, and are organized in such a manner that they won't scale in a healthy way.
-
-### Don't ask for help too soon.  
-+ Always give yourself a chance to figure something out on your own.
-+ While asking for help will save you time, you will develop a deeper knowledge of the technology if you solve problems on your own than if someone dictates the answer to you.
-
-### Be Flexible.
-+ Don't get suckered into dogma.  This field is always changing, and we have to stay flexible with it.  While it's important to respect best practices, it's also important to be open to learning new ways of looking at things. 
-+ Embracing anything as religion in our field will hamper your ability to learn new things, and will also make you less capable to adapt to changes taking place around you.
-
-### Always a learner.
-+ Your education is never complete and you will learn new things every day.  A lifetime of learning is good for your brain -- it will keep it young and nimble.
-+ Always be open to learning.
-+ Balance learning programming with domain knowledge and design/system thinking.
-
-### Develop yourself internally
-+ Get a life outside of work. The pace of technology is fast and you have a lifetime to learn. Programming is an intense profession, you will burn out at some point.  Having a life outside of programming can help to prevent the burn out.  
-+ If you live and breathe programming, when you are on a shitty project, it will be hard to separate yourself from the project and you may get stuck. A sense of detachment will provide a way to solve the problem.
-+ Grow as a person, not just as a developer. Not everyone loves personal projects and avoid thinking less of those who dont. Some people enjoy having a life outside of programming, which has no bearing on their job efficiency. 
-+ Having external hobbies or outside interests will give you different ways of thinking about problems and better people skills, hence making you a better programmer and person.
-
-### Know yourself
-+ Know how you learn.
-+ Know what gets you intellectually excited.
-+ Know what keeps you engaged and excited.
-+ Play, a lot.
 
 ----
 
@@ -192,3 +154,83 @@ Good online places to start:
 
 # Random
 + https://usersearch.org/
++ http://betterexplained.com/articles/the-rule-of-72/
++ http://yourstory.com/2015/04/doormint/
+
+----
+
+# Software Engineering
++ Semantic Version scheme : http://semver.org
++ NoSpec, http://www.nospec.com/faq
+   + https://medium.com/@sir_castiq/how-to-exploit-a-developer-a005306d5320
++ [Ten Simple Rules for Robustifying Your Software](https://github.com/gvwilson/ten-rules-robustifying-software/blob/gh-pages/index.md).
+
+## Software Design
++ What not to do if you are designing a new language: http://tetamap.wordpress.com/2012/11/13/if-i-were-to-design-a-new-programming-language/
+
+## [Software Management](http://en.wikipedia.org/wiki/Category:Software_project_management)
++ Use Case: http://en.wikipedia.org/wiki/Use_case
++ Algo usecase, http://www.w3.org/2005/Incubator/mmsem/wiki/Algorithm_representation_Use_case.html
++ http://en.wikipedia.org/wiki/Taxonomy
++ Info Sc. ontology, http://en.wikipedia.org/wiki/Ontology_%28information_science%29
++ Formal concept analysis: http://en.wikipedia.org/wiki/Formal_concept_analysis
+
+----
+
+# Software Programming
++ http://thenextweb.com/dd/2015/06/11/8-barriers-to-overcome-when-learning-to-code/
++ https://www.quora.com/What-skills-do-self-taught-programmers-commonly-lack/
+
+## Books
++ Hal Abelson's, Jerry Sussman's and Julie Sussman's [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/) (MIT Press, 1984; ISBN 0-262-01077-1), an excellent computer science text used in introductory courses at MIT.
+
+## Code Exercises
++ Learn to program: https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md
++ http://synopsis.exercism.io/, https://github.com/exercism/cli, https://github.com/exercism
++ http://freecodecamp.com/
+
+## Language Wars
++ Why are there so many programming languages? http://cs.stackexchange.com/questions/451/why-are-there-so-many-programming-languages
++ Python Vs. Perl Vs. Ruby: http://blog.slickedit.com/2007/09/comparing-python-to-perl-and-ruby/
++ From Perl to Ruby: https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-perl/
+
+## Lists
++ https://github.com/NARKOZ/guides
+
+
+## Advice
+### Work on personal projects!
++ It is the best way to learn new technologies that you may not have a chance to try out at work. When the time comes to use it, you'll be the smarty-pants who already knows all about it. 
++ Or it will be another item for your resume, the next time you go looking for a new job.  Bonus: This will also give you code samples that won't belong to your previous employer. 
++ Planning and executing a personal project will also make you a more confident programmer, because you know that you can build 
+something.
+
+### Know the code.
++ Never cut-and-paste anything you don't understand. If you're borrowing somebody else's code, you better damn well study it and learn how it works. 
++ You are responsible for ALL the code you contribute to a project -- even if it was originally somebody else's code.  If there's a bug in there, you better find it and fix it.  If there's a security flaw, you need to fix that, too.
++ Many code samples online do NOT represent production code.  They exhibit irresponsible error handling, insufficient security, and are organized in such a manner that they won't scale in a healthy way.
+
+### Don't ask for help too soon.  
++ Always give yourself a chance to figure something out on your own.
++ While asking for help will save you time, you will develop a deeper knowledge of the technology if you solve problems on your own than if someone dictates the answer to you.
+
+### Be Flexible.
++ Don't get suckered into dogma.  This field is always changing, and we have to stay flexible with it.  While it's important to respect best practices, it's also important to be open to learning new ways of looking at things. 
++ Embracing anything as religion in our field will hamper your ability to learn new things, and will also make you less capable to adapt to changes taking place around you.
+
+### Always a learner.
++ Your education is never complete and you will learn new things every day.  A lifetime of learning is good for your brain -- it will keep it young and nimble.
++ Always be open to learning.
++ Balance learning programming with domain knowledge and design/system thinking.
+
+### Develop yourself internally
++ Get a life outside of work. The pace of technology is fast and you have a lifetime to learn. Programming is an intense profession, you will burn out at some point.  Having a life outside of programming can help to prevent the burn out.  
++ If you live and breathe programming, when you are on a shitty project, it will be hard to separate yourself from the project and you may get stuck. A sense of detachment will provide a way to solve the problem.
++ Grow as a person, not just as a developer. Not everyone loves personal projects and avoid thinking less of those who dont. Some people enjoy having a life outside of programming, which has no bearing on their job efficiency. 
++ Having external hobbies or outside interests will give you different ways of thinking about problems and better people skills, hence making you a better programmer and person.
+
+### Know yourself
++ Know how you learn.
++ Know what gets you intellectually excited.
++ Know what keeps you engaged and excited.
++ Play, a lot.

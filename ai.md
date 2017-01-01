@@ -1,6 +1,7 @@
 + [BOOKS](#books)
 + [AI](#ai)
 + [Computational Formalisms](#computational-formalisms)
++ [Data Science](#data-science)
 + [Data Structures](#data-structures)
 + [Graphs](#graphs)
 + [HMM](#hmm)
@@ -17,18 +18,32 @@
 # AI
 + https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors/
 
-## DataScience
-+ Chunking, https://en.wikipedia.org/wiki/Chunking_%28psychology%29
-+ De-Chunking your brain to stop Companies Learning Your Secrets, http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html
-+ Shiva Bhaskar on [Algorithms, Big Data And Accountability](https://medium.com/@shivagbhaskar/algorithms-big-data-and-accountability-8924bf9e2b24#).
-+ With new algorithms, data scientists could accomplish in days what once took month: http://phys.org/news/2016-10-algorithms-scientists-days-months.html
-
 ----
 
 # Computational Formalisms
 + https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
 + https://en.wikipedia.org/wiki/Category:Computational_problems
 + http://en.wikipedia.org/wiki/Category:Computational_science
+
+----
+
+# Data Science
++ Chunking, https://en.wikipedia.org/wiki/Chunking_%28psychology%29
++ De-Chunking your brain to stop Companies Learning Your Secrets, http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html
++ Shiva Bhaskar on [Algorithms, Big Data And Accountability](https://medium.com/@shivagbhaskar/algorithms-big-data-and-accountability-8924bf9e2b24#).
++ With new algorithms, data scientists could accomplish in days what once took month: http://phys.org/news/2016-10-algorithms-scientists-days-months.html
++ https://www.opendatascience.com/blog/how-to-hire-machine-learning-consultants/
++ Book, http://www.librarything.com/work/15575877
++ http://www.datasciencemasters.org
++ Advice: http://datascienceresume.com/advice/5-reasons-why-doing-kaggle-projects-won-t-help-you-create-a-stand-out-data-science-resume
++ How 2 Hire Data Scientists, http://firstround.com/review/how-to-consistently-hire-remarkable-data-scientists/
+
+### DataScientist (Vs. DataAnalyst) Vs. DataEngineer Vs. Statistician 
++ http://varianceexplained.org/r/year_data_scientist/
++ http://www.analyticsvidhya.com/blog/2015/10/job-comparison-data-scientist-data-engineer-statistician/
++ http://blog.udacity.com/2014/12/data-analyst-vs-data-scientist-vs-data-engineer.html
++ What Data Skills do hiring companies look for in a [DataScientist](http://t.dripemail2.org/c/eyJhY2NvdW50X2lkIjoiOTc2NjA4MCIsImRlbGl2ZXJ5X2lkIjoiODM2NjcyNTMiLCJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVliSFhIZFgxVmNFXHUwMDI2X19zPXR4enBvZm50OG51OGJjNHRmenp3In0)
+
 
 ----
 
