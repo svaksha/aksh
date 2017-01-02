@@ -5,6 +5,7 @@
 ----
 
 # Cognition
++ https://www.research-in-germany.org/en/research-landscape/news/2016/12/2016-12-23-why-chess-masters-win.html
 + https://www.techfak.uni-bielefeld.de/ags/soa/publications/
 
 ----

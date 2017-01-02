@@ -17,6 +17,8 @@
 ----
 
 # Resources
++ [LibGeb](https://en.wikipedia.org/wiki/Library_Genesis), http://93.174.95.27 and [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub), http://80.82.78.170
+    + http://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone
 + http://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read
 + https://github.com/firaswehbe/data-programming-resources/blob/master/openscience.md
 + https://erc.europa.eu/sites/default/files/content/pages/pdf/2.1%20Sabina%20Leonelli.pdf
