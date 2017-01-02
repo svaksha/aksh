@@ -112,6 +112,7 @@
 ----
 
 # OpenData
++ 2016Dec12, DANS-EUDAT-OpenAIRE webinar on "[FAIR Data in Trustworthy Data Repositories](http://newsletter.eudat.eu/Newsletter.ashx?action=onlinenewsletter&idnewsletter=56&guid=17&source=0&lang=en)".
 + Defining Open Data: http://blog.okfn.org/2013/10/03/defining-open-data/
 * EU [Legal study on ownership and access to data](https://bookshop.europa.eu/en/legal-study-on-ownership-and-access-to-data-pbKK0416812/)
 + http://www.opendatainception.io/
