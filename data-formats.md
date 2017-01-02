@@ -32,6 +32,7 @@
 # CSV
 + http://petl.readthedocs.io/en/latest/
 + http://stackoverflow.com/questions/34338693/how-to-parse-csv-file-and-compute-stats-based-on-that-data/34339089
++ http://specs.frictionlessdata.io/csv-dialect/
 
 ### Schema
 + http://fileformats.archiveteam.org/wiki/CSV_Schema 

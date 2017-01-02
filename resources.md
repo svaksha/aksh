@@ -21,20 +21,6 @@
 
 ----
 
-# Journals
-* [Society for Neuroscience](http://eneuro.sfn.org/types.html) OpenAccess Journal.
-* [Europe PubMed Central](http://europepmc.org/).
-
-----
-
-# NEWS
-* [France Prefers to Pay (twice) for Papers by Its Researchers](http://blog.okfn.org/2014/11/11/france-prefers-to-pay-twice-for-papers-by-its-researchers/).
-* [Brace Yourself for Large-Scale Whole Genome Sequencing](http://massgenomics.org/2014/11/brace-yourself-for-large-scale-whole-genome-sequencing.html)
-* [Trialling a pragmatic approach to clinical data disclosure](http://blogs.nature.com/scientificdata/2014/11/27/trialling-a-pragmatic-approach-to-clinical-data-disclosure/)
-
-
-----
-
 # Analytics
 # Business Analytics
 + Ev Williams: [The Forrest Gump of the Internet](http://www.theatlantic.com/technology/archive/2016/06/ev-williams-is-the-forrest-gump-of-the-internet/486899/).
@@ -55,7 +41,6 @@
 
 # Documentation
 + An introduction to Sphinx and Read the Docs for Technical Writers : http://ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/
-
 
 
 ----
@@ -234,3 +219,20 @@ something.
 + Know what gets you intellectually excited.
 + Know what keeps you engaged and excited.
 + Play, a lot.
+
+
+----
+
+# Journals
+* [Society for Neuroscience](http://eneuro.sfn.org/types.html) OpenAccess Journal.
+* [Europe PubMed Central](http://europepmc.org/).
+
+----
+
+# NEWS
++ http://qz.com/858887/how-to-know-if-fake-news-is-fake-learn-to-think-like-a-scientist/
+* [France Prefers to Pay (twice) for Papers by Its Researchers](http://blog.okfn.org/2014/11/11/france-prefers-to-pay-twice-for-papers-by-its-researchers/).
+* [Brace Yourself for Large-Scale Whole Genome Sequencing](http://massgenomics.org/2014/11/brace-yourself-for-large-scale-whole-genome-sequencing.html)
+* [Trialling a pragmatic approach to clinical data disclosure](http://blogs.nature.com/scientificdata/2014/11/27/trialling-a-pragmatic-approach-to-clinical-data-disclosure/)
+
+

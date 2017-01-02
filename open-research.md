@@ -137,6 +137,8 @@
 + The Importance and the Complexities of Data Sharing, http://www.nejm.org/doi/full/10.1056/NEJMe1611027#pq=v6nEwl
 + European countries are reaping the benefits of Open Data : https://ec.europa.eu/digital-single-market/en/blog/european-countries-are-reaping-benefits-open-data 
 
+### BigData
++ http://blogs.lse.ac.uk/impactofsocialsciences/2016/12/08/what-does-big-data-mean-to-public-affairs-research-understanding-the-methodological-and-analytical-challenges/
 
 ### Bad Science
 + The natural selection of bad science, https://arxiv.org/pdf/1605.09511v1.pdf
