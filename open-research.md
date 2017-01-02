@@ -98,6 +98,7 @@
 ----
 
 # OpenScience
+* https://github.com/CenterForOpenScience/osf.io
 + https://home.scienceopen.com/
 + https://mitpress.mit.edu/sites/default/files/titles/content/openaccess/Suber_08_chap1.html
 + Publisher copyright policies & self-archiving : http://www.sherpa.ac.uk/romeo/index.php
