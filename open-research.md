@@ -1,15 +1,14 @@
 + [Resources](#resources)
 + [ARR](#arr)
     + [Papers](#papers)
++ [DataScience](#datascience)
+    + [OpenData](#opendata)
+    + [RDM](#rdm)
+    + [Data Artifacts](#data-artifacts)
 + [OpenScience](#openscience)
-+ [OpenData](#opendata)
-    + [DataScience](#datascience)
 + [OpenPub](#openpub)
 + [Quality](#quality)
     + [Data Quality](#data-quality)
-+ [RDM](#rdm)
-    + [Data Artifacts](#data-artifacts)
-    + [DMP](#dmp)
 + [Scientific Research](#scientific-research)
 + [ORG](#org)
     + [DB](#db)
@@ -64,8 +63,10 @@
 + https://news.ycombinator.com/item?id=12185964
 + https://lwn.net/Articles/674573/
 + Monya Baker: http://www.nature.com/search?journal=am%2Capp_notes%2Cavianflu%2Cclimate%2Cnature%2Cnaturejobs%2Cnbt%2Cncb%2Cnchem%2Cnchembio%2Cnchina%2Cnclimate%2Cncomms%2Cneuro%2Cng%2Cngeo%2Cni%2Cnindia%2Cnm%2Cnmat%2Cnmeth%2Cnmiddleeast%2Cnnano%2Cnphoton%2Cnphys%2Cnprot%2Cnsmb%2Cscientificamerican%2Cscientificamericanmind%2Csrep%2Cstemcells%2Cblogs&order=date_desc&pag-start=1&q=%22Monya%20Baker%22&q_match=all&sp-m=1
++ http://metrics.stanford.edu/research/reproducibility
 
 ## Papers 
++ http://db-reproducibility.seas.harvard.edu/papers/#SIGMOD2015
 + Ronald F. Boisvert, ACM, Incentivizing Reproducibility : http://cacm.acm.org/magazines/2016/10/207757-incentivizing-reproducibility/fulltext
 + Psychology: http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/
 + Reproducibility in Chemical Research : http://onlinelibrary.wiley.com/doi/10.1002/anie.201606591/pdf
@@ -112,7 +113,12 @@
 
 ----
 
-# OpenData
+
+# Data Science
++ The key to building a data science portfolio : https://www.dataquest.io/blog/build-a-data-science-portfolio/
+
+## OpenData
++ [Open Data Goldbook](https://www.europeandataportal.eu/en/providing-data/goldbook)
 + 2016Dec12, DANS-EUDAT-OpenAIRE webinar on "[FAIR Data in Trustworthy Data Repositories](http://newsletter.eudat.eu/Newsletter.ashx?action=onlinenewsletter&idnewsletter=56&guid=17&source=0&lang=en)".
 + Defining Open Data: http://blog.okfn.org/2013/10/03/defining-open-data/
 * EU [Legal study on ownership and access to data](https://bookshop.europa.eu/en/legal-study-on-ownership-and-access-to-data-pbKK0416812/)
@@ -152,8 +158,21 @@
 + Drug development: Raise standards for preclinical cancer research, http://www.nature.com/nature/journal/v483/n7391/full/483531a.html
 + Bayer paper: http://www.nature.com/nrd/journal/v10/n9/full/nrd3439-c1.html
 
-## DataScience
-+ The key to building a data science portfolio : https://www.dataquest.io/blog/build-a-data-science-portfolio/
+### RDM
++ https://en.wikipedia.org/wiki/Data_management_plan
++ Guidelines on FAIR Data Management in Horizon 2020 : http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf
++ IFLA special issue on data services in libraries: http://www.ifla.org/files/assets/hq/publications/ifla-journal/ifla-journal-42-4_2016.pdf
++ Christian T. Jacobs and Alexandros Avdis: Git-RDM: A research data management plugin for the Git version control system.
+http://joss.theoj.org/papers/10.21105/joss.00029
++ Contemporary Challenges for Data-Intensive Scientific Workflow Management Systems, http://www.switchproject.eu/wp-content/uploads/2016/04/uva-2.pdf
++ Five Things You Need to Know About RDM and the Law: [DCC Checklist on Legal Aspects of RDM](http://www.dcc.ac.uk/resources/how-guides/rdm-law).
++ #scidata16 keynote highlights: “Research data management for early career researchers”, http://blogs.nature.com/naturejobs/2016/12/01/scidata16-keynote-highlights-research-data-management-for-early-career-researchers/
++ Data Re-purpose toolkit: http://www.ands.org.au/partners-and-communities/23-research-data-things/toolkit
+
+### Data Artifacts
++ http://i-cav.org/2015/evaluation/
++ [Data Things 1 to 23](http://www.ands.org.au/partners-and-communities/23-research-data-things/all23)
+
 
 ----
 
@@ -179,25 +198,6 @@
 
 ----
 
-# RDM 
-+ IFLA special issue on data services in libraries: http://www.ifla.org/files/assets/hq/publications/ifla-journal/ifla-journal-42-4_2016.pdf
-+ Christian T. Jacobs and Alexandros Avdis: Git-RDM: A research data management plugin for the Git version control system.
-http://joss.theoj.org/papers/10.21105/joss.00029
-+ Contemporary Challenges for Data-Intensive Scientific Workflow Management Systems, http://www.switchproject.eu/wp-content/uploads/2016/04/uva-2.pdf
-+ Five Things You Need to Know About RDM and the Law: [DCC Checklist on Legal Aspects of RDM](http://www.dcc.ac.uk/resources/how-guides/rdm-law).
-+ #scidata16 keynote highlights: “Research data management for early career researchers”, http://blogs.nature.com/naturejobs/2016/12/01/scidata16-keynote-highlights-research-data-management-for-early-career-researchers/
-+ Data Re-purpose toolkit: http://www.ands.org.au/partners-and-communities/23-research-data-things/toolkit
-
-## Data Artifacts
-+ http://i-cav.org/2015/evaluation/
-+ [Data Things 1 to 23](http://www.ands.org.au/partners-and-communities/23-research-data-things/all23)
-
-## DMP
-+ https://en.wikipedia.org/wiki/Data_management_plan
-+ Guidelines on FAIR Data Management in Horizon 2020 : http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf
-
-
-----
 
 # Scientific Research
 + http://k4webcast.mediasite.com/Mediasite/Play/2bc15b283f324784a945d79d9a06c76c1d
@@ -220,10 +220,3 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 ## SWMS - Scientific Workflow Management Systems
 + https://github.com/svaksha/aksh/blob/master/pub-o3srd/2015-mork-acm.pdf
 
-----
-
-# ORG
-+ http://metrics.stanford.edu/research/reproducibility
-
-### DB
-+ http://db-reproducibility.seas.harvard.edu/papers/#SIGMOD2015
