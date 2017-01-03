@@ -1,4 +1,3 @@
-+ [Resources](#resources)
 + [Reproducible Computational Research](#reproducible-computational-research)
     + [ARR](#arr)
     + [Papers](#papers)
@@ -11,26 +10,8 @@
 + [Quality](#quality)
     + [Data Quality](#data-quality)
 + [Scientific Research](#scientific-research)
-+ [ORG](#org)
-    + [DB](#db)
-
-----
-
-# Resources
-+ [LibGen](https://en.wikipedia.org/wiki/Library_Genesis), http://93.174.95.27 and [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub), http://80.82.78.170
-    + http://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone
-+ http://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read
-+ https://github.com/firaswehbe/data-programming-resources/blob/master/openscience.md
-+ https://erc.europa.eu/sites/default/files/content/pages/pdf/2.1%20Sabina%20Leonelli.pdf
-+ statistical analysis, https://zedshaw.com/archive/a-rubric-for-it-analysis-papers/
-+ https://www.google.de/search?q=infrastructure+for+analytical+reproducibility&ie=utf-8&oe=utf-8&gws_rd=cr&ei=GNp6V7e-CKqWgAatkYXYCQ
-+ http://www.kdd.org/exploration_files/p1V11n1.pdf
-+ https://scholar.google.de/scholar?oe=utf-8&gws_rd=cr&um=1&ie=UTF-8&lr&cites=11895311725021913820
-+ http://www.nature.com/news/statisticians-issue-warning-over-misuse-of-p-values-1.19503
-+ http://www.treesmapsandtheorems.com/
-+ https://en.wikipedia.org/wiki/PechaKucha
-+ http://blogs.lse.ac.uk/impactofsocialsciences/2016/09/12/how-proximity-and-trust-are-key-factors-in-getting-research-to-feed-into-policymaking/
-+ Should we cite blog posts during peer review? https://medium.com/@tpoi/should-we-cite-blog-posts-during-peer-review-20c86a6378a5#.o6deuigq1
++ [LIB](#lib)
++ [Resources](#resources)
 
 ----
 
@@ -227,3 +208,26 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 ## SWMS - Scientific Workflow Management Systems
 + https://github.com/svaksha/aksh/blob/master/pub-o3srd/2015-mork-acm.pdf
 
+
+----
+
+# LIB 
++ http://journal.code4lib.org/call-for-submissions
+
+----
+
+# Resources
++ [LibGen](https://en.wikipedia.org/wiki/Library_Genesis), http://93.174.95.27 and [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub), http://80.82.78.170
+    + http://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone
++ http://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read
++ https://github.com/firaswehbe/data-programming-resources/blob/master/openscience.md
++ https://erc.europa.eu/sites/default/files/content/pages/pdf/2.1%20Sabina%20Leonelli.pdf
++ statistical analysis, https://zedshaw.com/archive/a-rubric-for-it-analysis-papers/
++ https://www.google.de/search?q=infrastructure+for+analytical+reproducibility&ie=utf-8&oe=utf-8&gws_rd=cr&ei=GNp6V7e-CKqWgAatkYXYCQ
++ http://www.kdd.org/exploration_files/p1V11n1.pdf
++ https://scholar.google.de/scholar?oe=utf-8&gws_rd=cr&um=1&ie=UTF-8&lr&cites=11895311725021913820
++ http://www.nature.com/news/statisticians-issue-warning-over-misuse-of-p-values-1.19503
++ http://www.treesmapsandtheorems.com/
++ https://en.wikipedia.org/wiki/PechaKucha
++ http://blogs.lse.ac.uk/impactofsocialsciences/2016/09/12/how-proximity-and-trust-are-key-factors-in-getting-research-to-feed-into-policymaking/
++ Should we cite blog posts during peer review? https://medium.com/@tpoi/should-we-cite-blog-posts-during-peer-review-20c86a6378a5#.o6deuigq1

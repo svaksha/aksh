@@ -2,6 +2,7 @@
 + [Bayesian](#bayesian)
 + [Data Science](#data-science)
 + [Descriptive Statistics](#descriptive-statistics)
++ [GLM](#glm)
 + [P-Values](#p-values)
 + [Statistics](#statistics)
    + [Research Papers](#research-papers)
@@ -39,13 +40,17 @@
 
 ----
 
-# [Descriptive Statistics](https://en.wikipedia.org/wiki/Category:Descriptive_statistics)
-+ Quartile: https://en.wikipedia.org/wiki/Quartile
-
-----
 
 # Data Science
 + https://en.wikipedia.org/wiki/Data_binning
+
+----
+
+
+# [Descriptive Statistics](https://en.wikipedia.org/wiki/Category:Descriptive_statistics)
++ Quartile: https://en.wikipedia.org/wiki/Quartile
++ Learn About Descriptive Statistics: http://learninglover.com/blog/?p=1044
+
 
 ----
 
