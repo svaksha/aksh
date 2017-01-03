@@ -45,6 +45,7 @@
 + Why Do So Many Graduate Students Quit? Universities themselves may be contributing to burnout.
     - http://www.theatlantic.com/education/archive/2016/07/why-do-so-many-graduate-students-quit/490094/
 +  Dr. Karen, http://theprofessorisin.com/
++ 2016Dec13, A confession about working weekends by Tseen Khoo, https://theresearchwhisperer.wordpress.com/2016/12/13/a-confession-about-working-weekends/
 
 ## Advice 
 + "So long, and thanks for the Ph.D.!”, by Ronald T. Azuma : https://www.cs.unc.edu/~azuma/hitch4.html

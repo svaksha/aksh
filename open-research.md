@@ -1,5 +1,6 @@
 + [Resources](#resources)
-+ [ARR](#arr)
++ [Computational Science](#computational-science)
+    + [ARR](#arr)
     + [Papers](#papers)
 + [DataScience](#datascience)
     + [OpenData](#opendata)
@@ -16,7 +17,7 @@
 ----
 
 # Resources
-+ [LibGeb](https://en.wikipedia.org/wiki/Library_Genesis), http://93.174.95.27 and [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub), http://80.82.78.170
++ [LibGen](https://en.wikipedia.org/wiki/Library_Genesis), http://93.174.95.27 and [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub), http://80.82.78.170
     + http://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone
 + http://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read
 + https://github.com/firaswehbe/data-programming-resources/blob/master/openscience.md
@@ -29,11 +30,13 @@
 + http://www.treesmapsandtheorems.com/
 + https://en.wikipedia.org/wiki/PechaKucha
 + http://blogs.lse.ac.uk/impactofsocialsciences/2016/09/12/how-proximity-and-trust-are-key-factors-in-getting-research-to-feed-into-policymaking/
++ Should we cite blog posts during peer review? https://medium.com/@tpoi/should-we-cite-blog-posts-during-peer-review-20c86a6378a5#.o6deuigq1
 
 ----
 
+# Computational Science
 
-# ARR
+## ARR
 + “It’s not reproducible if it only runs on your laptop”: [Jon Zelner’s tips for a reproducible workflow in R and Stan](http://andrewgelman.com/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/)
 + Advancing Open Research: [Q&A with Bastian Greshake](http://blog.scholasticahq.com/post/advancing-open-research-interview-with-bastian-greshake/)    
 + Video-1 (6-part series): Improving the Reproducibility of Our Research Practices Using Open Science Framework, https://www.youtube.com/watch?list=PLMOU-iLiJIc0amNVabGXJ0liKwIwxqkO8&v=kzUtpDBo8wk
@@ -64,6 +67,9 @@
 + https://lwn.net/Articles/674573/
 + Monya Baker: http://www.nature.com/search?journal=am%2Capp_notes%2Cavianflu%2Cclimate%2Cnature%2Cnaturejobs%2Cnbt%2Cncb%2Cnchem%2Cnchembio%2Cnchina%2Cnclimate%2Cncomms%2Cneuro%2Cng%2Cngeo%2Cni%2Cnindia%2Cnm%2Cnmat%2Cnmeth%2Cnmiddleeast%2Cnnano%2Cnphoton%2Cnphys%2Cnprot%2Cnsmb%2Cscientificamerican%2Cscientificamericanmind%2Csrep%2Cstemcells%2Cblogs&order=date_desc&pag-start=1&q=%22Monya%20Baker%22&q_match=all&sp-m=1
 + http://metrics.stanford.edu/research/reproducibility
+
+## Errors
++ 2010, Zeeya Merali, Computational science: ...Error …why scientific programming does not compute, Nature 467, 775-777 (2010), http://www.nature.com/news/2010/101013/full/467775a.html, DOI:10.1038/467775a.
 
 ## Papers 
 + http://db-reproducibility.seas.harvard.edu/papers/#SIGMOD2015
