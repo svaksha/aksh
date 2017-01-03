@@ -1,5 +1,5 @@
 + [Resources](#resources)
-+ [Computational Science](#computational-science)
++ [Reproducible Computational Research](#reproducible-computational-research)
     + [ARR](#arr)
     + [Papers](#papers)
 + [DataScience](#datascience)
@@ -34,7 +34,8 @@
 
 ----
 
-# Computational Science
+# Reproducible Computational Research
++ Introduction to [Computational Reproducibility](https://figshare.com/articles/Introduction_to_Computational_Reproducibility_and_why_we_care_/4509419/1)
 
 ## ARR
 + “It’s not reproducible if it only runs on your laptop”: [Jon Zelner’s tips for a reproducible workflow in R and Stan](http://andrewgelman.com/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/)
@@ -105,7 +106,8 @@
 ----
 
 # OpenScience
-* https://github.com/CenterForOpenScience/osf.io
++ 2017: Masuzzo P, Martens L. (2017) Do you speak open science? Resources and tips to learn the language. PeerJ Preprints 5:e2689v1, https://doi.org/10.7287/peerj.preprints.2689v1, https://peerj.com/preprints/2689v1/
++ https://github.com/CenterForOpenScience/osf.io
 + https://home.scienceopen.com/
 + https://mitpress.mit.edu/sites/default/files/titles/content/openaccess/Suber_08_chap1.html
 + Publisher copyright policies & self-archiving : http://www.sherpa.ac.uk/romeo/index.php
@@ -203,7 +205,6 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 + The image detective who roots out manuscript flaws. Jana Christopher discusses her job as a data integrity analyst at EMBO Press: http://www.nature.com/news/the-image-detective-who-roots-out-manuscript-flaws-1.17749
 
 ----
-
 
 # Scientific Research
 + http://k4webcast.mediasite.com/Mediasite/Play/2bc15b283f324784a945d79d9a06c76c1d
