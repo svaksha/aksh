@@ -1,3 +1,4 @@
++ [Citation](#citation)
 + [Reproducible Computational Research](#reproducible-computational-research)
     + [ARR](#arr)
     + [Papers](#papers)
@@ -12,6 +13,11 @@
 + [Scientific Research](#scientific-research)
 + [LIB](#lib)
 + [Resources](#resources)
+
+----
+
+# Citation
++ 2016, Martin Fenner, et.al., A Data Citation Roadmap for Scholarly Data Repositories, DOI: https://doi.org/10.1101/097196, http://biorxiv.org/content/early/2016/12/28/097196 
 
 ----
 
