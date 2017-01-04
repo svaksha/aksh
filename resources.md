@@ -5,6 +5,7 @@
 + [FOSS-Community](#foss-community)
 + [Life](#life)
 + [MOOC](#mooc)
++ [Open-Seed](#open-seed)
 + [Podcasts](#podcasts)
    + [programming language](#programming language)
 + [Blogs](#blogs)
@@ -100,6 +101,12 @@ Good online places to start:
 + MIT's introduction to programming in Java : http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/
 + Greenfoot: They offer a AP CS text book that uses their software. Its a friendly and visual introduction to real Java programming.
    - http://www.greenfoot.org/door 
+
+----
+
+# Open-Seed
++ How "Open Source" Seed Producers From the US to India Are Changing Global Food Production: http://www.truth-out.org/news/item/38915-how-open-source-seed-producers-from-the-us-to-india-are-changing-global-food-production
+
 
 ---- 
 

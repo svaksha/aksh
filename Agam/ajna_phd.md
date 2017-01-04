@@ -12,6 +12,7 @@
 + [READING](#reading)
 + [RETRACTIONS](#retractions)
 + [REVIEWER](#reviewer)
++ [THINK](#think)
 + [WRITING](#writing)
     + [Guidelines](#guidelines)
     + [PAPERS](#papers)
@@ -192,6 +193,11 @@
 
 ----
 
+# THINK
++ [Critical thinking web](http://philosophy.hku.hk/think/) : An excellent online resource with over 100 online tutorials on different aspects of thinking skills that are completely free and under a Creative Commons license.
+
+----
+
 # WRITING
 
 ## Guidelines
@@ -201,6 +207,7 @@ __MLA or APA style?__
 + APA Writing Format: https://explorable.com/apa-writing-format
 + https://www.elen.ucl.ac.be/esann/index.php?pg=guidelines
 + DLIB guidelines, http://www.dlib.org/dlib/author-guidelines.html
++ Research Skills Workshops for Graduate Research Students: http://www.postgraduate.uwa.edu.au/__data/assets/pdf_file/0011/2507789/Conceptualising-Research-Booklet-Feb-14.pdf
 
 ## PAPERS
 + Michael Watts, THE HOLY GRAIL: IN PURSUIT OF THE DISSERTATION PROPOSAL, http://iis.berkeley.edu/sites/default/files/pdf/inpursuitofphd.pdf
@@ -239,6 +246,8 @@ __MLA or APA style?__
 + Workshop on Writing Competetive Dissertation Grants: https://education.msu.edu/irtl/grad/pdf/IRTL_GrantWritingWorkshopSlides.pdf
 + [Professional Writing in Political Science](https://dl.dropboxusercontent.com/u/14523416/Writing.pdf): A Highly opinionated Essay, James A. Stimson, UNC at Chapel Hill.
 + [Publishing as a Graduate Student](http://www.timothysrich.com/documents/Rich_Publishing_as_a_Grad_Student.pdf)
++ [How to write paragraphs](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/how-to-write-paragraphs-80781e2f3054#.mgwnt11y5) in research texts (articles, books and PhDs).
+
 
 ### Paper Structure
 ##### ABSTRACT
