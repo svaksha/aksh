@@ -199,6 +199,7 @@
 ----
 
 # WRITING
++ How to write in plain English: http://www.plainenglish.co.uk/files/howto.pdf
 
 ## Guidelines
 __MLA or APA style?__

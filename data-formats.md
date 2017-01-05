@@ -33,6 +33,8 @@
 + http://petl.readthedocs.io/en/latest/
 + http://stackoverflow.com/questions/34338693/how-to-parse-csv-file-and-compute-stats-based-on-that-data/34339089
 + http://specs.frictionlessdata.io/csv-dialect/
++ [CSV Validation Research](https://github.com/theodi/csv-validation-research) :: This repository contains some sample files that show how different tools and data formats can be used to support the validation and description of CSV files.
+
 
 ### Schema
 + http://fileformats.archiveteam.org/wiki/CSV_Schema 
