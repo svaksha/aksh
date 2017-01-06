@@ -57,6 +57,7 @@
 + Write a blog post of the journal article: https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/how-to-write-a-blogpost-from-your-journal-article-6511a3837caa#.ll715cc8u
 + Suggested reading for rethinking your writing practices: https://www.insidehighered.com/blogs/gradhacker/three-books-changed-my-dissertation
 + Secrets to thriving in graduate school: http://www.sciencemag.org/careers/2015/01/secrets-thriving-graduate-school
++ [How to Write a Higher Degree Research Proposal](http://www.pennydebyl.me/post/4110/).
 
 ## Coursework - CS
 + Requirement of Cornell University: https://www.cs.cornell.edu/phd/requirements
@@ -114,6 +115,7 @@
 ----
 
 # READING
++ [On sustaining reading habits](http://phdtalk.blogspot.de/2017/01/phd-talk-for-academictransfer-on.html)
 + [How to read a research paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html).
 + [Advice on reading academic papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 + [Some Thoughts on What it Takes to Produce a Good Ph.D. Thesis](https://engineering.purdue.edu/kak/HowToPhD.pdf).
@@ -190,6 +192,7 @@
 
 ### Respond to Reviewers
 + [How not to respond to reviewers: Eight simple tips](http://blogs.nature.com/naturejobs/2016/08/19/how-not-to-respond-to-reviewers-eight-simple-tips/)
++ Write a literature review: https://soci.ucalgary.ca/sites/soci.ucalgary.ca/files/How_to_Write_a_Literature_Review_Nov_7_2013.pdf
 
 ----
 
