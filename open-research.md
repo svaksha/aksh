@@ -10,6 +10,7 @@
 + [OpenPub](#openpub)
 + [Quality](#quality)
     + [Data Quality](#data-quality)
+    + [Retraction Error](#retraction-error)
 + [Scientific Research](#scientific-research)
 + [LIB](#lib)
 + [Resources](#resources)
@@ -23,6 +24,8 @@
 
 # Reproducible Computational Research
 + Introduction to [Computational Reproducibility](https://figshare.com/articles/Introduction_to_Computational_Reproducibility_and_why_we_care_/4509419/1)
++ The American Statistical Association Announces A New Reproducibility Policy: https://replicationnetwork.com/2017/01/07/the-american-statistical-association-announces-a-new-reproducibility-policy/
+    + http://davegiles.blogspot.de/2017/01/reproducible-research-in-statistics.html
 
 ## ARR
 + “It’s not reproducible if it only runs on your laptop”: [Jon Zelner’s tips for a reproducible workflow in R and Stan](http://andrewgelman.com/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/)
@@ -191,6 +194,9 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 ## Data Quality
 + Gene name errors are widespread in the scientific literature : http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1044-7
 + The image detective who roots out manuscript flaws. Jana Christopher discusses her job as a data integrity analyst at EMBO Press: http://www.nature.com/news/the-image-detective-who-roots-out-manuscript-flaws-1.17749
+
+## Retraction Error
++ Paper retraction by @DanielBolnick due to R-lang statistical errors as a blog post "[Wrong a lot?](http://ecoevoevoeco.blogspot.de/2016/12/wrong-lot.html)" and the tweet reference: https://twitter.com/BrianNosek/status/817708812593405952
 
 ----
 
