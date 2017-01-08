@@ -2,6 +2,9 @@
 
 My personal reference bibliography of STEM resources, books, technical notes, conference/ workshop jottings, [scientific](https://en.wikipedia.org/wiki/Outline_of_science) research papers and [grey literature](https://en.wikipedia.org/wiki/Grey_literature) and just about anything that makes an interesting read. Since this is a personal dumpspace for bookmarks, expect it to perpetually be in a state of randomly ordered chaos.
 
+### Library resources
+    + http://bjoern.brembs.net/2016/12/so-your-institute-went-cold-turkey-on-publisher-x-what-now/
+
 ----
 
 # LICENSE 
