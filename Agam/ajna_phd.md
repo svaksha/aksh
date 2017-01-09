@@ -118,7 +118,7 @@
 + [On sustaining reading habits](http://phdtalk.blogspot.de/2017/01/phd-talk-for-academictransfer-on.html)
 + [How to read a research paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html).
 + [Advice on reading academic papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
-+ [Some Thoughts on What it Takes to Produce a Good Ph.D. Thesis](https://engineering.purdue.edu/kak/HowToPhD.pdf).
++ http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper
 + http://openscienceasap.org/stream/2014/11/27/how-i-set-up-my-scientific-work-environment/#comment-946
 + [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)?
 + [Jason Hong's collection of advice links](http://www.cs.cmu.edu/~jasonh/advice.html)
@@ -251,6 +251,7 @@ __MLA or APA style?__
 + [Professional Writing in Political Science](https://dl.dropboxusercontent.com/u/14523416/Writing.pdf): A Highly opinionated Essay, James A. Stimson, UNC at Chapel Hill.
 + [Publishing as a Graduate Student](http://www.timothysrich.com/documents/Rich_Publishing_as_a_Grad_Student.pdf)
 + [How to write paragraphs](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/how-to-write-paragraphs-80781e2f3054#.mgwnt11y5) in research texts (articles, books and PhDs).
++ How to Write a Paper: http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf
 
 
 ### Paper Structure
@@ -310,6 +311,7 @@ __MLA or APA style?__
 + DESIGNING RESEARCH POSTERS : [How to make a clear and successful scientific poster](https://www.cmu.edu/gcc/handouts/Scientific Posters v2.pdf).
 
 ## [THESIS](https://en.wikipedia.org/wiki/Thesis)
++ [Some Thoughts on What it Takes to Produce a Good Ph.D. Thesis](https://engineering.purdue.edu/kak/HowToPhD.pdf).
 + Writing a Thesis: https://www.monash.edu/__data/assets/pdf_file/0007/145816/booklet-writing-a-thesis-in-education.pdf
 + Brian Martin: Want to publish more? Then train like an athlete. Perfectionism is a deadly enemy of good performance: http://www.bmartin.cc/pubs/12tp.html   
 + https://www.theguardian.com/higher-education-network/blog/2014/aug/27/finishing-phd-thesis-top-tips-experts-advice
