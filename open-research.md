@@ -29,6 +29,7 @@
     + http://davegiles.blogspot.de/2017/01/reproducible-research-in-statistics.html
 
 ## ARR
++ Jo Barratt - [Continuous data validation in scientific research](https://www.youtube.com/watch?v=D8O9Yg5mcWQ) - #scidata16. 
 + “It’s not reproducible if it only runs on your laptop”: [Jon Zelner’s tips for a reproducible workflow in R and Stan](http://andrewgelman.com/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/)
 + Advancing Open Research: [Q&A with Bastian Greshake](http://blog.scholasticahq.com/post/advancing-open-research-interview-with-bastian-greshake/)    
 + Video-1 (6-part series): Improving the Reproducibility of Our Research Practices Using Open Science Framework, https://www.youtube.com/watch?list=PLMOU-iLiJIc0amNVabGXJ0liKwIwxqkO8&v=kzUtpDBo8wk
@@ -143,6 +144,7 @@
 + The Harvard Dataverse Network: http://library.harvard.edu/gdc
 + The Importance and the Complexities of Data Sharing, http://www.nejm.org/doi/full/10.1056/NEJMe1611027#pq=v6nEwl
 + European countries are reaping the benefits of Open Data : https://ec.europa.eu/digital-single-market/en/blog/european-countries-are-reaping-benefits-open-data 
++ How is Open Data being re-used in Europe? https://www.europeandataportal.eu/en/content/how-open-data-being-re-used-europe
 
 ### BigData
 + http://blogs.lse.ac.uk/impactofsocialsciences/2016/12/08/what-does-big-data-mean-to-public-affairs-research-understanding-the-methodological-and-analytical-challenges/
