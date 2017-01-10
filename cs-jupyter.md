@@ -6,7 +6,7 @@
 ----
 
 + jakevdp blogs about [Conda: Myths and Misconceptions](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/).
-
++ Jupyter with Vagrant: http//www.pybloggers.com/jupyter-with-vagrant/
 
 ----
 
