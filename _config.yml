@@ -1,0 +1,8 @@
+title: aksh
+description: My personal bibliography of STEM resources and grey literature. http://svaksha.github.io/aksh
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
