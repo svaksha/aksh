@@ -23,6 +23,7 @@
 * DNA mutations and changes, http://www.genetichealth.com/g101_changes_in_dna.shtml
 + [Variomes](http://en.wikipedia.org/wiki/Variome)
 + http://en.wikipedia.org/wiki/Deoxyribonucleotide
++ [A hidden code in our DNA explains how new pieces of genes are made](http://theconversation.com/a-hidden-code-in-our-dna-explains-how-new-pieces-of-genes-are-made-70750).
 
 ## DNA replication
 + [Genetic code](http://en.wikipedia.org/wiki/Genetic_code)
