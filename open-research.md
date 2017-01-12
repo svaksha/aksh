@@ -1,6 +1,5 @@
 + [Citation](#citation)
 + [Reproducible Computational Research](#reproducible-computational-research)
-    + [ARR](#arr)
     + [Papers](#papers)
 + [DataScience](#datascience)
     + [OpenData](#opendata)
@@ -24,11 +23,10 @@
 ----
 
 # Reproducible Computational Research
++ 2017Jan10, Munafò M.R., et.al., A manifesto for reproducible science, Nature Human Behaviour 1, Article number: 0021 (2017), doi:10.1038/s41562-016-0021, http://www.nature.com/articles/s41562-016-0021
 + Introduction to [Computational Reproducibility](https://figshare.com/articles/Introduction_to_Computational_Reproducibility_and_why_we_care_/4509419/1)
 + The American Statistical Association Announces A New Reproducibility Policy: https://replicationnetwork.com/2017/01/07/the-american-statistical-association-announces-a-new-reproducibility-policy/
     + http://davegiles.blogspot.de/2017/01/reproducible-research-in-statistics.html
-
-## ARR
 + Jo Barratt - [Continuous data validation in scientific research](https://www.youtube.com/watch?v=D8O9Yg5mcWQ) - #scidata16. 
 + “It’s not reproducible if it only runs on your laptop”: [Jon Zelner’s tips for a reproducible workflow in R and Stan](http://andrewgelman.com/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/)
 + Advancing Open Research: [Q&A with Bastian Greshake](http://blog.scholasticahq.com/post/advancing-open-research-interview-with-bastian-greshake/)    
@@ -80,6 +78,7 @@
     + Contra view: If a study fails to be replicated it does not automatically mean that its results are to be considered false, http://www.nature.com/news/biotech-giant-publishes-failures-to-confirm-high-profile-science-1.19269
 + 2015, Florian Markowetz, [Five selfish reasons to work reproducibly](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7), DOI: 10.1186/s13059-015-0850-7
 + 2016Oct28, Bertram Ludaescher, Kyle Chard, Niall Gaffney, Matthew B. Jones, Jaroslaw Nabrzyski, Victoria Stodden, Matthew Turk, Capturing the "Whole Tale" of Computational Research: Reproducibility in Computing Environments, https://arxiv.org/abs/1610.09958
++ Video: Sile Lane talks about [The hidden side of clinical trials](https://www.youtube.com/watch?v=-RXrGLolgEc) as does the hashtag #[AllTrials](https://www.youtube.com/watch?v=3PU5ilpz31g) on OpenData.
 
 
 ## Ten Simple Rules for Reproducible Computational Research

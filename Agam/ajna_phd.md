@@ -179,6 +179,7 @@
 ----
 
 # REVIEWER
++ LITERATURE REVIEWS, http://www.flinders.edu.au/slc_files/Documents/Blue Guides/Literature Review.pdf
 + Manipulating the peer review process: why it happens and how it might be prevented, http://blogs.lse.ac.uk/impactofsocialsciences/2016/12/13/manipulating-the-peer-review-process-why-it-happens-and-how-it-might-be-prevented/
 + https://github.com/jtleek/reviews
 + 2009Mar, [How NOT to review a paper: the tools and techniques of the adversarial reviewer](http://dl.acm.org/citation.cfm?id=1519122), Graham Cormode, ACM SIGMOD Record.

@@ -3,9 +3,10 @@
 + [ReactJS](#reactjs)
 + [Templating](#templating)
 + [LIBS](#libs)
-   + [PDF](#pdf)
+    + [PDF](#pdf)
 + [Programming](#programming)
-   + [Functional](#functional)
+    + [DOM](#dom)
+    + [Functional](#functional)
 
 ----
 
@@ -44,6 +45,9 @@
 
 # Programming
 + http://ourcodeblog.com/2015/11/10/technical-challenge-understanding-javascript-closures/
+
+## DOM
++ DOM elements: https://dev.to/buntine/dom-elements-with-ids-are-global-variables
 
 ## Functional
 + An intro to functional programming: http://www.bootstrapworld.org/materials/ 
