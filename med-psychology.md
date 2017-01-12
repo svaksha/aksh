@@ -29,6 +29,8 @@
 ----
 
 # DIVERSITY
+### Implicit Bias
++ Psychology’s Favorite Tool for Measuring Racism Isn’t Up to the Job: http://nymag.com/scienceofus/2017/01/psychologys-racism-measuring-tool-isnt-up-to-the-job.html
 
 ## Crimes
 + http://www.police.nsw.gov.au/community_issues/bias_crimes

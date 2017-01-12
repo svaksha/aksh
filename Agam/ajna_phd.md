@@ -193,6 +193,7 @@
     + Full paper:  http://www.tandfonline.com/doi/full/10.1080/02723638.2016.1190559
 + Literature Review: A Guide for Researchers, http://uws.au.libanswers.com/loader.php?fid=1332&type=1&key=3d48313481c8c29c97e3cdecba596d05
 
+
 ### Respond to Reviewers
 + [How not to respond to reviewers: Eight simple tips](http://blogs.nature.com/naturejobs/2016/08/19/how-not-to-respond-to-reviewers-eight-simple-tips/)
 + Write a literature review: https://soci.ucalgary.ca/sites/soci.ucalgary.ca/files/How_to_Write_a_Literature_Review_Nov_7_2013.pdf
@@ -314,6 +315,7 @@ __MLA or APA style?__
 + DESIGNING RESEARCH POSTERS : [How to make a clear and successful scientific poster](https://www.cmu.edu/gcc/handouts/Scientific Posters v2.pdf).
 
 ## [THESIS](https://en.wikipedia.org/wiki/Thesis)
++ [Developing the Thesis or Dissertation Proposal](http://www.sagepub.com/sites/default/files/upm-binaries/14135_Chapter3.pdf)
 + [Some Thoughts on What it Takes to Produce a Good Ph.D. Thesis](https://engineering.purdue.edu/kak/HowToPhD.pdf).
 + Writing a Thesis: https://www.monash.edu/__data/assets/pdf_file/0007/145816/booklet-writing-a-thesis-in-education.pdf
 + Brian Martin: Want to publish more? Then train like an athlete. Perfectionism is a deadly enemy of good performance: http://www.bmartin.cc/pubs/12tp.html   
