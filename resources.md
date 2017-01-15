@@ -172,6 +172,7 @@ Good online places to start:
 # Software Programming
 + http://thenextweb.com/dd/2015/06/11/8-barriers-to-overcome-when-learning-to-code/
 + https://www.quora.com/What-skills-do-self-taught-programmers-commonly-lack/
++ https://www.google.com/about/careers/students/guide-to-technical-development.html
 
 ## Books
 + Hal Abelson's, Jerry Sussman's and Julie Sussman's [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/) (MIT Press, 1984; ISBN 0-262-01077-1), an excellent computer science text used in introductory courses at MIT.
