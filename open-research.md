@@ -23,6 +23,7 @@
 ----
 
 # Reproducible Computational Research
++ Titus Brown says "[How I learned to stop worrying and love the coming archivability crisis in scientific software](http://ivory.idyll.org/blog/2017-pof-software-archivability.html)".
 + 2017Jan10, Munafò M.R., et.al., A manifesto for reproducible science, Nature Human Behaviour 1, Article number: 0021 (2017), doi:10.1038/s41562-016-0021, http://www.nature.com/articles/s41562-016-0021
 + Introduction to [Computational Reproducibility](https://figshare.com/articles/Introduction_to_Computational_Reproducibility_and_why_we_care_/4509419/1)
 + The American Statistical Association Announces A New Reproducibility Policy: https://replicationnetwork.com/2017/01/07/the-american-statistical-association-announces-a-new-reproducibility-policy/

@@ -36,6 +36,9 @@ __NB :: Not all the DB's are freely available.__
 + [scrapi](https://github.com/fabianvf/scrapi) :: A data processing pipeline that schedules and runs content harvesters, normalizes their data, and outputs that normalized data to a variety of output streams.
 + [simmetrica](https://github.com/o/simmetrica) :: Lightweight framework for collecting and aggregating event metrics as timeseries data.
 
+### Resources
++ [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
+
 ----
 
 # ACTUARIAL SCIENCE

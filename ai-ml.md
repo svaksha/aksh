@@ -20,6 +20,7 @@
 + http://www.thetalkingmachines.com/ways-to-listen
 + http://www.partiallyderivative.com/
 + http://mathworld.wolfram.com/MaximumLikelihood.html
++ Scikit-Learn CheatSheet: [Python Machine Learning](https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet#gs.HtHkSQc).
 
 ##### NEWS
 + http://gael-varoquaux.info/programming/mloss-2015-wising-up-to-building-open-source-machine-learning.html

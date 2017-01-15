@@ -49,6 +49,8 @@
 + 2016Dec13, A confession about working weekends by Tseen Khoo, https://theresearchwhisperer.wordpress.com/2016/12/13/a-confession-about-working-weekends/
 
 ## Advice 
++ Say yes in moderation: http://literallyviral.com/index.php/2017/01/15/the-one-piece-of-phd-advice-i-want-to-give-you/
++ Guide to Working With Supervisors: http://library.unimelb.edu.au/__data/assets/pdf_file/0010/1924165/Working_With_Supervisors.pdf
 + "So long, and thanks for the Ph.D.!”, by Ronald T. Azuma : https://www.cs.unc.edu/~azuma/hitch4.html
 + http://getalifephd.blogspot.de/
 + http://chronicle.com/article/A-Letter-to-Past/236870/
@@ -179,7 +181,7 @@
 ----
 
 # REVIEWER
-+ LITERATURE REVIEWS, http://www.flinders.edu.au/slc_files/Documents/Blue Guides/Literature Review.pdf
++ LITERATURE REVIEW: http://www.flinders.edu.au/slc_files/Documents/Blue%20Guides/Literature%20Review.pdf
 + Manipulating the peer review process: why it happens and how it might be prevented, http://blogs.lse.ac.uk/impactofsocialsciences/2016/12/13/manipulating-the-peer-review-process-why-it-happens-and-how-it-might-be-prevented/
 + https://github.com/jtleek/reviews
 + 2009Mar, [How NOT to review a paper: the tools and techniques of the adversarial reviewer](http://dl.acm.org/citation.cfm?id=1519122), Graham Cormode, ACM SIGMOD Record.

@@ -2,6 +2,7 @@
 + [DIVERSITY](#diversity)
     + [Crimes](#crimes)
     + [Kultur](#kultur)
+    + [Microaggressions](#microaggressions)
 + [PRODUCTIVITY](#productivity)    
 + [PSYCHOPATHY](#psychopathy)
     + [Bullying](#bullying)
@@ -37,6 +38,9 @@
 
 ## Kultur
 + https://modelviewculture.com/pieces/re-recruit-from-the-leaky-pipeline
+
+## Microaggressions
++ 2017Jan11: Scott O. Lilienfeld, Microaggressions: Strong Claims, Inadequate Evidence ; Perspectives on Psychological Science, Vol 12, Issue 1, pp. 138 - 169, 2017, DOI:10.1177/1745691616659391, http://journals.sagepub.com/doi/full/10.1177/1745691616659391
 
 ----
 
