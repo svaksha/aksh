@@ -43,6 +43,7 @@
 
 # Data Science
 + https://en.wikipedia.org/wiki/Data_binning
++ ThinkStats2 by Allen Downey: http://allendowney.blogspot.de/2017/01/last-batch-of-notebooks-for-think-stats.html
 
 ----
 

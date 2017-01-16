@@ -2,6 +2,7 @@
 + [Packaging](#packaging)
 + [Resources](#resources)
 + [Anaconda](#anaconda)
++ [Flask](#flask)
 + [NLP](#nlp)
 + [HDF5](#hdf5)
 + [MOOC](#mooc)
@@ -18,6 +19,7 @@
 ----
 
 # Python3
+
 ## Classes
 + https://docs.python.org/3/tutorial/classes.html
 
@@ -32,6 +34,11 @@
 
 # Anaconda
 + http://conda.pydata.org/docs/using/envs.html
+
+----
+
+# Flask
++  Flask by Example - [Implementing a Redis Task Queue](https://realpython.com/blog/python/flask-by-example-implementing-a-redis-task-queue/) :: This part of the tutorial details how to implement a Redis task queue to handle text processing.
 
 ----
 

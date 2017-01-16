@@ -2,13 +2,14 @@
 + [3D Libs](#3d-libs)
 + [File Formats](#file-formats)
 + [Imaging](Imaging)
++ [Research](#research)
 + [UML Tools](#uml-tools)
 + [Video](#video)
 + [Visualization](#visualization)
 
 ----
 
-+ CV, https://en.wikipedia.org/wiki/Computer_vision
++ CV: https://en.wikipedia.org/wiki/Computer_vision
 + [Visual Computing](https://en.wikipedia.org/wiki/Visual_Computing)
 + https://en.wikipedia.org/wiki/Category:Computer_vision
 + http://en.wikipedia.org/wiki/Category:Free_data_visualization_software
@@ -46,6 +47,11 @@
 + https://en.wikipedia.org/wiki/Raster_graphics
 + True color, https://en.wikipedia.org/wiki/Color_depth#True_color_.2824-bit.29
 + https://helpx.adobe.com/photoshop/using/file-formats.html
+
+----
+
+# Research
++ Research papers: https://github.com/mathisonian/awesome-visualization-research
 
 ----
 

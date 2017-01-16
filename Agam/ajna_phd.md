@@ -79,6 +79,7 @@
 ## Scientific Procedures
 + Rules of good scientific practice, procedures, and penalties in the event of malpractice: https://www.humboldt-foundation.de/web/docs/F25752/rules_scientific_practice.pdf
 + Research Methodologies, http://onlineqda.hud.ac.uk/methodologies.php
++ How to Research: www.mheducation.co.uk/openup/chapters/0335209033.pdf
 
 ----
 
@@ -140,7 +141,7 @@
 + DOI, Date: 
 
 ### 1. Message
-+ What is your take away message from this paper?)
++ What is your take away message from this paper?
 
 ### 2. Motivation
 + What is the motivation for this work (both people problem and technical problem), and its distillation into a research question? 
@@ -204,6 +205,7 @@
 ----
 
 # THINK
++ What Is My Analytic Approach? https://au.sagepub.com/sites/default/files/upm-binaries/78076_Chapter_5.pdf
 + [Critical thinking web](http://philosophy.hku.hk/think/) : An excellent online resource with over 100 online tutorials on different aspects of thinking skills that are completely free and under a Creative Commons license.
 
 ----

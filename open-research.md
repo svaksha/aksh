@@ -5,8 +5,8 @@
     + [OpenData](#opendata)
     + [RDM](#rdm)
     + [Data Artifacts](#data-artifacts)
++ [OpenAccess](#openaccess)
 + [OpenScience](#openscience)
-+ [OpenPub](#openpub)
 + [Quality](#quality)
     + [Data Quality](#data-quality)
     + [Retraction Error](#retraction-error)
@@ -64,6 +64,8 @@
 + 2010, Zeeya Merali, Computational science: ...Error …why scientific programming does not compute, Nature 467, 775-777 (2010), http://www.nature.com/news/2010/101013/full/467775a.html, DOI:10.1038/467775a.
 
 ## Papers 
++ Phaf R. Hans, Replication Requires Psychological Rather than Statistical Hypotheses: The Case of Eye Movements Enhancing Word Recollection, Front. Psychol., 26 December 2016, DOI:https://doi.org/10.3389/fpsyg.2016.02023, http://journal.frontiersin.org/article/10.3389/fpsyg.2016.02023/full
+
 + http://db-reproducibility.seas.harvard.edu/papers/#SIGMOD2015
 + Ronald F. Boisvert, ACM, Incentivizing Reproducibility : http://cacm.acm.org/magazines/2016/10/207757-incentivizing-reproducibility/fulltext
 + Psychology: http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/
@@ -94,6 +96,21 @@
     * Rule 8: Generate Hierarchical Analysis Output, Allowing Layers of Increasing Detail to Be Inspected
     * Rule 9: Connect Textual Statements to Underlying Results
     * Rule 10: Provide Public Access to Scripts, Runs, and Results
+
+
+----
+
+# OpenAccess
++ JOSS: [The Journal of Open Source Software](https://github.com/openjournals/joss), http://joss.theoj.org
++ A peer-reviewed publication path for software that is not necessarily scientifically novel. 
++ In statistics there is the Journal of Statistical Software.
++ In neuroscience/imaging there are things like the Insight Journal and the "Frontiers in..." imprints which have software-specific tracks.
++ [Computer Physics Communications](http://www.journals.elsevier.com/computer-physics-communications/) publishes a lot of articles and papers that are more intended to document free/open-source implementations than they are to describe novel algorithms. This is quite useful as a way to give people something to cite when they use your code, and also to obtain more traditional academic credit for free-software work.
++ Stata and R have their own journals: [Stata Journal](http://www.stata-journal.com/) and [R Journal](https://journal.r-project.org/). 
++ The [ActivePapers project](http://www.activepapers.org/) and paper: http://f1000research.com/articles/3-289/v3
++ For-Profit Journals Must End :: http://read.hipporeads.com/for-profit-journals-must-end/
++ Easy steps towards open scholarship :: http://blogs.lse.ac.uk/impactofsocialsciences/2013/05/24/easy-steps-towards-open-scholarship 
++ Beware! Academics are getting reeled in by scam journals: http://www.universityaffairs.ca/features/feature-article/beware-academics-getting-reeled-scam-journals/
 
 ----
 
@@ -160,6 +177,7 @@
 + Bayer paper: http://www.nature.com/nrd/journal/v10/n9/full/nrd3439-c1.html
 
 ### RDM
++ Managing small to medium-sized [research software projects](https://swcarpentry.github.io/managing-research-software-projects/) and on [github](https://github.com/swcarpentry/managing-research-software-projects/)
 + https://en.wikipedia.org/wiki/Data_management_plan
 + Guidelines on FAIR Data Management in Horizon 2020 : http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf
 + IFLA special issue on data services in libraries: http://www.ifla.org/files/assets/hq/publications/ifla-journal/ifla-journal-42-4_2016.pdf
@@ -174,19 +192,6 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 + http://i-cav.org/2015/evaluation/
 + [Data Things 1 to 23](http://www.ands.org.au/partners-and-communities/23-research-data-things/all23)
 
-
-----
-
-# OpenPub
-+ JOSS: [The Journal of Open Source Software](https://github.com/openjournals/joss), http://joss.theoj.org
-+ A peer-reviewed publication path for software that is not necessarily scientifically novel. 
-+ In statistics there is the Journal of Statistical Software.
-+ In neuroscience/imaging there are things like the Insight Journal and the "Frontiers in..." imprints which have software-specific tracks.
-+ [Computer Physics Communications](http://www.journals.elsevier.com/computer-physics-communications/) publishes a lot of articles and papers that are more intended to document free/open-source implementations than they are to describe novel algorithms. This is quite useful as a way to give people something to cite when they use your code, and also to obtain more traditional academic credit for free-software work.
-+ Stata and R have their own journals: [Stata Journal](http://www.stata-journal.com/) and [R Journal](https://journal.r-project.org/). 
-+ The [ActivePapers project](http://www.activepapers.org/) and paper: http://f1000research.com/articles/3-289/v3
-+ For-Profit Journals Must End :: http://read.hipporeads.com/for-profit-journals-must-end/
-+ Easy steps towards open scholarship :: http://blogs.lse.ac.uk/impactofsocialsciences/2013/05/24/easy-steps-towards-open-scholarship 
 
 ----
 
