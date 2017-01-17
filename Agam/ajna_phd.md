@@ -119,7 +119,6 @@
 ----
 
 # READING
-+ [Analyzing Documents, Artifacts, and Visual Materials](https://au.sagepub.com/sites/default/files/upm-binaries/79658_Chapter_3.pdf)
 + [On sustaining reading habits](http://phdtalk.blogspot.de/2017/01/phd-talk-for-academictransfer-on.html)
 + [How to read a research paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html).
 + [Advice on reading academic papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
@@ -206,13 +205,18 @@
 ----
 
 # THINK
-+ What Is My Analytic Approach? https://au.sagepub.com/sites/default/files/upm-binaries/78076_Chapter_5.pdf
+
++ Chapter-1:: [Introduction : Analyzing Life](https://au.sagepub.com/sites/default/files/upm-binaries/79657_Chapter_1.pdf)
++ Chapter-3:: [Analyzing Documents, Artifacts, and Visual Materials](https://au.sagepub.com/sites/default/files/upm-binaries/79658_Chapter_3.pdf)
++ Chapter-5:: What Is My Analytic Approach? https://au.sagepub.com/sites/default/files/upm-binaries/78076_Chapter_5.pdf
++ Chapter-9:: Reason & Rigor, [Writing and Representing Inquiry](https://au.sagepub.com/sites/default/files/upm-binaries/73778_Chapter_9.pdf).
 + [Critical thinking web](http://philosophy.hku.hk/think/) : An excellent online resource with over 100 online tutorials on different aspects of thinking skills that are completely free and under a Creative Commons license.
 
 ----
 
 # WRITING
 + How to write in plain English: http://www.plainenglish.co.uk/files/howto.pdf
++ How to handle a [Writer's block](https://www.theguardian.com/education/2002/oct/16/highereducation.books).
 
 ## Guidelines
 __MLA or APA style?__

@@ -9,6 +9,7 @@
 ---- 
 
 # Interviews
+* http://library.unimelb.edu.au/__data/assets/pdf_file/0011/1924067/Conducting_an_Interview.pdf
 + http://interviewing.io? They do interviews every Tuesday evening.
 + http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/
 + Zach Holman says that "startup interviewing is fucked" : https://zachholman.com/posts/startup-interviewing-is-fucked/

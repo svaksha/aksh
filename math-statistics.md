@@ -1,4 +1,5 @@
 + [NOTES](#notes)
+    + [Errors](#errors)
 + [Bayesian](#bayesian)
 + [Data Science](#data-science)
 + [Descriptive Statistics](#descriptive-statistics)
@@ -17,6 +18,9 @@
 
 # NOTES
 + The independent variable is placed on the horizontal (x) axis. The dependent variable is placed on the vertical (y) axis. 
+
+## Errors
++ When significant differences are missed, https://www.statisticsdonewrong.com/significant-differences.html
 
 ----
 
