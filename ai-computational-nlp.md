@@ -16,7 +16,7 @@
 
 + https://en.wikipedia.org/wiki/Languages_of_India
 + https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers_in_India
-* Tamil: https://en.wikipedia.org/wiki/Tamil_language
++ Tamil: https://en.wikipedia.org/wiki/Tamil_language
 
 ----
 

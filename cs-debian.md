@@ -3,6 +3,7 @@
        + [Apt-Pinning](#apt-pinning)
 + [UBUNTU](#ubuntu)
    + [PPA](#ppa)
++ [KDE](#kde)
 + [ISO](#iso)
 + [SUDO](#sudo)
 + [Devices](#devices)
@@ -77,6 +78,11 @@ dpkg -S /sbin/ippool
 3. Remove a PPA by using `ppa-purge` in terminal - What about the applications installed using PPAs? Will they be removed as a result of removing the PPA? The answer is NO. So, we use `PPA purge` to remove the PPA and uninstall all the programs installed by the PPA.
    + Install ppa-purge with this command: `sudo apt-get install ppa-purge`
    + Then use it to purge the PPA: `sudo ppa-purge ppa-url` {{The URL of the PPA can be found in the Software Sources list.}}
+
+----
+
+# KDE 
++ Install KDE plasma5 instead of Gnome: http://www.tecmint.com/install-kde-plasma-5-in-linux/
 
 ----
 
