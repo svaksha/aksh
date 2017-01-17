@@ -20,6 +20,7 @@
    + [Graphs](#graphs)
    + [Algorithms](#algorithms)
 + [NEWS](#news)
++ [Web](#web)
 
 ----
 
@@ -625,3 +626,5 @@ That should do the trick for the large majority of cases.
 ----
 
 
+# Web 
++ Building a Web App in Julia for DifferentialEquations.jl,  http://www.juliabloggers.com/building-a-web-app-in-julia-differentialequations-jl-online/

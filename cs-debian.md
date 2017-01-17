@@ -82,7 +82,17 @@ dpkg -S /sbin/ippool
 ----
 
 # KDE 
+
+## Dual Desktop Environment - KDE + Gnome
 + Install KDE plasma5 instead of Gnome: http://www.tecmint.com/install-kde-plasma-5-in-linux/
++ http://askubuntu.com/questions/417/how-do-i-install-kde
++ http://askubuntu.com/questions/691331/ended-up-having-kde-4-x-plasma-4-instead-of-plasma-5-4-from-ubuntun-14-04
++ http://www.howtogeek.com/193129/how-to-install-and-use-another-desktop-environment-on-linux/
++ http://www.linuxandubuntu.com/home/5-best-linux-desktop-environments-with-pros-cons
+
+### HDD
++ KDE Partition Manager , https://www.kde.org/applications/system/kdepartitionmanager/
+
 
 ----
 
@@ -116,13 +126,17 @@ $ nano /etc/group   # now add the user to the sudoer file with nano.
 
 ----
 
-#Devices
-+ KDE Partition Manager , https://www.kde.org/applications/system/kdepartitionmanager/
-+ How to force format a USB device?, https://ubuntuforums.org/showthread.php?t=2030703&page=2 
+# Devices
 
 ### delete contents of USB
 $ fdisk -l
 $ dd if=debian.iso of=/dev/sdX   # X is replaced by `sda`
+
++ How to force format a USB device?, https://ubuntuforums.org/showthread.php?t=2030703&page=2 
+
+### Dual monitor
++ How to configure multiple displays on a Dell PC using the Ubuntu operating system, http://www.dell.com/support/article/de/de/dedhs1/SLN298529/en
++ http://www.thegeekstuff.com/2009/08/ubuntu-tips-how-to-setup-dual-monitor/
 
 ----
 
