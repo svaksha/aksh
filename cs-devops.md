@@ -6,6 +6,7 @@
 + [INFRA](#infra)
    + [Batch Jobs](#batch-jobs)
    + [CI](#ci)
+   + [Dependency Management](#dependency-management)
    + [LibCloud](#libcloud)
    + [OCP](#ocp)
    + [Open SDN](#open-sdn)
@@ -57,7 +58,7 @@
    + https://www.rabbitmq.com/tutorials/tutorial-two-python.html
    + http://www.rabbitmq.com/configure.html#config-items
    + http://www.rabbitmq.com/memory.html#diskfreesup
-+ Pika, https://github.com/pika/pika       # a Pure Python RabbitMQ/AMQP 0-9-1 client library.
++ Pika, https://github.com/pika/pika : a Pure Python RabbitMQ/AMQP 0-9-1 client library.
    + http://pika.readthedocs.org/en/0.9.14/intro.html
 
 ----
@@ -130,18 +131,22 @@ Makefile samples
 # INFRA
 + https://en.wikipedia.org/wiki/Open_Build_Service
 
+
 ## Terraform
 + https://www.terraform.io/
-
-## DevOps
-+ https://github.com/devopsbookmarks/devopsbookmarks.com
-+ [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 ## Batch Jobs
 + [Luigi](https://github.com/spotify/luigi) :: A Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 
 ## CI
 + An introduction to containers for continuous integration : https://github.com/fredhutchio/containers-ci
+
+## Dependency Management
++ Services vs Libraries: [tradeoffs in dependency management](http://blog.jessitron.com/2017/01/dependencies.html).
+
+## DevOps
++ https://github.com/devopsbookmarks/devopsbookmarks.com
++ [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 ## [LibCloud](https://libcloud.apache.org/)
 + A Python library for interacting with many of the popular cloud service providers using a unified API - can handle files on AWS, Dropbox, GoogleDrive. 

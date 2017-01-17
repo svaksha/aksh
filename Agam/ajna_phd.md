@@ -119,6 +119,7 @@
 ----
 
 # READING
++ [Analyzing Documents, Artifacts, and Visual Materials](https://au.sagepub.com/sites/default/files/upm-binaries/79658_Chapter_3.pdf)
 + [On sustaining reading habits](http://phdtalk.blogspot.de/2017/01/phd-talk-for-academictransfer-on.html)
 + [How to read a research paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html).
 + [Advice on reading academic papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
