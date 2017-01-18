@@ -1,6 +1,6 @@
 + [ETHICS](#ethics)
     + [Academic Authorship](#academic-authorship)
-+ [Guide-PHD](#guide-phd)
++ [Guide-RESEARCH](#guide-research)
     + [Advice](#advice)
     + [Coursework - CS](#coursework-cs)
     + [Researcher Tasks](#researcher-tasks)
@@ -33,7 +33,8 @@
 
 ----
 
-# Guide-PHD
+# Guide-RESEARCH
++ [Becoming a Researcher](http://www-personal.umich.edu/~dsbaero/tutorials/BecomingaResearcherV1.pdf) by Dennis S. Bernstein.
 + [Prof. Philip Guo](http://pgbovine.net/PhD-memoir.htm)'s very readable book on his personal Ph.D. school experience with other useful blog posts.
 + [Andrej Karapathy](http://karpathy.github.io/2016/09/07/phd/), Machine Learning PhD student at Stanford, writes his PhD survival guide: https://www.opendatascience.com/blog/a-survival-guide-to-a-phd/
 + [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf).
@@ -205,12 +206,12 @@
 ----
 
 # THINK
-
++ [Critical thinking web](http://philosophy.hku.hk/think/) : An excellent online resource with over 100 online tutorials on different aspects of thinking skills that are completely free and under a Creative Commons license.
 + Chapter-1:: [Introduction : Analyzing Life](https://au.sagepub.com/sites/default/files/upm-binaries/79657_Chapter_1.pdf)
 + Chapter-3:: [Analyzing Documents, Artifacts, and Visual Materials](https://au.sagepub.com/sites/default/files/upm-binaries/79658_Chapter_3.pdf)
 + Chapter-5:: What Is My Analytic Approach? https://au.sagepub.com/sites/default/files/upm-binaries/78076_Chapter_5.pdf
 + Chapter-9:: Reason & Rigor, [Writing and Representing Inquiry](https://au.sagepub.com/sites/default/files/upm-binaries/73778_Chapter_9.pdf).
-+ [Critical thinking web](http://philosophy.hku.hk/think/) : An excellent online resource with over 100 online tutorials on different aspects of thinking skills that are completely free and under a Creative Commons license.
++ Ch-10:: How to do [collaborative action research: why you should, what's involved & key benefits](https://au.sagepub.com/sites/default/files/upm-binaries/79074_Chapter_9.pdf).
 
 ----
 

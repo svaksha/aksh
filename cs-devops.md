@@ -65,6 +65,12 @@
 
 # Automation
 
+## Ansible
++ Documentation: http://docs.ansible.com/ansible/git_module.html
++ https://github.com/ansible/ansible/issues/7030
++ https://github.com/ansible/ansible-modules-core/pull/55
++ http://stackoverflow.com/questions/32870417/how-to-add-update-git-tag-from-local-machine-using-ansible-playbook
+
 ## Makefile
 Makefile samples
 + https://github.com/tlnagy/dotfiles/blob/master/Makefile
@@ -97,7 +103,6 @@ Makefile samples
 + https://en.wikipedia.org/wiki/Cobbler_%28software%29
 + https://github.com/cobbler/cobbler
 
-   
 ----
 
 # AWS

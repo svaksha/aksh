@@ -18,11 +18,16 @@
 ## Julia
 + https://github.com/svaksha/Julia.jl/blob/master/API.md#git
 
+## Dulwich
++ https://www.samba.org/~jelmer/dulwich/docs/
++ StGit: http://www.procode.org/stgit/doc/tutorial.html#_workflow_tracking_branch
+
 ## Git 
 + https://github.com/libgit2/libgit2
 + https://github.com/libgit2/pygit2
     + http://www.pygit2.org/objects.html
 + https://github.com/nevik/gitwatch
++ http://stackoverflow.com/questions/1456269/python-git-module-experiences
 
 ### GitPython
 + http://gitpython.readthedocs.io/en/stable/tutorial.html
