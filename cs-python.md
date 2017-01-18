@@ -16,6 +16,10 @@
 + https://learnpythonthehardway.org/book/ex46.html
 + https://pypi.python.org/pypi
 
+## Modules
++ http://stackoverflow.com/questions/15746675/how-to-write-a-python-module
++ http://stackoverflow.com/questions/39978375/how-to-make-a-python-module-or-fuction-and-use-it-while-writing-other-programs
+
 ----
 
 # Python3
