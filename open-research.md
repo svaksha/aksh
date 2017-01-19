@@ -23,6 +23,7 @@
 ----
 
 # Reproducible Computational Research
++ http://www.sciencemag.org/news/2017/01/rigorous-replication-effort-succeeds-just-two-five-cancer-papers
 + Titus Brown says "[How I learned to stop worrying and love the coming archivability crisis in scientific software](http://ivory.idyll.org/blog/2017-pof-software-archivability.html)".
 + 2017Jan10, Munafò M.R., et.al., A manifesto for reproducible science, Nature Human Behaviour 1, Article number: 0021 (2017), doi:10.1038/s41562-016-0021, http://www.nature.com/articles/s41562-016-0021
 + Introduction to [Computational Reproducibility](https://figshare.com/articles/Introduction_to_Computational_Reproducibility_and_why_we_care_/4509419/1)
@@ -178,6 +179,7 @@
 + Bayer paper: http://www.nature.com/nrd/journal/v10/n9/full/nrd3439-c1.html
 
 ### RDM
++ Data Management Plan for Moore Investigator in Data Driven Discovery Grant: http://riojournal.com/articles.php?journal_name=rio&id=10708
 + Managing small to medium-sized [research software projects](https://swcarpentry.github.io/managing-research-software-projects/) and on [github](https://github.com/swcarpentry/managing-research-software-projects/)
 + https://en.wikipedia.org/wiki/Data_management_plan
 + Guidelines on FAIR Data Management in Horizon 2020 : http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf

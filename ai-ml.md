@@ -7,6 +7,7 @@
 ----
 
 # [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
++ https://github.com/pytorch/pytorch
 + 2017: Tran D., et al., Deep Probabilistic Programming, 13 Jan 2017, https://arxiv.org/abs/1701.03757v1
 + Theis L., et al., A note on the evaluation of generative models, DOI:arXiv:1511.01844v3, https://arxiv.org/abs/1511.01844
 + The 10 Algorithms Machine Learning Engineers Need to Know, https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.fcs1pf3la
