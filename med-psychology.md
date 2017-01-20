@@ -26,6 +26,7 @@
 # COGNITIVE PSYCHOLOGY
 + https://en.wikipedia.org/wiki/List_of_cognitive_biases
 + Are you positive about life? Thank your brain first, http://www.freepressjournal.in/are-you-positive-about-life-thank-your-brain-first/
++ Don’t Tell Your Friends They’re Lucky: http://nautil.us/issue/44/luck/dont-tell-your-friends-theyre-lucky
 
 ----
 
