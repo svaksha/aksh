@@ -1,6 +1,7 @@
 + [Citation](#citation)
 + [Reproducible Computational Research](#reproducible-computational-research)
     + [Cancer Biology Reproducibility Project](#cancer-biology-reproducibility-project)
+    + [Psychology](#psychology)
     + [Errors](#errors)
     + [Papers](#papers)
 + [DataScience](#datascience)
@@ -65,6 +66,9 @@
 ## Cancer Biology Reproducibility Project
 + http://www.sciencemag.org/news/2017/01/rigorous-replication-effort-succeeds-just-two-five-cancer-papers 
 + https://www.theatlantic.com/science/archive/2017/01/what-proportion-of-cancer-studies-are-reliable/513485/
+
+## Psychology
++ 2017Jan19: Hanne Watkins, System Justification in Social Psychology? A Survey of Responses to the Replicability Debate in Psychology, OSF.io, https://osf.io/preprints/psyarxiv/nn67y/
 
 
 ## Errors

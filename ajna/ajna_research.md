@@ -222,12 +222,14 @@
 
 ## Guidelines
 __MLA or APA style?__
++ 15 steps to revising journal articles submitted for critical feedback: http://blogs.lse.ac.uk/impactofsocialsciences/2017/01/18/15-steps-to-revising-journal-articles/
 + How to Format Your Research Paper : http://www.sciencebuddies.org/science-fair-projects/project_research_paper_format.shtml
 + GUIDELINES FOR AUTHORS OF SCIENTIFIC PAPERS: https://www.iccat.int/Documents/SCRS/Other/Guide_ColVol_ENG_2009.pdf
 + APA Writing Format: https://explorable.com/apa-writing-format
 + https://www.elen.ucl.ac.be/esann/index.php?pg=guidelines
 + DLIB guidelines, http://www.dlib.org/dlib/author-guidelines.html
 + Research Skills Workshops for Graduate Research Students: http://www.postgraduate.uwa.edu.au/__data/assets/pdf_file/0011/2507789/Conceptualising-Research-Booklet-Feb-14.pdf
+
 
 ## PAPERS
 + Michael Watts, THE HOLY GRAIL: IN PURSUIT OF THE DISSERTATION PROPOSAL, http://iis.berkeley.edu/sites/default/files/pdf/inpursuitofphd.pdf
