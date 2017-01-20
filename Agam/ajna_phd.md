@@ -120,6 +120,7 @@
 ----
 
 # READING
++ How2Review critical literature: http://eprints.aston.ac.uk/3431/1/Jesson_and_lacey2006.pdf
 + [On sustaining reading habits](http://phdtalk.blogspot.de/2017/01/phd-talk-for-academictransfer-on.html)
 + [How to read a research paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html).
 + [Advice on reading academic papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)

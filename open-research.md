@@ -1,5 +1,7 @@
 + [Citation](#citation)
 + [Reproducible Computational Research](#reproducible-computational-research)
+    + [Cancer Biology Reproducibility Project](#cancer-biology-reproducibility-project)
+    + [Errors](#errors)
     + [Papers](#papers)
 + [DataScience](#datascience)
     + [OpenData](#opendata)
@@ -23,8 +25,7 @@
 ----
 
 # Reproducible Computational Research
-+ http://www.sciencemag.org/news/2017/01/rigorous-replication-effort-succeeds-just-two-five-cancer-papers
-+ Titus Brown says "[How I learned to stop worrying and love the coming archivability crisis in scientific software](http://ivory.idyll.org/blog/2017-pof-software-archivability.html)".
++ Titus Brown says "[How I learned to stop worrying and love the coming archivability crisis in scientific software](http://ivory.idyll.org/blog/2017-pof-software-archivaiblity.html)".
 + 2017Jan10, Munafò M.R., et.al., A manifesto for reproducible science, Nature Human Behaviour 1, Article number: 0021 (2017), doi:10.1038/s41562-016-0021, http://www.nature.com/articles/s41562-016-0021
 + Introduction to [Computational Reproducibility](https://figshare.com/articles/Introduction_to_Computational_Reproducibility_and_why_we_care_/4509419/1)
 + The American Statistical Association Announces A New Reproducibility Policy: https://replicationnetwork.com/2017/01/07/the-american-statistical-association-announces-a-new-reproducibility-policy/
@@ -61,12 +62,16 @@
 + Monya Baker: http://www.nature.com/search?journal=am%2Capp_notes%2Cavianflu%2Cclimate%2Cnature%2Cnaturejobs%2Cnbt%2Cncb%2Cnchem%2Cnchembio%2Cnchina%2Cnclimate%2Cncomms%2Cneuro%2Cng%2Cngeo%2Cni%2Cnindia%2Cnm%2Cnmat%2Cnmeth%2Cnmiddleeast%2Cnnano%2Cnphoton%2Cnphys%2Cnprot%2Cnsmb%2Cscientificamerican%2Cscientificamericanmind%2Csrep%2Cstemcells%2Cblogs&order=date_desc&pag-start=1&q=%22Monya%20Baker%22&q_match=all&sp-m=1
 + http://metrics.stanford.edu/research/reproducibility
 
+## Cancer Biology Reproducibility Project
++ http://www.sciencemag.org/news/2017/01/rigorous-replication-effort-succeeds-just-two-five-cancer-papers 
++ https://www.theatlantic.com/science/archive/2017/01/what-proportion-of-cancer-studies-are-reliable/513485/
+
+
 ## Errors
 + 2010, Zeeya Merali, Computational science: ...Error …why scientific programming does not compute, Nature 467, 775-777 (2010), http://www.nature.com/news/2010/101013/full/467775a.html, DOI:10.1038/467775a.
 
 ## Papers 
 + Phaf R. Hans, Replication Requires Psychological Rather than Statistical Hypotheses: The Case of Eye Movements Enhancing Word Recollection, Front. Psychol., 26 December 2016, DOI:https://doi.org/10.3389/fpsyg.2016.02023, http://journal.frontiersin.org/article/10.3389/fpsyg.2016.02023/full
-
 + http://db-reproducibility.seas.harvard.edu/papers/#SIGMOD2015
 + Ronald F. Boisvert, ACM, Incentivizing Reproducibility : http://cacm.acm.org/magazines/2016/10/207757-incentivizing-reproducibility/fulltext
 + Psychology: http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/
