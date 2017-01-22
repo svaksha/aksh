@@ -186,6 +186,7 @@
 ----
 
 # REVIEWER
++ @protohedgehog has some [advice for peer reviewers](http://fossilsandshit.com/so-you-want-do-a-peer-review/)
 + LITERATURE REVIEW: http://www.flinders.edu.au/slc_files/Documents/Blue%20Guides/Literature%20Review.pdf
 + Manipulating the peer review process: why it happens and how it might be prevented, http://blogs.lse.ac.uk/impactofsocialsciences/2016/12/13/manipulating-the-peer-review-process-why-it-happens-and-how-it-might-be-prevented/
 + https://github.com/jtleek/reviews
