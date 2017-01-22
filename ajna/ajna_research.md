@@ -15,7 +15,7 @@
 + [THINK](#think)
 + [WRITING](#writing)
     + [Guidelines](#guidelines)
-    + [PAPERS](#papers)
+    + [Publications](#publications)
         + [Paper Structure](#paper-structure)
     + [POSTER](#poster)
     + [THESIS](#thesis)
@@ -35,12 +35,14 @@
 
 # Guide-RESEARCH
 + [Becoming a Researcher](http://www-personal.umich.edu/~dsbaero/tutorials/BecomingaResearcherV1.pdf) by Dennis S. Bernstein.
++ BOOK:: [Being a Postgraduate Student](https://he.palgrave.com/resources/sample-chapters/9781403995803_sample.pdf)
 + [Prof. Philip Guo](http://pgbovine.net/PhD-memoir.htm)'s very readable book on his personal Ph.D. school experience with other useful blog posts.
 + [Andrej Karapathy](http://karpathy.github.io/2016/09/07/phd/), Machine Learning PhD student at Stanford, writes his PhD survival guide: https://www.opendatascience.com/blog/a-survival-guide-to-a-phd/
 + [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf).
 + [Advice on the PhD life](http://blog.vivekhaldar.com/post/29296581613/what-is-life-like-for-phds-in-computer-science-who).
 + [9 things you should consider before embarking on a PhD](https://www.elsevier.com/connect/9-things-you-should-consider-before-embarking-on-a-phd).
 + The computer science graduate school PhD survival guide "[The 4th guide in the Hitchhiker’s guide trilogy](http://www.cs.unc.edu/~azuma/hitch4.html)" by Dr. Azuma.
++ https://www.timeshighereducation.com/features/essential-phd-tips-10-articles-all-doctoral-students-should-read
 + https://www.findaphd.com/
 + A website & forum for graduate students : http://thegradcafe.com 
 + https://www.timeshighereducation.com/features/10-truths-a-phd-supervisor-will-never-tell-you/2005513.article
@@ -231,7 +233,8 @@ __MLA or APA style?__
 + Research Skills Workshops for Graduate Research Students: http://www.postgraduate.uwa.edu.au/__data/assets/pdf_file/0011/2507789/Conceptualising-Research-Booklet-Feb-14.pdf
 
 
-## PAPERS
+## Publications
++ [Publications: Publish like a pro](http://www.nature.com/naturejobs/science/articles/10.1038/nj7317-873a)
 + Michael Watts, THE HOLY GRAIL: IN PURSUIT OF THE DISSERTATION PROPOSAL, http://iis.berkeley.edu/sites/default/files/pdf/inpursuitofphd.pdf
 + Konrad P Kording & Brett Mensh, Ten simple rules for structuring papers, http://biorxiv.org/content/early/2016/11/28/088278.full.pdf+html, DOI: http://dx.doi.org/10.1101/088278, Full: http://biorxiv.org/content/biorxiv/early/2016/11/28/088278.full.pdf
 + The Secret to Writing Your Dissertation, http://scienceblogs.com/startswithabang/2012/10/20/the-secret-to-writing-your-dissertation/
