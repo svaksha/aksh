@@ -1,5 +1,6 @@
 + [Algorithms](#algorithms)
 + [3D Libs](#3d-libs)
++ [DPI](#dpi)
 + [File Formats](#file-formats)
 + [Imaging](Imaging)
 + [Research](#research)
@@ -16,10 +17,22 @@
 
 ----
 
+# 3D Libs
++ https://en.wikipedia.org/wiki/Gallium3D
+
+----
+
 # Algorithms
 + MLAA : http://www.codeproject.com/Articles/229353/MLAA-Efficiently-Moving-Antialiasing-from-the-GPU
 
 ----
+
+
+# DPI
++ https://www.iprintfromhome.com/mso/understandingdpi.pdf
+
+----
+
 
 # Imaging
 + Dreambit: 
@@ -35,10 +48,6 @@
 ### Reduce image size
 + http://ubuntu.5.x6.nabble.com/how-to-compress-jpeg-to-reduce-size-td1310250.html
 
-----
-
-# 3D Libs
-+ https://en.wikipedia.org/wiki/Gallium3D
 
 ----
 
@@ -79,4 +88,3 @@
 # Visualization
 + Vega :: https://twitter.com/svaksha/status/763038732945678337
 + Bokeh for visualization - draw the brain : https://www.continuum.io/blog/developer-blog/drawing-brain-bokeh
-
