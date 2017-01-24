@@ -188,6 +188,7 @@
 ----
 
 # REVIEWER
++ EDITORIAL : [The Purpose, Process, and Methods of Writing a Literature Review](http://www.aornjournal.org/article/S0001-2092(16)00045-4/pdf).
 + @protohedgehog has some [advice for peer reviewers](http://fossilsandshit.com/so-you-want-do-a-peer-review/)
 + LITERATURE REVIEW: http://www.flinders.edu.au/slc_files/Documents/Blue%20Guides/Literature%20Review.pdf
 + Manipulating the peer review process: why it happens and how it might be prevented, http://blogs.lse.ac.uk/impactofsocialsciences/2016/12/13/manipulating-the-peer-review-process-why-it-happens-and-how-it-might-be-prevented/
@@ -276,6 +277,7 @@ __MLA or APA style?__
 + [Publishing as a Graduate Student](http://www.timothysrich.com/documents/Rich_Publishing_as_a_Grad_Student.pdf)
 + [How to write paragraphs](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/how-to-write-paragraphs-80781e2f3054#.mgwnt11y5) in research texts (articles, books and PhDs).
 + How to Write a Paper: http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf
++ [Research proposals](https://academicskills.anu.edu.au/sites/default/files/handout_pdfs/Research%20proposals%20[new].pdf)
 
 
 ### Paper Structure

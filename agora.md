@@ -7,6 +7,11 @@
 
 ----
 
+# Calendar
++ https://www.europeandataportal.eu/en/calendar
+
+----
+
 # AGORA
 
 ### [Open Science Conference (OSC)](http://www.open-science-conference.eu/)
