@@ -3,6 +3,7 @@
         + [GitPython](#gitpython)
     + [GitHub](#github)
     + [GitLab](#gitlab)
++ [CI git](#ci-git)
 + [GIT](#git)
     + [BiGit](#bigit)
 + [GitLab](#gitlab)
@@ -42,6 +43,11 @@ __Python__
 + https://github.com/gpocentek/python-gitlab
 __Ruby__
 + https://github.com/NARKOZ/gitlab :: Ruby wrapper and CLI for GitLab REST API http://narkoz.github.io/gitlab 
+
+----
+
+# CI git 
++ CI with git: https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful/
 
 ----
 
