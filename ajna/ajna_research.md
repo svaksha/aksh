@@ -52,6 +52,7 @@
 + 2016Dec13, A confession about working weekends by Tseen Khoo, https://theresearchwhisperer.wordpress.com/2016/12/13/a-confession-about-working-weekends/
 
 ## Advice 
++ Self-Care: https://heidirgardner.wordpress.com/2017/01/22/academic-self-care-for-phd-students-why-how/
 + Say yes in moderation: http://literallyviral.com/index.php/2017/01/15/the-one-piece-of-phd-advice-i-want-to-give-you/
 + Guide to Working With Supervisors: http://library.unimelb.edu.au/__data/assets/pdf_file/0010/1924165/Working_With_Supervisors.pdf
 + "So long, and thanks for the Ph.D.!”, by Ronald T. Azuma : https://www.cs.unc.edu/~azuma/hitch4.html
@@ -63,6 +64,7 @@
 + Suggested reading for rethinking your writing practices: https://www.insidehighered.com/blogs/gradhacker/three-books-changed-my-dissertation
 + Secrets to thriving in graduate school: http://www.sciencemag.org/careers/2015/01/secrets-thriving-graduate-school
 + [How to Write a Higher Degree Research Proposal](http://www.pennydebyl.me/post/4110/).
++ Ace that academic job interview: http://www.harzing.com/blog/2017/01/want-to-impress-at-an-academic-job-interview
 
 ## Coursework - CS
 + Requirement of Cornell University: https://www.cs.cornell.edu/phd/requirements
