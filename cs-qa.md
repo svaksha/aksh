@@ -41,6 +41,7 @@
 ---- 
 
 # DOCUMENTATION
++ [Don’t document your code. Code your documentation](https://dev.to/raddikx/dont-document-your-code-code-your-documentation).
 + http://asciidoctor.org/
 + https://github.com/GitbookIO/gitbook
 + Sphinx
