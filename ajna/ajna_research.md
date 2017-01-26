@@ -223,6 +223,7 @@
 ----
 
 # WRITING
++ Write a lot better : Part One – [Becoming a better writer](http://web.anglia.ac.uk/anet/rido/docschl/info/Write%20a%20lot%20better%20-%201.pdf) and Part Two: [Writing a lot](http://web.anglia.ac.uk/anet/rido/docschl/info/Write%20a%20lot%20better%20-%202.pdf).
 + [Precision Writing](http://www-personal.umich.edu/~dsbaero/tutorials/PrecisionWritingV8.pdf) by Dennis S. Bernstein 
 Aerospace Engineering Department, The University of Michigan, Ann Arbor, MI 48109, <dsbaero@umich.edu>.
 + How to write in plain English: http://www.plainenglish.co.uk/files/howto.pdf
