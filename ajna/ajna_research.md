@@ -223,6 +223,8 @@
 ----
 
 # WRITING
++ [Precision Writing](http://www-personal.umich.edu/~dsbaero/tutorials/PrecisionWritingV8.pdf) by Dennis S. Bernstein 
+Aerospace Engineering Department, The University of Michigan, Ann Arbor, MI 48109, <dsbaero@umich.edu>.
 + How to write in plain English: http://www.plainenglish.co.uk/files/howto.pdf
 + How to handle a [Writer's block](https://www.theguardian.com/education/2002/oct/16/highereducation.books).
 
