@@ -7,6 +7,7 @@
 ----
 
 # [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
++ [JuliaML and TensorFlow Tuitorial](http://white.ucc.asn.au/2017/01/24/JuliaML-and-TensorFlow-Tuitorial.html)
 + https://github.com/pytorch/pytorch
 + 2017: Tran D., et al., Deep Probabilistic Programming, 13 Jan 2017, https://arxiv.org/abs/1701.03757v1
 + Theis L., et al., A note on the evaluation of generative models, DOI:arXiv:1511.01844v3, https://arxiv.org/abs/1511.01844
