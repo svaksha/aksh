@@ -16,6 +16,7 @@
 ----
 
 # AI
++ What is artificial intelligence? A [three part definition] : http://simplystatistics.org/2017/01/19/what-is-artificial-intelligence/
 + https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors/
 
 ----

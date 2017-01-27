@@ -338,6 +338,7 @@ __MLA or APA style?__
 
 ## POSTER
 + DESIGNING RESEARCH POSTERS : [How to make a clear and successful scientific poster](https://www.cmu.edu/gcc/handouts/Scientific Posters v2.pdf).
++ WORKSHOP PAPERS: [Stage 2A - Presentations](http://web.anglia.ac.uk/anet/rido/docschl/training/Stage_2A_workbook.pdf)
 
 ## [THESIS](https://en.wikipedia.org/wiki/Thesis)
 + [Developing the Thesis or Dissertation Proposal](http://www.sagepub.com/sites/default/files/upm-binaries/14135_Chapter3.pdf)
