@@ -5,6 +5,7 @@
     + [Coursework - CS](#coursework-cs)
     + [Researcher Tasks](#researcher-tasks)
     + [Scientific Procedures](#scientific-procedures)
+    + [Viva](#viva)
 + [Guide-POSTDOC](#guide-postdoc)
     + [Grant Writing](#grant-writing)
 + [TIME MANAGEMENT](#time-management)
@@ -85,6 +86,9 @@
 + Rules of good scientific practice, procedures, and penalties in the event of malpractice: https://www.humboldt-foundation.de/web/docs/F25752/rules_scientific_practice.pdf
 + Research Methodologies, http://onlineqda.hud.ac.uk/methodologies.php
 + How to Research: www.mheducation.co.uk/openup/chapters/0335209033.pdf
+
+## Viva
++ How to examine a PhD & prepare for the viva: [what to look for & questions to ask](https://www.research.manchester.ac.uk/portal/files/31671759/FULL_TEXT.PDF)
 
 ----
 
