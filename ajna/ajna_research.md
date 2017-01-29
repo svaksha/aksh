@@ -89,6 +89,7 @@
 
 ## Viva
 + How to examine a PhD & prepare for the viva: [what to look for & questions to ask](https://www.research.manchester.ac.uk/portal/files/31671759/FULL_TEXT.PDF)
++ How to start your research, write a lit review, consider [ethics & prepare for the viva](https://www2.le.ac.uk/projects/oer/oers/ssds/oers/research-skills/Research skillscg.pdf)
 
 ----
 
@@ -312,7 +313,7 @@ __MLA or APA style?__
 + Report on data collection and recruitment (response rates, etc.)
 + Describe participants (demographic, research condition, etc.)
 + Present key findings with respect to the central research question.
-+ Present secondary findings (secondary outcomes, subgroup analyses, etc.)
++ Present secondary [findings](https://www.apa.org/gradpsych/2006/01/findings.aspx) (secondary outcomes, subgroup analyses, etc.)
 + [Twelve Steps to Writing an Effective Results Section](http://www.sfedit.net/results.pdf)
 
 ##### DISCUSSION

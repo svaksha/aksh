@@ -1,5 +1,7 @@
 __NB :: Not all the DB's are freely available.__
 
++ [LAW](#law)
++ [SOFTWARE](#software)
 + [ACTUARIAL SCIENCE](#actuarial-science)
     + [Econometrics](#econometrics)
     + [Finance](#finance)
@@ -24,6 +26,11 @@ __NB :: Not all the DB's are freely available.__
 + [PHYSICS](#physics)
 + [Reproducibility](#reproducibility)
 + [VIDEO](#video)
+
+----
+
+# LAW
++ EU Data protection law: http://ec.europa.eu/justice/newsroom/data-protection/infographic/2017/index_en.htm
 
 ----
 
