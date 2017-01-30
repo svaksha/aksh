@@ -169,6 +169,7 @@ in multivendor environments.__
 ----
 
 # DOCKER
++ Everyday Hacks for Docker: https://hackernoon.com/everyday-hacks-for-docker-37e92188d9e8#.iybrog2gd
 + Install docker on debian, https://docs.docker.com/engine/installation/linux/debian/
 + https://docs.docker.com/v1.5/faq/
 + http://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-normal-virtual-machine

@@ -26,6 +26,7 @@
 ----
 
 # Reproducible Computational Research
++ CERN Analysis Preservation: https://github.com/cernanalysispreservation
 + Titus Brown says "[How I learned to stop worrying and love the coming archivability crisis in scientific software](http://ivory.idyll.org/blog/2017-pof-software-archivaiblity.html)".
 + 2017Jan10, Munafò M.R., et.al., A manifesto for reproducible science, Nature Human Behaviour 1, Article number: 0021 (2017), doi:10.1038/s41562-016-0021, http://www.nature.com/articles/s41562-016-0021
 + Introduction to [Computational Reproducibility](https://figshare.com/articles/Introduction_to_Computational_Reproducibility_and_why_we_care_/4509419/1)
@@ -222,6 +223,7 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 ----
 
 # Scientific Research
++ [Scientific computing: Code alert](http://www.nature.com/naturejobs/science/articles/10.1038/nj7638-563a), Monya Baker.
 + http://k4webcast.mediasite.com/Mediasite/Play/2bc15b283f324784a945d79d9a06c76c1d
 + 2016, Baker-Nature, http://doi.org/10.1038/533452a, http://www.nature.com/polopoly_fs/1.19970!/menu/main/topColumns/topLeftColumn/pdf/533452a.pdf
 + 2014, Wilson et. al., [Best Practices for Scientific Computing](http://www.plosbiology.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pbio.1001745&representation=PDF).

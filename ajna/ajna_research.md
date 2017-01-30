@@ -228,6 +228,7 @@
 ----
 
 # WRITING
++ Writing Skills - [a 12-part guide](http://libweb.surrey.ac.uk/library/skills/writing%20Skills%20Leicester/index.htm).
 + Write a lot better : Part One – [Becoming a better writer](http://web.anglia.ac.uk/anet/rido/docschl/info/Write%20a%20lot%20better%20-%201.pdf) and Part Two: [Writing a lot](http://web.anglia.ac.uk/anet/rido/docschl/info/Write%20a%20lot%20better%20-%202.pdf).
 + [Precision Writing](http://www-personal.umich.edu/~dsbaero/tutorials/PrecisionWritingV8.pdf) by Dennis S. Bernstein 
 Aerospace Engineering Department, The University of Michigan, Ann Arbor, MI 48109, <dsbaero@umich.edu>.
@@ -317,7 +318,7 @@ __MLA or APA style?__
 + [Twelve Steps to Writing an Effective Results Section](http://www.sfedit.net/results.pdf)
 
 ##### DISCUSSION
-+ State the main findings of the study
++ State the main [findings](How to Write an Effective Discussion) of the study
 + Discuss the main results with reference to previous research
 + Discuss policy and practice implications of the results.
 + Analyse the strengths and limitations of the study. 
