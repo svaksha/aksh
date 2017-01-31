@@ -141,7 +141,7 @@
 + [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 + Getting started on your research reading : http://www.lib.uts.edu.au/sites/default/files/attachments/blog/Terry%20Royce%20Research%20Reading%20Presentation%20slides%20RW%202015.pdf
 + Literature review: http://intranet.ecu.edu.au/__data/assets/pdf_file/0011/20621/literature_review.pdf
-
++ Video explaining "Writing the [literature review chapter](https://www.youtube.com/watch?v=2cy3GJ_k4z8)". 
 
 ## Engineering Research Paper - Question–Answer Form
 
