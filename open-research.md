@@ -27,6 +27,7 @@
 
 # Reproducible Computational Research
 + CERN Analysis Preservation: https://github.com/cernanalysispreservation
++ Kitzes, J., Turek, D., & Deniz, F. (Eds.). (2017). The Practice of Reproducible Research: [Case Studies and Lessons from the Data-Intensive Sciences](http://www.practicereproducibleresearch.org). Oakland, CA: University of California Press.
 + Titus Brown says "[How I learned to stop worrying and love the coming archivability crisis in scientific software](http://ivory.idyll.org/blog/2017-pof-software-archivaiblity.html)".
 + 2017Jan10, Munafò M.R., et.al., A manifesto for reproducible science, Nature Human Behaviour 1, Article number: 0021 (2017), doi:10.1038/s41562-016-0021, http://www.nature.com/articles/s41562-016-0021
 + Introduction to [Computational Reproducibility](https://figshare.com/articles/Introduction_to_Computational_Reproducibility_and_why_we_care_/4509419/1)
