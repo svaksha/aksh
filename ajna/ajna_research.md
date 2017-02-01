@@ -234,6 +234,10 @@
 Aerospace Engineering Department, The University of Michigan, Ann Arbor, MI 48109, <dsbaero@umich.edu>.
 + How to write in plain English: http://www.plainenglish.co.uk/files/howto.pdf
 + How to handle a [Writer's block](https://www.theguardian.com/education/2002/oct/16/highereducation.books).
++ Writing a Humanities and Interdisciplinary Dissertation: 
+    * Part 1: [Intro & Literature Review](http://www.ryerson.ca/content/dam/studentlearningsupport/resources/graduate-student/Writing a Humanities Dissertation Part 1.pdf).
+    * Part 2: [Body, Conclusions, Abstract](http://www.ryerson.ca/content/dam/studentlearningsupport/resources/graduate-student/Writing%20a%20Humanities%20Dissertation%20Part%202.pdf).
+
 
 ## Guidelines
 __MLA or APA style?__
