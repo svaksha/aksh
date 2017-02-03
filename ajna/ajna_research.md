@@ -223,7 +223,8 @@
 + Chapter-3:: [Analyzing Documents, Artifacts, and Visual Materials](https://au.sagepub.com/sites/default/files/upm-binaries/79658_Chapter_3.pdf)
 + Chapter-5:: What Is My Analytic Approach? https://au.sagepub.com/sites/default/files/upm-binaries/78076_Chapter_5.pdf
 + Chapter-9:: Reason & Rigor, [Writing and Representing Inquiry](https://au.sagepub.com/sites/default/files/upm-binaries/73778_Chapter_9.pdf).
-+ Ch-10:: How to do [collaborative action research: why you should, what's involved & key benefits](https://au.sagepub.com/sites/default/files/upm-binaries/79074_Chapter_9.pdf).
++ Chapter-10:: How to do [collaborative action research: why you should, what's involved & key benefits](https://au.sagepub.com/sites/default/files/upm-binaries/79074_Chapter_9.pdf).
++ Assessing your research and publication choices - [How an adapted ‘business model canvas’ may help](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/assessing-your-research-and-publication-choices-316a36d28263#.vn9wjhyc0).
 
 ----
 
