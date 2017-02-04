@@ -66,6 +66,7 @@
 + Secrets to thriving in graduate school: http://www.sciencemag.org/careers/2015/01/secrets-thriving-graduate-school
 + [How to Write a Higher Degree Research Proposal](http://www.pennydebyl.me/post/4110/).
 + Ace that academic job interview: http://www.harzing.com/blog/2017/01/want-to-impress-at-an-academic-job-interview
++ http://www.cse.unsw.edu.au/~tw/manage.pdf: http://www.cse.unsw.edu.au/~tw/manage.pdf
 
 ## Coursework - CS
 + Requirement of Cornell University: https://www.cs.cornell.edu/phd/requirements

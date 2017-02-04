@@ -65,7 +65,7 @@
 + http://aofa.cs.princeton.edu 
 + http://ac.cs.princeton.edu
 
-### Julia Sets
+### Julia Sets+ 
 + 2004, [Hyperbolic Julia Sets are Poly-Time Computable](http://www.cs.toronto.edu/~mbraverm/Papers/CCA04.pdf), Mark Braverman.
 + [A BRIEF INTRODUCTION TO JULIA SETS OF RATIONAL MAPS](http://new.oberlin.edu/arts-and-sciences/departments/mathematics/documents/projects/SamGhitelmanHonorsPaper.pdf), SAMUEL J. GHITELMAN
 
@@ -78,6 +78,9 @@
 + Precision error: https://en.wikipedia.org/wiki/Significant_figures
 + https://en.wikipedia.org/wiki/False_precision
 + Standard error: https://en.wikipedia.org/wiki/Standard_error
+
+## Floating Point
++ Stanford Seminar: [Beyond Floating Point: Next Generation Computer Arithmetic](https://www.youtube.com/watch?v=aP0Y1uAA-2Y).
 
 ----
 
