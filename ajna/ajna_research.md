@@ -66,7 +66,8 @@
 + Secrets to thriving in graduate school: http://www.sciencemag.org/careers/2015/01/secrets-thriving-graduate-school
 + [How to Write a Higher Degree Research Proposal](http://www.pennydebyl.me/post/4110/).
 + Ace that academic job interview: http://www.harzing.com/blog/2017/01/want-to-impress-at-an-academic-job-interview
-+ http://www.cse.unsw.edu.au/~tw/manage.pdf: http://www.cse.unsw.edu.au/~tw/manage.pdf
++ [Managing your supervisor](http://www.cse.unsw.edu.au/~tw/manage.pdf), Toby Walsh.
++ [Getting started with your research degree](http://mams.rmit.edu.au/q1h9uqthvypf.pdf), Dr Judy Maxwell.
 
 ## Coursework - CS
 + Requirement of Cornell University: https://www.cs.cornell.edu/phd/requirements
@@ -239,7 +240,7 @@ Aerospace Engineering Department, The University of Michigan, Ann Arbor, MI 4810
 + Writing a Humanities and Interdisciplinary Dissertation: 
     * Part 1: [Intro & Literature Review](http://www.ryerson.ca/content/dam/studentlearningsupport/resources/graduate-student/Writing a Humanities Dissertation Part 1.pdf).
     * Part 2: [Body, Conclusions, Abstract](http://www.ryerson.ca/content/dam/studentlearningsupport/resources/graduate-student/Writing%20a%20Humanities%20Dissertation%20Part%202.pdf).
-
++ 40 Paragraphs: http://secondlanguage.blogspot.de/p/40-paragraphs.html
 
 ## Guidelines
 __MLA or APA style?__
@@ -353,6 +354,7 @@ __MLA or APA style?__
 + WORKSHOP PAPERS: [Stage 2A - Presentations](http://web.anglia.ac.uk/anet/rido/docschl/training/Stage_2A_workbook.pdf)
 
 ## [THESIS](https://en.wikipedia.org/wiki/Thesis)
++ How to [write a dissertation in Computer Science](https://www.cs.purdue.edu/homes/comer/essay.dissertation.html) by Douglas E. Comer.
 + [Developing the Thesis or Dissertation Proposal](http://www.sagepub.com/sites/default/files/upm-binaries/14135_Chapter3.pdf)
 + [Some Thoughts on What it Takes to Produce a Good Ph.D. Thesis](https://engineering.purdue.edu/kak/HowToPhD.pdf).
 + Writing a Thesis: https://www.monash.edu/__data/assets/pdf_file/0007/145816/booklet-writing-a-thesis-in-education.pdf
