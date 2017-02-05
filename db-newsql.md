@@ -1,8 +1,4 @@
 + [CockroachDB](#cockroachdb)
-+ [NoSQL](#nosql)
-    + [GraphDB](#graphdb)
-    + [ArangoDB](#arangodb)
-
     
 ---- 
 

@@ -1,5 +1,6 @@
 + [GraphDB](#graphdb)
 + [ArangoDB](#arangodb)
++ [MongoDB](#mongodb)
 
 ----
 
@@ -19,3 +20,8 @@
 + https://www.arangodb.com/
 + https://www.arangodb.com/2016/06/arangodb-3-0-a-solid-ground-to-scale/
 + https://github.com/shekhargulati/52-technologies-in-2016/blob/master/13-arangodb/README.md
+
+----
+
+# MongoDB
++ Timeseries in Mongo: https://dev.to/riccardo_cardin/implementing-time-series-in-mongodb
