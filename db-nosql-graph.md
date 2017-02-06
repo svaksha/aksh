@@ -25,3 +25,4 @@
 
 # MongoDB
 + Timeseries in Mongo: https://dev.to/riccardo_cardin/implementing-time-series-in-mongodb
+

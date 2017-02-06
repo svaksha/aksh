@@ -16,6 +16,7 @@
 + [Scientific Research](#scientific-research)
 + [LIB](#lib)
 + [Resources](#resources)
++ [Infrastructure](#infrastructure)
 
 ----
 
@@ -269,3 +270,10 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 + https://en.wikipedia.org/wiki/PechaKucha
 + http://blogs.lse.ac.uk/impactofsocialsciences/2016/09/12/how-proximity-and-trust-are-key-factors-in-getting-research-to-feed-into-policymaking/
 + Should we cite blog posts during peer review? https://medium.com/@tpoi/should-we-cite-blog-posts-during-peer-review-20c86a6378a5#.o6deuigq1
++ http://blogs.lse.ac.uk/impactofsocialsciences/2017/02/01/disentangling-the-academic-web-what-might-have-been-learnt-from-discogs-and-imdb/
+
+----
+
+# Infrastructure
++ [Code Ocean](https://codeocean.com):: A cloud-based executable research platform that provides researchers and developers with an easy way to share, discover and run code published in academic journals and conferences.
+

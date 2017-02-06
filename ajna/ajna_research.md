@@ -24,6 +24,7 @@
 ----
 
 # ETHICS
++ Gender Equity: http://www.scienceeurope.org/wp-content/uploads/2017/01/SE_Gender_Practical-Guide.pdf
 
 ## [Academic Authorship](https://en.wikipedia.org/wiki/Academic_authorship)
 + https://www.elsevier.com/connect/co-authors-gone-bad-how-to-avoid-publishing-conflicts
