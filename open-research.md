@@ -27,6 +27,8 @@
 ----
 
 # Reproducible Computational Research
++ Daniel S. Katz, "Is software reproducibility possible and practical?", https://danielskatzblog.wordpress.com/2017/02/07/is-software-reproducibility-possible-and-practical/
++ Prof. Peng, "Reproducible Research Needs Some Limiting Principles", http://simplystatistics.org/2017/02/01/reproducible-research-limits/
 + CERN Analysis Preservation: https://github.com/cernanalysispreservation
 + Kitzes, J., Turek, D., & Deniz, F. (Eds.). (2017). The Practice of Reproducible Research: [Case Studies and Lessons from the Data-Intensive Sciences](http://www.practicereproducibleresearch.org). Oakland, CA: University of California Press.
 + Titus Brown says "[How I learned to stop worrying and love the coming archivability crisis in scientific software](http://ivory.idyll.org/blog/2017-pof-software-archivaiblity.html)".

@@ -55,7 +55,7 @@
 + Understanding ontology, epistemology & methodology: [10 tips](http://doctoralstudy.blogspot.de/2017/01/top-10-hints-for-understanding-your.html) by @Rob_MacIntosh @KDOGorman
 + The research paradigm – [methodology, epistemology & ontology – explained](http://salmapatel.co.uk/academia/the-research-paradigm-methodology-epistemology-and-ontology-explained-in-simple-language) by @salma_patel.
 + Starting a research degree? [Tips to help you get ready, get organised & get going!](https://emedia.rmit.edu.au/learninglab/sites/default/files/PG_Getting_started_research_degree_2015_Accessible.pdf).
-
++ [Top Ten Things That Every PhD Student Should Do At Least Once During Their Degree](http://www.itsnotyouitsyourdata.com/the-early-years/top-ten-things-that-every-phd-student-should-do-at-least-once-during-their-degree/)
 
 ## Advice 
 + Self-Care: https://heidirgardner.wordpress.com/2017/01/22/academic-self-care-for-phd-students-why-how/

@@ -7,6 +7,7 @@
 + [HDF5](#hdf5)
 + [MOOC](#mooc)
 + [NEWS](#news)
++ [Web](#web)
 
 ----
 
@@ -126,3 +127,8 @@
 # NEWS
 + Python is easier to learn than C/C++, http://neverworkintheory.org/2014/01/29/stefik-siebert-syntax.html
 + Neglect: https://zedshaw.com/archive/curing-pythons-neglect/
+
+----
+
+# Web
++ Web scraping: http://blog.adnansiddiqi.me/tag/scraping/
