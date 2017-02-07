@@ -52,6 +52,10 @@
     - http://www.theatlantic.com/education/archive/2016/07/why-do-so-many-graduate-students-quit/490094/
 +  Dr. Karen, http://theprofessorisin.com/
 + 2016Dec13, A confession about working weekends by Tseen Khoo, https://theresearchwhisperer.wordpress.com/2016/12/13/a-confession-about-working-weekends/
++ Understanding ontology, epistemology & methodology: [10 tips](http://doctoralstudy.blogspot.de/2017/01/top-10-hints-for-understanding-your.html) by @Rob_MacIntosh @KDOGorman
++ The research paradigm – [methodology, epistemology & ontology – explained](http://salmapatel.co.uk/academia/the-research-paradigm-methodology-epistemology-and-ontology-explained-in-simple-language) by @salma_patel.
++ Starting a research degree? [Tips to help you get ready, get organised & get going!](https://emedia.rmit.edu.au/learninglab/sites/default/files/PG_Getting_started_research_degree_2015_Accessible.pdf).
+
 
 ## Advice 
 + Self-Care: https://heidirgardner.wordpress.com/2017/01/22/academic-self-care-for-phd-students-why-how/
