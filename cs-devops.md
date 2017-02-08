@@ -10,6 +10,7 @@
    + [LibCloud](#libcloud)
    + [OCP](#ocp)
    + [Open SDN](#open-sdn)
+   + [Networking](#networking)
 + [DELL](#dell)
 + [DOCKER](#docker)
 + [Monitoring](#monitoring)
@@ -157,14 +158,17 @@ Makefile samples
 + A Python library for interacting with many of the popular cloud service providers using a unified API - can handle files on AWS, Dropbox, GoogleDrive. 
 + List of supported providers : https://libcloud.readthedocs.org/en/latest/supported_providers.html
 
-# [OCP](http://www.opencompute.org)
+## [OCP](http://www.opencompute.org)
 + http://www.opencompute.org :: The Open Compute Project (OCP) is reimagining 
 hardware, making it more efficient, flexible, and scalable.
 
-# Open SDN 
+## Open SDN 
 __An open platform for network services across a spectrum of hardware 
 in multivendor environments.__
 + https://www.opendaylight.org/
+
+## Networking
++ [Networking-Zine](http://jvns.ca/zines/#networking-ack) by @jvns.
 
 ----
 

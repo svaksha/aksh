@@ -31,6 +31,7 @@
 ----
 
 # Resources
++ Hidden gems: [14 Python libraries too good to overlook](http://www.infoworld.com/article/3164409/application-development/hidden-gems-14-python-libraries-too-good-to-overlook.html)
 + A collection of python "must reads": http://jessenoller.com/good-to-great-python-reads/
 + https://github.com/firaswehbe/data-programming-resources/blob/master/python.md
 + Python for DataScience cheatsheet, https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf
@@ -132,3 +133,8 @@
 
 # Web
 + Web scraping: http://blog.adnansiddiqi.me/tag/scraping/
+
+----
+
+# Security
++ [Python for metasploit Automation](http://www.primalsecurity.net/python-for-metasploit-automation/).

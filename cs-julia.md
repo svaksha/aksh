@@ -600,6 +600,9 @@ https://github.com/stevengj/Cubature.jl/blob/master/src/Cubature.jl
 ----
 
 # NEWS
++ Jeff Bezanson, Alan Edelman, Stefan Karpinski, and Viral B. Shah, Julia: A Fresh 
+Approach to Numerical Computing, SIAM Rev., 59(1), 65–98. (34 pages), 
+DOI:10.1137/141000671, 2017, Society for Industrial and Applied Mathematics
 + http://www.r-bloggers.com/an-r-programmer-looks-at-julia/
 + http://www.project1.com/expertise/data-science-analytics/data-science-report/item/2526-http-strataoreillycom-2012-10-matlab-r-julia-languages-for-data-analysishtml#.VcdFGaPLdOo
 + http://julialang.org/images/nyhackr.pdf
