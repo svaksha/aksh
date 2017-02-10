@@ -124,6 +124,7 @@ __NB :: Not all the DB's are freely available.__
 # DATA
 
 ## DATA-General
++ The [European Data Portal Library](https://www.europeandataportal.eu/en/training-library/library).
 + [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) :: A collection of large-scale public datasets on the Internet.
 + [common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) :: Repository for CWL Specfications.
 + [datasets](https://github.com/ali-ce/datasets) :: Original data or Aggregated / cleaned / restructured existing datasets. Released under Creative Commons Attribution-ShareAlike 4.0 International License.
