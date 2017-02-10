@@ -4,6 +4,7 @@
     + [Interview Tips](#interview-tips)
     + [Technical Preparation](#technical-preparation)
 + [RESOURCES](#resources)
+    + [JobAnalyzer](#jobanalyzer)
 + [Salary](#salary)
 
 ---- 
@@ -13,6 +14,16 @@
 + http://interviewing.io? They do interviews every Tuesday evening.
 + http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/
 + Zach Holman says that "startup interviewing is fucked" : https://zachholman.com/posts/startup-interviewing-is-fucked/
+
+### DataScientist (Vs. DataAnalyst) Vs. DataEngineer Vs. Statistician 
++ Mikhail Popov blogs about "Hiring a data scientist" for the Wikimedia Foundation, https://blog.wikimedia.org/2017/02/02/hiring-data-scientist/, February 2nd, 2017.
++ http://varianceexplained.org/r/year_data_scientist/
++ http://www.analyticsvidhya.com/blog/2015/10/job-comparison-data-scientist-data-engineer-statistician/
++ http://blog.udacity.com/2014/12/data-analyst-vs-data-scientist-vs-data-engineer.html
++ What Data Skills do hiring companies look for in a [DataScientist](http://t.dripemail2.org/c/eyJhY2NvdW50X2lkIjoiOTc2NjA4MCIsImRlbGl2ZXJ5X2lkIjoiODM2NjcyNTMiLCJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVliSFhIZFgxVmNFXHUwMDI2X19zPXR4enBvZm50OG51OGJjNHRmenp3In0)
++ https://speakerdeck.com/lanzani/getting-a-job-in-data-science
++ Advice: http://datascienceresume.com/advice/5-reasons-why-doing-kaggle-projects-won-t-help-you-create-a-stand-out-data-science-resume
++ How 2 Hire Data Scientists, http://firstround.com/review/how-to-consistently-hire-remarkable-data-scientists/
 
 ----
 
@@ -164,17 +175,23 @@ At the end of the interview, most interviewers will ask you if you have any ques
 ---- 
 
 # RESOURCES
-+ [Cracking the Coding Interview
-](http://www.ctciv6.com/)
-+ [Guide for Technical Development
-](http://www.google.com/edu/tools-and-solutions/guide-for-technical-development/index.html)
++ [Cracking the Coding Interview](http://www.ctciv6.com/)
++ [Guide for Technical Development](http://www.google.com/edu/tools-and-solutions/guide-for-technical-development/index.html)
 
 ## Books 
-+ [Introduction to Algorithms](
-http://books.google.ch/books/about/Introduction_to_Algorithms.html?id=VK9hPgAACAAJ&redir_esc=y)
++ [Introduction to Algorithms](http://books.google.ch/books/about/Introduction_to_Algorithms.html?id=VK9hPgAACAAJ&redir_esc=y)
+
+## JobAnalyzer
++ Automated Job Description Text analyzers : 
+   + [Textio](https://textio.com/)
+   + [Joblint](http://joblint.org/) and the [source code](https://github.com/rowanmanning/joblint).
 
 ----
 
 # Salary
 + Salary: https://docs.google.com/spreadsheets/u/1/d/1UnLz40Our1Ids-O0sz26uPNCF6cQjwosrZQY4VLdflU/htmlview?pli=1&sle=true#
 + https://www.thebalance.com/how-does-a-salary-range-work-1918256
+
+----
+
+

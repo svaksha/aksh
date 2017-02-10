@@ -16,6 +16,7 @@
 ----
 
 # AI
++ https://www.theguardian.com/technology/2017/feb/09/robots-taking-white-collar-jobs
 + What is artificial intelligence? A [three part definition] : http://simplystatistics.org/2017/01/19/what-is-artificial-intelligence/
 + https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors/
 + http://ai.xprize.org/
@@ -38,15 +39,6 @@
 + https://www.opendatascience.com/blog/how-to-hire-machine-learning-consultants/
 + Book, http://www.librarything.com/work/15575877
 + http://www.datasciencemasters.org
-+ Advice: http://datascienceresume.com/advice/5-reasons-why-doing-kaggle-projects-won-t-help-you-create-a-stand-out-data-science-resume
-+ How 2 Hire Data Scientists, http://firstround.com/review/how-to-consistently-hire-remarkable-data-scientists/
-
-### DataScientist (Vs. DataAnalyst) Vs. DataEngineer Vs. Statistician 
-+ http://varianceexplained.org/r/year_data_scientist/
-+ http://www.analyticsvidhya.com/blog/2015/10/job-comparison-data-scientist-data-engineer-statistician/
-+ http://blog.udacity.com/2014/12/data-analyst-vs-data-scientist-vs-data-engineer.html
-+ What Data Skills do hiring companies look for in a [DataScientist](http://t.dripemail2.org/c/eyJhY2NvdW50X2lkIjoiOTc2NjA4MCIsImRlbGl2ZXJ5X2lkIjoiODM2NjcyNTMiLCJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVliSFhIZFgxVmNFXHUwMDI2X19zPXR4enBvZm50OG51OGJjNHRmenp3In0)
-+ https://speakerdeck.com/lanzani/getting-a-job-in-data-science
 
 ----
 

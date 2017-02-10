@@ -28,6 +28,9 @@
 ## Classes
 + https://docs.python.org/3/tutorial/classes.html
 
+## Lambdas
++ http://stackoverflow.com/questions/890128/why-are-python-lambdas-useful
+
 ----
 
 # Resources

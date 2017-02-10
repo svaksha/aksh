@@ -56,6 +56,7 @@
 + The research paradigm – [methodology, epistemology & ontology – explained](http://salmapatel.co.uk/academia/the-research-paradigm-methodology-epistemology-and-ontology-explained-in-simple-language) by @salma_patel.
 + Starting a research degree? [Tips to help you get ready, get organised & get going!](https://emedia.rmit.edu.au/learninglab/sites/default/files/PG_Getting_started_research_degree_2015_Accessible.pdf).
 + [Top Ten Things That Every PhD Student Should Do At Least Once During Their Degree](http://www.itsnotyouitsyourdata.com/the-early-years/top-ten-things-that-every-phd-student-should-do-at-least-once-during-their-degree/)
++ 5 ways to fast track the impact of your PhD: http://www.fasttrackimpact.com/single-post/2017/02/08/5-ways-to-fast-track-the-impact-of-your-PhD
 
 ## Advice 
 + Self-Care: https://heidirgardner.wordpress.com/2017/01/22/academic-self-care-for-phd-students-why-how/
@@ -101,6 +102,7 @@
 ----
 
 # Guide-POSTDOC
++ Supervision Guide: http://www.academia.edu/11012266/Supervision_Guide
 + Alternatives to professorships in academia : http://www.sciencemag.org/careers/features/2016/08/alternatives-professorships-academia
 + Research Supervision Toolkit: http://api.ning.com/files/WJJnmMrgUIpJJG4tmZIJqEhXdJ9nxsFh6b7ZeBToBZiYZtgfuy9biquIsmCJtQDfY3QV7Jh04qCFAKqevk2aQk-MJQqQ*7wB/ResearchSupervisionToolkit_eBook.pdf
 + How to stand out in academic scientific research :: http://www.opiniomics.org/how-to-stand-out-in-academic-scientific-research/
@@ -131,6 +133,7 @@
 + If you can dream it, you can do it!
 + Life is not perfect, so dont be a perfectionist! Perfect is the enemy of the good!
 + (not a quote): the result from: http://myidp.sciencecareers.org/ 
++ Prioritise your passions and commitments to achieve great heights. Get acquainted with everyday developments in science, be resilient and always try to achieve something bigger.
 
 
 ----
