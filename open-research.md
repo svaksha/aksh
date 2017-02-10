@@ -152,6 +152,7 @@
 + The key to building a data science portfolio : https://www.dataquest.io/blog/build-a-data-science-portfolio/
 
 ## OpenData
++ Building a European Data Economy: https://ec.europa.eu/digital-single-market/en/building-european-data-economy
 + Report on the Research conducted by the European Data Portal: [Creating Value through Open Data](https://www.europeandataportal.eu/sites/default/files/edp_creating_value_through_open_data_0.pdf)
 + [Open Data Goldbook](https://www.europeandataportal.eu/en/providing-data/goldbook)
 + 2016Dec12, DANS-EUDAT-OpenAIRE webinar on "[FAIR Data in Trustworthy Data Repositories](http://newsletter.eudat.eu/Newsletter.ashx?action=onlinenewsletter&idnewsletter=56&guid=17&source=0&lang=en)".

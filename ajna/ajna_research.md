@@ -152,6 +152,7 @@
 + Getting started on your research reading : http://www.lib.uts.edu.au/sites/default/files/attachments/blog/Terry%20Royce%20Research%20Reading%20Presentation%20slides%20RW%202015.pdf
 + Literature review: http://intranet.ecu.edu.au/__data/assets/pdf_file/0011/20621/literature_review.pdf
 + Video explaining "Writing the [literature review chapter](https://www.youtube.com/watch?v=2cy3GJ_k4z8)". 
++ How to write a literature review: [the purpose, key elements & ways to incorporate your "voice"](https://www.uts.edu.au/sites/default/files/Writing%20a%20Literature%20Review%20(David)_0.pdf). 
 
 ## Engineering Research Paper - Question–Answer Form
 
@@ -362,6 +363,7 @@ __MLA or APA style?__
 + WORKSHOP PAPERS: [Stage 2A - Presentations](http://web.anglia.ac.uk/anet/rido/docschl/training/Stage_2A_workbook.pdf)
 
 ## [THESIS](https://en.wikipedia.org/wiki/Thesis)
++ A handout on turning your [Dissertation into a Book](http://gaylesulik.com/wp-content/uploads/2010/04/DissertationToBookCompanionHandout-8-13-12.pdf).
 + How to [write a dissertation in Computer Science](https://www.cs.purdue.edu/homes/comer/essay.dissertation.html) by Douglas E. Comer.
 + [Developing the Thesis or Dissertation Proposal](http://www.sagepub.com/sites/default/files/upm-binaries/14135_Chapter3.pdf)
 + [Some Thoughts on What it Takes to Produce a Good Ph.D. Thesis](https://engineering.purdue.edu/kak/HowToPhD.pdf).
@@ -381,6 +383,7 @@ __MLA or APA style?__
 + http://owll.massey.ac.nz/pdf/Drafting and Writing the Thesis.pdf
 + Structure of a Scholarly Manuscript: 66 Tips for What Goes Where, Kenneth L. Knight, PhD, ATC: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1318504/pdf/jathtrain00019-0011.pdf
 + Qualitative dissertation: https://au.sagepub.com/sites/default/files/upm-binaries/73876_Chapter_1.pdf
++ An excerpt from [From Dissertation to Book](http://www.press.uchicago.edu/Misc/Chicago/288463.html) by William Germano.
 
 ### [starting the PhD – write and write regularly](https://patthomson.net/2016/09/19/starting-the-phd-write-and-write-regularly/)
 
