@@ -190,6 +190,7 @@ in multivendor environments.__
 + [dockerspawner](https://github.com/jupyter/dockerspawner) :: Spawns JupyterHub user servers in Docker containers. 
 + https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/
 + https://www.linux.com/news/event/elcna/2017/why-native-docker-orchestration-best-orchestration
++ https://dev.to/derickbailey/10-myths-about-docker-that-stop-developers-cold
 
 ## docker-gitlab
 + http://doc.gitlab.com/omnibus/docker/
