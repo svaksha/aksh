@@ -161,6 +161,7 @@ Good online places to start:
 
 ## Software Design
 + What not to do if you are designing a new language: http://tetamap.wordpress.com/2012/11/13/if-i-were-to-design-a-new-programming-language/
++ https://dev.to/marcuscreo/the-4-letter-word-word-that-makes-my-blood-boil
 
 ## [Software Management](http://en.wikipedia.org/wiki/Category:Software_project_management)
 + Use Case: http://en.wikipedia.org/wiki/Use_case

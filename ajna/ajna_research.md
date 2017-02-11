@@ -110,6 +110,7 @@
 
 ## Grant Writing
 + Grant Writing Advice, http://phdtalk.blogspot.de/2016/12/grant-writing-advice.html
++ [A step-by-step guide to winning research funding](http://www.emeraldgrouppublishing.com/research/winning_funds/index.htm).
 
 ----
 

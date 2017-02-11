@@ -147,7 +147,6 @@
 
 ----
 
-
 # Data Science
 + The key to building a data science portfolio : https://www.dataquest.io/blog/build-a-data-science-portfolio/
 
