@@ -26,6 +26,7 @@
 ----
 
 # Resources
++ [Ramanujan's nested radicals](http://lukaspuettmann.com/2017/02/09/ramanujan-nested-radicals/) and other [notes](http://lukaspuettmann.com/notes/).
 + http://betterexplained.com/articles/the-rule-of-72/
 + https://github.com/rossant/awesome-math
 + http://www.youtube.com/watch?v=hE7l6Adoiiw

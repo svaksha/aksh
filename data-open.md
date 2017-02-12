@@ -123,6 +123,8 @@ __NB :: Not all the DB's are freely available.__
 
 # DATA
 
++ Payer or Prayer - A Look at [NYC’s $650 Million Property Tax Breaks Related to Religion](https://opendatascience.com/blog/payer-or-prayer-a-look-at-nycs-650-million-property-tax-breaks-related-to-religion/)
+
 ## DATA-General
 + The [European Data Portal Library](https://www.europeandataportal.eu/en/training-library/library). Their site's [source code](https://www.europeandataportal.eu/en/content/check-out-source-code-portal) is available on [gitlab](https://gitlab.com/groups/european-data-portal).
 + [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) :: A collection of large-scale public datasets on the Internet.
