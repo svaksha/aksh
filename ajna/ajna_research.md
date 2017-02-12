@@ -57,8 +57,10 @@
 + Starting a research degree? [Tips to help you get ready, get organised & get going!](https://emedia.rmit.edu.au/learninglab/sites/default/files/PG_Getting_started_research_degree_2015_Accessible.pdf).
 + [Top Ten Things That Every PhD Student Should Do At Least Once During Their Degree](http://www.itsnotyouitsyourdata.com/the-early-years/top-ten-things-that-every-phd-student-should-do-at-least-once-during-their-degree/)
 + 5 ways to fast track the impact of your PhD: http://www.fasttrackimpact.com/single-post/2017/02/08/5-ways-to-fast-track-the-impact-of-your-PhD
++ A Guide to Completing Your Dissertation : http://thesawh.org/wp-content/uploads/2012/06/Completing_Your_Dissertation.pdf
 
 ## Advice 
++ Lessons learned: 10 tips for surviving (and thriving) while completing your dissertation: http://www.cpa.ca/cpasite/UserFiles/Documents/students/Psynopsis31(2)i.pdf
 + Self-Care: https://heidirgardner.wordpress.com/2017/01/22/academic-self-care-for-phd-students-why-how/
 + Say yes in moderation: http://literallyviral.com/index.php/2017/01/15/the-one-piece-of-phd-advice-i-want-to-give-you/
 + Guide to Working With Supervisors: http://library.unimelb.edu.au/__data/assets/pdf_file/0010/1924165/Working_With_Supervisors.pdf
@@ -74,6 +76,10 @@
 + Ace that academic job interview: http://www.harzing.com/blog/2017/01/want-to-impress-at-an-academic-job-interview
 + [Managing your supervisor](http://www.cse.unsw.edu.au/~tw/manage.pdf), Toby Walsh.
 + [Getting started with your research degree](http://mams.rmit.edu.au/q1h9uqthvypf.pdf), Dr Judy Maxwell.
++ How to... guides for researchers: 
+    * [Research management](http://www.emeraldgrouppublishing.com/research/guides/management/index.htm)
+    * [Research methods and methodology](http://www.emeraldgrouppublishing.com/research/guides/methods/index.htm).
+
 
 ## Coursework - CS
 + Requirement of Cornell University: https://www.cs.cornell.edu/phd/requirements
@@ -154,6 +160,7 @@
 + Literature review: http://intranet.ecu.edu.au/__data/assets/pdf_file/0011/20621/literature_review.pdf
 + Video explaining "Writing the [literature review chapter](https://www.youtube.com/watch?v=2cy3GJ_k4z8)". 
 + How to write a literature review: [the purpose, key elements & ways to incorporate your "voice"](https://www.uts.edu.au/sites/default/files/Writing%20a%20Literature%20Review%20(David)_0.pdf). 
++ Principles and Procedures for Writing a Literature Review: http://media.capella.edu/CourseMedia/OnlineWritingCenter/interactive/litReview/litReview_outerWrapper.asp
 
 ## Engineering Research Paper - Question–Answer Form
 
@@ -230,6 +237,7 @@
 ----
 
 # THINK
++ Research dilemmas: [Paradigms, methods and methodology](http://www.iier.org.au/iier16/mackenzie.html).
 + [Critical thinking web](http://philosophy.hku.hk/think/) : An excellent online resource with over 100 online tutorials on different aspects of thinking skills that are completely free and under a Creative Commons license.
 + Chapter-1:: [Introduction : Analyzing Life](https://au.sagepub.com/sites/default/files/upm-binaries/79657_Chapter_1.pdf)
 + Chapter-3:: [Analyzing Documents, Artifacts, and Visual Materials](https://au.sagepub.com/sites/default/files/upm-binaries/79658_Chapter_3.pdf)
@@ -251,6 +259,8 @@ Aerospace Engineering Department, The University of Michigan, Ann Arbor, MI 4810
     * Part 1: [Intro & Literature Review](http://www.ryerson.ca/content/dam/studentlearningsupport/resources/graduate-student/Writing a Humanities Dissertation Part 1.pdf).
     * Part 2: [Body, Conclusions, Abstract](http://www.ryerson.ca/content/dam/studentlearningsupport/resources/graduate-student/Writing%20a%20Humanities%20Dissertation%20Part%202.pdf).
 + 40 Paragraphs: http://secondlanguage.blogspot.de/p/40-paragraphs.html
++ Writing critically: https://ltl.lincoln.ac.nz/wp-content/uploads/sites/20/2016/01/WritingCritically.pdf
++ Research Room Menu: http://www8.esc.edu/ESConline/Across_ESC/WritersComplex.nsf/wholeshortlinks2/Research+Room+Menu
 
 ## Guidelines
 __MLA or APA style?__
@@ -304,7 +314,7 @@ __MLA or APA style?__
 + [How to write paragraphs](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/how-to-write-paragraphs-80781e2f3054#.mgwnt11y5) in research texts (articles, books and PhDs).
 + How to Write a Paper: http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf
 + [Research proposals](https://academicskills.anu.edu.au/sites/default/files/handout_pdfs/Research%20proposals%20[new].pdf)
-
++ [Research Proposal Guide](http://www.academia.edu/11012312/Research_Proposal_Guide
 
 ### Paper Structure
 ##### ABSTRACT

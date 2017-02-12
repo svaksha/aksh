@@ -117,7 +117,9 @@
 ----
 
 # OpenAccess
-+ JOSS: [The Journal of Open Source Software](https://github.com/openjournals/joss), http://joss.theoj.org
++ JORS: The [Journal of Open Research Software](http://openresearchsoftware.metajnl.com/)
++ JOSS: The [Journal of Open Source Software](https://github.com/openjournals/joss), http://joss.theoj.org
++ https://lgatto.github.io/software-data-papers/
 + Björn on Why haven’t we already canceled all subscriptions? http://bjoern.brembs.net/2016/05/why-havent-we-already-canceled-all-subscriptions/
 + A peer-reviewed publication path for software that is not necessarily scientifically novel. 
 + In statistics there is the Journal of Statistical Software.
@@ -127,6 +129,8 @@
 + The [ActivePapers project](http://www.activepapers.org/) and paper: http://f1000research.com/articles/3-289/v3
 + For-Profit Journals Must End :: http://read.hipporeads.com/for-profit-journals-must-end/
 + Easy steps towards open scholarship :: http://blogs.lse.ac.uk/impactofsocialsciences/2013/05/24/easy-steps-towards-open-scholarship 
+
+#### Fraud
 + Beware! Academics are getting reeled in by scam journals: http://www.universityaffairs.ca/features/feature-article/beware-academics-getting-reeled-scam-journals/
 
 ----
@@ -151,6 +155,7 @@
 + The key to building a data science portfolio : https://www.dataquest.io/blog/build-a-data-science-portfolio/
 
 ## OpenData
++ Benefits of Open Data: https://www.europeandataportal.eu/en/using-data/benefits-of-open-data
 + Building a European Data Economy: https://ec.europa.eu/digital-single-market/en/building-european-data-economy
 + Report on the Research conducted by the European Data Portal: [Creating Value through Open Data](https://www.europeandataportal.eu/sites/default/files/edp_creating_value_through_open_data_0.pdf)
 + [Open Data Goldbook](https://www.europeandataportal.eu/en/providing-data/goldbook)

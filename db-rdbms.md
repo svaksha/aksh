@@ -13,6 +13,7 @@
 ----
 
 # SQL
++ Making Python Speak SQL with pandasql: http://www.kdnuggets.com/2017/02/python-speak-sql-pandasql.html
 + SQLite lesson for librarians: http://data-lessons.github.io/library-sql/
 
 ----
