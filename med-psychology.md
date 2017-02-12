@@ -20,6 +20,7 @@
 + [TRANSFORM YOUR HABITS](http://jamesclear.com/wp-content/uploads/2013/11/habits-v2.pdf)
 + https://hbr.org/2013/08/why-do-so-many-incompetent-men
 + There are chemical reasons why men are more self-confident: http://www.sciencedaily.com/releases/2012/03/120327215556.htm
++ A new brain study sheds light on why it can be so hard to change someone's political beliefs: http://www.vox.com/science-and-health/2016/12/28/14088992/brain-study-change-minds
 
 ----
 
