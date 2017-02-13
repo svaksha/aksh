@@ -25,6 +25,8 @@
 
 # Python3
 
++ Python: lambda, map(), reduce(), filter() :: https://analytics4all.org/2016/04/14/python-lambda-map-reduce-filter/
+
 ## Classes
 + https://docs.python.org/3/tutorial/classes.html
 

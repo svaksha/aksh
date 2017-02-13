@@ -36,6 +36,7 @@
 ----
 
 # Guide-RESEARCH
++ ENGAGE in research: [The interactive resource for bioscience students](http://www.engageinresearch.ac.uk/index.html).
 + [Becoming a Researcher](http://www-personal.umich.edu/~dsbaero/tutorials/BecomingaResearcherV1.pdf) by Dennis S. Bernstein.
 + BOOK:: [Being a Postgraduate Student](https://he.palgrave.com/resources/sample-chapters/9781403995803_sample.pdf)
 + [Prof. Philip Guo](http://pgbovine.net/PhD-memoir.htm)'s very readable book on his personal Ph.D. school experience with other useful blog posts.
@@ -99,7 +100,7 @@
 ## Scientific Procedures
 + Rules of good scientific practice, procedures, and penalties in the event of malpractice: https://www.humboldt-foundation.de/web/docs/F25752/rules_scientific_practice.pdf
 + Research Methodologies, http://onlineqda.hud.ac.uk/methodologies.php
-+ How to Research: www.mheducation.co.uk/openup/chapters/0335209033.pdf
++ How to Research: http://www.mheducation.co.uk/openup/chapters/0335209033.pdf
 
 ## Viva
 + How to examine a PhD & prepare for the viva: [what to look for & questions to ask](https://www.research.manchester.ac.uk/portal/files/31671759/FULL_TEXT.PDF)
@@ -261,6 +262,8 @@ Aerospace Engineering Department, The University of Michigan, Ann Arbor, MI 4810
 + 40 Paragraphs: http://secondlanguage.blogspot.de/p/40-paragraphs.html
 + Writing critically: https://ltl.lincoln.ac.nz/wp-content/uploads/sites/20/2016/01/WritingCritically.pdf
 + Research Room Menu: http://www8.esc.edu/ESConline/Across_ESC/WritersComplex.nsf/wholeshortlinks2/Research+Room+Menu
++ Writing a literature review: https://ltl.lincoln.ac.nz/research/writing-a-literature-review/
+
 
 ## Guidelines
 __MLA or APA style?__

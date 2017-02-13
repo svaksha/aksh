@@ -7,6 +7,7 @@
 + [MAP](#map)
 + [OOP](#oop)
 + [RANGES](#ranges)
++ [Types](#types)
 
 ----
 
@@ -236,3 +237,15 @@ julia> findin([5.2, 3.3], 3:1:20)
 
 In Julia, files are either code to be loaded by something else or code to run. Python likes to mix the two with that idiom as a quick-and-dirty form of unit testing. Python also requires '__main__' when utilizing multiprocessing (http://docs.python.org/2/library/multiprocessing.html), presumably so child processes can load global code without getting caught in infinite recursions.
 That is an anti-pattern in Julia, where you would just make a separate file full of ´@assert´ macros. See the [style guide](http://docs.julialang.org/en/latest/manual/style-guide/).
+
+----
+
+# Types
++ https://discourse.julialang.org/t/psa-new-keywords-for-defining-types/2029
+   + we now have different keywords for defining types. Here's a quick summary:
+        - immutable changes to struct
+        - type changes to mutable struct
+        - abstract changes to abstract type ... end
+        - bitstype 32 Char changes to primitive type Char 32 end
+  * The PR that did this: https://github.com/JuliaLang/julia/pull/2041851
+  * Kristoffer has a helpful script for the struct part of the change here: https://github.com/JuliaLang/julia/pull/20418#issuecomment-27720158921

@@ -39,8 +39,12 @@
 + https://github.com/PyGithub/PyGithub
 
 ## GitLab 
+
 __Python__
++ http://pyapi-gitlab.readthedocs.io/en/latest/
+    + https://docs.gitlab.com/ce/api/README.html
 + https://github.com/gpocentek/python-gitlab
+
 __Ruby__
 + https://github.com/NARKOZ/gitlab :: Ruby wrapper and CLI for GitLab REST API http://narkoz.github.io/gitlab 
 
