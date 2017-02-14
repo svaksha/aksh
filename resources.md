@@ -19,6 +19,7 @@
    + [Advice](#advice)
 * [Journals](#journals)
 * [NEWS](#news)
+* [Public Speaking](#public-speaking)
 
 ----
 
@@ -246,4 +247,8 @@ something.
 * [Brace Yourself for Large-Scale Whole Genome Sequencing](http://massgenomics.org/2014/11/brace-yourself-for-large-scale-whole-genome-sequencing.html)
 * [Trialling a pragmatic approach to clinical data disclosure](http://blogs.nature.com/scientificdata/2014/11/27/trialling-a-pragmatic-approach-to-clinical-data-disclosure/)
 
+----
+
+# Public Speaking
++ https://ltl.lincoln.ac.nz/wp-content/uploads/sites/20/2016/02/OralPresentation.pdf
 
