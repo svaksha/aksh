@@ -1,3 +1,5 @@
++ [MOM](#mom)
+    + [Hooks](#hooks)
 + [API](#api)
     + [Git](#git)
         + [GitPython](#gitpython)
@@ -11,6 +13,18 @@
 + [Rhodecode](#rhodecode)
 + [SVN](#svn)
     + [git-svn](#git-svn)
+
+----
+
+# [MOM](https://en.wikipedia.org/wiki/Message-oriented_middleware)
+
+## [Hooks](https://en.wikipedia.org/wiki/Webhook) and [Queues](https://en.wikipedia.org/wiki/Message_queuing_service)
++ https://github.com/chadlung/pywebhooks
+    + http://www.giantflyingsaucer.com/blog/?p=5666
++ https://github.com/NetEaseGame/git-webhook
++ http://stackoverflow.com/questions/14536992/how-do-i-receive-github-webhooks-in-python
++ https://www.atlassian.com/git/tutorials/git-hooks
++ https://www.atlassian.com/git/tutorials/git-hooks/conceptual-overview
 
 ----
 
@@ -70,11 +84,6 @@ __Ruby__
 + Git Intro for Librarians, http://data-lessons.github.io/library-git/
 + https://github.com/numpy/numpy/blob/master/setup.py
 + undo last commit in git: http://stackoverflow.com/questions/927358/how-to-undo-last-commits-in-git
-
-
-## Hooks
-+ https://www.atlassian.com/git/tutorials/git-hooks
-+ https://www.atlassian.com/git/tutorials/git-hooks/conceptual-overview
 
 
 ## git branching

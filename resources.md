@@ -151,6 +151,7 @@ Good online places to start:
 + https://usersearch.org/
 + http://betterexplained.com/articles/the-rule-of-72/
 + http://yourstory.com/2015/04/doormint/
++ How to do Conferences: https://automatetheboringstuff.com/how-to-do-pycon.html
 
 ----
 

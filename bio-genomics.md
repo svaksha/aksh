@@ -28,8 +28,8 @@
 
 ----
 
-# EpiGenetics 
-+ [Epigenetics](http://en.wikipedia.org/wiki/Epigenetics)
+# [EpiGenetics](http://en.wikipedia.org/wiki/Epigenetics)
++ Scientists from Israel discover gene responsible for women Infertility causing Premature Ovarian Insufficiency, [A Biallelic Mutation in the Homologous Recombination Repair Gene SPIDR Is Associated With Human Gonadal Dysgenesis](https://academic.oup.com/jcem/article/102/2/681/2972071/A-Biallelic-Mutation-in-the-Homologous).
 + Game to learn Epigenetics: [Gene Control game to learn Genetics](http://learn.genetics.utah.edu/content/epigenetics/control/), Genetic Science Learning Center, University of Utah.
 
 ### Papers

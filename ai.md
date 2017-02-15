@@ -16,10 +16,14 @@
 ----
 
 # AI
-+ https://www.theguardian.com/technology/2017/feb/09/robots-taking-white-collar-jobs
++ [Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics](http://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning) by Vincent Granville.
 + What is artificial intelligence? A [three part definition] : http://simplystatistics.org/2017/01/19/what-is-artificial-intelligence/
-+ https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors/
 + http://ai.xprize.org/
+
+### NEWS
++ https://www.theguardian.com/technology/2017/feb/09/robots-taking-white-collar-jobs
++ https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors/
++ http://www.forbes.com/sites/gilpress/2017/01/23/top-10-hot-artificial-intelligence-ai-technologies/#58639a2e42de
 
 ----
 

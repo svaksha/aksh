@@ -61,6 +61,7 @@
 + A Guide to Completing Your Dissertation : http://thesawh.org/wp-content/uploads/2012/06/Completing_Your_Dissertation.pdf
 
 ## Advice 
++ The Slow Grad Student :: [Do Less & Be Mindful](http://gradlogic.org/slow/#more-776).
 + Lessons learned: 10 tips for surviving (and thriving) while completing your dissertation: http://www.cpa.ca/cpasite/UserFiles/Documents/students/Psynopsis31(2)i.pdf
 + Self-Care: https://heidirgardner.wordpress.com/2017/01/22/academic-self-care-for-phd-students-why-how/
 + Say yes in moderation: http://literallyviral.com/index.php/2017/01/15/the-one-piece-of-phd-advice-i-want-to-give-you/
@@ -122,6 +123,7 @@
 ----
 
 # TIME MANAGEMENT
++ Taking charge: [Using personal learning plans](http://appliedecology.edu.au/wp-content/uploads/2014/04/2006_McCormack_etal_Taking_charge_using_personal_learning_plans.pdf)
 + http://www.phdcompletion.com/phd-completion-why-create-a-writing-schedule/
 + Some excellent advice on Time Management as a [Video](https://www.youtube.com/watch?v=oTugjssqOT0&ebc=ANyPxKqznHPt8tH-h6nssbneWEMegl11qJ51FGN7Wdtu9gad2SkIF1qSE-F6--s5EI_O4uzwT0TL) and as [written slides](http://www.cs.virginia.edu/helpnet/Time/time.html) by the Late. Prof. Randy Pausch.
     + Procrastination is the thief of time. 

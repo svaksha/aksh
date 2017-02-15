@@ -5,11 +5,13 @@
 + [LaTeX](#latex)
 + [Markdown](#markdown)
 + [MAT](#mat)
++ [MetaData](#metadata)
 + [Pandoc](#pandoc)
 + [RDF](#rdf)
 + [XML](#xml)
 + [Standards](#standards)
     + [MetaData](#metadata)
++ [YAML](#yaml)
 
 ----
 
@@ -138,6 +140,11 @@ Python tools:
 
 ----
 
+# [MetaData](https://en.wikipedia.org/wiki/Metadata)
++ [Tag](https://en.wikipedia.org/wiki/Tag_(metadata))
+
+----
+
 # Pandoc 
 + http://pandoc.org/demos.html
 + http://pandoc.org/
@@ -170,3 +177,10 @@ RDF == Resource Description Framework
 + https://en.wikipedia.org/wiki/Metadata_standard
 + https://en.wikipedia.org/wiki/Preservation_metadata  
 + http://pkiraly.github.io/metadata-quality-project-plan.pdf
+
+----
+
+# YAML
++ http://pyyaml.org/wiki/PyYAMLDocumentation#FrequentlyAskedQuestions
+
+----
