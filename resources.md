@@ -1,6 +1,5 @@
 + [Analytics](#analytics)
 + [Art](#art)
-+ [Citation Software](#citation-software)
 + [Documentation](#documentation)
 + [FOSS-Community](#foss-community)
 + [Life](#life)
@@ -10,9 +9,8 @@
    + [programming language](#programming language)
 + [Blogs](#blogs)
 + [Random](#random)
-+ [Software Engineering](#software-engineering)
++ [Software Engineering Management](#software-engineering-management)
    + [Software Design](#software-design)
-   + [Software Management](#software-management)
 + [Software Programming](#software-programming)
    + [Code Exercises](#code-exercises)
    + [Lists](#lists)
@@ -33,11 +31,6 @@
 # Art
 + http://www.opengraphicdesign.com/print/create-your-own-business-card/ 
 + http://www.flaticon.com/packs/business-cards
-
-----
-
-# Citation Software
-+ https://www.mediawiki.org/wiki/Citoid
 
 ----
 
@@ -155,7 +148,18 @@ Good online places to start:
 
 ----
 
-# Software Engineering
+# [Software Engineering Management](http://en.wikipedia.org/wiki/Category:Software_project_management)
+* 10 Mistakes in SRS: http://www.yegor256.com/2015/11/10/ten-mistakes-in-specs.html
+* https://hubtechinsider.wordpress.com/2011/07/28/how-do-you-write-software-requirements-what-are-software-requirements-what-is-a-software-requirement/
++ SRS: How to write a [software requirements specification](http://www.microtoolsinc.com/Howsrs.php)
++ http://www.pjsrivastava.com/articles/a-short-guide-to-writing-software-requirements
++ Use Case: http://en.wikipedia.org/wiki/Use_case
++ Algo usecase, http://www.w3.org/2005/Incubator/mmsem/wiki/Algorithm_representation_Use_case.html
++ http://en.wikipedia.org/wiki/Taxonomy
++ Info Sc. ontology, http://en.wikipedia.org/wiki/Ontology_%28information_science%29
++ Formal concept analysis: http://en.wikipedia.org/wiki/Formal_concept_analysis
+
+## Version
 + Semantic Version scheme : http://semver.org
 + NoSpec, http://www.nospec.com/faq
    + https://medium.com/@sir_castiq/how-to-exploit-a-developer-a005306d5320
@@ -164,13 +168,6 @@ Good online places to start:
 ## Software Design
 + What not to do if you are designing a new language: http://tetamap.wordpress.com/2012/11/13/if-i-were-to-design-a-new-programming-language/
 + https://dev.to/marcuscreo/the-4-letter-word-word-that-makes-my-blood-boil
-
-## [Software Management](http://en.wikipedia.org/wiki/Category:Software_project_management)
-+ Use Case: http://en.wikipedia.org/wiki/Use_case
-+ Algo usecase, http://www.w3.org/2005/Incubator/mmsem/wiki/Algorithm_representation_Use_case.html
-+ http://en.wikipedia.org/wiki/Taxonomy
-+ Info Sc. ontology, http://en.wikipedia.org/wiki/Ontology_%28information_science%29
-+ Formal concept analysis: http://en.wikipedia.org/wiki/Formal_concept_analysis
 
 ----
 

@@ -21,6 +21,7 @@
    + [Algorithms](#algorithms)
 + [NEWS](#news)
 + [Web](#web)
++ [Shell](#shell)
 
 ----
 
@@ -631,3 +632,8 @@ That should do the trick for the large majority of cases.
 
 # Web 
 + Building a Web App in Julia for DifferentialEquations.jl,  http://www.juliabloggers.com/building-a-web-app-in-julia-differentialequations-jl-online/
+
+---- 
+
+# Shell
++ SSH cluster with Julia: http://kshyatt.github.io/2016/12/06/sshcluster.html

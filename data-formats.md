@@ -149,6 +149,7 @@ Python tools:
 + http://pandoc.org/demos.html
 + http://pandoc.org/
 + http://writers.stackexchange.com/questions/9056/from-markdown-to-odt-and-vice-versa-a-possible-distraction-free-writing-workfl
++ http://stackoverflow.com/questions/30483240/can-i-set-command-line-arguments-using-the-yaml-metadata
 
 ----
 
@@ -177,10 +178,12 @@ RDF == Resource Description Framework
 + https://en.wikipedia.org/wiki/Metadata_standard
 + https://en.wikipedia.org/wiki/Preservation_metadata  
 + http://pkiraly.github.io/metadata-quality-project-plan.pdf
++ http://fletcher.github.io/MultiMarkdown-4/metadata.html
 
 ----
 
 # YAML
++ http://fletcher.github.io/MultiMarkdown-4/metadata.html
 + http://pyyaml.org/wiki/PyYAMLDocumentation#FrequentlyAskedQuestions
 
 ----
