@@ -28,6 +28,7 @@
 ----
 
 # Reproducible Computational Research
++ Comp Reproducibility dialog: contributors incl @NPRougier @khinsen @GaelVaroquaux @todd_gureckis @czzpr & more see: https://twitter.com/o_guest/status/832532349988589568
 + Daniel S. Katz, "Is software reproducibility possible and practical?", https://danielskatzblog.wordpress.com/2017/02/07/is-software-reproducibility-possible-and-practical/, [Talk Slides](http://www.slideshare.net/danielskatz/citation-and-reproducibility-in-software).
 + Prof. Peng, "Reproducible Research Needs Some Limiting Principles", http://simplystatistics.org/2017/02/01/reproducible-research-limits/
 + Git for Data Analysis – why [version control is essential for collaboration and for gaining public trust](https://blog.okfn.org/2016/11/29/git-for-data-analysis-why-version-control-is-essential-collaboration-public-trust/).

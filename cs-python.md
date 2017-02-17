@@ -50,6 +50,7 @@
 
 # Flask
 +  Flask by Example - [Implementing a Redis Task Queue](https://realpython.com/blog/python/flask-by-example-implementing-a-redis-task-queue/) :: This part of the tutorial details how to implement a Redis task queue to handle text processing.
++ Creating your first web app with Python/Flask: https://www.forbeginners.co/python/flask/creating-first-web-app-python-flask/
 
 ----
 
