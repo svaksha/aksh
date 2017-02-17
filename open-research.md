@@ -30,6 +30,7 @@
 # Reproducible Computational Research
 + Daniel S. Katz, "Is software reproducibility possible and practical?", https://danielskatzblog.wordpress.com/2017/02/07/is-software-reproducibility-possible-and-practical/, [Talk Slides](http://www.slideshare.net/danielskatz/citation-and-reproducibility-in-software).
 + Prof. Peng, "Reproducible Research Needs Some Limiting Principles", http://simplystatistics.org/2017/02/01/reproducible-research-limits/
++ Git for Data Analysis – why [version control is essential for collaboration and for gaining public trust](https://blog.okfn.org/2016/11/29/git-for-data-analysis-why-version-control-is-essential-collaboration-public-trust/).
 + CERN Analysis Preservation: https://github.com/cernanalysispreservation
 + Kitzes, J., Turek, D., & Deniz, F. (Eds.). (2017). The Practice of Reproducible Research: [Case Studies and Lessons from the Data-Intensive Sciences](http://www.practicereproducibleresearch.org). Oakland, CA: University of California Press.
 + Titus Brown says "[How I learned to stop worrying and love the coming archivability crisis in scientific software](http://ivory.idyll.org/blog/2017-pof-software-archivaiblity.html)".

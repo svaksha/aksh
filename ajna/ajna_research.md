@@ -110,6 +110,7 @@
 ----
 
 # Guide-POSTDOC
++ Eleven practices of effective postgraduate supervisors: http://melbourne-cshe.unimelb.edu.au/__data/assets/pdf_file/0004/1761502/11practices.pdf
 + Supervision Guide: http://www.academia.edu/11012266/Supervision_Guide
 + Alternatives to professorships in academia : http://www.sciencemag.org/careers/features/2016/08/alternatives-professorships-academia
 + Research Supervision Toolkit: http://api.ning.com/files/WJJnmMrgUIpJJG4tmZIJqEhXdJ9nxsFh6b7ZeBToBZiYZtgfuy9biquIsmCJtQDfY3QV7Jh04qCFAKqevk2aQk-MJQqQ*7wB/ResearchSupervisionToolkit_eBook.pdf
