@@ -6,6 +6,7 @@
 + [Druid](#druid) 
 + [OrientDB](#orientdb)
 + [Riak](#riak)
++ [ScyllaDB](scylladb)
 + [UStore](#ustore)
 ---- NewSQL Parallel DB ----
 + [H-Store](#h-store)
@@ -44,6 +45,10 @@
 ----
 
 # [Riak](https://en.wikipedia.org/wiki/Riak)
+
+----
+
+# [ScyllaDB](https://en.wikipedia.org/wiki/ScyllaDB)
 
 ----
 
