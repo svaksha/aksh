@@ -44,6 +44,7 @@
 + https://github.com/nevik/gitwatch
 + http://stackoverflow.com/questions/1456269/python-git-module-experiences
 
+
 ### GitPython
 + http://gitpython.readthedocs.io/en/stable/tutorial.html
 + python code to check git for all commits, https://www.google.de/search?q=python+code+to+check+git+for+all+commits&ie=utf-8&oe=utf-8&gws_rd=cr&ei=YmvMVr2cKoixadGxu-AK
@@ -61,6 +62,9 @@ __Python__
 
 __Ruby__
 + https://github.com/NARKOZ/gitlab :: Ruby wrapper and CLI for GitLab REST API http://narkoz.github.io/gitlab 
+
+###### Resources
++ [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out).
 
 ----
 

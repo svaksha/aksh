@@ -11,6 +11,7 @@
    + [OCP](#ocp)
    + [Open SDN](#open-sdn)
    + [Networking](#networking)
+   + [HTTPS](#https)
 + [DELL](#dell)
 + [DOCKER](#docker)
 + [Monitoring](#monitoring)
@@ -222,6 +223,11 @@ in multivendor environments.__
 + http://www.techrepublic.com/article/containers-replacements-or-alternatives-to-virtual-machines/
 + http://www.zdnet.com/article/docker-an-open-source-startup-you-need-to-know-about/
 
+
+----
+
+# HTTPS
++ [How do HTTP requests get sent to the right place?](https://jvns.ca/blog/2016/07/14/whats-sni/)
 
 ----
 
