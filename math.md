@@ -65,8 +65,9 @@
 + Curse of dimensionality, https://en.wikipedia.org/wiki/Curse_of_dimensionality
 + http://aofa.cs.princeton.edu 
 + http://ac.cs.princeton.edu
++ Don’t invert that matrix: https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/
 
-### Julia Sets+ 
+### Julia Sets
 + 2004, [Hyperbolic Julia Sets are Poly-Time Computable](http://www.cs.toronto.edu/~mbraverm/Papers/CCA04.pdf), Mark Braverman.
 + [A BRIEF INTRODUCTION TO JULIA SETS OF RATIONAL MAPS](http://new.oberlin.edu/arts-and-sciences/departments/mathematics/documents/projects/SamGhitelmanHonorsPaper.pdf), SAMUEL J. GHITELMAN
 
