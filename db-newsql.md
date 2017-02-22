@@ -14,9 +14,11 @@
 ----
 
 
-# DISTRIBUTED 
+# [DISTRIBUTED](https://en.wikipedia.org/wiki/Distributed_database) 
 + [Distributed data storage](https://en.wikipedia.org/wiki/Category:Distributed_data_stores). 
-+ Distributed DB: https://en.wikipedia.org/wiki/Distributed_database
+* https://en.wikipedia.org/wiki/Category:Free_database_management_systems
++ Howto write a simple DB, http://stackoverflow.com/questions/1052189/how-to-write-a-simple-database-engine
++ http://infolab.stanford.edu/~ullman/dscb.html#projects and http://infolab.stanford.edu/~ullman/fcdb/ito/index.html
 
 ## [Aerospike](https://en.wikipedia.org/wiki/Aerospike_database)
 

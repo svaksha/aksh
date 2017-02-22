@@ -12,12 +12,12 @@
 
 ----
 
-# ArangoDB
-+ https://www.arangodb.com/
+# [ArangoDB](https://www.arangodb.com/)
 + https://www.arangodb.com/2016/06/arangodb-3-0-a-solid-ground-to-scale/
 + https://github.com/shekhargulati/52-technologies-in-2016/blob/master/13-arangodb/README.md
 + Arango vs. MongoDB: https://www.arangodb.com/tutorials/mongodb-to-arangodb-tutorial/
-
++ CheatSheet, http://www.arangodb.org/2012/08/05/arangodb-shell-cheat-sheet
++ Try Arango online, http://www.arangodb.org/try
 
 ----
 
