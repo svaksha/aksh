@@ -1,3 +1,4 @@
++ [DB](#db)
 + [DISTRIBUTED](#distributed)
   + [Aerospike](#aerospike)
   + [Cassandra](#cassandra) 
@@ -13,12 +14,17 @@
 
 ----
 
+# DB
+* what is a nosql database learn by writing one in python, http://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/
++ Howto write a simple DB, http://stackoverflow.com/questions/1052189/how-to-write-a-simple-database-engine
++ http://infolab.stanford.edu/~ullman/dscb.html#projects 
++ http://infolab.stanford.edu/~ullman/fcdb/ito/index.html
+
+----
 
 # [DISTRIBUTED](https://en.wikipedia.org/wiki/Distributed_database) 
 + [Distributed data storage](https://en.wikipedia.org/wiki/Category:Distributed_data_stores). 
 * https://en.wikipedia.org/wiki/Category:Free_database_management_systems
-+ Howto write a simple DB, http://stackoverflow.com/questions/1052189/how-to-write-a-simple-database-engine
-+ http://infolab.stanford.edu/~ullman/dscb.html#projects and http://infolab.stanford.edu/~ullman/fcdb/ito/index.html
 
 ## [Aerospike](https://en.wikipedia.org/wiki/Aerospike_database)
 
@@ -41,7 +47,10 @@
 ## UStore
 + UStore: [A Distributed Storage With Rich Semantics](https://arxiv.org/abs/1702.02799) with a data-structure similar to that of Git.
 
+----
+
 # [NewSQL](https://en.wikipedia.org/wiki/NewSQL)
 + https://en.wikipedia.org/wiki/Parallel_database
 
-# [H-Store](https://en.wikipedia.org/wiki/H-Store)
+## [H-Store](https://en.wikipedia.org/wiki/H-Store)
++ Hstore vs. Json, https://news.ycombinator.com/item?id=5991936

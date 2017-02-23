@@ -4,11 +4,23 @@
 + [Neo4j](#neo4j)
 + [OpenCog](#opencog)
 + [Redis](#redis)
++ [SciDB](#scidb)
 
 ----
 
 + https://en.wikipedia.org/wiki/Document-oriented_database
 + How to create an RDF DB, https://www.quora.com/How-do-I-create-a-RDF-database
+
+----
+
+# Apache-Hadoop
+
+This cheat sheet presents a basic blueprint for applying MapReduce to solving large-scale, unstructured data processing problems by showing how to deploy and use an Apache Hadoop computational cluster. http://bit.ly/StartedApache
+
+This is a complement of Dzone Refcardz #43 and #103, which provides introductions to high performance computational scalability and high-volume data handling techniques, including MapReduce.
+Download Here: http://opensourceuniverse.tradepub.com/free/w_dzon04/prgm.cgi  
+
+* Also pick up the Apache HBase: The NoSQL Database for Hadoop and Big Data cheat sheet here: http://opensourceuniverse.tradepub.com/free/w_dzon07/prgm.cgi
 
 ----
 
@@ -34,6 +46,7 @@
 ----
 
 # [Neo4j](https://en.wikipedia.org/wiki/Neo4j)
++ Neo4j is a robust, high performance, scalable graph NOSQL database solving the complex, connected data challenges that enterprises face today: http://neo4j.org/
 
 ----
 
@@ -44,4 +57,15 @@ An open source artificial intelligence framework with a graph database that hold
 
 # [Redis](http://en.wikipedia.org/wiki/Redis)
 * Working with large datasets, http://news.ycombinator.com/item?id=3614706 and http://www.bigfastblog.com/how-to-get-experience-working-with-large-datasets
+
+----
+
+# SciDB
+* HDF5 to SciDB, https://groups.google.com/forum/#!topic/pydata/S3kLxyrizkI
+* HDF Vs. Pytables, http://stackoverflow.com/questions/7883646/exporting-from-importing-to-numpy-scipy-in-sqlite-and-hdf5-formats/7891137#7891137
+* http://semanticommunity.info/AOL_Government/Data_Science_Visualizations_Past_Present_and_Future
+* Check out scidb http://www.scidb.org/, a no-sql database specifically for scientific purposes, developed by Stonebraker and others. Here's a paper on a demonstration of how to use it http://people.csail.mit.edu/pcm/papers/SciDB_Demo.pdf
+* Data Duplication, Server Redundancy, and Master Failover, http://www.scidb.org/forum/viewtopic.php?f=6&t=1068
+* https://github.com/jmeehan16/whitematter/blob/master/read_me.txt
+
 
