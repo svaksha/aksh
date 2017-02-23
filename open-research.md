@@ -25,6 +25,8 @@
 + https://www.mediawiki.org/wiki/Citoid
 + 2016, Martin Fenner, et.al., A Data Citation Roadmap for Scholarly Data Repositories, DOI: https://doi.org/10.1101/097196, http://biorxiv.org/content/early/2016/12/28/097196 
 + Katz, D.S. & Smith, A.M., (2015). Transitive Credit and JSON-LD. Journal of Open Research Software. 3(1), p.e7. DOI: http://doi.org/10.5334/jors.by, http://openresearchsoftware.metajnl.com/articles/10.5334/jors.by/
++ https://en.wikipedia.org/wiki/Comparison_of_reference_management_software
++ https://en.wikipedia.org/wiki/Category:Reference_management_software
 
 ----
 

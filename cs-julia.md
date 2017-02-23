@@ -31,6 +31,10 @@
 + https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3A%22up+for+grabs%22
 + 9493 : https://github.com/JuliaLang/julia/issues/9493
 + 5840 : https://github.com/JuliaLang/julia/issues/5840
+* https://groups.google.com/forum/#!topic/julia-users/O5S8pPav5Ks
+* https://www.cs.princeton.edu/~appel/papers/memerr.pdf
+* http://homepages.mcs.vuw.ac.nz/~alex/files/MuscheviciPotaninTemperoNobleOOPSLA2008.pdf
+* http://www.cs.cmu.edu/~neelk/focusing-on-pattern-matching.pdf
 
 ----
 

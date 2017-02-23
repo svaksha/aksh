@@ -60,12 +60,20 @@ An open source artificial intelligence framework with a graph database that hold
 
 ----
 
-# SciDB
+# [SciDB](http://scidb.org)
+The array DB.
+* http://www.datanami.com/2014/04/09/array_databases:_the_next_big_thing_in_data_analytics_/
+* http://www.forbes.com/sites/petercohan/2014/02/07/paradigm4-the-next-big-thing-in-big-data/
+* http://www.odbms.org/blog/2014/04/interview-mike-stonebraker-paul-brown/
 * HDF5 to SciDB, https://groups.google.com/forum/#!topic/pydata/S3kLxyrizkI
 * HDF Vs. Pytables, http://stackoverflow.com/questions/7883646/exporting-from-importing-to-numpy-scipy-in-sqlite-and-hdf5-formats/7891137#7891137
 * http://semanticommunity.info/AOL_Government/Data_Science_Visualizations_Past_Present_and_Future
 * Check out scidb http://www.scidb.org/, a no-sql database specifically for scientific purposes, developed by Stonebraker and others. Here's a paper on a demonstration of how to use it http://people.csail.mit.edu/pcm/papers/SciDB_Demo.pdf
 * Data Duplication, Server Redundancy, and Master Failover, http://www.scidb.org/forum/viewtopic.php?f=6&t=1068
 * https://github.com/jmeehan16/whitematter/blob/master/read_me.txt
-
++ https://github.com/Paradigm4/SciDB-Py/issues/49
++ From, http://escience.washington.edu/get-help-now/get-started-scidb
+  * http://trac.scidb.org/wiki/Docs/Release_0.75/ArrayQueryLanguage_0.75
+  * http://trac.scidb.org/wiki/Docs/Release_0.75/ArrayFunctionalLanguage_0.75          
+  * http://trac.scidb.org/wiki/Docs/Release_0.75/Install_0.75
 

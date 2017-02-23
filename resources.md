@@ -158,6 +158,7 @@ Good online places to start:
 + http://en.wikipedia.org/wiki/Taxonomy
 + Info Sc. ontology, http://en.wikipedia.org/wiki/Ontology_%28information_science%29
 + Formal concept analysis: http://en.wikipedia.org/wiki/Formal_concept_analysis
++ Project Management: https://github.com/opf/openproject
 
 ## Version
 + Semantic Version scheme : http://semver.org

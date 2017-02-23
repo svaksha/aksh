@@ -3,8 +3,8 @@
     + [Software Carpentry](#software-carpentry)
     + [Data Carpentry](#data-carpentry)
 + [MOZILLA](#mozilla)
+    + [Firefox](#firefox)
 + [ORG](#org)
-+ [Project Management](#project-management)    
 + [Social Media and SNS](#social-media-and-sns)
 
 ----
@@ -46,12 +46,6 @@ __Library Management__
 
 ----
 
-# Reference Management Software
-+ https://en.wikipedia.org/wiki/Comparison_of_reference_management_software
-+ https://en.wikipedia.org/wiki/Category:Reference_management_software
-
-----
-
 # Mailman
 Create a sublist:
 + http://www.list.org/mailman-member/node29.html
@@ -75,6 +69,7 @@ Create an umbrella list
 
 ## Firefox OS
 + https://en.wikipedia.org/wiki/Category:Firefox_OS
++ Keyboard shortcuts for Firefox Productivity: https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly#w_windows-tabs
 
 ----
 
@@ -112,11 +107,6 @@ Create an umbrella list
 
 # Utilities
 + RISCOSS GitHubAnalyzer: http://riscossplatform.ow2.org/riscoss/wiki/gha/
-
-----
-
-# Project Management
-+ https://github.com/opf/openproject
 
 ----
 

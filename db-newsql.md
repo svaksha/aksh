@@ -23,8 +23,12 @@
 ----
 
 # [DISTRIBUTED](https://en.wikipedia.org/wiki/Distributed_database) 
+* http://en.wikipedia.org/wiki/Distributed_computing
 + [Distributed data storage](https://en.wikipedia.org/wiki/Category:Distributed_data_stores). 
 * https://en.wikipedia.org/wiki/Category:Free_database_management_systems
+* http://en.wikipedia.org/wiki/Clustered_file_system
+* http://en.wikipedia.org/wiki/List_of_file_systems
+* http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing
 
 ## [Aerospike](https://en.wikipedia.org/wiki/Aerospike_database)
 
