@@ -223,7 +223,7 @@ $ sudo dpkg -i /var/tmp/firmware-realtek_0.43_all.deb  # update the firmware fro
 + http://askubuntu.com/questions/240857/what-commands-will-change-my-screens-brightness
 + [Installing Image Magick on Ubuntu 14.04](https://gist.github.com/rodleviton/74e22e952bd6e7e5bee1)
 + https://github.com/ewiger/findtools
-
++ 16 commands to check hardware information on Linux: http://www.binarytides.com/linux-commands-hardware-info/
 
 ----
 
