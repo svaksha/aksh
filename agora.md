@@ -1,4 +1,4 @@
-[Agora](https://en.wikipedia.org/wiki/Agora) is an ancient Greek word for "gathering place" or "assembly", which exactly represents modern-day (un)conferences, meetings and FOSS events.
+[Agora](https://en.wikipedia.org/wiki/Agora) is an ancient Greek word for "gathering place" or "assembly", which exactly represents modern-day (un)conferences, meetings and Libre/ FOSS events.
 
 + [AGORA](#agora)
 + [Event Management](#event-management)
@@ -13,6 +13,9 @@
 ----
 
 # AGORA
+
+### Code4lib
++ http://journal.code4lib.org/call-for-submissions
 
 ### [Open Science Conference (OSC)](http://www.open-science-conference.eu/)
 +  __Info__:: Open Science Conference 2017

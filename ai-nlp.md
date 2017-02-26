@@ -40,6 +40,7 @@
 + https://deutsch.lingolia.com/en/
 + http://www.lsa.umich.edu/german/hmr/Grammatik/Gender/Gender.html
 + Passive-perfekt, http://www.nthuleen.com/teach/grammar/passiv2.html
++ http://www2.klett.de/sixcms/media.php/10/67524301_bewerbungstraining_LHB_EB.pdf
 
 ## German Dictionary
 + [GoldenDict](http://goldendict.org) :: dictionary lookup program

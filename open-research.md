@@ -15,9 +15,10 @@
     + [Data Quality](#data-quality)
     + [Retraction Error](#retraction-error)
 + [Scientific Research](#scientific-research)
-+ [LIB](#lib)
 + [Resources](#resources)
 + [Infrastructure](#infrastructure)
++ [VIDEO](#video)
++ [NEWS](#news)
 
 ----
 
@@ -266,11 +267,6 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 
 ----
 
-# LIB 
-+ http://journal.code4lib.org/call-for-submissions
-
-----
-
 # Resources
 + [LibGen](https://en.wikipedia.org/wiki/Library_Genesis), http://93.174.95.27 and [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub), http://80.82.78.170
     + http://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone
@@ -292,4 +288,15 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 
 # Infrastructure
 + [Code Ocean](https://codeocean.com):: A cloud-based executable research platform that provides researchers and developers with an easy way to share, discover and run code published in academic journals and conferences.
++ [ActivePapers](https://github.com/activepapers/activepapers-python) :: A tool for working with executable papers, which combine data, code, and documentation in single-file packages, suitable for publication as supplementary material or on sites such as figshare.
 
+----
+
+# VIDEO
++ [Databrary](https://nyu.databrary.org) :: A video data library for developmental science. Share videos, audio files, and related metadata. The source codes on [github](https://nyu.databrary.org).
+
+----
+
+# NEWS
+### Library resources
+    + http://bjoern.brembs.net/2016/12/so-your-institute-went-cold-turkey-on-publisher-x-what-now/

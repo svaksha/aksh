@@ -22,10 +22,9 @@ __NB :: Not all the DB's are freely available.__
 + [Earth Science](#earth-science)
 + [Gender Violence](#gender-violence)
 + [MACHINE LEARNING](#machine-learning)
+    + [NLP](#nlp)
 + [MATH](#math)
 + [PHYSICS](#physics)
-+ [Reproducibility](#reproducibility)
-+ [VIDEO](#video)
 
 ----
 
@@ -80,6 +79,28 @@ __NB :: Not all the DB's are freely available.__
 + The [3000 Rice Genomes Project Data](http://dx.doi.org/10.5524/200001), GigaScience Database and [Journal](http://www.gigasciencejournal.com/content/3/1/8) and [blog article in BMC](See also: http://blogs.biomedcentral.com/gigablog/2014/05/29/publish-data-fight-world-hunger/).
 + NCBI's [Sequence Read Archive (SRA)](http://www.ncbi.nlm.nih.gov/sra)
 + [DataLad](http://datalad.org) :: aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github.
++ [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) :: BLAST Assembled Genomes.
++ [Chimpanzee Genome Project](http://en.wikipedia.org/wiki/Chimpanzee_Genome_Project)
+* [DataLad](http://datalad.org) :: aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github.
+* [dbGaP](https://www.ncbi.nlm.nih.gov/gap/) :: The database of Genotypes and Phenotypes (dbGaP) was developed to archive and distribute the results of studies that have investigated the interaction of genotype and phenotype.
+* [Ensembl](http://en.wikipedia.org/wiki/Ensembl) DB.  
+* [Ensembl Genomes](http://en.wikipedia.org/wiki/Ensembl_Genomes) DB.
+* [Entrez](http://en.wikipedia.org/wiki/Entrez) DB.
+   * [Entrez Programming Utilities](https://www.ncbi.nlm.nih.gov/books/NBK25500/) Help. 
+* Genome project :: http://en.wikipedia.org/wiki/Genome_project
+* [Genome Project Database](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?DB=genomeprj)
+* [Human Genome Project](http://en.wikipedia.org/wiki/Human_genome_project)
+* [Human microbiome project](http://en.wikipedia.org/wiki/Human_microbiome_project)
+* [Neanderthal genome project](http://en.wikipedia.org/wiki/Neanderthal_genome_project)
+   - http://en.wikipedia.org/wiki/Neanderthal_extinction_hypotheses
+   - http://en.wikipedia.org/wiki/Archaic_human_admixture_with_modern_humans   
+* [NHLBI (National Heart, Lung, and Blood Institute)](http://www.nhlbi.nih.gov/research/resources/index.htm) resources, NIH (National Institutes of Health).
+* [Personal Genome Project](http://en.wikipedia.org/wiki/Personal_Genome_Project)
+* [Reactome](https://secure.wikimedia.org/wikipedia/en/wiki/Reactome) DB.
+* [RefSeqGene](https://www.ncbi.nlm.nih.gov/refseq/rsg/) defines genomic sequences to be used as reference standards for well-characterized genes and is part of the Locus Reference Genomic (LRG) Project.
+* The 3000 [Rice Genomes Project Data](http://dx.doi.org/10.5524/200001), GigaScience Database and [Journal](http://www.gigasciencejournal.com/content/3/1/8) and [blog article in BMC](See also: http://blogs.biomedcentral.com/gigablog/2014/05/29/publish-data-fight-world-hunger/).
+* [Saccharomyces Genome Database](https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database)
+* [Sequence Read Archive](http://www.ncbi.nlm.nih.gov/sra) (SRA) from NCBI and the [NCBI Genebank](https://www.ncbi.nlm.nih.gov/genbank/).
 
 ### Worms, Virus, Nematodes
 + The central [MANUELA database](http://www.marbef.org/projects/Manuela/data.php), a.k.a. _M_eiobenthic _A_nd _N_ematode biodiversity _U_nravelling _E_cological and _L_atitudinal _A_spects database is compiled by capturing the available data on meiobenthos on a broad European scale.
@@ -97,12 +118,15 @@ __NB :: Not all the DB's are freely available.__
 
 ## Molecular Biology
 + [SASBDB](http://www.sasbdb.org/) ::Small Angle Scattering Biological Data Bank.
++ http://www.embl-hamburg.de/biosaxs/
++ http://www.embl-hamburg.de/biosaxs/software.html
 
 ## Neuroscience
 + [Codeneuro-Datasets](https://github.com/codeneuro/datasets) :: Shared data sets for collaborating, testing, and benchmarking.
 + [Neuroscience Databases](http://en.wikipedia.org/wiki/List_of_neuroscience_databases) list.
 + [NeuroVault](http://neurovault.org/) :: A  web database for human brain statistical maps, atlases and parcellation maps that researchers can publicly store and share their unthresholded statistical maps produced by MRI and PET studies. [Source code](https://github.com/NeuroVault/NeuroVault).
 + [OpenfMRI.org](https://openfmri.org) :: A project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
+
 
 ## Pharma
 + [Open PHACTS](http://www.openphacts.org) search service.
@@ -134,12 +158,18 @@ __NB :: Not all the DB's are freely available.__
 + [Wikidata](https://www.wikidata.org/) :: A free linked database that acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wikisource, and others, that can be read and edited by both humans and machines.
    + [SPARQL endpoints to Wikidata](https://www.wikidata.org/wiki/Wikidata:Data_access#SPARQL_endpoints) with a [general introduction](http://www.slideshare.net/_Emw/an-ambitious-wikidata-tutorial) to Wikidata and its data model.
 + [World Bank Open Data](http://data.worldbank.org) :: Free and open access to data about development in countries around the globe.
++ [Decision trees](http://www.cs.carleton.edu/faculty/dmusican/cs321s10/decisiontree.html). 
 
 ## DATA-Research
 + [Registry of Research Data Repositories](http://www.re3data.org/) :: provides researchers, funding organisations, libraries and publishers with over 1,000 listed research data repositories from all over the world making it the largest and most comprehensive online catalog of research data repositories on the web.
++ https://schema.datacite.org/
++ http://www.researchobject.org/
++ http://wf4ever.github.io/ro-primer/
++ https://databasin.org/datasets/
 
 ## DATA-Scientific
 + [Scientific Databases](http://en.wikipedia.org/wiki/Category:Scientific_databases) list on WP.
++ [Chemical DB](http://en.wikipedia.org/wiki/Category:Chemical_databases) list on WP.
 
 ----
 
@@ -156,6 +186,9 @@ __NB :: Not all the DB's are freely available.__
 # MACHINE LEARNING
 + [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 
+## NLP
++ Free CORPUS: http://www.cs.pitt.edu/mpqa/
+
 ----
 
 # MATH
@@ -166,12 +199,3 @@ __NB :: Not all the DB's are freely available.__
 # PHYSICS
 + [CERN OpenData](http://opendata.cern.ch/) Portal.
 
-----
-
-# Reproducibility
-+ [ActivePapers](https://github.com/activepapers/activepapers-python) :: A tool for working with executable papers, which combine data, code, and documentation in single-file packages, suitable for publication as supplementary material or on sites such as figshare.
-
-----
-
-# VIDEO
-+ [Databrary](https://nyu.databrary.org) :: A video data library for developmental science. Share videos, audio files, and related metadata. The source codes on [github](https://nyu.databrary.org).
