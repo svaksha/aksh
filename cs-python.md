@@ -63,10 +63,6 @@
 + [flask-swagger](https://github.com/gangverk/flask-swagger) :: Flask-swagger provides a method (swagger) that inspects the Flask app for endpoints that contain YAML docstrings with Swagger 2.0 Operation objects.
 + [Flask-Fixtures](https://github.com/croach/Flask-Fixtures] :: A simple library for adding database fixtures for unit tests using nothing but JSON or YAML.
  
-----
-
-# NLP
-+ http://NLTK.org
 
 ----
 

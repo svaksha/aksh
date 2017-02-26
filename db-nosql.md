@@ -42,6 +42,7 @@ Download Here: http://opensourceuniverse.tradepub.com/free/w_dzon04/prgm.cgi
 
 # MongoDB
 + Timeseries in Mongo: https://dev.to/riccardo_cardin/implementing-time-series-in-mongodb
++ http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/
 
 ----
 

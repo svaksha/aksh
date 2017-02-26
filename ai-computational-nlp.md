@@ -1,8 +1,8 @@
-+ [DATA](#data)
-    + [German](#german)
 + [grammar-parser](#grammar-parser)
 + [Grammar-German](#grammar-german)
 + [Grammar-Samskrit](#grammar-samskrit)
++ [Grammar-Tamil](#grammar-tamil)
++ [Machine Translation](#machine-translation)
 + [NLP](#nlp)
 + [Pub-NLP](#pub-nlp)
 + [Pub-Semantic](#semantic)
@@ -16,19 +16,6 @@
 
 + https://en.wikipedia.org/wiki/Languages_of_India
 + https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers_in_India
-+ Tamil: https://en.wikipedia.org/wiki/Tamil_language
-
-----
-
-# DATA 
-
-## Dictionary
-+ [GoldenDict](http://goldendict.org) :: dictionary lookup program
-+ http://softwarerecs.stackexchange.com/questions/19693/offline-english-german-dictionary-for-gnu-linux
-
-## German 
-+ https://sourceforge.net/projects/germandict/files/
-+ http://german.stackexchange.com/questions/491/where-can-i-find-a-parsable-list-of-german-words
 
 ----
 
@@ -53,6 +40,12 @@
 + https://deutsch.lingolia.com/en/
 + http://www.lsa.umich.edu/german/hmr/Grammatik/Gender/Gender.html
 + Passive-perfekt, http://www.nthuleen.com/teach/grammar/passiv2.html
+
+## German Dictionary
++ [GoldenDict](http://goldendict.org) :: dictionary lookup program
++ https://sourceforge.net/projects/germandict/files/
++ http://german.stackexchange.com/questions/491/where-can-i-find-a-parsable-list-of-german-words
++ http://softwarerecs.stackexchange.com/questions/19693/offline-english-german-dictionary-for-gnu-linux
 
 ----
 
@@ -84,7 +77,6 @@
 + [NLP, A Paninian perspective](http://ltrc.iiit.ac.in/downloads/nlpbook/nlp-panini.pdf).
 + [Toward a Global Science: Mining Civilizational Knowledge](http://books.google.co.in/books?id=SI5ip95BbgEC&pg=PA126&dq=Virahanka+Fibonacci&hl=en#v=onepage&q&f=false) By Susantha Goonatilake.
 
-
 ## SA-Papers
 + [A Deterministic Dependency Parser with Dynamic Programming for Sanskrit](http://www.aclweb.org/anthology/W13-3718), Amba Kulkarni, Department of Sanskrit Studies, University of Hyderabad, <apksh@uohyd.ernet.in>. Proceedings of the Second International Conference on Dependency Linguistics (DepLing 2013), pages 157–166, Prague, August 27–30, 2013; Charles University in Prague, Matfyzpress, Prague, Czech Republic.
 + [Parsing Sanskrit texts: Some relation speciﬁcissues](http://www.academia.edu/2683988/Parsing_Sanskrit_texts_Some_relation_specific_issues)
@@ -92,15 +84,61 @@
 
 ----
 
+# Grammar-[Tamil](https://en.wikipedia.org/wiki/Tamil_language)
+
+
+----
+
+# Machine Translation
++ https://en.wikipedia.org/wiki/Statistical_machine_translation
++ https://en.wikipedia.org/wiki/Apertium
++ https://en.wikipedia.org/wiki/Anusaaraka
++ https://en.wikipedia.org/wiki/OpenLogos, http://logos-os.dfki.de/#mozTocId415559
+
+----
+
 # NLP 
++ http://NLTK.org
 + [An Introduction to Natural Language Processing](https://www.opendatascience.com/blog/an-introduction-to-natural-language-processing/) that introduces text based machine learning techniques (ex. N-grams, corpus,..) inorder to do text classification and analysis.
 
 ### Parsing
 + https://en.wikipedia.org/wiki/Shallow_parsing
 
+
+## Sentiment Analysis
++ Front End Resources: 
+    + [Ajax Hacks](http://webmasters.stackexchange.com/questions/22338/why-not-ajaxify-entire-websites)
++ Back End Resources:
+    + http://www.elasticsearch.org/guide/reference/river/
+    + https://dev.twitter.com/programs/twitter-certified-products/products
+
+### NLTK
+* NLTK trainer, https://bitbucket.org/japerk/nltk-trainer/src
+* https://github.com/marcua/tweeql/
+* http://streamhacker.com/2010/10/25/training-binary-text-classifiers-nltk-trainer/
+* http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
+
+
+### Software
++ http://spaceandtim.es/opennews/broca
++ https://github.com/ftzeng/broca
++ Automated Job Description Text analyzers : 
+   + [Textio](https://textio.com/)
+   + [Joblint](http://joblint.org/) and the [source code](https://github.com/rowanmanning/joblint).
+
+
 ----
 
 # Pub-NLP
++ A topic modeling paper is Latent Dirichlet Allocation by Blei.
++ https://mitpress.mit.edu/books/introduction-algorithms
++ http://www.amazon.com/The-Art-Computer-Programming-Vol/dp/0201896834
++ G. Bordogna, M. Pagani, and G. Pasi, Soft Computing for Information Retrieval on the Web. Springer Verlag, 2006.
++ Indurkhya, N., and Damerau, F. Handbook Of Natural Language Processing, 2nd Edition CRC 2010
++ Sebastiani, (2002) Machine learning in automated text categorization, ACM Computing Surveys, 34 (1), 1-47.
++ On The Use of Fuzzy Rules to Text Document Classification: Tatiane M. Nogueira, Solange O. Rezende, Heloisa A. Camargo
++ A fuzzy approach to classifying text documents, Liu , Song.
++ http://www.nltk.org/book/ch06.html
 + 2016, Yoav Goldberg, "A Primer on Neural Network Models for Natural Language Processing", Volume 57, pages 345-420, http://www.jair.org/papers/paper4992.html
 + Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks : http://www.aclweb.org/anthology/P15-1150
 + 2015, [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://www.aclweb.org/anthology/P15-1150).
@@ -183,3 +221,5 @@
 + https://en.wikipedia.org/wiki/SPARQL
 
 ----
+
+
