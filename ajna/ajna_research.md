@@ -119,6 +119,7 @@
 + Right Your Writing: [How to Sharpen Your Writing and Make Your Manuscripts More Engaging](http://postdocs.stanford.edu/education/PDFs/2013-14_PDAC5.pdf)
 
 ## Grant Writing
++ [Resubmitting a grant application](https://theresearchwhisperer.wordpress.com/2017/02/28/resubmission/)? You really need to read @jod999's advice.
 + Grant Writing Advice, http://phdtalk.blogspot.de/2016/12/grant-writing-advice.html
 + [A step-by-step guide to winning research funding](http://www.emeraldgrouppublishing.com/research/winning_funds/index.htm).
 
