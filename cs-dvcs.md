@@ -191,6 +191,8 @@ __CE: MIT Licence__
 + https://about.gitlab.com/2016/01/25/future-front-end-development/
 + https://www.metod.io/en/blog/2016/02/09/using-gitlab-ci-build-javascript-frontend-application/
 
+## Runners
++ http://stackoverflow.com/questions/28945471/how-to-run-multiple-gitlab-ci-runners/35917226
 
 ## Mail
 + SMTP : https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
