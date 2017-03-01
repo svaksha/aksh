@@ -131,6 +131,7 @@
 + JOSS: The [Journal of Open Source Software](https://github.com/openjournals/joss), http://joss.theoj.org
 + https://lgatto.github.io/software-data-papers/
 + Björn on Why haven’t we already canceled all subscriptions? http://bjoern.brembs.net/2016/05/why-havent-we-already-canceled-all-subscriptions/
++ An OpenAccess Journal of [Society for Neuroscience](http://eneuro.sfn.org/types.html)
 + A peer-reviewed publication path for software that is not necessarily scientifically novel. 
 + In statistics there is the Journal of Statistical Software.
 + In neuroscience/imaging there are things like the Insight Journal and the "Frontiers in..." imprints which have software-specific tracks.
