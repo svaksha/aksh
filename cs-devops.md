@@ -1,5 +1,6 @@
 + [AMQP](#amqp)
 + [Automation](#automation)
+    + [ansible](#ansible)
     + [Makefile](#makefile)
 + [AWS](#aws)
 + [CONFIG](#config)
@@ -46,7 +47,6 @@
 + Celery, https://github.com/celery/celery
 + http://docs.celeryproject.org/en/latest/getting-started/first-steps-with-celery.html#rabbitmq
 
-
 ## ZeroMQ
 + ZeroMQ, https://github.com/zeromq/pyzmq
 + http://zeromq.org/intro:get-the-software
@@ -76,6 +76,7 @@
 ## Makefile
 Makefile samples
 + https://github.com/tlnagy/dotfiles/blob/master/Makefile
++ http://www.jonzelner.net/statistics/make/reproducibility/2016/06/01/makefiles/
 
 ## Chef 
 (.rb)
