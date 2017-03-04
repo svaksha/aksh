@@ -10,6 +10,7 @@
     + [BiGit](#bigit)
 + [GitLab](#gitlab)
     + [Frontend](#frontend)
+    + [CI-Runners](#ci-runners)
 + [Rhodecode](#rhodecode)
 + [SVN](#svn)
     + [git-svn](#git-svn)
@@ -169,13 +170,6 @@ __Ruby__
 
 ----
 
-# [Rhodecode](https://rhodecode.com)
-__AGPL Licence__
-+ https://rhodecode.com/open-source
-+ Code: https://code.rhodecode.com/
-+ https://rhodecode.com/blog/113/rhodecode-goes-open-source-unified-security-for-git-svn-mercurial
-
-----
 
 # GitLab
 __CE: MIT Licence__
@@ -191,8 +185,9 @@ __CE: MIT Licence__
 + https://about.gitlab.com/2016/01/25/future-front-end-development/
 + https://www.metod.io/en/blog/2016/02/09/using-gitlab-ci-build-javascript-frontend-application/
 
-## Runners
+## CI-Runners
 + http://stackoverflow.com/questions/28945471/how-to-run-multiple-gitlab-ci-runners/35917226
++ Bringing it all together with GitLab CI: http://www.jonzelner.net/docker/gitlab/ci/reproducibility/2016/06/06/gitlab-ci/
 
 ## Mail
 + SMTP : https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
@@ -204,7 +199,7 @@ __CE: MIT Licence__
  
 
 ## CE
-+ + Download the gitlab version for [Debian-8, Jessie](https://about.gitlab.com/downloads/#debian8).
++ Download the gitlab version for [Debian-8, Jessie](https://about.gitlab.com/downloads/#debian8).
 + Allow hierarchical ordering of Groups {Team-1::Project-1,Project-2} {Team-1::Project-1,Project-2} : https://gitlab.com/gitlab-org/gitlab-ce/issues/2772
 
 ### Documentation
@@ -227,5 +222,11 @@ __CE: MIT Licence__
 + http://git.or.cz/course/svn.html
 + https://help.github.com/articles/importing-from-subversion/
 
+----
 
+# [Rhodecode](https://rhodecode.com)
+__AGPL Licence__
++ https://rhodecode.com/open-source
++ Code: https://code.rhodecode.com/
++ https://rhodecode.com/blog/113/rhodecode-goes-open-source-unified-security-for-git-svn-mercurial
 
