@@ -1,13 +1,11 @@
 + [Python3](#python3)
 + [Packaging](#packaging)
-+ [Resources](#resources)
 + [Anaconda](#anaconda)
-+ [Flask](#flask)
 + [NLP](#nlp)
 + [HDF5](#hdf5)
 + [MOOC](#mooc)
 + [NEWS](#news)
-+ [Web](#web)
++ [Resources](#resources)
 
 ----
 
@@ -35,34 +33,8 @@
 
 ----
 
-# Resources
-+ Hidden gems: [14 Python libraries too good to overlook](http://www.infoworld.com/article/3164409/application-development/hidden-gems-14-python-libraries-too-good-to-overlook.html)
-+ A collection of python "must reads": http://jessenoller.com/good-to-great-python-reads/
-+ https://github.com/firaswehbe/data-programming-resources/blob/master/python.md
-+ Python for DataScience cheatsheet, https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf
-
-----
-
 # Anaconda
 + http://conda.pydata.org/docs/using/envs.html
-
-----
-
-# Flask
-+ https://www.quora.com/What-are-best-resources-to-learn-Flask
-+ Flask by Example - [Implementing a Redis Task Queue](https://realpython.com/blog/python/flask-by-example-implementing-a-redis-task-queue/) :: This part of the tutorial details how to implement a Redis task queue to handle text processing.
-+ Creating your first web app with Python/Flask: https://www.forbeginners.co/python/flask/creating-first-web-app-python-flask/
-+ http://flask.pocoo.org/docs/0.12/patterns/fileuploads/
-+ Configuration Handling: http://flask.pocoo.org/docs/0.12/config/
-+ Wrapper for passing [command-line flags](http://flask.pocoo.org/snippets/133/) to `app.run()` in Flask.
-+ [Flask-Script](https://flask-script.readthedocs.io/en/latest/) extension provides support for writing external scripts in Flask. This includes running a development server, a customised Python shell, scripts to set up your database, cronjobs, and other command-line tasks that belong outside the web application itself.
-+ [Emails](https://pythonhosted.org/flask-mail/), [documentation](https://flask-mail.readthedocs.io/en/latest/).
-
-
-## YAML
-+ [flask-swagger](https://github.com/gangverk/flask-swagger) :: Flask-swagger provides a method (swagger) that inspects the Flask app for endpoints that contain YAML docstrings with Swagger 2.0 Operation objects.
-+ [Flask-Fixtures](https://github.com/croach/Flask-Fixtures] :: A simple library for adding database fixtures for unit tests using nothing but JSON or YAML.
- 
 
 ----
 
@@ -144,10 +116,9 @@
 
 ----
 
-# Web
-+ Web scraping: http://blog.adnansiddiqi.me/tag/scraping/
+# Resources
++ Hidden gems: [14 Python libraries too good to overlook](http://www.infoworld.com/article/3164409/application-development/hidden-gems-14-python-libraries-too-good-to-overlook.html)
++ A collection of python "must reads": http://jessenoller.com/good-to-great-python-reads/
++ https://github.com/firaswehbe/data-programming-resources/blob/master/python.md
++ Python for DataScience cheatsheet, https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf
 
-----
-
-# Security
-+ [Python for metasploit Automation](http://www.primalsecurity.net/python-for-metasploit-automation/).
