@@ -15,6 +15,7 @@
 ----
 
 # Flask
++ PDF: https://www.tutorialspoint.com/flask/flask_tutorial.pdf
 + Video of Python Tutorial: Creating Web Sites using Python and Flask:: https://www.youtube.com/watch?v=M1IVwFAH9Wo
 + https://www.quora.com/What-are-best-resources-to-learn-Flask
 + Flask by Example - [Implementing a Redis Task Queue](https://realpython.com/blog/python/flask-by-example-implementing-a-redis-task-queue/) :: This part of the tutorial details how to implement a Redis task queue to handle text processing.
