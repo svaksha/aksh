@@ -25,7 +25,7 @@
 + Wrapper for passing [command-line flags](http://flask.pocoo.org/snippets/133/) to `app.run()` in Flask.
 + [Flask-Script](https://flask-script.readthedocs.io/en/latest/) extension provides support for writing external scripts in Flask. This includes running a development server, a customised Python shell, scripts to set up your database, cronjobs, and other command-line tasks that belong outside the web application itself.
 + [Emails](https://pythonhosted.org/flask-mail/), [documentation](https://flask-mail.readthedocs.io/en/latest/).
-
++ http://pythonhow.com/your-first-flask-website
 
 ## YAML
 + [flask-swagger](https://github.com/gangverk/flask-swagger) :: Flask-swagger provides a method (swagger) that inspects the Flask app for endpoints that contain YAML docstrings with Swagger 2.0 Operation objects.
