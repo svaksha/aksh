@@ -186,6 +186,7 @@ __CE: MIT Licence__
 + https://www.metod.io/en/blog/2016/02/09/using-gitlab-ci-build-javascript-frontend-application/
 
 ## CI-Runners
++ https://docs.gitlab.com/ce/ci/runners/README.html
 + http://stackoverflow.com/questions/28945471/how-to-run-multiple-gitlab-ci-runners/35917226
 + Bringing it all together with GitLab CI: http://www.jonzelner.net/docker/gitlab/ci/reproducibility/2016/06/06/gitlab-ci/
 

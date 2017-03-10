@@ -78,14 +78,14 @@ $ git commit
 ----
 
 # ELAN
-+ A ruby library for handling ELAN files:: [MExiCo](https://github.com/sfb673/mexico) (short for "Multimodal Experiment Corpora") is a library for the modeling and management of large, heterogeneous data collections from the field of linguistics, psycholinguistics, and related disciplines. Its central organising unit is the Corpus class which allows researchers to bundle resources from an experiment with related background data, conceptual data, and metadata.
++ A ruby package to handle ELAN files:: [MExiCo](https://github.com/sfb673/mexico) (short for "Multimodal Experiment Corpora") is a library for the modeling and management of large, heterogeneous data collections from the field of linguistics, psycholinguistics, and related disciplines. Its central organising unit is the Corpus class which allows researchers to bundle resources from an experiment with related background data, conceptual data, and metadata.
 + https://tla.mpi.nl/tools/tla-tools/elan/
-Python tools:
+
+#### Python packages
 + Pympi, https://github.com/dopefishh/pympi
    + http://dopefishh.github.io/pympi/Elan.html
 + https://github.com/cidles/poio-api   
-
-* ramin yaghoubzadeh python ELAN library
++ ramin yaghoubzadeh python ELAN library
  
 
 ----
