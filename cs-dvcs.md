@@ -6,11 +6,11 @@
     + [GitHub](#github)
     + [GitLab](#gitlab)
 + [CI git](#ci-git)
+    + [CI-Runners](#ci-runners)
 + [GIT](#git)
     + [BiGit](#bigit)
 + [GitLab](#gitlab)
     + [Frontend](#frontend)
-    + [CI-Runners](#ci-runners)
 + [Rhodecode](#rhodecode)
 + [SVN](#svn)
     + [git-svn](#git-svn)
@@ -70,7 +70,25 @@ __Ruby__
 ----
 
 # CI git 
+## CI-Runners
++ https://docs.gitlab.com/ce/ci/quick_start/README.html
++ https://docs.gitlab.com/ce/ci/runners/README.html
++ https://docs.gitlab.com/ee/administration/custom_hooks.html
++ http://stackoverflow.com/questions/28945471/how-to-run-multiple-gitlab-ci-runners/35917226
++ Bringing it all together with GitLab CI: http://www.jonzelner.net/docker/gitlab/ci/reproducibility/2016/06/06/gitlab-ci/
 + CI with git: https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful/
++ https://docs.gitlab.com/ce/ci/yaml/README.html
+
+### Git-Hooks
++ https://www.atlassian.com/git/tutorials/git-hooks
++ http://www.systutorials.com/1473/setting-up-git-commit-email-notification/
++ http://stackoverflow.com/questions/552360/git-hook-to-send-email-notification-on-repo-changes
++ https://bdhacker.wordpress.com/2012/01/16/send-commit-emails-after-users-push-in-remote-git-repositoryserver/
+
++ https://git-scm.com/docs/githooks 
++ https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
++ http://stackoverflow.com/questions/2141492/git-clone-and-post-checkout-hook
+
 
 ----
 
@@ -153,16 +171,6 @@ __Ruby__
 + http://jnthn.net/training/git/exercises.pdf
 + http://www.tkt.cs.tut.fi/training/git-opetus/web/git-exercise.htm
 
-### Git-Hooks
-+ https://www.atlassian.com/git/tutorials/git-hooks
-+ http://www.systutorials.com/1473/setting-up-git-commit-email-notification/
-+ http://stackoverflow.com/questions/552360/git-hook-to-send-email-notification-on-repo-changes
-+ https://bdhacker.wordpress.com/2012/01/16/send-commit-emails-after-users-push-in-remote-git-repositoryserver/
-
-+ https://git-scm.com/docs/githooks 
-+ https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
-+ http://stackoverflow.com/questions/2141492/git-clone-and-post-checkout-hook
-
 ## BiGit
 + [Handling large media files in Git](https://github.com/alebedev/git-media).
 + [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
@@ -184,11 +192,6 @@ __CE: MIT Licence__
 + https://about.gitlab.com/applications/
 + https://about.gitlab.com/2016/01/25/future-front-end-development/
 + https://www.metod.io/en/blog/2016/02/09/using-gitlab-ci-build-javascript-frontend-application/
-
-## CI-Runners
-+ https://docs.gitlab.com/ce/ci/runners/README.html
-+ http://stackoverflow.com/questions/28945471/how-to-run-multiple-gitlab-ci-runners/35917226
-+ Bringing it all together with GitLab CI: http://www.jonzelner.net/docker/gitlab/ci/reproducibility/2016/06/06/gitlab-ci/
 
 ## Mail
 + SMTP : https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
