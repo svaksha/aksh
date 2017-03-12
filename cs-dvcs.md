@@ -5,8 +5,9 @@
         + [GitPython](#gitpython)
     + [GitHub](#github)
     + [GitLab](#gitlab)
-+ [CI git](#ci-git)
++ [CI Hooks](#ci-hooks)
     + [CI-Runners](#ci-runners)
+    + [WebHooks](#webhooks)
 + [GIT](#git)
     + [BiGit](#bigit)
 + [GitLab](#gitlab)
@@ -79,7 +80,8 @@ __Ruby__
 + CI with git: https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful/
 + https://docs.gitlab.com/ce/ci/yaml/README.html
 
-### Git-Hooks
+## WebHooks
+* https://gitlab.com/help/user/project/integrations/webhooks.md
 + https://www.atlassian.com/git/tutorials/git-hooks
 + http://www.systutorials.com/1473/setting-up-git-commit-email-notification/
 + http://stackoverflow.com/questions/552360/git-hook-to-send-email-notification-on-repo-changes
@@ -88,7 +90,6 @@ __Ruby__
 + https://git-scm.com/docs/githooks 
 + https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
 + http://stackoverflow.com/questions/2141492/git-clone-and-post-checkout-hook
-
 
 ----
 
