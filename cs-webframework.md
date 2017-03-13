@@ -20,12 +20,15 @@
 + https://www.quora.com/What-are-best-resources-to-learn-Flask
 + Flask by Example - [Implementing a Redis Task Queue](https://realpython.com/blog/python/flask-by-example-implementing-a-redis-task-queue/) :: This part of the tutorial details how to implement a Redis task queue to handle text processing.
 + Creating your first web app with Python/Flask: https://www.forbeginners.co/python/flask/creating-first-web-app-python-flask/
-+ http://flask.pocoo.org/docs/0.12/patterns/fileuploads/
-+ Configuration Handling: http://flask.pocoo.org/docs/0.12/config/
-+ Wrapper for passing [command-line flags](http://flask.pocoo.org/snippets/133/) to `app.run()` in Flask.
 + [Flask-Script](https://flask-script.readthedocs.io/en/latest/) extension provides support for writing external scripts in Flask. This includes running a development server, a customised Python shell, scripts to set up your database, cronjobs, and other command-line tasks that belong outside the web application itself.
 + [Emails](https://pythonhosted.org/flask-mail/), [documentation](https://flask-mail.readthedocs.io/en/latest/).
 + http://pythonhow.com/your-first-flask-website
+
+## Docs
++ http://flask.pocoo.org/docs/0.12/patterns/fileuploads/
++ Configuration Handling: http://flask.pocoo.org/docs/0.12/config/
++ Wrapper for passing [command-line flags](http://flask.pocoo.org/snippets/133/) to `app.run()` in Flask.
++ http://flask.pocoo.org/docs/0.12/patterns/urlprocessors/
 
 ## YAML
 + [flask-swagger](https://github.com/gangverk/flask-swagger) :: Flask-swagger provides a method (swagger) that inspects the Flask app for endpoints that contain YAML docstrings with Swagger 2.0 Operation objects.
