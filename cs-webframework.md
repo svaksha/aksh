@@ -25,6 +25,7 @@
 + http://pythonhow.com/your-first-flask-website
 
 ## Docs
++ http://flask.pocoo.org/docs/0.12/quickstart/
 + http://flask.pocoo.org/docs/0.12/patterns/fileuploads/
 + Configuration Handling: http://flask.pocoo.org/docs/0.12/config/
 + Wrapper for passing [command-line flags](http://flask.pocoo.org/snippets/133/) to `app.run()` in Flask.
