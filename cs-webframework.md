@@ -30,6 +30,7 @@
 + Configuration Handling: http://flask.pocoo.org/docs/0.12/config/
 + Wrapper for passing [command-line flags](http://flask.pocoo.org/snippets/133/) to `app.run()` in Flask.
 + http://flask.pocoo.org/docs/0.12/patterns/urlprocessors/
++ https://realpython.com/blog/python/introduction-to-flask-part-2-creating-a-login-page/
 
 ## YAML
 + [flask-swagger](https://github.com/gangverk/flask-swagger) :: Flask-swagger provides a method (swagger) that inspects the Flask app for endpoints that contain YAML docstrings with Swagger 2.0 Operation objects.
