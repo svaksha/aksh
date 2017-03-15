@@ -1,4 +1,5 @@
 + [Algorithms](#algorithms)
++ [Inkscape](#inkscape)
 + [3D Libs](#3d-libs)
 + [DPI](#dpi)
 + [File Formats](#file-formats)
@@ -14,6 +15,14 @@
 + [Visual Computing](https://en.wikipedia.org/wiki/Visual_Computing)
 + https://en.wikipedia.org/wiki/Category:Computer_vision
 + http://en.wikipedia.org/wiki/Category:Free_data_visualization_software
+
+----
+
+# Inkscape
++ http://libregraphicsworld.org/blog/entry/using-templates-in-inkscape
++ http://wiki.inkscape.org/wiki/index.php/Tricks_and_tips
++ https://commons.wikimedia.org/wiki/Help:Text_and_Inkscape
++ http://usefulgraphicdesigntutorials.com/inkscape-tutorial-effects-placing-an-image-inside-a-shape-part-2/
 
 ----
 
