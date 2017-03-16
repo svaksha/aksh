@@ -42,6 +42,7 @@
 + http://tutorial.math.lamar.edu/Classes/Calci/RateOfChange.aspx
 + https://en.wikipedia.org/wiki/Antiderivative
 + [ceil](https://en.wikipedia.org/wiki/Floor_and_ceiling_functions) and the [matlab definition](https://www.mathworks.com/help/matlab/ref/ceil.html)
++ [celerite](https://github.com/dfm/celerite) :: Scalable 1D Gaussian Processes in C++, Python, and Julia. [Website](http://celerite.rtfd.io).
 
 # Calculus-II
 + Calculus-II course at Lamar University: http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx
@@ -138,7 +139,6 @@
 + https://en.wikipedia.org/wiki/Enumerated_type
 
 ----
-
 
 # Greek Alphabets
 + https://en.wikipedia.org/wiki/Greek_alphabet#Letters
