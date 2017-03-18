@@ -36,7 +36,7 @@
 # Anaconda
 + http://conda.pydata.org/docs/using/envs.html
 + https://github.com/oxford-cs-deepnlp-2017/lectures
-
++ https://github.com/fperez/conda-edev
 
 ----
 
