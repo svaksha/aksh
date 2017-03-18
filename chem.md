@@ -2,7 +2,8 @@
 + [Quantum Chemistry](#quantum-chemistry)
    * [Chemical Bonding](#chemical-bonding)
    * [Quantum Field Theory](#quantum-field-theory)
-   
++ [NEWS](#news)
+
 ----
 
 # [BioChemistry](http://en.wikipedia.org/wiki/Biochemistry)
@@ -70,3 +71,7 @@ And as a counterpoint there was a WashPo article on ["Why patents are innovation
 
 9) A recent John Oliver piece on the practice of marketing to doctors :: https://www.youtube.com/watch?v=YQZ2UeOTO3I
 
+----
+
+# NEWS
++ http://www.telegraph.co.uk/news/2017/02/08/cooking-rice-incorrectly-could-endangering-health/
