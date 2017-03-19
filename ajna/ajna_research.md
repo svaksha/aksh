@@ -168,6 +168,7 @@
 + How to write a literature review: [the purpose, key elements & ways to incorporate your "voice"](https://www.uts.edu.au/sites/default/files/Writing%20a%20Literature%20Review%20(David)_0.pdf). 
 + Principles and Procedures for Writing a Literature Review: http://media.capella.edu/CourseMedia/OnlineWritingCenter/interactive/litReview/litReview_outerWrapper.asp
 
+
 ## Engineering Research Paper - Question–Answer Form
 
 + Title:
@@ -234,6 +235,7 @@
 + http://retractionwatch.com/2016/07/25/from-annoying-to-bitter-here-are-the-six-types-of-peer-reviewers/
     + Full paper:  http://www.tandfonline.com/doi/full/10.1080/02723638.2016.1190559
 + Literature Review: A Guide for Researchers, http://uws.au.libanswers.com/loader.php?fid=1332&type=1&key=3d48313481c8c29c97e3cdecba596d05
++ https://www.stir.ac.uk/media/schools/management/documents/centregradresearch/How%20to%20do%20a%20systematic%20literature%20review%20and%20meta-analysis.pdf
 
 
 ### Respond to Reviewers
@@ -268,6 +270,7 @@ Aerospace Engineering Department, The University of Michigan, Ann Arbor, MI 4810
 + Writing critically: https://ltl.lincoln.ac.nz/wp-content/uploads/sites/20/2016/01/WritingCritically.pdf
 + Research Room Menu: http://www8.esc.edu/ESConline/Across_ESC/WritersComplex.nsf/wholeshortlinks2/Research+Room+Menu
 + Writing a literature review: https://ltl.lincoln.ac.nz/research/writing-a-literature-review/
++ https://www.digital-science.com/blog/guest/writing-go-along-really-worth-phdtips/
 
 
 ## Guidelines
