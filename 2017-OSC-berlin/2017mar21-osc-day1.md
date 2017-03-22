@@ -60,9 +60,9 @@
 
 # Johannes Vogel :: The Open Science Platform 
 
-##### EU Open Science Policy
+#### EU Open Science Policy
 + foster open science
-+ 
+ 
 
 ----
 

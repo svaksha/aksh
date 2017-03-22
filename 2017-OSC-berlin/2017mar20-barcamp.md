@@ -40,8 +40,8 @@ I would like to propose a discussion space on Reproducibility of Research Data &
 
 ### Git 
 + Archiving is useful.
-+ Git - used as a tool for teaching scientists to store their work.
-+ Git Vs. Mercurial debate.
++ Git is used as a tool for teaching scientists to store their work.
++ Git vs. Mercurial debate.
 + version control is very useful
 + non-digital, git makes it efficient
 
