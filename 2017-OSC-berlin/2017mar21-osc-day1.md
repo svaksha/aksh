@@ -125,9 +125,22 @@
 
 # Innovating compliantly and transparently – road blocks, myths and solutions - Professor Jana Diesner, University of Illinois Urbana-Champaign (UIUC), USA
 
-+ Openness: Regulations and norms, transparency, Incentives, mechanism and biz models, infrastructure ---- reproducible, openness, incentives
++ Openness: 
+    * Regulations and norms, 
+    * transparency, 
+    * Incentives, 
+    * mechanism and biz models, 
+    * infrastructure, 
+    * reproducible, 
+    * openness, 
+    * incentives.
 
 
 #### Define Open
-
 + Privacy 
+
+----
+
+# Afternoon Session
++ Lightning talks and Posters
++ OSR interview: http://www.openscienceradio.de/2017/03/22/osr078-continuous-quality-control-for-research-data-poster-session-osc2017-en/#t=1:12.901
