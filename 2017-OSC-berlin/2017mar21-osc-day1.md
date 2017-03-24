@@ -100,6 +100,7 @@
 ####  [GeRDI](http://www.gerdi-project.de/) - Generic RDI 
 + Vision : create an infrastructure to support open and interdisciplinary research.
 + Open Trusted Environment
++ http://www.gerdi-project.de/wp-content/uploads/2016/10/PM_Bewilligung_Gerdi_final_englisch.pdf
 
 #### Leibniz super computing centre.
 + Computer center for all of Munich.

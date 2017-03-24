@@ -45,6 +45,7 @@
 + http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 + http://deeplearning.net/tutorial/lstm.html
 + https://scholar.google.de/scholar?q=compositional+knowledge+based+application&hl=en&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwigqrC7qfDMAhWGXSwKHZ2bAQoQgQMIMjAA
++ Building an efficient neural language model over a billion words: https://code.facebook.com/posts/1827693967466780/
 
 ## Papers
 + http://www.aclweb.org/anthology/P15-1016
