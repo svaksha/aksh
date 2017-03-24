@@ -61,6 +61,7 @@
 + A Guide to Completing Your Dissertation : http://thesawh.org/wp-content/uploads/2012/06/Completing_Your_Dissertation.pdf
 
 ## Advice 
++ [The Art of ‘No’](http://www.chronicle.com/article/The-Art-of-No-/239508) by Robin Bernstein, 2017March19. 
 + Overworked? Step back: https://researchtopracticeconnections.wordpress.com/2016/11/25/what-to-do-when-you-are-overwhelmed-with-work-how-not-to-suck-in-grad-school/
 + The Slow Grad Student :: [Do Less & Be Mindful](http://gradlogic.org/slow/#more-776).
 + Lessons learned: 10 tips for surviving (and thriving) while completing your dissertation: http://www.cpa.ca/cpasite/UserFiles/Documents/students/Psynopsis31(2)i.pdf
