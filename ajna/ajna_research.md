@@ -258,6 +258,7 @@
 ----
 
 # WRITING
++ 51 Tips to Help Academic Writers Be More Productive: https://medium.com/@katie__linder/51-tips-to-help-academic-writers-be-more-productive-70e54fe2bb0#.2y3exbwtb
 + Writing Skills - [a 12-part guide](http://libweb.surrey.ac.uk/library/skills/writing%20Skills%20Leicester/index.htm).
 + Write a lot better : Part One – [Becoming a better writer](http://web.anglia.ac.uk/anet/rido/docschl/info/Write%20a%20lot%20better%20-%201.pdf) and Part Two: [Writing a lot](http://web.anglia.ac.uk/anet/rido/docschl/info/Write%20a%20lot%20better%20-%202.pdf).
 + [Precision Writing](http://www-personal.umich.edu/~dsbaero/tutorials/PrecisionWritingV8.pdf) by Dennis S. Bernstein 
