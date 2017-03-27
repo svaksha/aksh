@@ -23,3 +23,8 @@
     + Repeated measures, http://coltekin.net/cagri/R/r-exercisesse5.html
 + [Notes on the use of R for psychology experiments and questionnaires](http://www.psych.upenn.edu/~baron/rpsych/rpsych.html), Jonathan Baron (UPenn) and Yuelin Li (Memorial Sloan-Kettering Cancer Center), 06-March-2011.
 + 2001, Chapman and Miller, Misunderstanding analysis of covariance, http://homepages.gold.ac.uk/aphome/ancova.pdf
+
+----
+
+# QA
++ How to [write good tests in R](http://www.datasciencecentral.com/profiles/blogs/how-to-write-good-tests-in-r)
