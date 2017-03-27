@@ -165,6 +165,7 @@
 # Data Science
 + The key to building a data science portfolio : https://www.dataquest.io/blog/build-a-data-science-portfolio/
 + http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists
++ How to Tell a Compelling Story with Data - [6 Rules & 6 Tools](http://www.datasciencecentral.com/profiles/blogs/how-to-tell-a-compelling-story-with-data-6-rules-6-tools).
 
 ## OpenData
 + Benefits of Open Data: https://www.europeandataportal.eu/en/using-data/benefits-of-open-data
