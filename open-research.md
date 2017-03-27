@@ -164,6 +164,7 @@
 
 # Data Science
 + The key to building a data science portfolio : https://www.dataquest.io/blog/build-a-data-science-portfolio/
++ http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists
 
 ## OpenData
 + Benefits of Open Data: https://www.europeandataportal.eu/en/using-data/benefits-of-open-data

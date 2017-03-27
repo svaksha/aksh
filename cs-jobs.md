@@ -16,6 +16,7 @@
 + Zach Holman says that "startup interviewing is fucked" : https://zachholman.com/posts/startup-interviewing-is-fucked/
 
 ### DataScientist (Vs. DataAnalyst) Vs. DataEngineer Vs. Statistician 
++ http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists
 + Mikhail Popov blogs about "Hiring a data scientist" for the Wikimedia Foundation, https://blog.wikimedia.org/2017/02/02/hiring-data-scientist/, February 2nd, 2017.
 + http://varianceexplained.org/r/year_data_scientist/
 + http://www.analyticsvidhya.com/blog/2015/10/job-comparison-data-scientist-data-engineer-statistician/
