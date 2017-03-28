@@ -85,11 +85,9 @@
 
 ## Jupyter reproducibility
 at #OpenDataDay, a group of us started to look at the reproducibility of Jupyter notebooks published along with papers in PubMed Central.
-While we did not get as far as we had hoped we would, the exercise has provided some valuable insights about the mechanics of reproducibility:
-https://markwoodbridge.com/2017/03/05/jupyter-reproducible-science.html 
+While we did not get as far as we had hoped we would, the exercise has provided some valuable insights about the mechanics of reproducibility: https://markwoodbridge.com/2017/03/05/jupyter-reproducible-science.html 
 
-Comments, suggestions and contributions are welcome via
-https://github.com/sparcopen/open-research-doathon/issues/25 
+Comments, suggestions and contributions are welcome via: https://github.com/sparcopen/open-research-doathon/issues/25 
 
 
 ## Psychology
@@ -244,6 +242,9 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 # Quality
 + http://www.software.ac.uk/online-sustainability-evaluation
 + On the Failings of Qualitative Inquiry: https://au.sagepub.com/sites/default/files/upm-binaries/24799_02_Hammersley_Ch_01.pdf
+
+## Data Management
++ How to Manage and Share Your Open Data: https://cos.io/blog/how-manage-and-share-your-open-data/
 
 ## Data Quality
 + Gene name errors are widespread in the scientific literature : http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1044-7
