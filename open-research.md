@@ -83,6 +83,15 @@
 ## Docker Reproducibility
 + http://www.jonzelner.net/statistics/make/docker/reproducibility/2016/05/31/reproducibility-pt-1/
 
+## Jupyter reproducibility
+at #OpenDataDay, a group of us started to look at the reproducibility of Jupyter notebooks published along with papers in PubMed Central.
+While we did not get as far as we had hoped we would, the exercise has provided some valuable insights about the mechanics of reproducibility:
+https://markwoodbridge.com/2017/03/05/jupyter-reproducible-science.html 
+
+Comments, suggestions and contributions are welcome via
+https://github.com/sparcopen/open-research-doathon/issues/25 
+
+
 ## Psychology
 + 2017Jan19: Hanne Watkins, System Justification in Social Psychology? A Survey of Responses to the Replicability Debate in Psychology, OSF.io, https://osf.io/preprints/psyarxiv/nn67y/
 
