@@ -30,7 +30,7 @@
 + https://www.debian.org/doc/manuals/debian-faq/ch-choosing.en.html
 + http://wiki.debian.org 
 + http://debian-administration.org 
- 
++ http://askubuntu.com/questions/760204/how-to-remove-the-unity-amazon-package-in-16-04 
 
 # DEBIAN Packages
 + DPKG cheat sheet: http://www.cyberciti.biz/howto/question/linux/dpkg-cheat-sheet.php
