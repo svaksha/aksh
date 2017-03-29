@@ -409,6 +409,7 @@ __MLA or APA style?__
 + Structure of a Scholarly Manuscript: 66 Tips for What Goes Where, Kenneth L. Knight, PhD, ATC: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1318504/pdf/jathtrain00019-0011.pdf
 + Qualitative dissertation: https://au.sagepub.com/sites/default/files/upm-binaries/73876_Chapter_1.pdf
 + An excerpt from [From Dissertation to Book](http://www.press.uchicago.edu/Misc/Chicago/288463.html) by William Germano.
++ Planning and conducting a dissertation research project: https://www2.le.ac.uk/offices/ld/resources/writing/writing-resources/planning-dissertation
 
 ### [starting the PhD – write and write regularly](https://patthomson.net/2016/09/19/starting-the-phd-write-and-write-regularly/)
 
