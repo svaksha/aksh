@@ -32,6 +32,8 @@
 ----
 
 # Reproducible Computational Research
++ Andreas Rauber, Ari Asmi, Dieter van Uytvanck, Stefan Pröll, Identification of Reproducible Subsets for Data Citation,
+Sharing and Re-Use: https://www.rd-alliance.org/system/files/documents/TCDL-RDA-Guidelines_160411.pdf
 + Comp Reproducibility dialog: contributors incl @NPRougier @khinsen @GaelVaroquaux @todd_gureckis @czzpr & more see: https://twitter.com/o_guest/status/832532349988589568
 + Daniel S. Katz, "Is software reproducibility possible and practical?", https://danielskatzblog.wordpress.com/2017/02/07/is-software-reproducibility-possible-and-practical/, [Talk Slides](http://www.slideshare.net/danielskatz/citation-and-reproducibility-in-software).
 + Prof. Peng, "Reproducible Research Needs Some Limiting Principles", http://simplystatistics.org/2017/02/01/reproducible-research-limits/
