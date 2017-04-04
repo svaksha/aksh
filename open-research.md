@@ -11,6 +11,7 @@
     + [Data Artifacts](#data-artifacts)
 + [OpenAccess](#openaccess)
 + [OpenScience](#openscience)
++ [ORGANISATION](#organisation)
 + [Quality](#quality)
     + [Data Quality](#data-quality)
     + [Retraction Error](#retraction-error)
@@ -168,6 +169,11 @@ Comments, suggestions and contributions are welcome via: https://github.com/spar
 
 ### Papers
 + A study of institutional spending on open access publication fees in Germany: https://peerj.com/articles/2323/
+
+----
+
+# ORGANISATION
++ OpenAIRE: https://en.wikipedia.org/wiki/Framework_Programmes_for_Research_and_Technological_Development#OpenAIRE
 
 ----
 

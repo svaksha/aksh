@@ -1,6 +1,6 @@
 + [0-5-DEV](#0-5-dev)
 + [CORE](#core)
-   + [Daemons](#daemons)
+   + [Daemons](#daemons)##
    + [Syntax-Symbols-Operators](#syntax-symbols-operators)
 + [Development](#development)
    + [dotjuliarc](#dotjuliarc)
@@ -16,7 +16,7 @@
     + [dottravis-yml](#dottravis-yml)
 + [MATH](#math)
    + [Arrays](#arrays)
-   + [Calculus](#calculus)
+   + [Calculus](#calculus)+ How do you tie t
    + [Graphs](#graphs)
    + [Algorithms](#algorithms)
 + [NEWS](#news)
