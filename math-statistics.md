@@ -17,12 +17,32 @@
 ----
 
 # NOTES
-+ The independent variable is placed on the horizontal (x) axis. The dependent variable is placed on the vertical (y) axis. 
++ The __independent variable__ is placed on the __horizontal (X) axis__. The __dependent variable__ is placed on the __vertical (Y) axis__. 
 
 ## Errors
 + When significant differences are missed, https://www.statisticsdonewrong.com/significant-differences.html
 
+
 ----
+
+# Statistics
++ Book: [Regression Models for Data Science in R](https://leanpub.com/regmods/read) by Prof. Brian Caffo.
++ [Logistic Regression Fundamentals](http://gormanalysis.com/logistic-regression-fundamentals/).
++ [Cohort Analysis with Python](http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/).
++ [Why a Mathematician, Statistician, & Machine Learner Solve the Same Problem Differently](http://www.galvanize.com/blog/2015/08/26/why-a-mathematician-statistician-machine-learner-solve-the-same-problem-differently-2/#.Vd807FLLdOo).
++ Using Statistical Regression : http://www.restore.ac.uk/srme/www/fac/soc/wie/research-new/srme/index.html
++ Introduction to (Linear Regression](https://github.com/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb)
++ https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics)
+
+### Research Papers
++ [ICRA 2014 paper on crfs for semantic segmenation on the nyu dataset](https://github.com/amueller/icra_2014_crf_nyu). 
+
+### Business Analytics
++ [Predictive analytics: the next bigthing in BI?](http://www.rosebt.com/uploads/8/1/8/1/8181762/predictive_analytics_e_guide.pdf)
+
+
+----
+
 
 # [ANOVA](https://en.wikipedia.org/wiki/Analysis_of_variance)
 + http://www.statmethods.net/stats/anova.html
@@ -70,22 +90,6 @@
 
 # P-Values
 + The problem with p-values, https://aeon.co/essays/it-s-time-for-science-to-abandon-the-term-statistically-significant
-
-----
-
-# Statistics
-+ Book: [Regression Models for Data Science in R](https://leanpub.com/regmods/read) by Prof. Brian Caffo.
-+ [Logistic Regression Fundamentals](http://gormanalysis.com/logistic-regression-fundamentals/).
-+ [Cohort Analysis with Python](http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/).
-+ [Why a Mathematician, Statistician, & Machine Learner Solve the Same Problem Differently](http://www.galvanize.com/blog/2015/08/26/why-a-mathematician-statistician-machine-learner-solve-the-same-problem-differently-2/#.Vd807FLLdOo).
-+ Using Statistical Regression : http://www.restore.ac.uk/srme/www/fac/soc/wie/research-new/srme/index.html
-+ Introduction to (Linear Regression](https://github.com/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb)
-
-### Research Papers
-+ [ICRA 2014 paper on crfs for semantic segmenation on the nyu dataset](https://github.com/amueller/icra_2014_crf_nyu). 
-
-### Business Analytics
-+ [Predictive analytics: the next bigthing in BI?](http://www.rosebt.com/uploads/8/1/8/1/8181762/predictive_analytics_e_guide.pdf)
 
 ----
 
