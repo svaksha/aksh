@@ -33,8 +33,7 @@
 ----
 
 # Reproducible Computational Research
-+ Andreas Rauber, Ari Asmi, Dieter van Uytvanck, Stefan Pröll, Identification of Reproducible Subsets for Data Citation,
-Sharing and Re-Use: https://www.rd-alliance.org/system/files/documents/TCDL-RDA-Guidelines_160411.pdf
++ Andreas Rauber, Ari Asmi, Dieter van Uytvanck, Stefan Pröll, Identification of Reproducible Subsets for Data Citation, Sharing and Re-Use: https://www.rd-alliance.org/system/files/documents/TCDL-RDA-Guidelines_160411.pdf
 + Comp Reproducibility dialog: contributors incl @NPRougier @khinsen @GaelVaroquaux @todd_gureckis @czzpr & more see: https://twitter.com/o_guest/status/832532349988589568
 + Daniel S. Katz, "Is software reproducibility possible and practical?", https://danielskatzblog.wordpress.com/2017/02/07/is-software-reproducibility-possible-and-practical/, [Talk Slides](http://www.slideshare.net/danielskatz/citation-and-reproducibility-in-software).
 + Prof. Peng, "Reproducible Research Needs Some Limiting Principles", http://simplystatistics.org/2017/02/01/reproducible-research-limits/
@@ -87,9 +86,8 @@ Sharing and Re-Use: https://www.rd-alliance.org/system/files/documents/TCDL-RDA-
 + http://www.jonzelner.net/statistics/make/docker/reproducibility/2016/05/31/reproducibility-pt-1/
 
 ## Jupyter reproducibility
-at #OpenDataDay, a group of us started to look at the reproducibility of Jupyter notebooks published along with papers in PubMed Central.
++ at #OpenDataDay, a group of us started to look at the reproducibility of Jupyter notebooks published along with papers in PubMed Central.
 While we did not get as far as we had hoped we would, the exercise has provided some valuable insights about the mechanics of reproducibility: https://markwoodbridge.com/2017/03/05/jupyter-reproducible-science.html 
-
 Comments, suggestions and contributions are welcome via: https://github.com/sparcopen/open-research-doathon/issues/25 
 
 
@@ -228,6 +226,8 @@ Comments, suggestions and contributions are welcome via: https://github.com/spar
 + Bayer paper: http://www.nature.com/nrd/journal/v10/n9/full/nrd3439-c1.html
 
 ### RDM
++ https://www.rd-alliance.org/group/repository-platforms-research-data-ig/outcomes/matrix-use-cases-and-functional-requirements
++ https://www.coar-repositories.org/activities/webinar-and-discussion/webinar-next-generation-repositories/
 + Data Management Plan for Moore Investigator in Data Driven Discovery Grant: http://riojournal.com/articles.php?journal_name=rio&id=10708
 + Managing small to medium-sized [research software projects](https://swcarpentry.github.io/managing-research-software-projects/) and on [github](https://github.com/swcarpentry/managing-research-software-projects/)
 + https://en.wikipedia.org/wiki/Data_management_plan
