@@ -36,7 +36,7 @@
 * http://homepages.mcs.vuw.ac.nz/~alex/files/MuscheviciPotaninTemperoNobleOOPSLA2008.pdf
 * http://www.cs.cmu.edu/~neelk/focusing-on-pattern-matching.pdf
 
-Julia
+# Julia
 http://code.metager.de/source/xref/julia/Graphs.jl/src/graph.jl
 http://julialang.org/Graphs.jl/index.html
 http://stackoverflow.com/search?page=1&tab=relevance&q=julia%20graph&s=2208559a-4c1a-4a0d-8fab-0f873299b3e1
@@ -477,6 +477,7 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 ----
 
 # QA
++ http://www.stochasticlifestyle.com/finalizing-julia-package-documentation-testing-coverage-publishing/
 
 ## Code Coverage
 + Try, `Base.JLOptions().code_coverage`, (see https://github.com/JuliaLang/julia/blob/68b403f820fbd2f7401e12a90d487f41c96ca652/base/options.jl)
