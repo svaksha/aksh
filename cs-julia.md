@@ -478,6 +478,7 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 
 # QA
 + http://www.stochasticlifestyle.com/finalizing-julia-package-documentation-testing-coverage-publishing/
++ http://fiatjaf.alhur.es/module-linker/#/julia
 
 ## Code Coverage
 + Try, `Base.JLOptions().code_coverage`, (see https://github.com/JuliaLang/julia/blob/68b403f820fbd2f7401e12a90d487f41c96ca652/base/options.jl)
