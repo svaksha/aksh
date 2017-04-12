@@ -41,6 +41,7 @@
 
 # Jekyll
 + https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
++ source on [github](https://github.com/jekyll/jekyll) and the [yaml frontmatter](https://jekyllrb.com/docs/frontmatter/).
 
 ----
 
