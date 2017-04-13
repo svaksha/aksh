@@ -1,5 +1,5 @@
-+ [0-5-DEV](#0-5-dev)
-+ [CORE](#core)
++ [0-7-DEV](#0-7-dev)
++ [KERN](#kern)
    + [Daemons](#daemons)##
    + [Syntax-Symbols-Operators](#syntax-symbols-operators)
 + [Development](#development)
@@ -8,15 +8,16 @@
    + [GIST](#gist)
    + [Plotting](#plotting)
 + [Packaging](#packaging)
-    + [build.jl](#build.jl)
-    + [USING](#using)
-    + [INCLUDE](#include)
+   + [build.jl](#build.jl)
+   + [USING](#using)
+   + [INCLUDE](#include)
 + [DOCUMENTATION](#documentation)
 + [QA](#qa)
     + [dottravis-yml](#dottravis-yml)
 + [MATH](#math)
    + [Arrays](#arrays)
-   + [Calculus](#calculus)+ How do you tie t
+        + [DataFrames](#dataframes)
+   + [Calculus](#calculus)
    + [Graphs](#graphs)
    + [Algorithms](#algorithms)
 + [NEWS](#news)
@@ -51,7 +52,6 @@ https://plot.ly/julia/
 http://samuelcolvin.github.io/JuliaByExample/
 https://gist.github.com/gizmaa/7214002#axisplacement   ...plot
 http://heike.github.io/stat590f/gadfly/andee-graphics/#/6
-Dia
 
 
 
@@ -64,9 +64,7 @@ strftime("%F", time())
 ----
 
 
-# 0-5-DEV
-
-+ Freeze : https://github.com/JuliaLang/julia/blob/master/NEWS.md#julia-v040-release-notes
+# 0-7-DEV
 
 ✶ Troubleshoot errors when running the unstable DEV branch
 
@@ -154,7 +152,7 @@ You can override Base.show(io, ex) rather than Base.showerror.
 
 ----
 
-# CORE
+# KERN
 + http://docs.julialang.org/en/latest/#developer-documentation
 
 ### BR
@@ -590,6 +588,9 @@ If you want to give up on 0.3 (which is fine, just make sure you update your REQ
 
 + Whereas multiplying a matrix by a scalar is well-defined in linear algebra, dividing by a matrix has a very specific meaning which requires a square matrix. Same with exponentiation. The dot-prefixed operators explicitly work elementwise, so use `.*`, `./` and `.^` for element-wise operations.
 
+### DataFrames 
+__DataTables.jl and Query.jl__
+* https://discourse.julialang.org/t/announcement-dataframes-future-plans/266
 
 ## Calculus
 + http://mth229.github.io/
