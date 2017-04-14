@@ -589,8 +589,9 @@ If you want to give up on 0.3 (which is fine, just make sure you update your REQ
 + Whereas multiplying a matrix by a scalar is well-defined in linear algebra, dividing by a matrix has a very specific meaning which requires a square matrix. Same with exponentiation. The dot-prefixed operators explicitly work elementwise, so use `.*`, `./` and `.^` for element-wise operations.
 
 ### DataFrames 
-__DataTables.jl and Query.jl__
+__DataTables.jl and [Query.jl](http://www.david-anthoff.com/Query.jl)__
 * https://discourse.julialang.org/t/announcement-dataframes-future-plans/266
+* http://www.david-anthoff.com/Query.jl/latest/sinks.html
 
 ## Calculus
 + http://mth229.github.io/
