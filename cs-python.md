@@ -2,7 +2,8 @@
 + [Packaging](#packaging)
 + [Anaconda](#anaconda)
 + [NLP](#nlp)
-+ [HDF5](#hdf5)
++ [DATA](#data)
+    + [HDF5](#hdf5)
 + [MOOC](#mooc)
 + [NEWS](#news)
 + [Resources](#resources)
@@ -40,7 +41,12 @@
 
 ----
 
-# HDF5
+# DATA
+
+## Dask
++ https://jakevdp.github.io/blog/2015/08/14/out-of-core-dataframes-in-python/
+
+## HDF5
 + https://github.com/h5io/h5io
 
 ----
