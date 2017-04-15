@@ -592,6 +592,7 @@ If you want to give up on 0.3 (which is fine, just make sure you update your REQ
 __DataTables.jl and [Query.jl](http://www.david-anthoff.com/Query.jl)__
 * https://discourse.julialang.org/t/announcement-dataframes-future-plans/266
 * http://www.david-anthoff.com/Query.jl/latest/sinks.html
+* How to represent a "table" type with potential missing values? http://julia-programming-language.2336112.n4.nabble.com/How-to-represent-a-quot-table-quot-type-with-potential-missing-values-td22418.html
 
 ## Calculus
 + http://mth229.github.io/
