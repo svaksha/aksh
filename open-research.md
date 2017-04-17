@@ -179,6 +179,7 @@ Comments, suggestions and contributions are welcome via: https://github.com/spar
 + The key to building a data science portfolio : https://www.dataquest.io/blog/build-a-data-science-portfolio/
 + http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists
 + How to Tell a Compelling Story with Data - [6 Rules & 6 Tools](http://www.datasciencecentral.com/profiles/blogs/how-to-tell-a-compelling-story-with-data-6-rules-6-tools).
++ David Venturi : [I Dropped Out of School to Create My Own Data Science Master’s  —  Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412).
 
 ## OpenData
 + Benefits of Open Data: https://www.europeandataportal.eu/en/using-data/benefits-of-open-data
