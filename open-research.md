@@ -5,8 +5,7 @@
     + [Psychology](#psychology)
     + [Errors](#errors)
     + [Papers](#papers)
-+ [DataScience](#datascience)
-    + [OpenData](#opendata)
++ [OpenData](#opendata)
     + [RDM](#rdm)
     + [Data Artifacts](#data-artifacts)
 + [OpenAccess](#openaccess)
@@ -175,13 +174,7 @@ Comments, suggestions and contributions are welcome via: https://github.com/spar
 
 ----
 
-# Data Science
-+ The key to building a data science portfolio : https://www.dataquest.io/blog/build-a-data-science-portfolio/
-+ http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists
-+ How to Tell a Compelling Story with Data - [6 Rules & 6 Tools](http://www.datasciencecentral.com/profiles/blogs/how-to-tell-a-compelling-story-with-data-6-rules-6-tools).
-+ David Venturi : [I Dropped Out of School to Create My Own Data Science Master’s  —  Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412).
-
-## OpenData
+# OpenData
 + Benefits of Open Data: https://www.europeandataportal.eu/en/using-data/benefits-of-open-data
 + Building a European Data Economy: https://ec.europa.eu/digital-single-market/en/building-european-data-economy
 + Report on the Research conducted by the European Data Portal: [Creating Value through Open Data](https://www.europeandataportal.eu/sites/default/files/edp_creating_value_through_open_data_0.pdf)

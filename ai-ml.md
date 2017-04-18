@@ -1,13 +1,36 @@
++ [Deeplearning](#deeplearning)
++ [Data Science](#data-science)
 + [Machine Learning](#machine-learning)
-    + [Regression](#regression)
+   + [Regression](#regression)
 + [Statistical Modelling](#statistical-modelling)
 + [Unsupervised Learning](#unsupervised-learning)
 + [Reinforcement Learning](#reinforcement-learning)
 
 ----
 
+# Deeplearning
 + Fundamental Deep Learning code in TFLearn, Keras, Theano and TensorFlow: https://insights.untapt.com/fundamental-deep-learning-code-in-tflearn-keras-theano-and-tensorflow-66be10a03227#.k2jw09ft2
 + http://white.ucc.asn.au/2017/01/24/JuliaML-and-TensorFlow-Tuitorial.html
+
+----
+
+
+# Data Science
++ The key to building a data science portfolio : https://www.dataquest.io/blog/build-a-data-science-portfolio/
++ http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists
++ How to Tell a Compelling Story with Data - [6 Rules & 6 Tools](http://www.datasciencecentral.com/profiles/blogs/how-to-tell-a-compelling-story-with-data-6-rules-6-tools).
++ David Venturi : [I Dropped Out of School to Create My Own Data Science Master’s  —  Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412).
++ [Golang libraries for data science](http://www.mjhall.org/golang-data-science-libraries/(
++ Chunking, https://en.wikipedia.org/wiki/Chunking_%28psychology%29
++ De-Chunking your brain to stop Companies Learning Your Secrets, http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html
++ Shiva Bhaskar on [Algorithms, Big Data And Accountability](https://medium.com/@shivagbhaskar/algorithms-big-data-and-accountability-8924bf9e2b24#).
++ With new algorithms, data scientists could accomplish in days what once took month: http://phys.org/news/2016-10-algorithms-scientists-days-months.html
++ https://www.opendatascience.com/blog/how-to-hire-machine-learning-consultants/
++ Book, http://www.librarything.com/work/15575877
++ http://www.datasciencemasters.org
+
+# Resources
++ [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
 
 ----
 
@@ -70,10 +93,12 @@ __Information Science and Statistics__
 + Hawkins and Olwell: Cumulative Sum Charts and Charting for Quality Improvement. 
 + Jensen: Bayesian Networks and Decision Graphs. 
 + Marchette: Computer Intrusion Detection and Network Monitoring:A Statistical Viewpoint. 
++ Murphy, "Machine Learning"
 + Rubinstein and Kroese: The Cross-Entropy Method:  A Unified Approach to Combinatorial Optimization, Monte Carlo Simulation, and Machine Learning. 
 + Studený: Probabilistic Conditional Independence Structures.
 + Vapnik: The Nature of Statistical Learning Theory, Second Edition.  
 + Wallace: Statistical and Inductive Inference by Minimum Massage Length.
+
 
 ## Concept learning
 + https://en.wikipedia.org/wiki/Concept_learning
@@ -127,3 +152,5 @@ __Information Science and Statistics__
  
 # Reinforcement Learning
 + http://karpathy.github.io/2016/05/31/rl/
++ [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) by Richard S. Sutton and Andrew G. Barto
+

@@ -1,17 +1,16 @@
-+ [BOOKS](#books)
 + [AI](#ai)
-+ [Computational Formalisms](#computational-formalisms)
-+ [Data Science](#data-science)
++ [BOOKS](#books)
+   + [Programming](#programming)
++ [Cognition](#cognition)
++ [Computational Science](#computational-Science)
 + [Data Structures](#data-structures)
 + [Graphs](#graphs)
 + [HMM](#hmm)
++ [Neural Networks](#neural-networks)
+   + [Recurrent Neural Networks](#recurrent-neural-networks)
 
 ----
 
-# BOOKS
-+ The book "biological sequence analysis" by Durbin and Eddy.
-
-----
 
 # AI
 + [Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics](http://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning) by Vincent Granville.
@@ -25,24 +24,29 @@
 
 ----
 
-# Computational Formalisms
+# BOOKS
++ The book "biological sequence analysis" by Durbin and Eddy.
+
+## Programming
++ [Getting Real](https://gettingreal.37signals.com/)
+
+----
+
+# Cognition
++ https://www.research-in-germany.org/en/research-landscape/news/2016/12/2016-12-23-why-chess-masters-win.html
++ https://www.techfak.uni-bielefeld.de/ags/soa/publications/
++ Watch [an elephant pick up a tortilla chip with her trunk—without breaking it](http//www.sciencemag.org/news/2017/01/watch-elephant-pick-tortilla-chip-her-trunk-without-breaking-it).
+
+----
+
+# Computational Science
++ https://ec.europa.eu/jrc/en/computational-thinking
 + https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
 + https://en.wikipedia.org/wiki/Category:Computational_problems
 + http://en.wikipedia.org/wiki/Category:Computational_science
 
 ----
 
-# Data Science
-+ [Golang libraries for data science](http://www.mjhall.org/golang-data-science-libraries/(
-+ Chunking, https://en.wikipedia.org/wiki/Chunking_%28psychology%29
-+ De-Chunking your brain to stop Companies Learning Your Secrets, http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html
-+ Shiva Bhaskar on [Algorithms, Big Data And Accountability](https://medium.com/@shivagbhaskar/algorithms-big-data-and-accountability-8924bf9e2b24#).
-+ With new algorithms, data scientists could accomplish in days what once took month: http://phys.org/news/2016-10-algorithms-scientists-days-months.html
-+ https://www.opendatascience.com/blog/how-to-hire-machine-learning-consultants/
-+ Book, http://www.librarything.com/work/15575877
-+ http://www.datasciencemasters.org
-
-----
 
 # Data Structures
 + Algorithms, Part I :: https://www.coursera.org/course/algs4partI
@@ -105,3 +109,29 @@ http://makepp.sourceforge.net/1.19/makepp_tutorial.html
 
 + http://docs.scipy.org/doc/scipy/reference/stats.html
 + http://gael-varoquaux.info/computers/pyreport/example.pdf
+
+---- 
+
+# Neural Networks
++ https://en.wikipedia.org/wiki/Cognitive_science
+
+## Recurrent Neural Networks
++ An introduction to [Recurrent Neural Networks](https://www.opendatascience.com/blog/intro-to-recurrent-neural-networks-1/).
+
+## Neural Networks with ML - Syllabus
+Lecture 1: Introduction
+Lecture 2: The Perceptron learning procedure
+Lecture 3: The backpropagation learning procedure
+Lecture 4: Learning feature vectors for words
+Lecture 5: Object recognition with neural nets
+Lecture 6: Optimization: How to make the learning go faster
+Lecture 7: Recurrent neural networks
+Lecture 8: More recurrent neural networks
+Lecture 9: Ways to make neural networks generalize better
+Lecture 10: Combining multiple neural networks to improve generalization
+Lecture 11: Hopfield nets and Boltzmann machines
+Lecture 12: Restricted Boltzmann machines (RBMs)
+Lecture 13: Stacking RBMs to make Deep Belief Nets
+Lecture 14: Deep neural nets with generative pre-training
+Lecture 15: Modeling hierarchical structure with neural nets
+Lecture 16: Recent applications of deep neural nets
