@@ -114,4 +114,5 @@ Create an umbrella list
 + https://en.wikipedia.org/wiki/Diaspora_%28software%29
     + https://en.wikipedia.org/wiki/Diaspora_%28social_network%29 
     + https://en.wikipedia.org/wiki/Loomio
-
++ https://en.wikipedia.org/wiki/Kune_%28software%29
++ 
