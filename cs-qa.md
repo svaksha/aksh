@@ -58,6 +58,8 @@
 
 # [TDD](https://en.wikipedia.org/wiki/Test-driven_development)
 + https://en.wikipedia.org/wiki/Scenario_testing
++ http://blog.trigent.com/points-to-remember-while-identifying-effective-test-scenarios-and-designing-test-cases/
+
 
 ## [Test_Script](https://en.wikipedia.org/wiki/Test_script)
 + http://stackoverflow.com/questions/1550157/manual-test-script-templates
