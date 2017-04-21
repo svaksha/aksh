@@ -1,23 +1,25 @@
+
+# NEWS
 + http://news.google.com/news?ned=in
 + India-news | http://news.google.com/news?ned=in
 + WorldNews from Google | http://news.google.com/
 + Deccan Chronicle | http://www.deccanchronicle.com/
 + WikiLeaks | http://www.wikileaks.org/
 + LiveMint | http://www.livemint.com
-+ [[The Hindu | http://www.hinduonline.com/]]
-+ [[DeccanHerald | http://www.deccanherald.com/]] 
-+ [[DNAindia | http://dnaindia.com]] 
-+ [[indianexpress | http://www.indianexpress.com]] 
-+ [[indiatimes | http://www.indiatimes.com]]
-+ [[MidDay | http://mid-day.com]]
-+ [[MumbaiMirror | http://www.mumbaimirror.com]] 
-+ [[NDTV | http://www.ndtv.com]] 
-+ [[Rediff | http://www.rediff.com]]
-+ [[TOI | http://timesofindia.indiatimes.com]] 
-+ [[BloomBerg | http://www.bloomberg.com]] 
-+ [[CNN | http://www.cnn.com]] 
-+ [[Reuters | http://www.reuters.com]] 
-+ [[Times-UK | http://www.timesonline.co.uk/]]
++ [[The Hindu | http://www.hinduonline.com/]
++ [[DeccanHerald | http://www.deccanherald.com/] 
++ [[DNAindia | http://dnaindia.com]
++ [[indianexpress | http://www.indianexpress.com] 
++ [[indiatimes | http://www.indiatimes.com]
++ [[MidDay | http://mid-day.com]
++ [[MumbaiMirror | http://www.mumbaimirror.com] 
++ [[NDTV | http://www.ndtv.com]
++ [[Rediff | http://www.rediff.com]
++ [[TOI | http://timesofindia.indiatimes.com] 
++ [[BloomBerg | http://www.bloomberg.com]
++ [[CNN | http://www.cnn.com]
++ [[Reuters | http://www.reuters.com]
++ [[Times-UK | http://www.timesonline.co.uk/]
 
 # Technical News
 + http://www.engadget.com/
@@ -31,6 +33,7 @@
 + [[http://www.thejuliagroup.com/blog/?p=1033 | http://www.thejuliagroup.com/blog/?p=1033]]
 + https://news.ycombinator.com/
 + https://news.ycombinator.com/news
++ Read about SQL, debugger, etc.. https://hackerbits.com/wp-content/uploads/2016/11/hacker_bits_issue11.pdf
 
 # Linux News
 + [Debian-news](http://debian-news.net/) 
