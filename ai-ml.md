@@ -5,6 +5,7 @@
 + [Statistical Modelling](#statistical-modelling)
 + [Unsupervised Learning](#unsupervised-learning)
 + [Reinforcement Learning](#reinforcement-learning)
++ [Image Processing](#image-processing)
 
 ----
 
@@ -153,4 +154,9 @@ __Information Science and Statistics__
 # Reinforcement Learning
 + http://karpathy.github.io/2016/05/31/rl/
 + [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) by Richard S. Sutton and Andrew G. Barto
+
+----
+
+# Image Processing
++ Barbara Zitova, Jan Flusser: [Image registration methods: a survey](http://library.utia.cas.cz/prace/20030125.pdf) 
 
