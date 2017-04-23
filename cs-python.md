@@ -23,7 +23,6 @@
 ----
 
 # Python3
-
 + Python: lambda, map(), reduce(), filter() :: https://analytics4all.org/2016/04/14/python-lambda-map-reduce-filter/
 
 ## Classes
@@ -60,6 +59,7 @@
 
 ## Conda
 + http://conda.pydata.org/docs/intro.html#conda-overview
++ https://github.com/fperez/conda-edev
 
 ## .pythonrc.py
 + http://eseth.org/2008/pimping-pythonrc.html
@@ -129,4 +129,6 @@
 + A collection of python "must reads": http://jessenoller.com/good-to-great-python-reads/
 + https://github.com/firaswehbe/data-programming-resources/blob/master/python.md
 + Python for DataScience cheatsheet, https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf
+
+
 
