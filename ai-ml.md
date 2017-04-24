@@ -12,6 +12,7 @@
 # Deeplearning
 + Fundamental Deep Learning code in TFLearn, Keras, Theano and TensorFlow: https://insights.untapt.com/fundamental-deep-learning-code-in-tflearn-keras-theano-and-tensorflow-66be10a03227#.k2jw09ft2
 + http://white.ucc.asn.au/2017/01/24/JuliaML-and-TensorFlow-Tuitorial.html
++ https://github.com/oxford-cs-deepnlp-2017/lectures
 
 ----
 
