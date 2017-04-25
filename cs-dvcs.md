@@ -45,7 +45,7 @@
     + http://www.pygit2.org/objects.html
 + https://github.com/nevik/gitwatch
 + http://stackoverflow.com/questions/1456269/python-git-module-experiences
-
++ https://leewc.com/articles/how-to-merge-multiple-git-repositories-into-one-repo/
 
 ### GitPython
 + http://gitpython.readthedocs.io/en/stable/tutorial.html
