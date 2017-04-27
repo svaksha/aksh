@@ -42,7 +42,6 @@
 + Passive-perfekt, http://www.nthuleen.com/teach/grammar/passiv2.html
 + http://www2.klett.de/sixcms/media.php/10/67524301_bewerbungstraining_LHB_EB.pdf
 + http://www.dw.com/en/german-words-that-contradict-themselves/a-37145955
-+ http://www.dw.com/en/german-words-that-contradict-themselves/a-37145955
 
 ## German Dictionary
 + [GoldenDict](http://goldendict.org) :: dictionary lookup program

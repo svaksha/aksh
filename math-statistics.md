@@ -33,6 +33,7 @@
 + Using Statistical Regression : http://www.restore.ac.uk/srme/www/fac/soc/wie/research-new/srme/index.html
 + Introduction to (Linear Regression](https://github.com/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb)
 + https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics)
++ http://christopherroach.com/articles/statistics-for-hackers/
 
 ### Research Papers
 + [ICRA 2014 paper on crfs for semantic segmenation on the nyu dataset](https://github.com/amueller/icra_2014_crf_nyu). 
