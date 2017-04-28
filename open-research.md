@@ -6,8 +6,9 @@
     + [Errors](#errors)
     + [Papers](#papers)
 + [OpenData](#opendata)
-    + [RDM](#rdm)
-    + [Data Artifacts](#data-artifacts)
+   + [RDM](#rdm)
+   + [Data Artifacts](#data-artifacts)
+   + [MetaData](#metadata)
 + [OpenAccess](#openaccess)
 + [OpenScience](#openscience)
 + [ORGANISATION](#organisation)
@@ -238,6 +239,8 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 + http://i-cav.org/2015/evaluation/
 + [Data Things 1 to 23](http://www.ands.org.au/partners-and-communities/23-research-data-things/all23)
 
+### MetaData
++ https://www.opendatasoft.com/2016/08/25/what-is-metadata-and-why-is-it-important-data/
 
 ----
 
@@ -315,3 +318,4 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 # NEWS
 ### Library resources
     + http://bjoern.brembs.net/2016/12/so-your-institute-went-cold-turkey-on-publisher-x-what-now/
+    
