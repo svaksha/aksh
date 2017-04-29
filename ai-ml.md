@@ -21,6 +21,7 @@
 + The key to building a data science portfolio : https://www.dataquest.io/blog/build-a-data-science-portfolio/
 + http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists
 + How to Tell a Compelling Story with Data - [6 Rules & 6 Tools](http://www.datasciencecentral.com/profiles/blogs/how-to-tell-a-compelling-story-with-data-6-rules-6-tools).
++ [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
 + David Venturi : [I Dropped Out of School to Create My Own Data Science Master’s  —  Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412).
 + [Golang libraries for data science](http://www.mjhall.org/golang-data-science-libraries/(
 + Chunking, https://en.wikipedia.org/wiki/Chunking_%28psychology%29
@@ -30,9 +31,7 @@
 + https://www.opendatascience.com/blog/how-to-hire-machine-learning-consultants/
 + Book, http://www.librarything.com/work/15575877
 + http://www.datasciencemasters.org
-
-# Resources
-+ [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
++ https://www.simplilearn.com/data-science-interview-questions-article
 
 ----
 
