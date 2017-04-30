@@ -32,27 +32,27 @@
 + https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3A%22up+for+grabs%22
 + 9493 : https://github.com/JuliaLang/julia/issues/9493
 + 5840 : https://github.com/JuliaLang/julia/issues/5840
-* https://groups.google.com/forum/#!topic/julia-users/O5S8pPav5Ks
-* https://www.cs.princeton.edu/~appel/papers/memerr.pdf
-* http://homepages.mcs.vuw.ac.nz/~alex/files/MuscheviciPotaninTemperoNobleOOPSLA2008.pdf
-* http://www.cs.cmu.edu/~neelk/focusing-on-pattern-matching.pdf
++ https://groups.google.com/forum/#!topic/julia-users/O5S8pPav5Ks
++ https://www.cs.princeton.edu/~appel/papers/memerr.pdf
++ http://homepages.mcs.vuw.ac.nz/~alex/files/MuscheviciPotaninTemperoNobleOOPSLA2008.pdf
++ http://www.cs.cmu.edu/~neelk/focusing-on-pattern-matching.pdf
 
 # Julia
-http://code.metager.de/source/xref/julia/Graphs.jl/src/graph.jl
-http://julialang.org/Graphs.jl/index.html
-http://stackoverflow.com/search?page=1&tab=relevance&q=julia%20graph&s=2208559a-4c1a-4a0d-8fab-0f873299b3e1
-http://stackoverflow.com/questions/23977361/create-simple-graph-object-in-julia-using-graphs-j
-http://stackoverflow.com/questions/24578430/changing-vertices-value-with-graphs-jl
-https://graphsjl-docs.readthedocs.org/en/latest/interface.html
-http://julialang.org/Graphs.jl/matrix.html#weight-matrix
-https://www.codecademy.com/forum_questions/4fc9081cb48d4c0003008395
-http://www.chrisvoncsefalvay.com/2015/08/11/writing-good-julia-functions/
-http://www.codegithub.com/watch?v=CSSJqqQQgUqU
-https://plot.ly/julia/
-http://samuelcolvin.github.io/JuliaByExample/
-https://gist.github.com/gizmaa/7214002#axisplacement   ...plot
-http://heike.github.io/stat590f/gadfly/andee-graphics/#/6
-
++ http://code.metager.de/source/xref/julia/Graphs.jl/src/graph.jl
++ http://julialang.org/Graphs.jl/index.html
++ http://stackoverflow.com/search?page=1&tab=relevance&q=julia%20graph&s=2208559a-4c1a-4a0d-8fab-0f873299b3e1
++ http://stackoverflow.com/questions/23977361/create-simple-graph-object-in-julia-using-graphs-j
++ http://stackoverflow.com/questions/24578430/changing-vertices-value-with-graphs-jl
++ https://graphsjl-docs.readthedocs.org/en/latest/interface.html
++ http://julialang.org/Graphs.jl/matrix.html#weight-matrix
++ https://www.codecademy.com/forum_questions/4fc9081cb48d4c0003008395
++ http://www.chrisvoncsefalvay.com/2015/08/11/writing-good-julia-functions/
++ http://www.codegithub.com/watch?v=CSSJqqQQgUqU
++ https://plot.ly/julia/
++ http://samuelcolvin.github.io/JuliaByExample/
++ https://gist.github.com/gizmaa/7214002#axisplacement   ...plot
++ http://heike.github.io/stat590f/gadfly/andee-graphics/#/6
++ https://learnxinyminutes.com/docs/julia/
 
 
 today()
