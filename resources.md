@@ -141,6 +141,7 @@ Good online places to start:
 ----
 
 # Random
++ http://www.kwec.net/articles.html
 + https://usersearch.org/
 + http://betterexplained.com/articles/the-rule-of-72/
 + http://yourstory.com/2015/04/doormint/
