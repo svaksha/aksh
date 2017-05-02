@@ -6,6 +6,9 @@
     + [Firefox](#firefox)
 + [ORG](#org)
 + [Social Media and SNS](#social-media-and-sns)
++ [WIKI](#wiki)
+   + [Dotclear-DocuWiki](#dotclear-docuwiki)
+   + [TiddlyWiki](#tiddlywiki)
 
 ----
 
@@ -73,14 +76,6 @@ Create an umbrella list
 
 ----
 
-# WIKI
-## Dotclear-DocuWiki
-+ Dotclear wiki syntax : http://dotclear.org/documentation/2.0/usage/syntaxes
-+ Formatting syntax : http://fr.dotclear.org/documentation/wiki/syntax
-+ http://fr.dotclear.org/documentation/wiki/dokuwiki
-
-----
-
 # ORG
 + https://thehackerwithin.github.io/
 + http://ucosp.ca/projects.html
@@ -115,4 +110,17 @@ Create an umbrella list
     + https://en.wikipedia.org/wiki/Diaspora_%28social_network%29 
     + https://en.wikipedia.org/wiki/Loomio
 + https://en.wikipedia.org/wiki/Kune_%28software%29
-+ 
+
+
+----
+
+# WIKI
+## Dotclear-DocuWiki
++ Dotclear wiki syntax : http://dotclear.org/documentation/2.0/usage/syntaxes
++ Formatting syntax : http://fr.dotclear.org/documentation/wiki/syntax
++ http://fr.dotclear.org/documentation/wiki/dokuwiki
+
+## TiddlyWiki
+#### Plugins for TW5
++ https://github.com/TinkaPlugin/Tinka
+
