@@ -2,12 +2,30 @@
 + [BOOKS](#books)
    + [Programming](#programming)
 + [Cognition](#cognition)
-+ [Computational Science](#computational-Science)
++ [Computational Science](#computational-science)
 + [Data Structures](#data-structures)
 + [Graphs](#graphs)
 + [HMM](#hmm)
 + [Neural Networks](#neural-networks)
    + [Recurrent Neural Networks](#recurrent-neural-networks)
++ [Parallel](#parallel)
++ [NUMA](#numa)
+
+----
+
+# Parallel
++ https://en.wikipedia.org/wiki/Category:Scheduling_algorithms
+
+----
+
+# NUMA
++ http://unix.stackexchange.com/questions/92302/enabling-numa-for-intel-core-i7
++ https://martincarstenbach.wordpress.com/2012/04/27/little-things-i-didnt-know-difference-between-_enable_numa_support-and-numactl/
++ numastat displays memory statistics (such as allocation hits and misses) for processes and the operating system on a per-NUMA-node basis. By default, running numastat displays how many pages of memory are occupied by the following event categories for each node.      
+    + https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html-single/Performance_Tuning_Guide/index.html#s-memory-numastat
+    + CHECK FOR DEBIAN JESSIE
++ https://github.com/nemequ/icc-travis for INTEL arch.
++ type `nice` if you want to use less resources.
 
 ----
 
@@ -51,6 +69,7 @@
 # Data Structures
 + Algorithms, Part I :: https://www.coursera.org/course/algs4partI
 + https://en.wikipedia.org/wiki/Data_structure
++ List of data structures: https://en.wikipedia.org/wiki/List_of_data_structures
 
 ### Books
 + The Algorithm Design Manual, Steven.S.Skiena - An excellent reference to algorithm design and many common data types. 
@@ -62,6 +81,8 @@
 + [Hierarchical Scheduling of DAG Structured Computations on Manycore Processors with Dynamic Thread Grouping](http://www.cs.huji.ac.il/~feit/parsched/jsspp10/p9-xia.pdf), Yinglong Xia, et al.
 + [Querying Graph Patterns](http://homepages.inf.ed.ac.uk/libkin/papers/pods11b.pdf)
 + [Patterns in graphs](https://mathman.biz/html/patgraph.html)
++ https://en.wikipedia.org/wiki/Hypergraph
+
 
 ### Vertex
 http://www.cplusplus.com/doc/tutorial/operators/   c++

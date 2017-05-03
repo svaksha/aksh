@@ -1,12 +1,11 @@
-+ [0-7-DEV](#0-7-dev)
-+ [KERN](#kern)
-   + [Daemons](#daemons)##
-   + [Syntax-Symbols-Operators](#syntax-symbols-operators)
-+ [Development](#development)
++ [DEVil](#devil)
    + [dotjuliarc](#dotjuliarc)
    + [dotjulia](#dotjulia)
    + [GIST](#gist)
    + [Plotting](#plotting)
++ [KERN](#kern)
+   + [Daemons](#daemons)##
+   + [Syntax-Symbols-Operators](#syntax-symbols-operators)
 + [Packaging](#packaging)
    + [build.jl](#build.jl)
    + [USING](#using)
@@ -64,7 +63,7 @@ strftime("%F", time())
 ----
 
 
-# 0-7-DEV
+# DEVil 
 
 ✶ Troubleshoot errors when running the unstable DEV branch
 
@@ -81,7 +80,7 @@ A function that returns an adding function. If you give x and it returns x after
 + Array based storage using HDF5 and JLD
    * To use HDF5 (with JLD, which has been split recently), use Pkg.add("JLD") and in future, to use it say "using JLD" rather than "using HDF5, JLD."
 
-### Current changes in 0.4
+### Changes in 0.4
 
 Your "subtype declaration" section is wrong: the abstract type does not define a block (you should just have "abstract Foo", not "abstract Foo ... end")
 
