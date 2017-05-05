@@ -1,11 +1,12 @@
-+ [DEVil](#devil)
++ [KERN](#kern)
+   + [Daemons](#daemons)##
+   + [Syntax-Symbols-Operators](#syntax-symbols-operators)
++ [Devil](#devil)
    + [dotjuliarc](#dotjuliarc)
    + [dotjulia](#dotjulia)
    + [GIST](#gist)
    + [Plotting](#plotting)
-+ [KERN](#kern)
-   + [Daemons](#daemons)##
-   + [Syntax-Symbols-Operators](#syntax-symbols-operators)
+
 + [Packaging](#packaging)
    + [build.jl](#build.jl)
    + [USING](#using)
@@ -62,19 +63,51 @@ strftime("%F", time())
 
 ----
 
+# KERN
++ http://docs.julialang.org/en/latest/#developer-documentation
 
-# DEVil 
+### BR
++ #7941:Towards array nirvana, https://github.com/JuliaLang/julia/issues/7941
++ https://github.com/JuliaLang/julia/issues/9874#issuecomment-75979041
++ https://github.com/JuliaLang/julia/issues/3701
++ https://github.com/JuliaLang/julia/issues/4774
++ https://github.com/JuliaLang/julia/pull/7568
++ https://github.com/JuliaLang/julia/pull/10525
++ https://groups.google.com/forum/#!topic/julia-dev/sM0VyVbFewQ
++ https://github.com/JuliaLang/julia/issues/7941
++ https://github.com/JuliaLang/julia/pull/10704
+
+## Daemons
+Fork a process or just `ccall fork`
++ https://github.com/JuliaLang/julia/issues/8295
++ https://github.com/JuliaLang/julia/issues/985#issuecomment-54837219
+
 
 ✶ Troubleshoot errors when running the unstable DEV branch
 
 * https://github.com/QuantEcon/QuantEcon.jl/issues/64#issuecomment-130149602
 * https://github.com/JuliaLang/julia/issues/12586
 
-### ToDo Status
+# Development
++ Workflow tips: http://docs.julialang.org/en/release-0.4/manual/workflow-tips/
+    + http://docs.julialang.org/en/latest/manual/workflow-tips/
++ __Month of Julia__ feed: http://www.juliabloggers.com/feed/
++ Index : http://julia.readthedocs.org/en/latest/genindex/
++ http://julia.readthedocs.org/en/latest/stdlib/base/
++ http://stackoverflow.com/questions/25716547/type-i-discrete-cosine-transform-not-defined-found-in-julia-0-3-0
++ API for scikit, https://github.com/svs14/Orchestra.jl/blob/master/src/python/scikit_learn.jl
++ JuliaStats-Roadmap.jl, https://github.com/JuliaStats/Roadmap.jl/issues/11
 
-1. Closures : Functions with data inside (captured variables)
-ex. adder(x) = y -> y+x
-A function that returns an adding function. If you give x and it returns x after adding some data to it as the data is wrapped in it. Not sure how they relate to generic functions and methods
+
+----
+
+# Devil
+
+## JuliaComputing Roadmap
++ JuliaComputing Statistics roadmap: http://juliacomputing.com/blog/2016/01/14/stats-roadmap.html
++ julia-stats thread: https://groups.google.com/d/topic/julia-stats/29l5yA87Qss/discussion
+Q1. Will the roadmap obviate some of the bottlenecks for day to day normal exploratory workflow?  These are minimal  things that R and Python have and whose lack hamper any use of Julia for regular analysis. Thing like robust dataframe with data i/o into different formats, web scraping, work out nullable semantics and integration with ecosystem , robust data cleaning and tidy data, modeling with basic  diagnostic tests etc
+
 
 ### HDF5
 + Array based storage using HDF5 and JLD
@@ -149,26 +182,6 @@ You can override Base.show(io, ex) rather than Base.showerror.
 
 + For performance, you should avoid abstract types in collections, but also as fields of types.
 
-----
-
-# KERN
-+ http://docs.julialang.org/en/latest/#developer-documentation
-
-### BR
-+ #7941:Towards array nirvana, https://github.com/JuliaLang/julia/issues/7941
-+ https://github.com/JuliaLang/julia/issues/9874#issuecomment-75979041
-+ https://github.com/JuliaLang/julia/issues/3701
-+ https://github.com/JuliaLang/julia/issues/4774
-+ https://github.com/JuliaLang/julia/pull/7568
-+ https://github.com/JuliaLang/julia/pull/10525
-+ https://groups.google.com/forum/#!topic/julia-dev/sM0VyVbFewQ
-+ https://github.com/JuliaLang/julia/issues/7941
-+ https://github.com/JuliaLang/julia/pull/10704
-
-## Daemons
-Fork a process or just `ccall fork`
-+ https://github.com/JuliaLang/julia/issues/8295
-+ https://github.com/JuliaLang/julia/issues/985#issuecomment-54837219
 
 ## Syntax-Symbols-Operators
 + http://julia.readthedocs.org/en/latest/manual/noteworthy-differences/
@@ -207,23 +220,6 @@ More importantly, search in Julia does not belong to either "Hello World" or e. 
 ### Linear Algebra 
 + https://github.com/JuliaLang/julia/issues?q=is%3Aopen+label%3A%22up+for+grabs%22+is%3Aissue+label%3A%22linear+algebra%22
 + #4668 [Proposal: Better linear algebra benchmarks](https://github.com/JuliaLang/julia/issues/4668)
-
-----
-
-# Development
-+ Workflow tips: http://docs.julialang.org/en/release-0.4/manual/workflow-tips/
-    + http://docs.julialang.org/en/latest/manual/workflow-tips/
-+ __Month of Julia__ feed: http://www.juliabloggers.com/feed/
-+ Index : http://julia.readthedocs.org/en/latest/genindex/
-+ http://julia.readthedocs.org/en/latest/stdlib/base/
-+ http://stackoverflow.com/questions/25716547/type-i-discrete-cosine-transform-not-defined-found-in-julia-0-3-0
-+ API for scikit, https://github.com/svs14/Orchestra.jl/blob/master/src/python/scikit_learn.jl
-+ JuliaStats-Roadmap.jl, https://github.com/JuliaStats/Roadmap.jl/issues/11
-
-## JuliaComputing Roadmap
-+ JuliaComputing Statistics roadmap: http://juliacomputing.com/blog/2016/01/14/stats-roadmap.html
-+ julia-stats thread: https://groups.google.com/d/topic/julia-stats/29l5yA87Qss/discussion
-Q1. Will the roadmap obviate some of the bottlenecks for day to day normal exploratory workflow?  These are minimal  things that R and Python have and whose lack hamper any use of Julia for regular analysis. Thing like robust dataframe with data i/o into different formats, web scraping, work out nullable semantics and integration with ecosystem , robust data cleaning and tidy data, modeling with basic  diagnostic tests etc
 
 ## dotjuliarc.jl
 + https://gist.github.com/Ismael-VC/6db0c310eaf04d0b0a1b
