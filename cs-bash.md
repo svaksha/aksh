@@ -1,4 +1,5 @@
 + [Warning](#warning)
++ [Perl](#perl)
 + [Bash Scripting](#bash-scripting)
 + [SHELL](#shell)
    + [Julia](#julia)
@@ -8,6 +9,11 @@
 
 # Warning
 + Look before you paste from a website to terminal : https://lifepluslinux.blogspot.de/2017/01/look-before-you-paste-from-website-to.html
+
+----
+
+# Perl
++ Perl One Liners: http://www.socher.org/index.php/Main/PerlScriptsAndOneLiners
 
 ----
 
