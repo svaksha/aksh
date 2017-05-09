@@ -388,6 +388,7 @@ __MLA or APA style?__
 + WORKSHOP PAPERS: [Stage 2A - Presentations](http://web.anglia.ac.uk/anet/rido/docschl/training/Stage_2A_workbook.pdf)
 
 ## [THESIS](https://en.wikipedia.org/wiki/Thesis)
++ LaTeX Tools to write your thesis: http://web.mit.edu/thesis/tex/
 + How to start & finish a PhD thesis, what it should contain + examiner expectations: http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf
 + A handout on turning your [Dissertation into a Book](http://gaylesulik.com/wp-content/uploads/2010/04/DissertationToBookCompanionHandout-8-13-12.pdf).
 + How to [write a dissertation in Computer Science](https://www.cs.purdue.edu/homes/comer/essay.dissertation.html) by Douglas E. Comer.
