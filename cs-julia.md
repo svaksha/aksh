@@ -64,6 +64,7 @@ strftime("%F", time())
 
 # KERN
 + http://docs.julialang.org/en/latest/#developer-documentation
++ Julia internals explained: https://docs.julialang.org/en/stable/devdocs/julia/
 
 ### BR
 + #7941:Towards array nirvana, https://github.com/JuliaLang/julia/issues/7941
