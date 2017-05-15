@@ -92,6 +92,9 @@
 
 # Programming
 
+## Syntax
++ Meaning of __underscores__ in Python: https://dbader.org/blog/meaning-of-underscores-in-python
+
 ## Exceptions
 + http://stackoverflow.com/questions/21211006/how-to-catch-all-old-style-class-exceptions-in-python
 
