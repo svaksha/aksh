@@ -74,6 +74,9 @@ Create an umbrella list
 + https://en.wikipedia.org/wiki/Category:Firefox_OS
 + Keyboard shortcuts for Firefox Productivity: https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly#w_windows-tabs
 
+### Addons
++ Module linker : http://fiatjaf.alhur.es/module-linker/#/julia
+
 ----
 
 # ORG

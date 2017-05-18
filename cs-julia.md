@@ -181,6 +181,7 @@ julia> if foo == "abc" && bar == "bac" && zoo != "123"
 # Devil
 
 * Install multiple Julia versions on localhost: https://stackoverflow.com/questions/41815059/installing-julia-v0-5-on-ubuntu-16-04-while-v0-6-is-installed?noredirect=1&lq=1
++ Module linker as mozilla Addons: http://fiatjaf.alhur.es/module-linker/#/julia
 
 ## JuliaComputing Roadmap
 + JuliaComputing Statistics roadmap: http://juliacomputing.com/blog/2016/01/14/stats-roadmap.html
