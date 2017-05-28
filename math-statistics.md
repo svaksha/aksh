@@ -109,7 +109,7 @@
 
 ----
 
-# TimeSeries
+# [TimeSeries](https://en.wikipedia.org/wiki/Category:Time%E2%80%93frequency_analysis)
 + Avoiding Common Mistakes with Time Series :: https://www.opendatascience.com/blog/avoiding-common-mistakes-with-time-series/ 
 + Calculate time series in a spreadsheet :: http://www.excelforum.com/excel-general/471757-calculating-time-difference-over-midnight.html
 
