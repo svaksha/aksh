@@ -13,22 +13,9 @@
 
 ----
 
-# Parallel
-+ https://en.wikipedia.org/wiki/Category:Scheduling_algorithms
++ List of Julia package libraries: https://github.com/svaksha/Julia.jl/blob/master/Algorithms.md
 
 ----
-
-# NUMA
-+ http://unix.stackexchange.com/questions/92302/enabling-numa-for-intel-core-i7
-+ https://martincarstenbach.wordpress.com/2012/04/27/little-things-i-didnt-know-difference-between-_enable_numa_support-and-numactl/
-+ numastat displays memory statistics (such as allocation hits and misses) for processes and the operating system on a per-NUMA-node basis. By default, running numastat displays how many pages of memory are occupied by the following event categories for each node.      
-    + https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html-single/Performance_Tuning_Guide/index.html#s-memory-numastat
-    + CHECK FOR DEBIAN JESSIE
-+ https://github.com/nemequ/icc-travis for INTEL arch.
-+ type `nice` if you want to use less resources.
-
-----
-
 
 # AI
 + [Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics](http://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning) by Vincent Granville.
@@ -159,3 +146,21 @@ Lecture 13: Stacking RBMs to make Deep Belief Nets
 Lecture 14: Deep neural nets with generative pre-training
 Lecture 15: Modeling hierarchical structure with neural nets
 Lecture 16: Recent applications of deep neural nets
+
+----
+
+
+# Parallel
++ https://en.wikipedia.org/wiki/Category:Scheduling_algorithms
+
+----
+
+# NUMA
++ http://unix.stackexchange.com/questions/92302/enabling-numa-for-intel-core-i7
++ https://martincarstenbach.wordpress.com/2012/04/27/little-things-i-didnt-know-difference-between-_enable_numa_support-and-numactl/
++ numastat displays memory statistics (such as allocation hits and misses) for processes and the operating system on a per-NUMA-node basis. By default, running numastat displays how many pages of memory are occupied by the following event categories for each node.      
+    + https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html-single/Performance_Tuning_Guide/index.html#s-memory-numastat
+    + CHECK FOR DEBIAN JESSIE
++ https://github.com/nemequ/icc-travis for INTEL arch.
++ type `nice` if you want to use less resources.
+
