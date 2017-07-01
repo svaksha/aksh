@@ -307,6 +307,7 @@ http://joss.theoj.org/papers/10.21105/joss.00029
 # Infrastructure
 + [Code Ocean](https://codeocean.com):: A cloud-based executable research platform that provides researchers and developers with an easy way to share, discover and run code published in academic journals and conferences.
 + [ActivePapers](https://github.com/activepapers/activepapers-python) :: A tool for working with executable papers, which combine data, code, and documentation in single-file packages, suitable for publication as supplementary material or on sites such as figshare.
++ REANA: [high-energy-physics data analysis - preservation and reuse](http://reanahub.io/). Open Repositories, 2017 presentation: http://simko.home.cern.ch/simko//tmp/or2017-reana-2017-06-28.pdf 
 
 ----
 
